@@ -1,3 +1,4 @@
+tdw.telkomsel.com
 imgk.timesnownews.com
 agi-static.indiatimes.com
 bifrost-api.hotstar.com
