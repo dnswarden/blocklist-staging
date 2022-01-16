@@ -1,3 +1,4 @@
+1-1ads.com
 101com.com
 101order.com
 123freeavatars.com
@@ -196,7 +197,6 @@ adblockanalytics.com
 adbooth.net
 adbot.com
 adbrite.com
-adbrn.com
 adbroker.de
 adbunker.com
 adbutler.com
@@ -766,6 +766,7 @@ adserver.digitoday.com
 adserver.echdk.pl
 adserver.friendfinder.com
 adserver.generationiron.com
+adserver.gilligan.tech
 adserver.html.it
 adserver.hwupgrade.it
 adserver.ilango.de
@@ -1786,7 +1787,6 @@ fastly-insights.com
 faultycanvas.com
 faultyfowl.com
 fave.co
-fc.webmasterpro.de
 feathr.co
 feebleshock.com
 feedbackresearch.com
@@ -2105,7 +2105,6 @@ is-tracking-pixel-api-prod.appspot.com
 itfarm.com
 itop.cz
 its-that-easy.com
-itsptp.com
 iubzka.online
 ivwbox.de
 ivykiosk.com
@@ -2274,6 +2273,7 @@ manageadv.cblogs.eu
 marinsm.com
 markedcrayon.com
 markedpail.com
+market-buster.com
 marketing.888.com
 marketing.hearstmagazines.nl
 marketing.net.brillen.de
@@ -2495,7 +2495,6 @@ nuggad.net
 nuseek.com
 nuttyorganization.com
 nzaza.com
-o0bc.com
 o333o.com
 oafishobservation.com
 oas.benchmark.fr
@@ -2643,7 +2642,6 @@ piet2eix3l.com
 pietexture.com
 pilotaffiliate.com
 pimproll.com
-ping.hashnode.com
 ping.ublock.org
 pipedream.wistia.com
 pippio.com
@@ -2665,7 +2663,6 @@ pleasantpump.com
 plista.com
 plotrabbit.com
 ployea.com
-ploz.mangadex.org
 pltraffic8.com
 pluckypocket.com
 plugrush.com
@@ -3060,6 +3057,7 @@ sombersurprise.com
 somniture.stuff.co.nz
 somoaudience.com
 sonobi.com
+sordidsmile.com
 sortable.com
 sourcepoint.vice.com
 sovrn.com
@@ -3361,6 +3359,7 @@ tracking.42-01pr5-osm-secure.co.uk
 tracking.5-47737-bi.co.uk
 tracking.emilyclarkconsulting.com
 tracking.epicgames.com
+tracking.exipure.com
 tracking.gajmp.com
 tracking.hyros.com
 tracking.ibxlink.com
@@ -3403,6 +3402,7 @@ trafficswarm.com
 trafficz.com
 traffiq.com
 trafic.ro
+traildelsfars.com
 traktrafficflow.com
 tranquilside.com
 travis.bosscasinos.com

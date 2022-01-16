@@ -1136,7 +1136,6 @@ api.hdtv.letv.com
 api.huq.io
 api.huqindustries.co.uk
 api.iadvize.com
-api.icloseli.com
 api.idio.co
 api.ihuman.com
 api.immomo.com
@@ -2707,7 +2706,6 @@ d.applovin.com
 d.applvn.com
 d.appsdt.com
 d.eu.criteo.com
-d.ifengimg.com
 d.impactradius-event.com
 d.la1-c2-iad.salesforceliveagent.com
 d.mob.com
@@ -5143,7 +5141,6 @@ post.voiceads.cn
 post1.voiceads.cn
 postimp-ofw.fyber.com
 postitial.com
-postsign.docusign.com
 powerad.ai
 powr-counter.herokuapp.com
 ppsdk.yhmapi.com
@@ -5428,7 +5425,6 @@ register.collector.scopely.io
 registration.gimbal.com
 registration.tiltingpoint.io
 relap.io
-relaycn.icloseli.com
 remain.chartboosts.com
 remarketingpixel.com
 remote-data.urbanairship.com
@@ -6285,7 +6281,6 @@ static.cdn.responsys.net
 static.chartbeat.com
 static.cleverpush.com
 static.clevertap.com
-static.cloud.coveo.com
 static.cloudflareinsights.com
 static.criteo.com
 static.criteo.net
@@ -6666,7 +6661,6 @@ telegraph.grapeshot.co.uk
 telemetrics.klaviyo.com
 telemetries.jeeng.com
 telemetry.api.swiftkey.com
-telemetry.docusign.net
 telemetry.malwarebytes.com
 telemetry.sdk.inmobi.cn
 telemetry.sdk.inmobi.com

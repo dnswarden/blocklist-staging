@@ -4994,6 +4994,7 @@ share.api.viber.com
 share.baidu.com
 share.cdn.integration.viber.com
 share.cdn.viber.com
+share.gree.jp
 share.itraffic.su
 share.media.aws.viber.com
 share.pluso.ru
