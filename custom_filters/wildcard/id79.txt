@@ -269,6 +269,7 @@ habbo.pt
 habbo.ru
 habbo.se
 healthranker.com
+hejto.pl
 hi5.com
 home.services.spaces.live.com
 hospitalityclub.org
@@ -412,7 +413,6 @@ newsvine.com
 nexopia.com
 nibbledish.com
 ning.com
-nk.pl
 nowpublic.com
 numpa.nl
 odnoklassniki.ru

@@ -1787,6 +1787,7 @@ fastly-insights.com
 faultycanvas.com
 faultyfowl.com
 fave.co
+fc.webmasterpro.de
 feathr.co
 feebleshock.com
 feedbackresearch.com
@@ -1816,7 +1817,6 @@ flowgo.com
 flurry.com
 fly-analytics.com
 folawn.com
-fontsctaticx.com
 foo.cosmocode.de
 foresee.com
 forex-affiliate.net
@@ -1845,7 +1845,6 @@ freewheel.com
 freewheel.tv
 friendwool.com
 frightenedpotato.com
-frontstatics.com
 frtyj.com
 frtyk.com
 fullstory.com
@@ -1866,14 +1865,11 @@ ga87z2o.com
 gadsbee.com
 galaxien.com
 game-advertising-online.com
-gamehouse.com
 gamesites100.net
 gamesites200.com
 gammamaximum.com
 gaug.es
 gavvia.com
-gctatic.com
-gctatics.com
 gearwom.de
 gekko.spiceworks.com
 geo.digitalpoint.com
@@ -1895,6 +1891,7 @@ gml.email
 go-clicks.de
 go-mpulse.net
 go-rank.de
+go.eu.sparkpostmail1.com
 go.icann.org
 go2affise.com
 goingplatinum.com
@@ -1921,7 +1918,6 @@ greystripe.com
 groundtruth.com
 gscontxt.net
 gstaticx.com
-gstaticxs.com
 gtop100.com
 guardedschool.com
 guffawdecipher.com
@@ -2290,6 +2286,7 @@ materialmoon.com
 matheranalytics.com
 mathtag.com
 matomo.activate.cz
+matomo.crossiety.app
 matomo.gals24.ru
 matomo.hdweb.ru
 matomo.kmkb.ru
@@ -2936,7 +2933,6 @@ sbx.pagesjaunes.fr
 sc-analytics.appspot.com
 scambiobanner.aruba.it
 scanscout.com
-scaraabresearch.com
 scarcesign.com
 scarfsmash.com
 scatteredheat.com
@@ -3083,7 +3079,6 @@ sponsorads.de
 sponsorpro.de
 sponsors.thoughtsmedia.com
 spookysleet.com
-sportsad.net
 spot.fitness.com
 spotlessstamp.com
 spotscenered.info
@@ -3205,6 +3200,8 @@ t.irtyd.com
 t.leady.com
 t.news.browns-restaurants.co.uk
 t.salesmatemail.com
+t.vacations.disneydestinations.com
+t.visit.disneydestinations.com
 t.visitorqueue.com
 taboola.com
 tag.links-analytics.com

@@ -165,7 +165,6 @@ aas-nv-a.aaxads.com
 aatkit.com
 aax-cpm.amazon-adsystem.amazon.com
 aax-cpm.amazon-adsystem.com
-aax-eu-dub.amazon.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
@@ -178,7 +177,6 @@ aax-us-cpm.amazon-adsystem.amazon.com
 aax-us-east-rtb-adx.amazon-adsystem.com
 aax-us-east-rtb.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
-aax-us-iad.amazon.com
 aax-us-pdx-rtb-adx.amazon-adsystem.com
 aax-us-pdx-rtb.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
@@ -1751,8 +1749,6 @@ advertisers.tapjoy.com
 advertiseru.net
 advertiserurl.com
 advertisespace.com
-advertising-api-eu.amazon.com
-advertising-api.amazon.com
 advertising-cdn.com
 advertising-cdn.dpgmedia.cloud
 advertising.apple.com
@@ -6147,9 +6143,12 @@ feedjit.com
 fei.pro-market.net
 felinessynonym.com
 fev.fyber.com
+ff-member-ganena.com
 ff-members-garena.vn
 ff-membership-garena.com
+ff.garena.memmbershipp.com
 ff.imacdn.com
+ff.member.garenae.vn
 fgp.philacct.com
 fhsmtrnsfnt.com
 fidelity-media-ssp.rtb.adx1.com
@@ -7547,6 +7546,7 @@ j.zoe.zucks.net
 j.zucks.net
 j93557g.com
 ja.ad-stir.com
+ja2n2u30a6rgyd.com
 jact.atdmt.com
 jadeitite.com
 jads.co
@@ -8300,9 +8300,7 @@ made2you.com
 madisonavenue.com
 madnet.yadro.ru
 madriyelowd.com
-mads-eu.amazon.com
 mads.amazon-adsystem.com
-mads.amazon.com
 mads.dailymail.co.uk
 madsabz.com
 madsecz.com
@@ -9076,6 +9074,7 @@ ng-vn-notice.gameitop.com
 ng3.ads.warnerbros.com
 ngads.go.com
 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
+nhanquaffob31.com
 nibble-cloud.brealtime.com
 nicealerts.youbora.com
 nicksstevmark.com

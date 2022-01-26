@@ -65,7 +65,6 @@ celo.net
 chillglobal.com
 christophbrem.com
 chrome.cloudflare-dns.com
-chromium.dns.nextdns.io
 citizenvpn.com
 clearvpn.com
 cloakvpn.com

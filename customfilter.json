@@ -13,8 +13,8 @@
     "name": "oisd (full)",
     "category": "Ads, Privacy, Adblock, Adultfilter",
     "source": "https://dbl.oisd.nl/",
-    "totalDomains": "1139522",
-    "lastUpdated": "Sunday 16 January 2022 08:40:31 AM UTC",
+    "totalDomains": "1135258",
+    "lastUpdated": "Wednesday 26 January 2022 02:00:23 PM UTC",
     "value": 1
   },
   {
@@ -22,8 +22,8 @@
     "name": "oisd (basic)",
     "category": "Ads, Privacy",
     "source": "https://dbl.oisd.nl/basic/",
-    "totalDomains": "64500",
-    "lastUpdated": "Sunday 16 January 2022 08:40:36 AM UTC",
+    "totalDomains": "64458",
+    "lastUpdated": "Wednesday 26 January 2022 02:00:26 PM UTC",
     "value": 2
   },
   {
@@ -31,8 +31,8 @@
     "name": "oisd (nsfw)",
     "category": "Porn, Adultfilter",
     "source": "https://dbl.oisd.nl/nsfw",
-    "totalDomains": "430074",
-    "lastUpdated": "Sunday 16 January 2022 08:40:37 AM UTC",
+    "totalDomains": "437164",
+    "lastUpdated": "Wednesday 26 January 2022 02:00:28 PM UTC",
     "value": 3
   },
   {
@@ -41,7 +41,7 @@
     "category": "Whitelist, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt",
     "totalDomains": "4071",
-    "lastUpdated": "Sunday 16 January 2022 08:40:38 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:00:28 PM UTC",
     "value": 4
   },
   {
@@ -50,7 +50,7 @@
     "category": "Force safe search, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/forcesafesearch.txt",
     "totalDomains": "198",
-    "lastUpdated": "Sunday 16 January 2022 08:40:39 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:00:29 PM UTC",
     "value": 5
   },
   {
@@ -58,8 +58,8 @@
     "name": "1Hosts (mini)",
     "category": "Ads, Privacy",
     "source": "https://badmojr.github.io/1Hosts/mini/hosts.txt",
-    "totalDomains": "65236",
-    "lastUpdated": "Sunday 16 January 2022 08:40:40 AM UTC",
+    "totalDomains": "65080",
+    "lastUpdated": "Wednesday 26 January 2022 02:00:30 PM UTC",
     "value": 6
   },
   {
@@ -67,8 +67,8 @@
     "name": "1Hosts (lite)",
     "category": "Ads, Privacy",
     "source": "https://badmojr.github.io/1Hosts/Lite/hosts.txt",
-    "totalDomains": "97264",
-    "lastUpdated": "Sunday 16 January 2022 08:40:42 AM UTC",
+    "totalDomains": "98837",
+    "lastUpdated": "Wednesday 26 January 2022 02:00:33 PM UTC",
     "value": 7
   },
   {
@@ -76,8 +76,8 @@
     "name": "1Hosts (pro)",
     "category": "Ads, Privacy",
     "source": "https://badmojr.github.io/1Hosts/Pro/hosts.txt",
-    "totalDomains": "189889",
-    "lastUpdated": "Sunday 16 January 2022 08:40:45 AM UTC",
+    "totalDomains": "208912",
+    "lastUpdated": "Wednesday 26 January 2022 02:00:37 PM UTC",
     "value": 8
   },
   {
@@ -85,8 +85,8 @@
     "name": "1Hosts (xtra)",
     "category": "Ads, Privacy",
     "source": "https://badmojr.github.io/1Hosts/Xtra/hosts.txt",
-    "totalDomains": "500691",
-    "lastUpdated": "Sunday 16 January 2022 08:40:49 AM UTC",
+    "totalDomains": "492681",
+    "lastUpdated": "Wednesday 26 January 2022 02:00:40 PM UTC",
     "value": 9
   },
   {
@@ -94,8 +94,8 @@
     "name": "1Hosts (kidsaf)",
     "category": "Parentalcontrol",
     "source": "https://badmojr.github.io/addons_1Hosts/kidSaf/hosts.txt",
-    "totalDomains": "1325802",
-    "lastUpdated": "Sunday 16 January 2022 08:40:57 AM UTC",
+    "totalDomains": "1295412",
+    "lastUpdated": "Wednesday 26 January 2022 02:00:48 PM UTC",
     "value": 10
   },
   {
@@ -103,8 +103,8 @@
     "name": "notracking",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt",
-    "totalDomains": "75748",
-    "lastUpdated": "Sunday 16 January 2022 08:40:58 AM UTC",
+    "totalDomains": "80058",
+    "lastUpdated": "Wednesday 26 January 2022 02:00:50 PM UTC",
     "value": 11
   },
   {
@@ -112,8 +112,8 @@
     "name": "someonewhocares",
     "category": "Ads, Privacy",
     "source": "https://someonewhocares.org/hosts/hosts",
-    "totalDomains": "10348",
-    "lastUpdated": "Sunday 16 January 2022 08:41:01 AM UTC",
+    "totalDomains": "10347",
+    "lastUpdated": "Wednesday 26 January 2022 02:00:53 PM UTC",
     "value": 12
   },
   {
@@ -122,7 +122,7 @@
     "category": "Ads",
     "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
     "totalDomains": "2701",
-    "lastUpdated": "Sunday 16 January 2022 08:41:04 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:00:56 PM UTC",
     "value": 13
   },
   {
@@ -131,7 +131,7 @@
     "category": "Privacy",
     "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
     "totalDomains": "2735",
-    "lastUpdated": "Sunday 16 January 2022 08:41:05 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:00:58 PM UTC",
     "value": 14
   },
   {
@@ -140,7 +140,7 @@
     "category": "Ads, Privacy",
     "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt",
     "totalDomains": "34",
-    "lastUpdated": "Sunday 16 January 2022 08:41:07 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:00:59 PM UTC",
     "value": 15
   },
   {
@@ -149,7 +149,7 @@
     "category": "Privacy, Malware",
     "source": "https://blocklistproject.github.io/Lists/abuse.txt",
     "totalDomains": "435165",
-    "lastUpdated": "Sunday 16 January 2022 08:41:11 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:03 PM UTC",
     "value": 16
   },
   {
@@ -158,7 +158,7 @@
     "category": "Ads",
     "source": "https://blocklistproject.github.io/Lists/ads.txt",
     "totalDomains": "154542",
-    "lastUpdated": "Sunday 16 January 2022 08:41:15 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:04 PM UTC",
     "value": 17
   },
   {
@@ -167,7 +167,7 @@
     "category": "Malware",
     "source": "https://blocklistproject.github.io/Lists/crypto.txt",
     "totalDomains": "23789",
-    "lastUpdated": "Sunday 16 January 2022 08:41:17 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:05 PM UTC",
     "value": 18
   },
   {
@@ -176,7 +176,7 @@
     "category": "Parentalcontrol",
     "source": "https://blocklistproject.github.io/Lists/drugs.txt",
     "totalDomains": "26030",
-    "lastUpdated": "Sunday 16 January 2022 08:41:18 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:06 PM UTC",
     "value": 19
   },
   {
@@ -185,7 +185,7 @@
     "category": "Privacy, Social",
     "source": "https://blocklistproject.github.io/Lists/facebook.txt",
     "totalDomains": "22459",
-    "lastUpdated": "Sunday 16 January 2022 08:41:20 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:07 PM UTC",
     "value": 20
   },
   {
@@ -194,7 +194,7 @@
     "category": "Parentalcontrol, Malware",
     "source": "https://blocklistproject.github.io/Lists/fraud.txt",
     "totalDomains": "196092",
-    "lastUpdated": "Sunday 16 January 2022 08:41:24 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:11 PM UTC",
     "value": 21
   },
   {
@@ -203,7 +203,7 @@
     "category": "Malware",
     "source": "https://blocklistproject.github.io/Lists/malware.txt",
     "totalDomains": "435306",
-    "lastUpdated": "Sunday 16 January 2022 08:41:29 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:14 PM UTC",
     "value": 22
   },
   {
@@ -211,8 +211,8 @@
     "name": "blocklistproject (phishing)",
     "category": "Malware",
     "source": "https://blocklistproject.github.io/Lists/phishing.txt",
-    "totalDomains": "190206",
-    "lastUpdated": "Sunday 16 January 2022 08:41:32 AM UTC",
+    "totalDomains": "190221",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:16 PM UTC",
     "value": 23
   },
   {
@@ -221,7 +221,7 @@
     "category": "Privacy",
     "source": "https://blocklistproject.github.io/Lists/piracy.txt",
     "totalDomains": "2128",
-    "lastUpdated": "Sunday 16 January 2022 08:41:34 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:17 PM UTC",
     "value": 24
   },
   {
@@ -230,7 +230,7 @@
     "category": "Porn",
     "source": "https://blocklistproject.github.io/Lists/porn.txt",
     "totalDomains": "1908010",
-    "lastUpdated": "Sunday 16 January 2022 08:41:48 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:30 PM UTC",
     "value": 25
   },
   {
@@ -239,7 +239,7 @@
     "category": "Parentalcontrol, Malware",
     "source": "https://blocklistproject.github.io/Lists/scam.txt",
     "totalDomains": "1264",
-    "lastUpdated": "Sunday 16 January 2022 08:41:49 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:31 PM UTC",
     "value": 26
   },
   {
@@ -248,7 +248,7 @@
     "category": "Privacy, Social",
     "source": "https://blocklistproject.github.io/Lists/tiktok.txt",
     "totalDomains": "3629",
-    "lastUpdated": "Sunday 16 January 2022 08:41:51 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:31 PM UTC",
     "value": 27
   },
   {
@@ -257,7 +257,7 @@
     "category": "Piracy",
     "source": "https://blocklistproject.github.io/Lists/torrent.txt",
     "totalDomains": "2621",
-    "lastUpdated": "Sunday 16 January 2022 08:41:52 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:32 PM UTC",
     "value": 28
   },
   {
@@ -266,7 +266,7 @@
     "category": "Privacy",
     "source": "https://blocklistproject.github.io/Lists/tracking.txt",
     "totalDomains": "15052",
-    "lastUpdated": "Sunday 16 January 2022 08:41:53 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:33 PM UTC",
     "value": 29
   },
   {
@@ -274,8 +274,8 @@
     "name": "energized (spark)",
     "category": "Ads, Privacy",
     "source": "https://block.energized.pro/spark/formats/hosts.txt",
-    "totalDomains": "59334",
-    "lastUpdated": "Sunday 16 January 2022 08:41:56 AM UTC",
+    "totalDomains": "60048",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:35 PM UTC",
     "value": 30
   },
   {
@@ -283,8 +283,8 @@
     "name": "energized (bluGo)",
     "category": "Ads, Privacy",
     "source": "https://block.energized.pro/bluGo/formats/hosts.txt",
-    "totalDomains": "91912",
-    "lastUpdated": "Sunday 16 January 2022 08:42:15 AM UTC",
+    "totalDomains": "92794",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:38 PM UTC",
     "value": 31
   },
   {
@@ -292,8 +292,8 @@
     "name": "energized (blu)",
     "category": "Ads, Privacy",
     "source": "https://block.energized.pro/blu/formats/hosts.txt",
-    "totalDomains": "163133",
-    "lastUpdated": "Sunday 16 January 2022 08:42:47 AM UTC",
+    "totalDomains": "170578",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:40 PM UTC",
     "value": 32
   },
   {
@@ -301,8 +301,8 @@
     "name": "energized (basic)",
     "category": "Ads, Privacy, Adblock, Adultfilter",
     "source": "https://block.energized.pro/basic/formats/hosts.txt",
-    "totalDomains": "280161",
-    "lastUpdated": "Sunday 16 January 2022 08:42:53 AM UTC",
+    "totalDomains": "302214",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:44 PM UTC",
     "value": 33
   },
   {
@@ -310,8 +310,8 @@
     "name": "energized (porn)",
     "category": "Porn, Adultfilter",
     "source": "https://block.energized.pro/porn/formats/domains.txt",
-    "totalDomains": "256814",
-    "lastUpdated": "Sunday 16 January 2022 08:43:32 AM UTC",
+    "totalDomains": "257258",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:47 PM UTC",
     "value": 34
   },
   {
@@ -319,8 +319,8 @@
     "name": "energized (ultimate)",
     "category": "Ads, Privacy",
     "source": "https://block.energized.pro/ultimate/formats/hosts.txt",
-    "totalDomains": "415696",
-    "lastUpdated": "Sunday 16 January 2022 08:44:37 AM UTC",
+    "totalDomains": "438694",
+    "lastUpdated": "Wednesday 26 January 2022 02:01:53 PM UTC",
     "value": 35
   },
   {
@@ -328,8 +328,8 @@
     "name": "energized (unified)",
     "category": "Ads, Privacy, Porn",
     "source": "https://block.energized.pro/unified/formats/hosts.txt",
-    "totalDomains": "668973",
-    "lastUpdated": "Sunday 16 January 2022 08:46:38 AM UTC",
+    "totalDomains": "692346",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:01 PM UTC",
     "value": 36
   },
   {
@@ -337,8 +337,8 @@
     "name": "energized (porn-lite)",
     "category": "Porn",
     "source": "https://block.energized.pro/extensions/porn-lite/formats/domains.txt",
-    "totalDomains": "48345",
-    "lastUpdated": "Sunday 16 January 2022 08:46:50 AM UTC",
+    "totalDomains": "48819",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:03 PM UTC",
     "value": 37
   },
   {
@@ -346,8 +346,8 @@
     "name": "energized (social)",
     "category": "Privacy, Social",
     "source": "https://block.energized.pro/extensions/social/formats/hosts.txt",
-    "totalDomains": "6966",
-    "lastUpdated": "Sunday 16 January 2022 08:46:52 AM UTC",
+    "totalDomains": "6967",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:04 PM UTC",
     "value": 38
   },
   {
@@ -355,8 +355,8 @@
     "name": "energized (regional)",
     "category": "Privacy",
     "source": "https://block.energized.pro/extensions/regional/formats/domains.txt",
-    "totalDomains": "33568",
-    "lastUpdated": "Sunday 16 January 2022 08:46:58 AM UTC",
+    "totalDomains": "33991",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:05 PM UTC",
     "value": 39
   },
   {
@@ -365,7 +365,7 @@
     "category": "Privacy",
     "source": "https://block.energized.pro/extensions/xtreme/formats/hosts.txt",
     "totalDomains": "4316",
-    "lastUpdated": "Sunday 16 January 2022 08:47:00 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:07 PM UTC",
     "value": 40
   },
   {
@@ -374,7 +374,7 @@
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/facebook",
     "totalDomains": "9",
-    "lastUpdated": "Sunday 16 January 2022 08:47:00 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:07 PM UTC",
     "value": 41
   },
   {
@@ -382,8 +382,8 @@
     "name": "nextdns (bypass-methods)",
     "category": "Parentalcontrol",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods",
-    "totalDomains": "635",
-    "lastUpdated": "Sunday 16 January 2022 08:47:01 AM UTC",
+    "totalDomains": "634",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:08 PM UTC",
     "value": 42
   },
   {
@@ -392,7 +392,7 @@
     "category": "Wildcard, Parentalcontrol",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/safesearch-not-supported",
     "totalDomains": "157",
-    "lastUpdated": "Sunday 16 January 2022 08:47:02 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:09 PM UTC",
     "value": 43
   },
   {
@@ -401,7 +401,7 @@
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/dht-bootstrap-nodes",
     "totalDomains": "5",
-    "lastUpdated": "Sunday 16 January 2022 08:47:02 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:09 PM UTC",
     "value": 44
   },
   {
@@ -410,7 +410,7 @@
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/file-hosting",
     "totalDomains": "110",
-    "lastUpdated": "Sunday 16 January 2022 08:47:03 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:10 PM UTC",
     "value": 45
   },
   {
@@ -419,7 +419,7 @@
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies",
     "totalDomains": "40",
-    "lastUpdated": "Sunday 16 January 2022 08:47:04 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:11 PM UTC",
     "value": 46
   },
   {
@@ -428,7 +428,7 @@
     "category": "Wildcard, Parentalcontrol",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-audio",
     "totalDomains": "65",
-    "lastUpdated": "Sunday 16 January 2022 08:47:04 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:11 PM UTC",
     "value": 47
   },
   {
@@ -437,7 +437,7 @@
     "category": "Wildcard, Parentalcontrol",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-video",
     "totalDomains": "600",
-    "lastUpdated": "Sunday 16 January 2022 08:47:05 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:12 PM UTC",
     "value": 48
   },
   {
@@ -446,7 +446,7 @@
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-clients",
     "totalDomains": "31",
-    "lastUpdated": "Sunday 16 January 2022 08:47:06 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:13 PM UTC",
     "value": 49
   },
   {
@@ -455,7 +455,7 @@
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-trackers",
     "totalDomains": "351",
-    "lastUpdated": "Sunday 16 January 2022 08:47:06 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:13 PM UTC",
     "value": 50
   },
   {
@@ -464,7 +464,7 @@
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-websites",
     "totalDomains": "1105",
-    "lastUpdated": "Sunday 16 January 2022 08:47:07 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:14 PM UTC",
     "value": 51
   },
   {
@@ -473,7 +473,7 @@
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/usenet",
     "totalDomains": "12",
-    "lastUpdated": "Sunday 16 January 2022 08:47:08 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:15 PM UTC",
     "value": 52
   },
   {
@@ -482,7 +482,7 @@
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/warez",
     "totalDomains": "107",
-    "lastUpdated": "Sunday 16 January 2022 08:47:08 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:15 PM UTC",
     "value": 53
   },
   {
@@ -491,7 +491,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/amazon",
     "totalDomains": "23",
-    "lastUpdated": "Sunday 16 January 2022 08:47:09 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:16 PM UTC",
     "value": 54
   },
   {
@@ -500,7 +500,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/dailymotion",
     "totalDomains": "3",
-    "lastUpdated": "Sunday 16 January 2022 08:47:10 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:17 PM UTC",
     "value": 55
   },
   {
@@ -509,7 +509,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/ebay",
     "totalDomains": "27",
-    "lastUpdated": "Sunday 16 January 2022 08:47:10 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:17 PM UTC",
     "value": 56
   },
   {
@@ -518,7 +518,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/netflix",
     "totalDomains": "6",
-    "lastUpdated": "Sunday 16 January 2022 08:47:11 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:18 PM UTC",
     "value": 57
   },
   {
@@ -527,7 +527,7 @@
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/reddit",
     "totalDomains": "5",
-    "lastUpdated": "Sunday 16 January 2022 08:47:12 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:19 PM UTC",
     "value": 58
   },
   {
@@ -536,7 +536,7 @@
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/snapchat",
     "totalDomains": "10",
-    "lastUpdated": "Sunday 16 January 2022 08:47:12 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:19 PM UTC",
     "value": 59
   },
   {
@@ -545,7 +545,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/spotify",
     "totalDomains": "11",
-    "lastUpdated": "Sunday 16 January 2022 08:47:13 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:20 PM UTC",
     "value": 60
   },
   {
@@ -554,7 +554,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/steam",
     "totalDomains": "12",
-    "lastUpdated": "Sunday 16 January 2022 08:47:14 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:21 PM UTC",
     "value": 61
   },
   {
@@ -563,7 +563,7 @@
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/twitch",
     "totalDomains": "7",
-    "lastUpdated": "Sunday 16 January 2022 08:47:14 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:21 PM UTC",
     "value": 62
   },
   {
@@ -572,7 +572,7 @@
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/twitter",
     "totalDomains": "5",
-    "lastUpdated": "Sunday 16 January 2022 08:47:15 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:22 PM UTC",
     "value": 63
   },
   {
@@ -581,7 +581,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/vimeo",
     "totalDomains": "4",
-    "lastUpdated": "Sunday 16 January 2022 08:47:15 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:23 PM UTC",
     "value": 64
   },
   {
@@ -590,7 +590,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/youtube",
     "totalDomains": "16",
-    "lastUpdated": "Sunday 16 January 2022 08:47:16 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:23 PM UTC",
     "value": 65
   },
   {
@@ -598,8 +598,8 @@
     "name": "nextdns (affiliate-tracking-domains)",
     "category": "Privacy",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains",
-    "totalDomains": "429",
-    "lastUpdated": "Sunday 16 January 2022 08:47:17 AM UTC",
+    "totalDomains": "430",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:24 PM UTC",
     "value": 66
   },
   {
@@ -608,7 +608,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei",
     "totalDomains": "8",
-    "lastUpdated": "Sunday 16 January 2022 08:47:17 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:25 PM UTC",
     "value": 67
   },
   {
@@ -617,7 +617,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows",
     "totalDomains": "23",
-    "lastUpdated": "Sunday 16 January 2022 08:47:18 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:25 PM UTC",
     "value": 68
   },
   {
@@ -626,7 +626,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi",
     "totalDomains": "9",
-    "lastUpdated": "Sunday 16 January 2022 08:47:19 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:26 PM UTC",
     "value": 69
   },
   {
@@ -634,8 +634,8 @@
     "name": "adguard (dnsfilter)",
     "category": "Ads, Privacy",
     "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-    "totalDomains": "43710",
-    "lastUpdated": "Sunday 16 January 2022 08:47:20 AM UTC",
+    "totalDomains": "44123",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:27 PM UTC",
     "value": 70
   },
   {
@@ -643,8 +643,8 @@
     "name": "adguard (cname-trackers)",
     "category": "Ads, Privacy, Ablock, Adultfilter",
     "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt",
-    "totalDomains": "15921",
-    "lastUpdated": "Sunday 16 January 2022 08:47:21 AM UTC",
+    "totalDomains": "20709",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:28 PM UTC",
     "value": 71
   },
   {
@@ -652,8 +652,8 @@
     "name": "GoodbyeAds",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt",
-    "totalDomains": "185020",
-    "lastUpdated": "Sunday 16 January 2022 08:47:22 AM UTC",
+    "totalDomains": "190695",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:30 PM UTC",
     "value": 72
   },
   {
@@ -661,8 +661,8 @@
     "name": "StevenBlack",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-    "totalDomains": "96293",
-    "lastUpdated": "Sunday 16 January 2022 08:47:24 AM UTC",
+    "totalDomains": "101312",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:31 PM UTC",
     "value": 73
   },
   {
@@ -671,7 +671,7 @@
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts",
     "totalDomains": "6254",
-    "lastUpdated": "Sunday 16 January 2022 08:47:24 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:31 PM UTC",
     "value": 74
   },
   {
@@ -680,7 +680,7 @@
     "category": "Ads",
     "source": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
     "totalDomains": "1730",
-    "lastUpdated": "Sunday 16 January 2022 08:47:25 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:32 PM UTC",
     "value": 75
   },
   {
@@ -689,7 +689,7 @@
     "category": "Wildcard, Privacy",
     "source": "https://raw.githubusercontent.com/nickspaargaren/no-google/master/wildcards-domains",
     "totalDomains": "301",
-    "lastUpdated": "Sunday 16 January 2022 08:47:26 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:33 PM UTC",
     "value": 76
   },
   {
@@ -697,8 +697,8 @@
     "name": "yoyo.org",
     "category": "Ads, Privacy",
     "source": "https://pgl.yoyo.org/as/serverlist.php?hostformat=domains&mimetype=plaintext",
-    "totalDomains": "3682",
-    "lastUpdated": "Sunday 16 January 2022 08:47:30 AM UTC",
+    "totalDomains": "3679",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:34 PM UTC",
     "value": 77
   },
   {
@@ -707,7 +707,7 @@
     "category": "Porn",
     "source": "https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt",
     "totalDomains": "31163",
-    "lastUpdated": "Sunday 16 January 2022 08:47:31 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:35 PM UTC",
     "value": 78
   },
   {
@@ -716,7 +716,7 @@
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/social_networks/domains",
     "totalDomains": "663",
-    "lastUpdated": "Sunday 16 January 2022 08:47:32 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:36 PM UTC",
     "value": 79
   },
   {
@@ -724,8 +724,8 @@
     "name": "Sinfonietta (porn)",
     "category": "Porn",
     "source": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts",
-    "totalDomains": "15669",
-    "lastUpdated": "Sunday 16 January 2022 08:47:33 AM UTC",
+    "totalDomains": "16242",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:37 PM UTC",
     "value": 80
   },
   {
@@ -733,8 +733,8 @@
     "name": "PolishFiltersTeam (KADhosts)",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt",
-    "totalDomains": "42074",
-    "lastUpdated": "Sunday 16 January 2022 08:47:34 AM UTC",
+    "totalDomains": "43728",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:38 PM UTC",
     "value": 81
   },
   {
@@ -743,7 +743,7 @@
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
     "totalDomains": "8148",
-    "lastUpdated": "Sunday 16 January 2022 08:47:35 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:38 PM UTC",
     "value": 82
   },
   {
@@ -752,7 +752,7 @@
     "category": "Privacy, Malware",
     "source": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
     "totalDomains": "325",
-    "lastUpdated": "Sunday 16 January 2022 08:47:36 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:39 PM UTC",
     "value": 83
   },
   {
@@ -760,8 +760,8 @@
     "name": "notrack-blocklists (blocklist)",
     "category": "Privacy",
     "source": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt",
-    "totalDomains": "14596",
-    "lastUpdated": "Sunday 16 January 2022 08:47:37 AM UTC",
+    "totalDomains": "14603",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:40 PM UTC",
     "value": 84
   },
   {
@@ -770,7 +770,7 @@
     "category": "Malware",
     "source": "https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts",
     "totalDomains": "13467",
-    "lastUpdated": "Sunday 16 January 2022 08:47:39 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:02:41 PM UTC",
     "value": 85
   },
   {
@@ -779,7 +779,7 @@
     "category": "Privacy",
     "source": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt",
     "totalDomains": "14039",
-    "lastUpdated": "Sunday 16 January 2022 08:47:42 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:00 PM UTC",
     "value": 86
   },
   {
@@ -788,7 +788,7 @@
     "category": "Privacy",
     "source": "https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt",
     "totalDomains": "15664",
-    "lastUpdated": "Sunday 16 January 2022 08:52:30 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:03 PM UTC",
     "value": 87
   },
   {
@@ -796,8 +796,8 @@
     "name": "ut1-blacklists (malware)",
     "category": "Malware",
     "source": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/malware/domains",
-    "totalDomains": "168376",
-    "lastUpdated": "Sunday 16 January 2022 08:52:32 AM UTC",
+    "totalDomains": "168456",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:05 PM UTC",
     "value": 88
   },
   {
@@ -805,8 +805,8 @@
     "name": "ut1-blacklists (phishing)",
     "category": "Malware",
     "source": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/phishing/domains",
-    "totalDomains": "168153",
-    "lastUpdated": "Sunday 16 January 2022 08:52:34 AM UTC",
+    "totalDomains": "168734",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:07 PM UTC",
     "value": 89
   },
   {
@@ -814,8 +814,8 @@
     "name": "ut1-blacklists (adult)",
     "category": "Porn",
     "source": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/adult/domains",
-    "totalDomains": "3726242",
-    "lastUpdated": "Sunday 16 January 2022 08:52:52 AM UTC",
+    "totalDomains": "3769112",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:25 PM UTC",
     "value": 90
   },
   {
@@ -823,8 +823,8 @@
     "name": "stamparm (blackbook)",
     "category": "Malware, Privacy",
     "source": "https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt",
-    "totalDomains": "17200",
-    "lastUpdated": "Sunday 16 January 2022 08:52:53 AM UTC",
+    "totalDomains": "17216",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:27 PM UTC",
     "value": 91
   },
   {
@@ -832,8 +832,8 @@
     "name": "stopforumspam (toxic domains)",
     "category": "Ads, Privacy, Adblock, Adultfilter",
     "source": "https://www.stopforumspam.com/downloads/toxic_domains_whole.txt",
-    "totalDomains": "36640",
-    "lastUpdated": "Sunday 16 January 2022 08:52:53 AM UTC",
+    "totalDomains": "36851",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:27 PM UTC",
     "value": 92
   },
   {
@@ -841,8 +841,8 @@
     "name": "digitalside.it (Threat-Intel)",
     "category": "Malware",
     "source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
-    "totalDomains": "1010",
-    "lastUpdated": "Sunday 16 January 2022 08:52:55 AM UTC",
+    "totalDomains": "1115",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:29 PM UTC",
     "value": 93
   },
   {
@@ -850,8 +850,8 @@
     "name": "AdAway",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt",
-    "totalDomains": "7563",
-    "lastUpdated": "Sunday 16 January 2022 08:52:56 AM UTC",
+    "totalDomains": "7067",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:30 PM UTC",
     "value": 94
   },
   {
@@ -859,8 +859,8 @@
     "name": "privacy-protection-tools (anti-AD)",
     "category": "Ads",
     "source": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt",
-    "totalDomains": "57920",
-    "lastUpdated": "Sunday 16 January 2022 08:52:57 AM UTC",
+    "totalDomains": "58181",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:31 PM UTC",
     "value": 95
   },
   {
@@ -868,8 +868,8 @@
     "name": "bigdargon (hostsVN)",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
-    "totalDomains": "15268",
-    "lastUpdated": "Sunday 16 January 2022 08:52:58 AM UTC",
+    "totalDomains": "15267",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:32 PM UTC",
     "value": 96
   },
   {
@@ -877,8 +877,8 @@
     "name": "phishing.army",
     "category": "Privacy, Malware, Adblock, Adultfilter",
     "source": "https://phishing.army/download/phishing_army_blocklist.txt",
-    "totalDomains": "51428",
-    "lastUpdated": "Sunday 16 January 2022 08:52:58 AM UTC",
+    "totalDomains": "52725",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:32 PM UTC",
     "value": 97
   },
   {
@@ -887,7 +887,7 @@
     "category": "Parentalcontrol, Adblock, Adultfilter",
     "source": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
     "totalDomains": "3496",
-    "lastUpdated": "Sunday 16 January 2022 08:53:00 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:34 PM UTC",
     "value": 98
   },
   {
@@ -896,7 +896,7 @@
     "category": "Ads, Adblock, Adultfilter",
     "source": "https://easylist.to/easylist/fanboy-annoyance.txt",
     "totalDomains": "101",
-    "lastUpdated": "Sunday 16 January 2022 08:53:01 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:34 PM UTC",
     "value": 99
   },
   {
@@ -904,8 +904,8 @@
     "name": "developerdan (ads-and-tracking)",
     "category": "Ads, Privacy, Adblock, Adultfilter",
     "source": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
-    "totalDomains": "403592",
-    "lastUpdated": "Sunday 16 January 2022 08:53:03 AM UTC",
+    "totalDomains": "405675",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:36 PM UTC",
     "value": 100
   },
   {
@@ -913,8 +913,8 @@
     "name": "developerdan (tracking-aggressive)",
     "category": "Privacy",
     "source": "https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt",
-    "totalDomains": "87225",
-    "lastUpdated": "Sunday 16 January 2022 08:53:05 AM UTC",
+    "totalDomains": "90349",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:38 PM UTC",
     "value": 101
   },
   {
@@ -922,8 +922,8 @@
     "name": "bongochong (CombinedPrivacy)",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts",
-    "totalDomains": "108682",
-    "lastUpdated": "Sunday 16 January 2022 08:53:07 AM UTC",
+    "totalDomains": "108649",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:39 PM UTC",
     "value": 102
   },
   {
@@ -932,7 +932,7 @@
     "category": "Ads, Privacy, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts",
     "totalDomains": "1386",
-    "lastUpdated": "Sunday 16 January 2022 08:53:07 AM UTC",
+    "lastUpdated": "Wednesday 26 January 2022 02:03:39 PM UTC",
     "value": 103
   }
 ]
