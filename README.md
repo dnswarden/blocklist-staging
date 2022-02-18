@@ -16,10 +16,10 @@ Staging blacklist/whitelist/customlist repo for dnswarden
 * energizedpornfull - [source](https://block.energized.pro/porn/formats/domains.txt) - id34
 * oisdnsfw - [source](https://dbl.oisd.nl/nsfw) - id3
 * forcesafesearch - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/forcesafesearch.txt). This list enforces safe search on google, bing, duckduckgo and youtube - id5
+* blacklistcommon - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommon.txt) - id90
 * blacklistadultcontent - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontent.txt)
 * blacklistadultcontentwildcard - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontentwildcard.txt). This is a wildcard list.
 * whitelistadultcontent - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistadultcontent.txt). This is a whitelist.
-* blacklistcommon - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommon.txt)
 * blacklistcommonwildcard - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommonwildcard.txt). This is a wildcard list.
 
 
@@ -37,5 +37,5 @@ Staging blacklist/whitelist/customlist repo for dnswarden
 * stopforumspam - [source](https://www.stopforumspam.com/downloads/toxic_domains_whole.txt) - id92
 * zerodot1coinblockerlists - [source](https://zerodot1.gitlab.io/CoinBlockerLists/hosts) - id98
 * whitelistcommon - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt). This is a whitelist - id4
-* blacklistcommon - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommon.txt) 
+* blacklistcommon - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommon.txt) - id90
 * blacklistcommonwildcard - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommonwildcard.txt). This is a wildcard list.

@@ -901,9 +901,9 @@
 
     {
         "loc":"custom_filters/normal/id90.txt",
-        "name": "ut1-blacklists (adult)",
-        "category": "Porn",
-        "source": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/adult/domains",
+        "name": "dnswarden (blacklist)",
+        "category": "Ads, Tiny",
+        "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommon.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 90

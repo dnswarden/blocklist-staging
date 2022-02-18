@@ -87,7 +87,7 @@
  * https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
  * https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/malware/domains
  * https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/phishing/domains
- * https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/adult/domains
+ * https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommon.txt
  * https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
  * https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
  * https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt

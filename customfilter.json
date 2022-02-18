@@ -810,12 +810,12 @@
     "value": 89
   },
   {
-    "loc": "custom_filters/normal/id90.txt",
-    "name": "ut1-blacklists (adult)",
-    "category": "Porn",
-    "source": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/adult/domains",
-    "totalDomains": "3769112",
-    "lastUpdated": "Wednesday 26 January 2022 02:03:25 PM UTC",
+    "loc":"custom_filters/normal/id90.txt",
+    "name": "dnswarden (blacklist)",
+    "category": "Ads, Tiny",
+    "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommon.txt",
+    "totalDomains": 0,
+    "lastUpdated": "",
     "value": 90
   },
   {
