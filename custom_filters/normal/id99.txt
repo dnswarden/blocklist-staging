@@ -5,6 +5,7 @@ analytics-consent-manager.azureedge.net
 appconsent.io
 browser-updater.yandex.net
 ccpa-script.psg.nexstardigital.net
+cdn259.talksport.com
 cmp.cdn.thesun.ie
 cmp.deondernemer.nl
 cmp.infopro-digital.com
@@ -20,6 +21,7 @@ cmp.tvspielfilm.de
 cnil.links-lab.fr
 consent-wrapper.jameda.de
 consent.23g.io
+consent.amateurphotographer.co.uk
 consent.berliner-kurier.de
 consent.faz.net
 consent.gutefrage.net
@@ -47,6 +49,7 @@ d2r1yp2w7bby2u.cloudfront.net
 d2yyd1h5u9mauk.cloudfront.net
 d5k6iufjynyu8.cloudfront.net
 d9etzk30b05yg.cloudfront.net
+data.reachplc.com
 dhpikd1t89arn.cloudfront.net
 ds-recommender.styria.hr
 emailing.rfi.fr
@@ -66,6 +69,7 @@ notify.hindustantimes.com
 optanon.blob.core.windows.net
 pgs.aviationweek.com
 platform.loyaltylion.com
+privacy-cdn.sixfifty.com
 privacy.claytonhomes.com
 privacy.schibsted.com
 privacypolicy.trgr.be
@@ -91,7 +95,6 @@ sourcepoint.thetakeout.com
 sp.knowyourmeme.com
 t13.9to5google.com
 traffic.styria.hr
-trustarc.mgr.consensu.org
 twitter-badges.s3.amazonaws.com
 up-cookiemon.wavecdn.net
 widget.beop.io

@@ -418,6 +418,7 @@ tracker.marinsm.com
 tracking.publicidees.com
 trk.klclick.com
 trk.klclick1.com
+ue.flipboard.com
 uk-go.kelkoogroup.net
 us-go.kelkoogroup.net
 view.virt.s7.exacttarget.com

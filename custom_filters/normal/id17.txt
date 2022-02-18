@@ -8789,6 +8789,7 @@ a.lazyswipe.com
 a.ligatus.com
 a.ligatus.de
 a.liktirov.com
+a.line.me
 a.livefreefunwith.me
 a.livesportmedia.eu
 a.localytics.com
@@ -10806,9 +10807,11 @@ aax-us-east.amazon-adsystem.com
 aax-us-iad.amazon.com
 aax-us-pdx-rtb-adx.amazon-adsystem.com
 aax-us-pdx-rtb.amazon-adsystem.com
+aax-us-pdx.amazom-adsystem.com
 aax-us-pdx.amazon-adsystem.com
 aax-us-west-rtb.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
+aax-us.amazom-adsystem.com
 aax-us.amazon-adsystem.com
 aax-vx-eu-eu-west-1.amazon-adsystem.com
 aax-vx-fe-us-west-2.amazon-adsystem.com
@@ -27756,6 +27759,8 @@ adnotch.com
 adnova.ru
 adnow.adk2x.com
 adnow.com
+adns1.line.naver.com
+adns2.line.naver.com
 adnsvuxmpaycdf.com
 adntokyo.gunosy.com
 adnuntius.com
@@ -38213,6 +38218,7 @@ apprefaculty.pro
 apprelease.redtrack.io
 apprep.smartscreen.microsoft.com
 appres.camera360.com
+appresource.line-scdn.net
 appricotads.g2afse.com
 appromoters.tracking.adnovation.com.herokudns.com
 approp.pro
@@ -50489,6 +50495,7 @@ ch-goldbach.videoplaza.tv
 ch-iconcerts.a.videoplaza.tv
 ch-iconcerts.cdn.videoplaza.tv
 ch-iconcerts.videoplaza.tv
+ch-news.line-apps.com
 ch-stailamedia.videoplaza.tv
 ch-watch4.cdn.videoplaza.tv
 ch-watch4.videoplaza.tv
@@ -50923,6 +50930,7 @@ ci.beap.ad.yieldmanager.net
 ci.categoria.hpg.com.br
 ci.facebook-info.co
 ci.iasds01.com
+ci.line-apps.com
 ci.nuggad.net
 ci.rdtcdn.com
 ci.vungle.com
@@ -51193,6 +51201,7 @@ civitik.com
 civvysi.de
 civyssfaqtufib.com
 ciwbezny.com
+cix.line-apps.com
 cixjiydrsyq.bid
 cixjmaxkemzknxxuyvkbzlhvvgeqmzgopppvefpfkqdraonoez.com
 cixvlpbnceh.com
@@ -56809,6 +56818,7 @@ crptentry.com
 crqnosmxstdfnp.bid
 crrepo.com
 crrgnnqidpf.com
+crs-event.line.me
 crs.adx1.com
 crs.baidu.com
 crsspxl.com
@@ -57732,6 +57742,7 @@ d.ina.media.net
 d.jazzedcdn.com
 d.liadm.com
 d.ligatus.com
+d.line-scdn.net
 d.m3.net
 d.mob.com
 d.mobilebanner.ru
@@ -67727,7 +67738,6 @@ fastlane-adv.rubiconproject.com
 fastlane-metrics.fabric.io
 fastlane.aws.rubiconproject.com
 fastlane.rubiconproject.com
-fastlane.tools
 fastlink.pl
 fastlinkfinder.com
 fastly-analytics.com
@@ -71232,6 +71242,8 @@ ga.kvideo.io
 ga.mmstat.com
 ga.webdigi.co.uk
 ga.xdrig.com
+ga2.line.naver.jp
+ga2x.line.naver.jp
 ga87z2o.com
 gaae.hit.gemius.pl
 gaana.deliveryengine.adswizz.com
@@ -74254,6 +74266,8 @@ gs.speed-app.com
 gs.spylog.ru
 gs.statcounter.com
 gs1.surf-town.net
+gs2.line.naver.jp
+gs2x.line.naver.jp
 gsanet.com
 gsasd.info
 gsassets0.getsocial.io
@@ -74554,6 +74568,7 @@ gw-metadata.euc1.dynamicyield.com
 gw.adotsolution.com
 gw.flurry.com
 gw.geoedge.be
+gw.line.naver.jp
 gw.localytics.com
 gw.metadata.dynamicyield.com
 gw.pampanetwork.com
@@ -86213,6 +86228,7 @@ laojiayoufang.com
 laola1.cleverpush.com
 laonly.outbrain.com
 laos.luangprabang.free.fr
+lap-click.tr.line.me
 lapatiya.info
 lapbekessbozpx.bid
 lapdqegtp.com
@@ -95566,7 +95582,6 @@ mystat.hu
 mystat.it
 mystat.pl
 mystaticfiles.com
-mystats.com
 mystats.nl
 mysteriousmonth.com
 mysteryshop.inq.com
@@ -96394,6 +96409,7 @@ nekopod.info
 nelfmgxcysd.bid
 nelgpwiezcwynt.bid
 nelnetinc.d1.sc.omtrdc.net
+nelo2-col.linecorp.com
 nelonenmedia-pmd-ads-manual.nm-stream.nelonenmedia.fi
 nelonenmedia-pmd-ads-promo.nm-stream.nelonenmedia.fi
 nelonenmedia-pmd-ads-spotgate.nm-stream.nelonenmedia.fi
@@ -98123,6 +98139,7 @@ ns1.iswest.net
 ns1.ivwbox.de
 ns1.libyanspider.com
 ns1.lighthost.com
+ns1.line.naver.jp
 ns1.livetechnology.com
 ns1.marketo.com
 ns1.maximumhost.com
@@ -98206,6 +98223,7 @@ ns2.inmobi.com
 ns2.inwx.de
 ns2.iswest.net
 ns2.libyanspider.com
+ns2.line.naver.jp
 ns2.livetechnology.com
 ns2.maximumhost.com
 ns2.media.net
@@ -99292,6 +99310,7 @@ obpzuctfozram.com
 obqtccxcfjmd.com
 obrayxknu.com
 obs-worker02.nym1.appnexus.com
+obs.line-scdn.net
 obs01.lax1.appnexus.com
 obs02.lax1.appnexus.com
 obs02.nym2.appnexus.com
@@ -99702,7 +99721,6 @@ ohmcasting.com
 ohmvrqomsitr.com
 ohmwrite.com
 ohmydating.com
-ohmystats.com
 ohnohaijfq.com
 ohnooo.ru
 ohpojzltnt.bid
@@ -114814,6 +114832,7 @@ scd.ingest.at.atwola.com
 scd.secureintl.com
 scdmed01.nexage.com
 scdn.cxense.com
+scdn.line-apps.com
 scdn.liveclicker.net
 scdn.mm.atwola.com
 scdn.uc.atwola.com
@@ -114834,6 +114853,7 @@ scexp001.exelator.com
 scfkfridulshkd.com
 scgnsficmwipuj.bid
 scgyndrujhzf.com
+sch.line.me
 schaeffers.112.2o7.net
 scheckerde.widget.criteo.com
 schedhomoso.pro
@@ -121759,6 +121779,7 @@ static.kochava.com
 static.l3.cdn.adbucks.com
 static.leaddyno.com
 static.ligatus.com
+static.line-scdn.net
 static.live2delivery.com
 static.liveclicker.net
 static.liveintercept.com
@@ -129142,7 +129163,6 @@ tracking.marketviaemail.net
 tracking.masterclass.com
 tracking.maxcdn.com
 tracking.mediago.io
-tracking.medpagetoday.com
 tracking.meete.co
 tracking.melty.es
 tracking.melty.fr
@@ -139445,6 +139465,7 @@ vortex.data.microsoft.com
 vortex.hulu.com
 vortex.mgr.consensu.org
 vortextraffic.com
+vos.line-scdn.net
 voss.collegehumor.com
 vosteran.com
 vosteransearch.com

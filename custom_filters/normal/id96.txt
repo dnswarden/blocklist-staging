@@ -236,6 +236,7 @@ acdn.xapads.com
 acento.com
 achcdn.com
 acint.net
+ackcdn.net
 aclickads.com
 acloudimages.com
 acp-demo.adblade.com
@@ -1993,6 +1994,10 @@ ajxx91.online
 ak-events-collector.spot.im
 ak-is.net
 ak-is2.net
+ak.hetahien.com
+ak.hetaint.com
+ak.hetapus.com
+ak.hetartwg.com
 ak.hetaruvg.com
 ak.hetaruwg.com
 ak.sail-horizon.com
@@ -2966,6 +2971,7 @@ audiencemanager.de
 audiens.com
 audit.triplelift.com
 audrte.com
+augu3yhd485st.com
 augur.io
 auiopt.unityads.unity3d.com
 aulteeby.net
@@ -3331,6 +3337,7 @@ belstat.com
 belstat.nl
 belyyeusy.com
 bemachopor.com
+bemobtrcks.com
 bento.agoda.com
 bepiletussar.casa
 berlipurplin.com
@@ -3596,6 +3603,7 @@ buttons.googlesyndication.com
 buyhitscheap.com
 buysellads.com
 buysellads.net
+buyseoblog.com
 buzzfeed.amp.permutive.com
 buzzonclick.com
 buzzoola.com
@@ -3995,6 +4003,7 @@ cdn.doke.app
 cdn.doublemax.net
 cdn.doubleverify.com
 cdn.easyads28.info
+cdn.easyads28.mobi
 cdn.effectivemeasure.net
 cdn.engine.4dsply.com
 cdn.engine.phn.doublepimp.com
@@ -4116,6 +4125,7 @@ cdn.scarabresearch.com
 cdn.segment.com
 cdn.segment.io
 cdn.serving.ad.org.vn
+cdn.shoplytics.com
 cdn.siftscience.com
 cdn.simpleanalytics.io
 cdn.simpli.fi
@@ -5259,7 +5269,6 @@ deloplen.com
 deloton.com
 delplaya-api.advangelists.com
 deltaflow.petametrics.com
-deltago.com
 delusionrather.com
 demand.bidgear.com
 demand.connectad.io
@@ -5947,6 +5956,7 @@ events.marketo.com
 events.mediarithmics.com
 events.proper.io
 events.redditmedia.com
+events.shoplytics.com
 events.simpli.fi
 events.steelhousemedia.com
 events.tapjoy.com
@@ -6090,9 +6100,7 @@ fairfax.cxsearch.cxense.com
 faktor.io
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
-falcon-asset.pixfs.net
 falcon.pixanalytics.com
-falcon.pixnet.net
 famousquarter.com
 faq.juicer.cc
 faracoon.com
@@ -6144,8 +6152,12 @@ fei.pro-market.net
 felinessynonym.com
 fev.fyber.com
 ff-member-ganena.com
+ff-member-gazeza.com
 ff-members-garena.vn
 ff-membership-garena.com
+ff-membersship-garrena.com
+ff-memnber-garena.com
+ff-menber-garena.vn
 ff.garena.memmbershipp.com
 ff.imacdn.com
 ff.member.garenae.vn
@@ -6352,6 +6364,7 @@ gadslimz.com
 gadsoks.com
 gadspms.com
 gadspmz.com
+gaerena.vn
 gaijiglo.net
 galactify.unrulymedia.com
 galaksion.com
@@ -6376,10 +6389,12 @@ gan.doubleclick.net
 gandalf.younetmedia.com
 gangsstowapps.com
 gapi.beeketing.com
+garaena.vn
 garean.vn
 gareena.vn
 garena-members.com
 garena.fan
+garenaj.vn
 garera.vn
 garrena.vn
 gatekeeper.outbrain.com
@@ -6776,7 +6791,10 @@ hentaicounter.com
 heratheacle.com
 herbalaffiliateprogram.com
 herdcowhas.icu
+hetahien.com
+hetaint.com
 hetapus.com
+hetartwg.com
 hetaruvg.com
 hetaruwg.com
 hexapinow.xyz
@@ -6982,6 +7000,8 @@ iact.atdmt.com
 iad-01.braze.com
 iad-02.braze.com
 iad-03.braze.com
+iad-04.braze.com
+iad-05.braze.com
 iad-06.braze.com
 iad-08.braze.com
 iad-2-apex.go.sonobi.com
@@ -7354,6 +7374,7 @@ inringtone.com
 inside-graph.com
 inside.adpushup.com
 inside.outbrain.com
+insideoftech.com
 insight.adop.cc
 insight.adsrvr.org
 insight.ants.vn
@@ -7362,6 +7383,7 @@ insight.ucweb.com
 insightexpress.com
 insightexpressai.com
 insights-api.parsely.com
+insights-collector.newrelic.com
 insights-jobs-ingress.prod.leanplum.com
 insights.alphonso.tv
 insights.clevertap.com
@@ -7569,6 +7591,7 @@ jenkins.bam-x.com
 jenkins.younetmedia.com
 jenkins2.bam-x.com
 jessieemys.com
+jewgn8une.com
 jf71qh5v14.com
 jgl.microad.net
 jighucme.com
@@ -7615,6 +7638,7 @@ jpush.cn
 jpush.io
 jqtqqnen.top
 jrs.a4.tl
+js-agent.newrelic.com
 js-sec.casalemedia.com
 js-sec.indexww.com
 js-ssl.aaddcount.com
@@ -7941,6 +7965,7 @@ libs.lavanetwork.net
 libs.outbrain.com
 lidl.media01.eu
 lienquan-garena-giftcode.com
+lienquanmobilequatang.com
 lifescript.alcmpn.com
 lifestreet.com
 lifestreetmedia.com
@@ -8571,13 +8596,16 @@ meitustat.com
 mellowads.b-cdn.net
 mellowads.com
 meltdsp.com
+member-gaarena.com
 member-garena.vn
 member.360in.com
 member.ad.org.vn
 member.adnetwork.vn
+memberr-garenaa.com
 members.applifier.com
 members.popcash.net
 members.yadro.ru
+membershipsgarenavn-ff.com
 memeglobal.com
 memorizeneck.com
 memorycobweb.com
@@ -10244,6 +10272,7 @@ ptengine.cn
 ptengine.com
 ptengine.jp
 ptimeinc.chartbeat.net
+ptljkekttqf.com
 ptywajofa.pro
 pub-dev.novaonx.com
 pub-sdk-cfg.criteo.com
@@ -11196,6 +11225,7 @@ s3.cheqzone.com
 s3.cnnx.io
 s3.mellowads.com
 s3.xtremepush.com
+s3t3d2y7.ackcdn.net
 s4.addthis.com
 s4.cnnx.io
 s4.histats.com
@@ -11350,6 +11380,8 @@ sdk.heyzap.com
 sdk.iad-01.braze.com
 sdk.iad-02.braze.com
 sdk.iad-03.braze.com
+sdk.iad-04.braze.com
+sdk.iad-05.braze.com
 sdk.iad-06.braze.com
 sdk.iad-08.braze.com
 sdk.persona.ly
@@ -12625,6 +12657,7 @@ t.doublemax.net
 t.dtscdn.com
 t.dtscout.com
 t.easyads28.info
+t.easyads28.mobi
 t.eclick.vn
 t.effectivemeasure.net
 t.eloqua.com
@@ -12801,6 +12834,7 @@ teenyvolcano.com
 teethfan.com
 telaria.com
 telecommand.telemetry.microsoft.com
+telemetry.art19.com
 telemetry.dropbox.com
 telemetry.sdk.eastus-ssp.appgwv2.inmobi.com
 telemetry.sdk.inmobi.cn
@@ -13717,6 +13751,7 @@ vastpixel3.adsafeprotected.com
 vastproxy.brand.inmobi.com
 vastx.moatads.com
 vattingbalak.com
+vbscgrnkoceya.com
 vc-live-cf.hotjar.io
 vc-staging.hotjar.io
 vc.hotjar.io
@@ -13731,6 +13766,7 @@ vdapp.nend.net
 vdna.exelator.com
 vdo.ai
 vdopia.com
+ve01.mgod33cme.com
 vebadu.com
 vectaury.io
 vegetapi-rc.youbora.com
@@ -13915,6 +13951,7 @@ vogueoatgap.com
 voicefive.com
 voicevegetable.com
 vokut.xml.ak-is2.net
+vongquay-pubgmobilevn-zing.com
 vongquaymienphi.net
 voodoo-ads.io
 voodoo-analytics.io
@@ -14928,6 +14965,7 @@ www.v9banners.com
 www.vads.net.vn
 www.vads.vn
 www.varietyofdisplayformats.com
+www.vbscgrnkoceya.com
 www.vclick.vn
 www.vdo.ai
 www.velocitycdn.com
@@ -15091,6 +15129,7 @@ y.ibsys.com
 y.kau.li
 y.moatads.com
 y2tejq2s11on.com
+y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 yabuka.com
 yadro.ru
 yads.c.yimg.jp
