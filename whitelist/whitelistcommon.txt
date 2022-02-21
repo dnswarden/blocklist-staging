@@ -12,6 +12,7 @@ www.info.com
 srtb.msn.com
 ngfts.lge.com
 static.zdassets.com
+firebaseinstallations.googleapis.com
 snu.lge.com
 origin-ro-api-dhtv.dailyhunt.in
 assets-news-bcdn.dailyhunt.in
