@@ -1,0 +1,3 @@
+https://datatracker.ietf.org/doc/html/rfc7871
+
+When enabled, dnsarden will act as a stub resolver and will forward the queries to ECS supported resolvers.

@@ -101,3 +101,7 @@
  * https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
  * https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
  * https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
+ * https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommonwildcard.txt
+ * https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontent.txt
+ * https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistadultcontent.txt
+ * https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontentwildcard.txt

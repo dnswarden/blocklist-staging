@@ -934,5 +934,51 @@
     "totalDomains": "1386",
     "lastUpdated": "Friday 18 February 2022 08:00:55 AM UTC",
     "value": 103
-  }
+  },
+  {
+        "loc":"custom_filters/normal/id104.txt",
+        "name": "dnswarden (blacklist wildcard)",
+        "category": "Ads, Privacy, Adblock, Adultfilter",
+        "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommonwildcard.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 104
+  },
+  {
+        "loc":"custom_filters/normal/id105.txt",
+        "name": "dnswarden (blacklist adult content)",
+        "category": "Ads, Privacy, Adblock, Adultfilter",
+        "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontent.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 105
+  },
+  {
+        "loc":"custom_filters/normal/id106.txt",
+        "name": "dnswarden (whitelist adult content)",
+        "category": "Whitelist, Adblock, Adultfilter",
+        "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistadultcontent.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 106
+  },
+  {
+        "loc":"custom_filters/normal/id107.txt",
+        "name": "dnswarden (adult filter blacklist wildcard)",
+        "category": "Ads, Privacy, Adultfilter",
+        "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontentwildcard.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 107
+  },
+  {
+        "loc":"custom_filters/normal/ecs.txt",
+        "name": "EDNS Client Subnet (ECS)",
+        "category": "geo-located responses",
+        "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/custom_filters/normal/ecs.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 108
+  } 
+ 
 ]

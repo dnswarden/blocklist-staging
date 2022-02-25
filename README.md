@@ -1,6 +1,8 @@
 Staging blacklist/whitelist/customlist repo for dnswarden
 
 
+* EDNS Client Subnet (ECS) [read more about it here](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/custom_filters/normal/ecs.txt) - id108 
+
 ### AdultFilter dns uses following lists
 
 * adguardcnametrackers - [source](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt) - id71
@@ -17,10 +19,10 @@ Staging blacklist/whitelist/customlist repo for dnswarden
 * oisdnsfw - [source](https://dbl.oisd.nl/nsfw) - id3
 * forcesafesearch - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/forcesafesearch.txt). This list enforces safe search on google, bing, duckduckgo and youtube - id5
 * blacklistcommon - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommon.txt) - id90
-* blacklistadultcontent - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontent.txt)
-* blacklistadultcontentwildcard - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontentwildcard.txt). This is a wildcard list.
-* whitelistadultcontent - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistadultcontent.txt). This is a whitelist.
-* blacklistcommonwildcard - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommonwildcard.txt). This is a wildcard list.
+* blacklistadultcontent - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontent.txt) - id105
+* whitelistadultcontent - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistadultcontent.txt). This is a whitelist. - id106
+* blacklistadultcontentwildcard - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontentwildcard.txt). This is a wildcard list. - id107
+* blacklistcommonwildcard - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommonwildcard.txt). This is a wildcard list. - id104
 
 
 
@@ -38,4 +40,9 @@ Staging blacklist/whitelist/customlist repo for dnswarden
 * zerodot1coinblockerlists - [source](https://zerodot1.gitlab.io/CoinBlockerLists/hosts) - id98
 * whitelistcommon - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt). This is a whitelist - id4
 * blacklistcommon - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommon.txt) - id90
-* blacklistcommonwildcard - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommonwildcard.txt). This is a wildcard list.
+* blacklistcommonwildcard - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommonwildcard.txt). This is a wildcard list. - id104
+
+
+
+
+
