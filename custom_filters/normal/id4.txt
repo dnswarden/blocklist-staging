@@ -1473,6 +1473,7 @@ findsvcuat.mappoint.microsoft.com
 firebase.google.com
 firebasedurablelinks-pa.clients6.google.com
 firebaseinappmessaging.googleapis.com
+firebaseinstallations.googleapis.com
 firebaselogging.googleapis.com
 firebaseremoteconfig.googleapis.com
 firebaserules.clients6.google.com

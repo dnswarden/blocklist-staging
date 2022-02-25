@@ -18,7 +18,6 @@ api.logpartition.com
 api.lookupindex.com
 api.lookupmanager.com
 api.masterprotocols.com
-api.publicanalyser.com
 api.rotatornet.com
 api.standarteng.com
 api.trustedmode.com
@@ -46,6 +45,7 @@ browfileext.com
 browlinkdev.xyz
 bugdepromo.com
 buycritical.com
+byebyeads.org
 c8xwor.com
 cardinaldata.net
 cdn-js.net
@@ -109,7 +109,6 @@ extcoolff.com
 extnetcool.com
 fastclick.net
 fastnewstream.com
-filebulldog.com
 filehippo-filehippo.com
 filehorse.com
 fioressence.com
@@ -271,7 +270,6 @@ slickfluide.com
 smackbolt.com
 sohu.om
 solvusoft.com
-sositehuypidarasi.com
 sourcelog.cool
 soursejone.com
 srch.bar

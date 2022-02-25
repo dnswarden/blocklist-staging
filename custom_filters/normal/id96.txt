@@ -585,7 +585,6 @@ adcolony.com
 adcomplete.com
 adconion.com
 adcontent.gamespy.com
-adcr.naver.com
 adcycle.com
 add.newmedia.cz
 add1.aniview.com
@@ -779,6 +778,7 @@ adminder.com
 adminshop.com
 admintool.revenuetool.aatkit.com
 admitad.com
+admix.in
 admixer.com
 admixer.net
 admized.com
@@ -6390,10 +6390,13 @@ gandalf.younetmedia.com
 gangsstowapps.com
 gapi.beeketing.com
 garaena.vn
+garane.vn
 garean.vn
 gareena.vn
 garena-members.com
 garena.fan
+garena.mobi
+garenaa.vn
 garenaj.vn
 garera.vn
 garrena.vn
@@ -6445,6 +6448,7 @@ geobanner.adultfriendfinder.com
 geocdn.unityads.unity3d.com
 geofence.sys.miui.com
 geoip.nekudo.com
+geoip5m1y07.admix.in
 geologix.mangoads.vn
 geotags.w55c.net
 geovisite.com
@@ -6916,6 +6920,7 @@ html5.adsrvr.org
 httpkafka.ads.prd.ie.internal.unity3d.com
 httpkafka.unityads.unity3d.com
 httpool.com
+https-apple.com
 hub.automatad.com
 hub.omarketer.viettelpost.vn
 hub.onfluencer.net
@@ -8609,6 +8614,7 @@ membershipsgarenavn-ff.com
 memeglobal.com
 memorizeneck.com
 memorycobweb.com
+menberships-ff-garrena.com
 menu.metu.vn
 meo257na3rch.com
 meowpushnot.com
@@ -9672,6 +9678,7 @@ pasta.sl.duapps.com
 pasta.tk.duapps.com
 pasta.whosthat.duapps.com
 pateablyace.com
+pauewr4cw2xs5q.com
 pay-ads.com
 pay.getadmiral.com
 paycounter.com
@@ -11978,6 +11985,7 @@ ssp-prod-old-telemerty-eastus-appgwv2.inmobi.com
 ssp-prod-telemerty-eastus-appgwv2.inmobi.com
 ssp.24smi.net
 ssp.admanmedia.com
+ssp.admix.in
 ssp.adpopcorn.com
 ssp.adservme.com
 ssp.blueserving.com
@@ -12877,6 +12885,7 @@ thebugs.ws
 thecliff.mangoads.vn
 thecounter.com
 thedevband.com
+thegioididong.me
 theirsvendor.com
 themoneytizer.com
 theonecdn.com
