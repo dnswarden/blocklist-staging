@@ -1559,6 +1559,7 @@ geo-prod.do.dsp.mp.microsoft.com
 geo.paypalobjects.com.akadns.net
 geo.prod.dodsp.mp.microsoft.com.nsatc.net
 geoauth.google.com
+geomobileservices-pa.googleapis.com
 geoprod.dodsp.mp.microsoft.com.nsatc.net
 gfwsl.geforce.com
 gg.google.com

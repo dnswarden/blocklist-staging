@@ -2647,6 +2647,7 @@ cbjs.baidu.com
 cbolsxvresvu.bid
 cbr.suprnova.cc
 cbrqndeptsw.com
+cbtoken.me
 cbwrwcjdctrj.com
 cbxadrwlccrky.bid
 cbxqceuuwnaz.com
@@ -7768,7 +7769,6 @@ ipcouosurtdqc.bid
 ipdcgsdjkz.bid
 ipdlsrwctdjb.com
 ipfs-gateway.ipbc.io
-ipfs.io
 iphonelog.shouji.baofeng.com
 iphwttyqzuhucw.bid
 ipinyou.com

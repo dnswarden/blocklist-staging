@@ -3074,7 +3074,6 @@ kr.snapfish.com
 ksolo.myspace.com
 kuakin.i.org
 kubernetes.slack.com
-kuki.wacproxy.xwf.internet.org
 kurtiseme.skyrock.com
 kw.linkedin.com
 kxdcp.yy.com
@@ -6401,11 +6400,9 @@ z-1-video.fszb1-1.fna.fbcdn.net
 z-1.c10r.facebook.com
 z-1.facebook.com
 z-graph.expresswifi.com
-z-m-any-api.facebook.com
 z-m-api.facebook.com
 z-m-external-mad1-1.xx.fbcdn.net
 z-m-external.fceb1-1.fna.fbcdn.net
-z-m-external.fopo1-1.fna.fbcdn.net
 z-m-fbcdn-mini-shv-01-ord1.fbcdn.net
 z-m-fbcdn-shv-01-frt3.fbcdn.net
 z-m-graph.facebook.com
@@ -6627,7 +6624,6 @@ z-p3-cdn.fbsbx.com
 z-p3-external-dfw5-2.xx.fbcdn.net
 z-p3-external-msp1-1.xx.fbcdn.net
 z-p3-external-sin6-1.xx.fbcdn.net
-z-p3-external.faly3-2.fna.fbcdn.net
 z-p3-external.feoh1-1.fna.fbcdn.net
 z-p3-external.fgdl5-2.fna.fbcdn.net
 z-p3-external.fmdc1-1.fna.fbcdn.net
@@ -6861,9 +6857,7 @@ z-p4.www.instagram.com
 z-p42-cdn.fbsbx.com
 z-p42-dcn.fbsbx.com
 z-p42-instagram.c10r.facebook.com
-z-p42-instagram.fbsr2-1.fna.fbcdn.net
 z-p42-instagram.fcrk3-1.fna.fbcdn.net
-z-p42-instagram.flhe2-1.fna.fbcdn.net
 z-p42-instagram.flun1-1.fna.fbcdn.net
 z-p42-instagram.flun1-2.fna.fbcdn.net
 z-p42-scontent-ams3-1.cdninstagram.com
