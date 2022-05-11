@@ -12,7 +12,6 @@ cmp.cdn.thesun.ie
 cmp.deondernemer.nl
 cmp.infopro-digital.com
 cmp.lepoint.fr
-cmp.network-n.com
 cmp.nextday.media
 cmp.osano.com
 cmp.parkers.co.uk
@@ -30,7 +29,6 @@ consent.gutefrage.net
 consent.prismamedia.com
 consent.t-mobile.cz
 consent.themeteocompany.com
-consentement.ouest-france.fr
 cookie.aerostatonet.it
 cookie.consents.app
 cookie.gazeta.pl

@@ -311,7 +311,6 @@ admixer.net
 admized.com
 admob.com
 admonitor.com
-admotion.com.ar
 adn.lrb.co.uk
 adnet.asahi.com
 adnet.biz
@@ -648,7 +647,6 @@ ads.tripod.lycos.co.uk
 ads.tripod.lycos.de
 ads.tripod.lycos.es
 ads.tripod.lycos.it
-ads.tripod.lycos.nl
 ads.tso.dennisnet.co.uk
 ads.twitter.com
 ads.twojatv.info
@@ -685,7 +683,6 @@ ads.yahoo.com
 ads.yap.yahoo.com
 ads.yimg.com
 ads.yldmgrimg.net
-ads.yourfreedvds.com
 ads.youtube.com
 ads.yumenetworks.com
 ads1-adnow.com
@@ -1017,6 +1014,7 @@ analytics.swiggy.com
 analytics.xelondigital.com
 analytics.yahoo.com
 analyticsapi.happypancake.net
+analytik.xyz
 ancientact.com
 aniview.com
 annonser.dagbladet.no
@@ -1468,7 +1466,6 @@ converge-digital.com
 conversantmedia.com
 conversionbet.com
 conversionruler.com
-convertbox.com
 convertingtraffic.com
 convrse.media
 cookies.cmpnet.com
@@ -1528,6 +1525,7 @@ crtv.mate1.com
 crwdcntrl.net
 crypto-loot.org
 ctnetwork.hu
+cubics.com
 culturedcrayon.com
 cumbersomecloud.com
 curtaincows.com
@@ -1675,6 +1673,7 @@ em1.yoursantander.co.uk
 email-clk.adguard.com
 email-opn.adguard.com
 email.m1.bktrksmail.com
+emaillinks.soundiiz.com
 emanog.com
 emebo.com
 emebo.io
@@ -1823,7 +1822,6 @@ frailoffer.com
 franklybundlecarver.com
 free-banners.com
 free-counter.co.uk
-free-counters.co.uk
 freebanner.com
 freecounterstat.com
 freelogs.com
@@ -1951,7 +1949,6 @@ hilltopads.net
 histats.com
 historicalrequest.com
 hit-parade.com
-hit.bg
 hit.ua
 hit.webcentre.lycos.co.uk
 hitbox.com
@@ -2078,6 +2075,7 @@ intelligenceadx.com
 intellitxt.com
 intentsify.io
 interactive.forthnet.gr
+intercom-clicks.com
 intergi.com
 internetfuel.com
 interreklame.de
@@ -2235,9 +2233,6 @@ logs.spilgames.com
 logsss.com
 logua.com
 longinglettuce.com
-look.djfiln.com
-look.ichlnk.com
-look.opskln.com
 look.ufinkln.com
 loopme.com
 lop.com
@@ -2340,6 +2335,7 @@ metanetwork.com
 methodcash.com
 metrics-logger.spot.im
 metrics.api.drift.com
+metrics.articulate.com
 metrics.cnn.com
 metrics.consumerreports.org
 metrics.ctv.ca
@@ -2902,7 +2898,6 @@ rtbidhost.com
 rtbplatform.net
 rtbpop.com
 rtbpopd.com
-rtbtradein.com
 rtmark.net
 rtpdn11.com
 rtxplatform.com
@@ -2941,6 +2936,7 @@ scorecardresearch.com
 scratch2cash.com
 screechingfurniture.com
 screechingstove.com
+scripte-monster.de
 scrubswim.com
 sdkfjxjertertry.com
 seadform.net
@@ -2977,7 +2973,6 @@ sexinyourcity.com
 sexlist.com
 sextracker.com
 shakegoldfish.com
-shakesea.com
 shakesuggestion.com
 shakytaste.com
 shallowsmile.com
@@ -2986,6 +2981,7 @@ shareasale.com
 sharethrough.com
 sharppatch.com
 sher.index.hu
+shermore.info
 shinystat.com
 shinystat.it
 shockinggrass.com
@@ -3325,6 +3321,7 @@ track.flexlinks.com
 track.flexlinkspro.com
 track.freemmo2017.com
 track.game18click.com
+track.lettingaproperty.com
 track.mailalert.io
 track.mailerlite.com
 track.miro.com
@@ -3447,7 +3444,6 @@ tyroo.com
 uarating.com
 ucfunnel.com
 udkcrj.com
-udncoeln.com
 uib.ff.avast.com
 ukoffzeh.com
 ultimateclixx.com
@@ -3496,7 +3492,6 @@ venetrigni.com
 ventivmedia.com
 venturead.com
 verblife-3.co
-verblife-4.co
 verblife-5.co
 vericlick.com
 vertamedia.com
@@ -3593,7 +3588,6 @@ win.iqm.com
 window.nixnet.cz
 wintricksbanner.googlepages.com
 wirecomic.com
-wirelesseuropebalmy.com
 wisepops.com
 witch-counter.de
 wizaly.com

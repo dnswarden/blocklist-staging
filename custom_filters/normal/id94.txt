@@ -1047,7 +1047,6 @@ api.idio.co
 api.immomo.com
 api.indicative.com
 api.infinario.com
-api.instabug.com
 api.intellimize.co
 api.intentiq.com
 api.iperceptions.com
@@ -2619,6 +2618,7 @@ den01.sync.search.spotxchange.com
 depart.trinitymedia.ai
 detect-survey.effectivemeasure.net
 detect.rayjump.com
+deutschebahn.sc.omtrdc.net
 dev-as.cluep.com
 dev-track.adthrive.com
 dev.appboy.com
@@ -3692,6 +3692,7 @@ ipla.hit.stat24.com
 ips-img.iperceptions.com
 ipv6.adrta.com
 ipw.metadsp.co.uk
+iqdigital.demdex.net
 iqzn-useast.adnxs.com
 iqzone.com
 ir-ing-district.clicktale.net
@@ -4306,7 +4307,6 @@ mxvp-ad-config-prod-1.zenmxapps.com
 mxvp-feature-toggle-prod-1.zenmxapps.com
 my-gmtdmp.mookie1.com
 my-ssl.effectivemeasure.net
-my.rtmark.net
 mybbc-analytics.files.bbci.co.uk
 mybuys.com
 mycdn.media.net
@@ -4724,7 +4724,6 @@ pixel.quantcount.com
 pixel.quantserve.com
 pixel.rubiconproject.com
 pixel.rubiconproject.net.akadns.net
-pixel.s3xified.com
 pixel.servebom.com
 pixel.shareaholic.com
 pixel.sojern.com
@@ -5107,7 +5106,6 @@ rm-hk.aarki.net
 rm.aarki.net
 rm.recs.richrelevance.com
 ro-gmtdmp.mookie1.com
-rocketreach.co
 rodeoconfig.yodo1api.com
 roimedia.advertserve.com
 rotaban.ru
@@ -5439,6 +5437,7 @@ sdkapicdn.applanga.com
 sdkapp.mobile.sina.cn
 sdkclick.mobile.sina.cn
 sdkconf.msstatic.com
+sdkconfig.ad.india.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
 sdkconfig.vrvm.com
@@ -5891,7 +5890,6 @@ static.polarcdn.com
 static.popads.net
 static.privacytrck.com
 static.quantcount.com
-static.rocketreach.co
 static.rqmob.com
 static.scroll.com
 static.securedtouch.com
@@ -5940,7 +5938,6 @@ stats.netsolads.com
 stats.playrix.com
 stats.popcap.com
 stats.restartad.com
-stats.sa-as.com
 stats.smartclip.net
 stats.sxp.smartclip.net
 stats.umsns.com

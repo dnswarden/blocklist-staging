@@ -47789,7 +47789,6 @@ cablevision.112.2o7.net
 cablyshaw.com
 cabot.apxor.com
 cac-api.urbanairship.com
-cacerts.thawte.com
 cacfbf85ad2005e4c31.com
 cache-05.pushwoosh.com
 cache-06.pushwoosh.com
@@ -74568,7 +74567,6 @@ gw-metadata.euc1.dynamicyield.com
 gw.adotsolution.com
 gw.flurry.com
 gw.geoedge.be
-gw.line.naver.jp
 gw.localytics.com
 gw.metadata.dynamicyield.com
 gw.pampanetwork.com
@@ -117059,7 +117057,6 @@ shidvvvhi.com
 shiek1ph.com
 shiekh-shoes.ojrq.net
 shield.sitelock.com
-shifen.com
 shifoagn.uk
 shiftboard.actonsoftware.com
 shihoult.com
@@ -122692,7 +122689,6 @@ status.revcontent.com
 status.rubiconproject.com
 status.segment.com
 status.taplytics.com
-status.thawte.com
 status.treasuredata.com
 status.tubeadvertising.eu
 status.unbounce.com
