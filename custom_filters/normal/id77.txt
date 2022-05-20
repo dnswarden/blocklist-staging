@@ -427,7 +427,6 @@ ads.creative-serving.com
 ads.cybersales.cz
 ads.dada.it
 ads.dailycamera.com
-ads.datingyes.com
 ads.delfin.bg
 ads.deltha.hu
 ads.dennisnet.co.uk
@@ -647,6 +646,7 @@ ads.tripod.lycos.co.uk
 ads.tripod.lycos.de
 ads.tripod.lycos.es
 ads.tripod.lycos.it
+ads.tripod.lycos.nl
 ads.tso.dennisnet.co.uk
 ads.twitter.com
 ads.twojatv.info
@@ -1366,6 +1366,7 @@ click.airmalta-mail.com
 click.bkdpt.com
 click.cartsguru.io
 click.cision.com
+click.e.progressive.com
 click.em.blizzard.com
 click.email.bbc.com
 click.email.sonos.com
@@ -1525,7 +1526,6 @@ crtv.mate1.com
 crwdcntrl.net
 crypto-loot.org
 ctnetwork.hu
-cubics.com
 culturedcrayon.com
 cumbersomecloud.com
 curtaincows.com
@@ -1819,7 +1819,6 @@ fpctraffic2.com
 fpjs.io
 fqtag.com
 frailoffer.com
-franklybundlecarver.com
 free-banners.com
 free-counter.co.uk
 freebanner.com
@@ -1912,7 +1911,6 @@ groundtruth.com
 grychiphidu.com
 gscontxt.net
 gstaticx.com
-gtop100.com
 guardedschool.com
 guffawdecipher.com
 gunggo.com
@@ -1989,7 +1987,6 @@ hubadnetwork.com
 hueads.com
 hueadsortb.com
 hueadsxml.com
-huezzcjskf.site
 hurricanedigitalmedia.com
 hurtteeth.com
 hydramedia.com
@@ -3187,6 +3184,7 @@ swordfishdc.com
 swordgoose.com
 t.appsflyer.com
 t.bawafx.com
+t.co
 t.eloqua.com
 t.en25.com
 t.firstpromoter.com
@@ -3522,7 +3520,6 @@ voicevegetable.com
 voluum.com
 voluumtrk2.com
 volvelle.tech
-voodoo-ads.io
 vpon.com
 vrs.cz
 vs.tucows.com
