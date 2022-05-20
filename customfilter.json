@@ -970,14 +970,5 @@
     "totalDomains": "2",
     "lastUpdated": "Wednesday 11 May 2022 07:57:32 AM UTC",
     "value": 107
-  },
-  {
-    "loc": "custom_filters/normal/ecs.txt",
-    "name": "EDNS Client Subnet (ECS)",
-    "category": "geo-located responses",
-    "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/custom_filters/normal/ecs.txt",
-    "totalDomains": "3",
-    "lastUpdated": "Friday 25 February 2022 08:34:40 AM UTC",
-    "value": 108
   }
 ]
