@@ -4,6 +4,7 @@
 1010data.com
 123count.com
 152media.com
+1push.io
 1ts19.top
 2020mustang.com
 206ads.com
@@ -23,7 +24,9 @@
 360track.io
 360yield.com
 3lift.com
+4armn.com
 4info.com
+4rbtr.com
 4seeresults.com
 4strokemedia.com
 51.la
@@ -578,6 +581,7 @@ api-analytics-ru.huami.com
 api-analytics-us.huami.com
 api-telemetry.servers.getgo.com
 api.action-media.ru
+apnanalytics.com
 app-analytics-cn.huami.com
 app-analytics-de.huami.com
 app-analytics-in.huami.com
@@ -606,7 +610,6 @@ appmetrika.yandex.ru
 appnexus.com
 appnexus.net
 appsflyer.com
-appsmonitoring.com
 appstat.petafuel.net
 apptelemetry.io
 apptimize.com
@@ -943,6 +946,7 @@ contentexchange.me
 contentfeed.net
 contentquery.net
 contextweb.com
+convers.link
 conversionlogic.net
 convertexperiments.com
 convertize.com
@@ -1027,7 +1031,6 @@ datatracking.ru
 datatracking.zeddit.com
 datawrapper.de
 dauup.com
-daydot.agency
 dazeads1.online
 dc-storm.com
 de.coremetrics.com
@@ -1085,7 +1088,7 @@ dmtrk.net
 dmtry.com
 dmvbdfblevxvx.com
 dn360.net
-docalytics.com
+doctorpost.net
 dohi.se
 domdex.com
 dotandad.com
@@ -1200,7 +1203,6 @@ emltrk.com
 emsservice.de
 emxdgt.com
 en25.com
-encouragingpast.com
 enecto.com
 engage.wixapps.net
 engagesciences.com
@@ -1282,7 +1284,6 @@ flite.com
 flix360.com
 flurry.com
 flx1.com
-flxads.com
 flxpxl.com
 fmpub.net
 fmv9kweoe06r.com
@@ -1304,6 +1305,7 @@ freespee.com
 freestar.io
 freewayadventureexactly.com
 freewheel.tv
+freshpops.net
 frtyg.com
 frugalrushcap.com
 ftads.net
@@ -1360,7 +1362,6 @@ goasrv.com
 goatcounter.com
 godatafeed.com
 golittretre.info
-gooanalytics.com
 google-analytics.com
 googleadservices.com
 googleanalytics.com
@@ -1412,7 +1413,6 @@ heartbeat.dm.origin.com
 heartbeat.flickr.com
 heatmap.it
 hellobar.com
-helloinsiders.com
 helloworld.com
 highperformancecpm.com
 highperformancecpmnetwork.com
@@ -1463,7 +1463,6 @@ ic-live.com
 id.aftenbladet.no
 id5-sync.com
 idg.com
-idgpublishing.com
 idio.co
 idqqimg.com
 idvert.cz
@@ -3151,6 +3150,7 @@ mkt11184.com
 mkt11187.com
 mkt1119.com
 mkt11190.com
+mkt11191.com
 mkt11192.com
 mkt11193.com
 mkt11197.com
@@ -3267,6 +3267,7 @@ mkt11306.com
 mkt11307.com
 mkt11309.com
 mkt1131.com
+mkt11310.com
 mkt11312.com
 mkt11313.com
 mkt11315.com
@@ -3278,17 +3279,29 @@ mkt11324.com
 mkt11325.com
 mkt11327.com
 mkt11328.com
+mkt11329.com
 mkt1133.com
+mkt11330.com
 mkt11331.com
 mkt11332.com
+mkt11333.com
 mkt11334.com
 mkt11335.com
 mkt11336.com
 mkt11339.com
 mkt1134.com
+mkt11340.com
 mkt11341.com
+mkt11342.com
+mkt11346.com
+mkt11347.com
+mkt11348.com
 mkt1135.com
+mkt11352.com
+mkt11355.com
+mkt11356.com
 mkt1136.com
+mkt11360.com
 mkt1137.com
 mkt1138.com
 mkt1139.com
@@ -12649,7 +12662,6 @@ peer39.net
 peerius.com
 pepperjam.com
 pepperjamnetwork.com
-perfb.com
 perfdrive.com
 perfectaudience.com
 perfectmarket.com
@@ -12737,6 +12749,7 @@ porovname.cz
 portbay.trade
 possessedcrackinghart.com
 postrelease.com
+postsupport.net
 postup.com
 pow7.com
 powerlinks.com
@@ -12800,6 +12813,7 @@ pubstack.io
 pubtrack.co
 pulsemgr.com
 pump.to
+pupok.link
 purch.com
 purebushesprop.com
 purpleads.io
@@ -12809,6 +12823,7 @@ pusherapp.com
 pushlinck.com
 pushlog.wsoft.ru
 pushmeup.art
+pushnow.net
 pushpad.xyz
 pushprofit.net
 pushprofit.ru
@@ -13022,6 +13037,7 @@ secretmedia.com
 securedvisit.com
 securemetrics.apple.com
 securemetrics.co.uk
+securemetrics.yeezygap.com
 securepaths.com
 seedtag.com
 segment.com
@@ -13147,6 +13163,7 @@ smartstream.tv
 smct.co
 smetrics.10play.com.au
 smetrics.1800contacts.com
+smetrics.1kapp.com
 smetrics.24hourfitness.com
 smetrics.28degreescard.com.au
 smetrics.3m.com
@@ -13332,6 +13349,7 @@ smetrics.consumerreports.org
 smetrics.converse.com
 smetrics.convivacarecenters.com
 smetrics.coolray.com
+smetrics.cooltoday.com
 smetrics.copart.com
 smetrics.corpayone.com
 smetrics.correos.es
@@ -13640,6 +13658,7 @@ smetrics.mosquitojoe.com
 smetrics.motioncanada.ca
 smetrics.motionindustries.com
 smetrics.motortrend.com
+smetrics.mounjaro.com
 smetrics.moving.com
 smetrics.mphasis.com
 smetrics.mrappliance.com
@@ -13937,6 +13956,7 @@ smetrics.tv2.dk
 smetrics.tyro.com
 smetrics.ubi.com
 smetrics.uhc.com
+smetrics.unfcu.org
 smetrics.unipolsai.it
 smetrics.uol.com.br
 smetrics.ups.com
@@ -14109,7 +14129,6 @@ stats.sa-as.com
 stats.safeway.com
 stats.searchanise.com
 stats.unity3d.com
-stats.valitype.com
 stats.victoriaplum.com
 stats.videodelivery.net
 stats.vk-portal.net
@@ -14211,6 +14230,8 @@ techtarget.com
 teenyreligious.com
 tekblue.net
 telematicsdirect.com
+telemetry-cii.api.playstation.com
+telemetry-console.api.playstation.com
 telemetry-dce.gfe.nvidia.com
 telemetry-experiment.cdn.mozilla.net
 telemetry-in.battle.net
@@ -14301,6 +14322,7 @@ track.sublytics-5dae180ba29aa.com
 track.sublytics-5db9e5dd1b2c2.com
 track.sublytics-5df8eec4bca66.com
 track.sublytics-600afc6bd3e89.com
+track.sublytics-6227d0528962d.com
 track.thesaurus.com
 track.tproger.ru
 track.untd.com
@@ -14589,7 +14611,6 @@ webtrends.com
 webtrends.telegraph.co.uk
 webtrendslive.com
 webvisor.org
-wedgeenclosed.com
 weekli.systems
 whackaggressive.com
 whoisvisiting.com
