@@ -6860,7 +6860,6 @@ z-p42-cdn.fbsbx.com
 z-p42-dcn.fbsbx.com
 z-p42-instagram.c10r.facebook.com
 z-p42-instagram.fcrk3-1.fna.fbcdn.net
-z-p42-instagram.flun1-1.fna.fbcdn.net
 z-p42-instagram.flun1-2.fna.fbcdn.net
 z-p42-scontent-ams3-1.cdninstagram.com
 z-p42-scontent-amt2-1.cdninstagram.com

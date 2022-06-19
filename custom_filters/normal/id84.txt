@@ -26,7 +26,6 @@
 3lift.com
 4armn.com
 4info.com
-4rbtr.com
 4seeresults.com
 4strokemedia.com
 51.la
@@ -46,7 +45,6 @@ a8723.com
 a9.com
 aa-metrics.beauty.hotpepper.jp
 aa-metrics.hotpepper.jp
-aa-metrics.hpbcosme.com
 aa-metrics.jalan.net
 aamapi.com
 aamsitecertifier.com
@@ -281,7 +279,6 @@ adserver.doccheck.com
 adserver.html.it
 adserver.lenouvelliste.com
 adserver.logisticaprofesional.com
-adserver.maispb.com.br
 adserver.mk
 adserver.pandora.com
 adserver.pressboard.ca
@@ -473,7 +470,6 @@ analytics.functionofbeauty.com
 analytics.gandi.net
 analytics.generalmills.com
 analytics.getshogun.com
-analytics.ghostery.com
 analytics.global.sky.com
 analytics.google.com
 analytics.greensender.pl
@@ -554,7 +550,6 @@ analytics.valiuz.com
 analytics.webpushr.com
 analytics.xl.pt
 analytics.yahoo.com
-analytics.yard.nl
 analytics.yolacdn.net
 analytics.yongjinbao.com.cn
 analytics.yugen.to
@@ -664,7 +659,6 @@ badskates.com
 bae5tracker.com
 bakeronerousfollowing.com
 bam-x.com
-banner.profile.ru
 banner.ws.pho.to
 bannerflow.com
 banners.evoluhcion.es
@@ -943,7 +937,6 @@ content-square.net
 content.ad
 contentclick.co.uk
 contentexchange.me
-contentfeed.net
 contentquery.net
 contextweb.com
 convers.link
@@ -1196,7 +1189,6 @@ emlfiles2.com
 emlfiles3.com
 emlfiles4.com
 emlfiles5.com
-emlfiles6.com
 emlfiles8.com
 emlfiles9.com
 emltrk.com
@@ -1439,7 +1431,6 @@ hsadspixel.net
 hskwq.com
 hsleadflows.net
 hsms04.com
-hsms07.com
 hsms08.com
 hsstatic.net
 html5-ads.vk-apps.com
@@ -2979,6 +2970,7 @@ mkt11015.com
 mkt11016.com
 mkt11017.com
 mkt11018.com
+mkt11019.com
 mkt1102.com
 mkt11020.com
 mkt11021.com
@@ -3126,6 +3118,7 @@ mkt11157.com
 mkt11158.com
 mkt11159.com
 mkt1116.com
+mkt11160.com
 mkt11161.com
 mkt11163.com
 mkt11164.com
@@ -3159,6 +3152,7 @@ mkt11199.com
 mkt1120.com
 mkt11200.com
 mkt11201.com
+mkt11202.com
 mkt11203.com
 mkt11204.com
 mkt11205.com
@@ -3176,6 +3170,7 @@ mkt11215.com
 mkt11216.com
 mkt11217.com
 mkt11218.com
+mkt11219.com
 mkt1122.com
 mkt11220.com
 mkt11221.com
@@ -3210,7 +3205,9 @@ mkt11248.com
 mkt11249.com
 mkt1125.com
 mkt11250.com
+mkt11251.com
 mkt11252.com
+mkt11253.com
 mkt11254.com
 mkt11256.com
 mkt11257.com
@@ -3219,6 +3216,7 @@ mkt11259.com
 mkt1126.com
 mkt11260.com
 mkt11261.com
+mkt11262.com
 mkt11263.com
 mkt11264.com
 mkt11265.com
@@ -3247,6 +3245,7 @@ mkt11285.com
 mkt11286.com
 mkt11287.com
 mkt11288.com
+mkt11289.com
 mkt1129.com
 mkt11290.com
 mkt11291.com
@@ -3262,21 +3261,30 @@ mkt1130.com
 mkt11300.com
 mkt11301.com
 mkt11302.com
+mkt11303.com
 mkt11304.com
 mkt11306.com
 mkt11307.com
+mkt11308.com
 mkt11309.com
 mkt1131.com
 mkt11310.com
+mkt11311.com
 mkt11312.com
 mkt11313.com
+mkt11314.com
 mkt11315.com
 mkt11316.com
+mkt11317.com
+mkt11318.com
 mkt11319.com
 mkt1132.com
 mkt11320.com
+mkt11321.com
+mkt11322.com
 mkt11324.com
 mkt11325.com
+mkt11326.com
 mkt11327.com
 mkt11328.com
 mkt11329.com
@@ -3288,22 +3296,43 @@ mkt11333.com
 mkt11334.com
 mkt11335.com
 mkt11336.com
+mkt11337.com
+mkt11338.com
 mkt11339.com
 mkt1134.com
 mkt11340.com
 mkt11341.com
 mkt11342.com
+mkt11343.com
+mkt11344.com
+mkt11345.com
 mkt11346.com
 mkt11347.com
 mkt11348.com
+mkt11349.com
 mkt1135.com
+mkt11350.com
+mkt11351.com
 mkt11352.com
+mkt11353.com
+mkt11354.com
 mkt11355.com
 mkt11356.com
+mkt11359.com
 mkt1136.com
 mkt11360.com
+mkt11361.com
+mkt11362.com
+mkt11364.com
+mkt11366.com
+mkt11367.com
+mkt11368.com
+mkt11369.com
 mkt1137.com
+mkt11370.com
+mkt11373.com
 mkt1138.com
+mkt11382.com
 mkt1139.com
 mkt1140.com
 mkt1141.com
@@ -12729,7 +12758,6 @@ placed.com
 playbuzz.com
 player-telemetry.vimeo.com
 playground.xyz
-playwrightglancing.com
 plista.com
 plugerr.com
 plumposterity.com
@@ -13036,6 +13064,7 @@ seat.it
 secretmedia.com
 securedvisit.com
 securemetrics.apple.com
+securemetrics.athletawell.com
 securemetrics.co.uk
 securemetrics.yeezygap.com
 securepaths.com
@@ -13180,7 +13209,6 @@ smetrics.abbott
 smetrics.abbvie.com
 smetrics.abercrombie.com
 smetrics.accaglobal.com
-smetrics.accreditedlink.com
 smetrics.active.com
 smetrics.activecommunities.com
 smetrics.aem.playstation.com
@@ -13189,6 +13217,7 @@ smetrics.aetnamedicare.com
 smetrics.agillink.com
 smetrics.aia.com
 smetrics.airbank.cz
+smetrics.airbnbrio.com
 smetrics.aircanada.com
 smetrics.aireserv.com
 smetrics.ajinomoto.co.jp
@@ -13316,6 +13345,8 @@ smetrics.cdw.com
 smetrics.cdwg.com
 smetrics.cedars-sinai.org
 smetrics.celebritycruises.com
+smetrics.centerwell.com
+smetrics.centerwellpharmacy.com
 smetrics.centerwellprimarycare.com
 smetrics.centurylink.com
 smetrics.ceratizit.com
@@ -13402,7 +13433,6 @@ smetrics.dominos.com
 smetrics.dreamlabdata.com
 smetrics.drschollsshoes.com
 smetrics.dryerventwizard.com
-smetrics.dts.com
 smetrics.eastwestbank.com
 smetrics.edc.ca
 smetrics.eddiebauer.com
@@ -13456,6 +13486,7 @@ smetrics.firestonebpco.com
 smetrics.fivestarpainting.com
 smetrics.flagstar.com
 smetrics.flashnews.com.au
+smetrics.fleetcor.com
 smetrics.fnac.ch
 smetrics.fnac.com
 smetrics.fnac.es
@@ -13491,7 +13522,6 @@ smetrics.greenflag.com
 smetrics.groundsguys.com
 smetrics.groupama.fr
 smetrics.grundfos.com
-smetrics.gshock.com
 smetrics.guaranteedrate.com
 smetrics.ha.com
 smetrics.hagerty.co.uk
@@ -13519,9 +13549,11 @@ smetrics.home.kpmg
 smetrics.homeadvisor.com
 smetrics.homes.com
 smetrics.hossintropia.com
+smetrics.hotsy.com
 smetrics.hpe.com
 smetrics.hrblock.com
 smetrics.hsamuel.co.uk
+smetrics.humanabonehealth.com
 smetrics.humanapharmacy.com
 smetrics.huntington.com
 smetrics.hypedc.com
@@ -13688,7 +13720,6 @@ smetrics.naturalizer.com
 smetrics.nba.com
 smetrics.nesn.com
 smetrics.nespresso.com
-smetrics.net-a-porter.com
 smetrics.netspend.com
 smetrics.newark.com
 smetrics.newbalance.com
@@ -13709,7 +13740,6 @@ smetrics.nowtv.com
 smetrics.nowtv.it
 smetrics.nvidia.com
 smetrics.nyandcompany.com
-smetrics.nykaa.com
 smetrics.nykaafashion.com
 smetrics.nyulangone.org
 smetrics.o2online.de
@@ -13719,6 +13749,7 @@ smetrics.ok.dk
 smetrics.oliverpeoples.com
 smetrics.omdia.com
 smetrics.ondacero.es
+smetrics.opdivohcp.com
 smetrics.openshift.com
 smetrics.opensource.com
 smetrics.opsm.com.au
@@ -13835,7 +13866,6 @@ smetrics.seb.ee
 smetrics.seb.lv
 smetrics.securemaxxia.com.au
 smetrics.seguro.mediaset.es
-smetrics.sen.com.au
 smetrics.sephora.com
 smetrics.service-plans.io
 smetrics.sfr.fr
@@ -13902,6 +13932,7 @@ smetrics.synopsys.com
 smetrics.t-mobile.com
 smetrics.t-mobilemoney.com
 smetrics.talbots.com
+smetrics.tataaia.com
 smetrics.taylors.edu.my
 smetrics.tcs.com
 smetrics.td.com
@@ -13981,7 +14012,6 @@ smetrics.vodafone.com.tr
 smetrics.vodafone.es
 smetrics.vodafone.gr
 smetrics.vodafone.in
-smetrics.volgograd.ru
 smetrics.vonage.com
 smetrics.vonageforhome.com
 smetrics.vueling.com
@@ -14011,6 +14041,7 @@ smetrics.workfront.com
 smetrics.workingadvantage.com
 smetrics.worldbank.org
 smetrics.worldmarket.com
+smetrics.wowtv.de
 smetrics.wunetspendprepaid.com
 smetrics.wyndhamhotels.com
 smetrics.yaencontre.com
@@ -14486,7 +14517,6 @@ utarget.ru
 v6lvs.com
 va-endpoint.com
 vacaneedasap.com
-vaebard.com
 vaicore.site
 vaicore.store
 vaicore.xyz
@@ -14615,7 +14645,6 @@ weekli.systems
 whackaggressive.com
 whoisvisiting.com
 widespace.com
-windscreenregimepros.com
 windychinese.com
 wingify.com
 wisepops.com

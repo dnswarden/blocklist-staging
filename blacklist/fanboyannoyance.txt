@@ -11,6 +11,7 @@ cmp.cdn.thesun.co.uk
 cmp.cdn.thesun.ie
 cmp.deondernemer.nl
 cmp.infopro-digital.com
+cmp.lavie.fr
 cmp.lepoint.fr
 cmp.nextday.media
 cmp.osano.com
@@ -87,6 +88,7 @@ push.esputnik.com
 push.getbeamer.com
 push.knd.ro
 push.neko-san.fr
+push.newscraft.io
 rodo.agora.pl
 share.baidu.com
 social.dw.de

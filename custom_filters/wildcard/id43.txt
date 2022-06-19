@@ -4,6 +4,7 @@ boomle.com
 darmarit.org
 dogpile.com
 dynabyte.ca
+ecosia.org
 engo.mint.lgbt
 eulie.de
 gibiru.com
@@ -34,6 +35,7 @@ search.aol.com
 search.azkware.net
 search.biboumail.fr
 search.bluelock.org
+search.brave.com
 search.disroot.org
 search.ethibox.fr
 search.gougeul.org
@@ -154,4 +156,5 @@ www.gruble.de
 www.perfectpixel.de
 www.searxs.eu
 yippy.com
+you.com
 zoek.anchel.nl

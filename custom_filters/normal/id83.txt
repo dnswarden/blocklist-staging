@@ -21,7 +21,6 @@ api.masterprotocols.com
 api.rotatornet.com
 api.standarteng.com
 api.trustedmode.com
-api.upgradedisplay.com
 apprefaculty.pro
 appslinker.net
 areyouahuman.com
@@ -66,6 +65,7 @@ comtakelink.xyz
 conduit-services.com
 contendevff.com
 coolestmedia.net
+coolrat.xyz
 cosmeticsrc.com
 countmake.cool
 covid19-info.online
@@ -203,9 +203,7 @@ omnatuor.com
 onclickbright.com
 onlineformfinder.com
 onlinekey.biz
-outsource.cool
 outube.com
-oyi9f1kbaj.com
 pageanalytics.space
 pagescr.cool
 patithatspartal.pro
@@ -289,18 +287,17 @@ vipicmou.net
 vlc.de
 voxfind.com
 winworker.club
-workcacenter.space
 workdevapp.com
 worksrc.cool
 worldmodel.biz
 wwwyoutube.com
 x41.me
+xmlformats.com
 xn--gmail-bgd.com
 yahoo.om
 yahooc.om
 ydpi.pw
 yourrecovery.net
 yyoutube.com
-zctrack.com
 zief.pl
 zoudlogick.net
