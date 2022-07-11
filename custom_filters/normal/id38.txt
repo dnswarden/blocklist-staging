@@ -4991,10 +4991,12 @@ shaildhar.in.expresswifi.com
 shaildhar2.in.expresswifi.com
 shaildharqa.in.expresswifi.com
 shaildharqa.in.xwf.internet.org
+share-count.donreach.com
 share.api.viber.com
 share.baidu.com
 share.cdn.integration.viber.com
 share.cdn.viber.com
+share.donreach.com
 share.gree.jp
 share.itraffic.su
 share.media.aws.viber.com

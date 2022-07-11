@@ -15,7 +15,6 @@ api.essentialchannel.com
 api.interfacehelper.com
 api.interfacesmode.com
 api.logpartition.com
-api.lookupindex.com
 api.lookupmanager.com
 api.masterprotocols.com
 api.rotatornet.com
@@ -46,7 +45,6 @@ byebyeads.org
 c8xwor.com
 cardinaldata.net
 cdn-js.net
-cdn-mxpnl.com
 check-these-girls-on.live
 ciclonrox.com
 ckk.ai
@@ -56,7 +54,6 @@ clipsold.com
 cloffext.com
 cloneclicks.com
 clonyjohn.com
-closemike.com
 cobalten.com
 codedexchange.com
 coderformylife.info
@@ -163,7 +160,6 @@ linkangood.com
 linkojager.org
 linkpowerapp.com
 linkproext.com
-linksource.cool
 liveupdt.com
 loadsource.org
 loidjony.net
@@ -191,7 +187,6 @@ mppmnetwork.com
 myfood.ltd
 mypushz.com
 mysearch.com
-netanalyzer.space
 new-incoming.email
 nextextlink.com
 nextyourcontent.com
@@ -249,7 +244,6 @@ securesearchnow.com
 securestudies.com
 sendmepush.com
 serenityart.biz
-simonzody.com
 singtraff.cool
 slickfluide.com
 smackbolt.com
@@ -288,7 +282,6 @@ vlc.de
 voxfind.com
 winworker.club
 workdevapp.com
-worksrc.cool
 worldmodel.biz
 wwwyoutube.com
 x41.me

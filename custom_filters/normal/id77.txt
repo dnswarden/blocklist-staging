@@ -65,6 +65,7 @@ ablinks.mail.hinge.co
 aboardlevel.com
 abruptroad.com
 absentstream.com
+absoluteclickscom.com
 absorbingband.com
 abstractedauthority.com
 absurdwater.com
@@ -142,7 +143,6 @@ ad.nettvservices.com
 ad.nozonedata.com
 ad.nttnavi.co.jp
 ad.nwt.cz
-ad.pandora.tv
 ad.period-calendar.com
 ad.preferances.com
 ad.profiwin.de
@@ -366,7 +366,6 @@ ads.aceweb.net
 ads.acpc.cat
 ads.acrosspf.com
 ads.activestate.com
-ads.ad-center.com
 ads.adfox.ru
 ads.administrator.de
 ads.adred.de
@@ -543,7 +542,6 @@ ads.miarroba.com
 ads.mic.com
 ads.mmania.com
 ads.mobilebet.com
-ads.motor-forum.nl
 ads.msn.com
 ads.multimania.lycos.fr
 ads.muslimehelfen.org
@@ -633,7 +631,6 @@ ads.tiktok.com
 ads.tmcs.net
 ads.todoti.com.br
 ads.toplayaffiliates.com
-ads.totallyfreestuff.com
 ads.townhall.com
 ads.travelaudience.com
 ads.trinitymirror.co.uk
@@ -861,7 +858,6 @@ adtrade.net
 adtriplex.com
 adultadvertising.com
 adv-adserver.com
-adv-banner.libero.it
 adv.cooperhosting.net
 adv.donejty.pl
 adv.freeonline.it
@@ -1247,7 +1243,6 @@ boilingumbrella.com
 bongacash.com
 boomads.com
 boomtrain.com
-boost-my-pr.de
 boredcrown.com
 boringcoat.com
 boudja.com
@@ -1314,6 +1309,7 @@ cashengines.com
 cashfiesta.com
 cashpartner.com
 cashstaging.me
+casinopays.com
 casinorewards.com
 casinotraffic.com
 causecherry.com
@@ -1362,6 +1358,8 @@ click.airmalta-mail.com
 click.bkdpt.com
 click.cartsguru.io
 click.cision.com
+click.classmates.com
+click.digital.metaquestmail.com
 click.e.progressive.com
 click.em.blizzard.com
 click.email.bbc.com
@@ -1935,7 +1933,6 @@ hgads.com
 highfalutinroom.com
 hightrafficads.com
 hilariouszinc.com
-hilltopads.net
 histats.com
 historicalrequest.com
 hit-parade.com
@@ -1986,7 +1983,6 @@ hypertracker.com
 hyprmx.com
 hystericalcloth.com
 hystericalhelp.com
-i-clicks.net
 i-i.lt
 i1img.com
 i1media.no
@@ -2152,7 +2148,6 @@ leftliquid.com
 lemmatechnologies.com
 lemnisk.co
 lettucelimit.com
-levelrate.de
 lever-analytics.com
 lfeeder.com
 lfstmedia.com
@@ -2184,6 +2179,7 @@ lightspeedcash.com
 lightstep.medium.systems
 lijit.com
 link-booster.de
+link.uk.expediamail.com
 link4ads.com
 linkadd.de
 linkbuddies.com
@@ -2612,7 +2608,6 @@ piano.io
 picadmedia.com
 piet2eix3l.com
 pietexture.com
-pilotaffiliate.com
 pimproll.com
 ping.ublock.org
 pipedream.wistia.com
@@ -2698,7 +2693,6 @@ protraffic.com
 provenpixel.com
 provexia.com
 prpops.com
-prsaln.com
 prsitecheck.com
 pstmrk.it
 ptoushoa.com
@@ -3161,16 +3155,19 @@ swimslope.com
 swordfishdc.com
 swordgoose.com
 t.appsflyer.com
+t.armchairbookie.com
 t.bawafx.com
 t.carta.com
 t.co
 t.eloqua.com
+t.email.superdrug.com
 t.en25.com
 t.firstpromoter.com
 t.insigit.com
 t.irtyd.com
 t.leady.com
 t.news.browns-restaurants.co.uk
+t.notif-colissimo-laposte.info
 t.salesmatemail.com
 t.vacations.disneydestinations.com
 t.visit.disneydestinations.com
@@ -3298,10 +3295,12 @@ track.flexlinks.com
 track.flexlinkspro.com
 track.freemmo2017.com
 track.game18click.com
+track.homejobs.careers
 track.lettingaproperty.com
 track.mailalert.io
 track.mailerlite.com
 track.miro.com
+track.nationalgunrights.org
 track.segmetrics.io
 track.software-codes.com
 track.themaccleanup.info
@@ -3393,10 +3392,12 @@ trk.bc.shutterfly.com
 trk.bee-data.com
 trk.pinterest.com
 trk.techtarget.com
+trk.us-learn-teacher-poetry.xyz
 trk42.net
 trkn.us
 trknths.com
 trkoptimizer.com
+trkpnt.ongage.net
 trmit.com
 truckstomatoes.com
 truehits.net
@@ -3443,7 +3444,6 @@ user-shield-check.com
 userreplay.com
 userreplay.net
 users.maxcluster.net
-usingirritatecordial.com
 utils.mediageneral.net
 utl-1.com
 uttermosthobbies.com
@@ -3457,7 +3457,6 @@ valueclick.com
 valueclickmedia.com
 valuecommerce.com
 vanfireworks.com
-variablefitness.com
 vcommission.com
 veille-referencement.com
 velismedia.com
@@ -3503,6 +3502,7 @@ vungle.com
 w55c.net
 wa.and.co.uk
 waardex.com
+walkets.click
 warlog.ru
 warmafterthought.com
 waryfog.com
@@ -3625,7 +3625,6 @@ zangocash.com
 zanox-affiliate.de
 zanox.com
 zantracker.com
-zarget.com
 zbwp6ghm.com
 zdbb.net
 zealousfield.com

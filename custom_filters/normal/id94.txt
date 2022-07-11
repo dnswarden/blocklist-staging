@@ -610,6 +610,7 @@ adserver.adtech.advertising.com
 adserver.adtech.de
 adserver.adtechjp.com
 adserver.adtechus.com
+adserver.adverty.com
 adserver.bridgebase.com
 adserver.iprom.net
 adserver.merciless.localstars.com
@@ -1044,7 +1045,6 @@ api.growthpush.com
 api.hdtv.letv.com
 api.huq.io
 api.huqindustries.co.uk
-api.iadvize.com
 api.idio.co
 api.immomo.com
 api.indicative.com
@@ -1422,6 +1422,7 @@ assets-v2.yieldify.com
 assets.abbi.io
 assets.adspruce.com
 assets.adstage.io
+assets.anzuinfra.com
 assets.appboycdn.com
 assets.applovin.com
 assets.bounceexchange.com
@@ -1792,6 +1793,7 @@ caesar.iad-03.braze.com
 campaign.ad-brix.com
 campaign.adobe.com
 capi.connatix.com
+caps-server.anzu.io
 carambo.la
 cards-sea-nfl.yinzcam.com
 carfax.sc.omtrdc.net
@@ -1837,7 +1839,6 @@ ccgateway.net
 ccpa.psg.nexstardigital.net
 cd.adition.com
 cd.connatix.com
-cdlc.iadvize.com
 cdm.connatix.com
 cdn-3.convertexperiments.com
 cdn-3.convertexperiments.com.edgekey.net
@@ -2131,7 +2132,6 @@ chidc2.outbrain.org
 choices.trustarc.com
 choices.truste.com
 churchdwightsizmek22033498.s.moatpixel.com
-ci-mpsnare.iovation.com
 ci.iasds01.com
 ciq.dmpxs.com
 cj.mplxtms.com
@@ -2238,7 +2238,6 @@ co.akisinn.info
 co.dewrain.life
 co.vaicore.site
 co.vaicore.xyz
-cobrowsing-ha.iadvize.com
 code.directadvert.ru
 code.hot-mob.com
 code.metalocator.com
@@ -2739,6 +2738,7 @@ dtvc.adsafeprotected.com
 duapps.com
 duiba.com.cn
 dvgtm.akadns.net
+dynamic-l1.anzuinfra.com
 dynamic.criteo.com
 dynamic.da1.vip.prod.criteo.com
 dyntrk.com
@@ -2807,6 +2807,7 @@ embed.sendtonews.com
 embed.tagboard.com.herokudns.com
 embed.tempest-identity.prod.saymedia.com
 emea-v3.tracking.justpremium.com
+emqx.anzuinfra.com
 emxdgt.com
 emxhb.emxdgt.com
 encyclopediabritannica.blueconic.net
@@ -2908,6 +2909,7 @@ events-stream-svc.usw2.cordial.com
 events-us-east-1.ipredictive.com
 events-us-west-2.ipredictive.com
 events.aerserv.com
+events.anzuinfra.com
 events.apester.com
 events.api.boomtrain.com
 events.api.vungle.com
@@ -3011,7 +3013,6 @@ filter.ezmob.com
 filteradkernel.adsimilate.com
 financialtimesdfp415669142494.s.moatpixel.com
 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
-first.iovation.com
 firstimpression.io
 fizzylabs.afftrack.com
 fl.a.ki
@@ -3068,7 +3069,6 @@ freesam.kt.com
 freewheeleventsbidder-east.extend.tv
 front-logs.voodoo-ads.io
 frtn.socdm.com
-fstatic.iadvize.com
 ftpcontent.worldnow.com
 funnel-assets.startappservice.com
 fuse.forbes.com
@@ -3305,7 +3305,6 @@ haaretz.pushwoosh.com
 hades.getsocial.im
 hail-reporting.tutelatechnologies.com
 hal9000.redintelligence.net
-halc.iadvize.com
 halo.ad.gt
 hasmobi.net
 hassaleh.iad-03.braze.com
@@ -3816,6 +3815,8 @@ l.qq.com
 l.sharethis.com
 l.tcp.push.mob.com
 l0-secure.videohub.tv
+l1-1.anzu.io
+l3-2.anzuinfra.com
 l3.evidon.com
 la-match.taboola.com
 la-sync.taboola.com
@@ -3850,7 +3851,6 @@ lbal.wowanalytics.co.uk
 lbdata.tj.ijinshan.com
 lbnyj2.bidder.owneriq.net
 lbsjc.bidder.owneriq.net
-lc.iadvize.com
 lcdn.tsyndicate.com
 lcf.cmplay.cmcm.com
 lciapi.ninthdecimal.com
@@ -3963,6 +3963,7 @@ logging.admicro.vn
 logging.api.intuit.com
 logging.carambo.la
 logging.fishsticksgames.com
+logic.anzuinfra.com
 logs-01.loggly.com
 logs.81plug.com
 logs.datadoghq.com
@@ -4259,7 +4260,6 @@ mparticle.uc.cn
 mpg.taboola.com
 mpnrs.com
 mproxy.banner.linksynergy.com
-mpsnare.iesnare.com
 mpx.mopub.com
 mraid.presage.io
 mraid.prod.cloud.ogury.io
@@ -5862,7 +5862,6 @@ static.gridsumdissector.com
 static.hk5.vip.prod.criteo.net
 static.hotjar.com
 static.hyprmx.com
-static.iadvize.com
 static.innovid.com
 static.intentarget.com
 static.iterable.com
@@ -6425,6 +6424,7 @@ trk.games-to-run123.com
 trk.hot-mob.com
 trk.in25app.com
 trk.kissmetrics.com
+trk.klclick1.com
 trk.pinterest.com
 trk.superads.cn
 trk.tidaltv.com
@@ -6477,6 +6477,7 @@ ud.tubemogul.com
 udc-neb.kampyle.com
 udm.scorecardresearch.com
 udp.push.mob.com
+ue.applovin.com
 ue.flipboard.com
 uefa.pushwoosh.com
 ufs.adkmob.com
@@ -6981,7 +6982,6 @@ xml.ezmob.com
 xml.revrtb.com
 xml1.adsimilate.com
 xmlserving.mobagent.com
-xmpp-ha-alb.iadvize.com
 xpig-dev.directservices.it
 xpromo.g5e.com
 xtr.carambo.la
