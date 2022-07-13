@@ -1,8 +1,6 @@
 Staging blacklist/whitelist/customlist repo for dnswarden
 
 
-* EDNS Client Subnet (ECS) [read more about it here](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/custom_filters/normal/ecs.txt) - id108 
-
 ### AdultFilter dns uses following lists
 
 * adguardcnametrackers - [source](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt) - id71
