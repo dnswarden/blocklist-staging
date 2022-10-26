@@ -22046,6 +22046,7 @@ d33bhlp8xcppz2.cloudfront.net
 d33fc9uy0cnxl9.cloudfront.net
 d347b8264a61d229bec175972d08ae24.report-uri.io
 d34qb8suadcc4g.cloudfront.net
+d35kbxc0t24sp8.cloudfront.net
 d35uxhjf90umnp.cloudfront.net
 d36u3psykfwy91.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
@@ -74560,6 +74561,7 @@ wemql.bemobtrk.com
 wemsacker.com
 wencollection.com
 wenda.io
+wengesog.net
 wengservice.com.br
 wensoono.com
 wentwidespread.com
