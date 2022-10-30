@@ -430,6 +430,7 @@ ad.hyena.cz
 ad.icheck.com.vn
 ad.iinfo.cz
 ad.il.doubleclick.net
+ad.impactify.io
 ad.infoseek.com
 ad.jetsoftware.com
 ad.jia.360.cn
@@ -729,6 +730,7 @@ adhigh.net
 adhoc4.net
 adi.admicro.vn
 adi.vcmedia.vn
+adigi.icu
 adiiix.com
 adikteev.com
 adimage.guardian.co.uk
@@ -1220,7 +1222,6 @@ ads.infi.net
 ads.inmobi.com
 ads.intentiq.com
 ads.interfax.ru
-ads.internal.unity3d.com
 ads.internic.co.il
 ads.ioam.de
 ads.ipowerweb.com
@@ -2451,6 +2452,8 @@ analytics.tintuc.vn
 analytics.trafficfactory.biz
 analytics.truffle.bid
 analytics.twitter.com
+analytics.uca.cloud.unity3d.com
+analytics.unity3d.com
 analytics.userreport.com
 analytics.viblo.asia
 analytics.videocloud.top
@@ -3651,6 +3654,7 @@ belstat.com
 belstat.nl
 belyyeusy.com
 bemachopor.com
+bemobtracks.com
 bemobtrcks.com
 benevolencepair.com
 benonblkd.xyz
@@ -3983,6 +3987,7 @@ buzzoola.com
 bvalphaserver.com
 bvmcdn.net
 bvoffers-elb.go2cloud.org
+bwgavnars.com
 bwlkup.alphonso.tv
 bwp.download.com
 bwstatistics.sapoapps.vn
@@ -5021,6 +5026,7 @@ clk.verblife-5.co
 clk.wbidder.online
 clkads.com
 clkn.amxrtb.com
+clkofafcbk.com
 clkrev.com
 clksite.com
 clkv6.rtpdn14.com
@@ -5142,6 +5148,7 @@ coinzillatag.com
 col.mobileads.msn.com
 col.site24x7rum.eu
 collect.adhacker.online
+collect.analytics.unity3d.com
 collect.data.tm-awx.com
 collect.igodigital.com
 collect.iperceptions.com
@@ -5201,6 +5208,7 @@ comptrffc.com
 comscore.com
 comscoreresearch.com
 comwgi.com
+conary-invered.com
 concernedcondition.com
 concert.io
 concertads-configs.vox-cdn.com
@@ -5798,6 +5806,7 @@ datashreddergold.com
 datawrkz.com
 dataxu.com
 dau.fyber.com
+davaifoa.com
 daz3rw5a5k4h.com
 db3aqu.atdmt.com
 dbaord-frontend.dev.yieldlove.com
@@ -6425,7 +6434,6 @@ eclick.vn
 eclickz.com
 ecm.adflex.vn
 ecn.adflex.vn
-ecommerce.iap.unity3d.com
 economicpizzas.com
 ecoupons.com
 ecpms.net
@@ -7081,6 +7089,7 @@ freshmarketer.com
 freychang.fun
 fridge.consumable.com
 friendlyduck.com
+friendshipmale.com
 frightenedpotato.com
 frionene.xyz
 front-dev-php.trafficfactory.biz
@@ -7247,6 +7256,7 @@ geniusdexchange.com
 genmonet.com
 geo-artifact-staging.simpli.fi
 geo-artifact.simpli.fi
+geo-balanced-collect.deltadna.net
 geo-eu.snigelweb.com
 geo-service.aicactus.io
 geo-storage.amxrtb.com
@@ -7822,6 +7832,7 @@ ht.indexww.com
 htlb.casalemedia.com
 html.polyad.net
 html5.adsrvr.org
+httpkafka-master.ads.prd.ie.internal.unity3d.com
 httpkafka.ads.prd.ie.internal.unity3d.com
 httpkafka.unityads.unity3d.com
 httpool.com
@@ -7939,7 +7950,6 @@ iadsdk.apple.com
 iadworkbench-soak.iad.apple.com
 ialaddin.genieesspv.jp
 iam9p3eri3as5lc6hllege.com
-iap.unity3d.com
 iapclick.gowadogo.com
 iasds01.com
 iaudienc.com
@@ -8164,6 +8174,7 @@ impact-ad.jp
 impact.applifier.com
 impact.smaato.net
 impact.staging.applifier.com
+impactify.io
 impactlaterhand.com
 impactmobile.com
 impactradius-event.com
@@ -8840,6 +8851,7 @@ kvp.m2.ai
 kw3y5otoeuniv7e9rsi.com
 kx.indexexchange.com
 kxnggkh2nj.com
+kybsbwuej.com
 kyson.ad.daum.net
 kz.tns-counter.ru
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
@@ -9149,6 +9161,7 @@ log.fc.yahoo.com
 log.fivecdm.com
 log.gds.mmstat.com
 log.getdropbox.com
+log.giacngo.vn
 log.giaoduc.net.vn
 log.go.com
 log.gop1.co
@@ -9676,6 +9689,7 @@ mediascale.de
 mediashakers.com
 mediasprucetree.com
 mediatext.com
+mediation-tracking.prd.mz.internal.unity3d.com
 mediation.adflex.vn
 mediation.adnxs.com
 mediation.adpushup.com
@@ -10590,6 +10604,7 @@ openx.com
 openx.motgame.vn
 openx.net
 openx2-match.dotomi.com
+operate-sdk-telemetry.unity3d.com
 operationkettle.com
 ophan.theguardian.com
 opienetwork.com
@@ -11412,6 +11427,7 @@ prakritinfixed.com
 praterswhally.com
 prcache.microadinc.com
 prchecker.info
+prd-lender.cdp.internal.unity3d.com
 prd.jwpltx.com
 prdredir.com
 pre-adui.tg.meitu.com
@@ -14062,6 +14078,7 @@ stg-data-vn.ads.heytapmobile.com
 stg-data.ads.heytapmobi.com
 stg-dmp.im-apps.net
 stg-edge.ad1x.com
+stg-lender.cdp.internal.unity3d.com
 stg-partner.breaktime.com.tw
 stg-sync-jp.im-apps.net
 stg-sync.im-apps.net
@@ -16401,6 +16418,7 @@ www.ambientdsp.com
 www.ambleads.com
 www.amxrtb.com
 www.analysis.fi
+www.analytics.unity3d.com
 www.analytics.yahoo.com
 www.andbeyond.media
 www.aniview.com
@@ -17005,6 +17023,7 @@ www.zdupdotxqwj.com
 www.zekiatagur.com
 www.zenadservices.net
 www.zergnet.com
+www.zlbdvgjlxm.com
 www.zxc.world
 www1.effectivemeasure.net
 www1.tynt.com
@@ -17317,6 +17336,7 @@ zigzag.vn
 zijaipse.com
 zikroarg.com
 zintext.com
+zlbdvgjlxm.com
 zlog.mp3.zing.vn
 zlog.zingmp3.vn
 zlp6s.pw
