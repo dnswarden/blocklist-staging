@@ -3903,6 +3903,7 @@ branovate.com
 brazenwholly.com
 breaktime.com.tw
 brealtime.com
+breedwaste.com
 brickandmobile.com
 bridge.ame.admarketplace.net
 bridge.lga1.admarketplace.net
@@ -5163,6 +5164,9 @@ collector-12486.tvsquared.com
 collector-15234.us.tvsquared.com
 collector-16238.us.tvsquared.com
 collector-20079.tvsquared.com
+collector-cps-live.omnitrend.biz
+collector-cps2-live.omnitrend.biz
+collector-cps3-ttt.omnitrend.biz
 collector-px12xk43jk.px-cloud.net
 collector-px4176swub.perimeterx.net
 collector-px8fcgygk4.px-cloud.net
@@ -5386,6 +5390,7 @@ countervov.emitech.vn
 counting.kmindex.ru
 counts.yieldlab.net
 coupling-media.de
+couponinu.net
 coveredbetting.com
 cp.abbp1.pw
 cp.adform.net
@@ -7390,6 +7395,7 @@ gmads.net
 gmossp-sp.jp
 gmtdmp.mookie1.com
 gnar.grammarly.com
+gnqpystsiece.com
 go-clicks.de
 go-mpulse.net
 go-rank.de
@@ -7756,6 +7762,7 @@ hits4pay.com
 hitslink.com
 hittail.com
 hitwebcounter.com
+hjfmaukf.com
 hk-cdn.effectivemeasure.net
 hk-match.taboola.com
 hk-pvmax.tenmax.io
@@ -8974,6 +8981,7 @@ learnadmin.marketo.com
 leaurned-fundonals.com
 lecap-services.fr
 leeethical.com
+leethalo.net
 legacy-ads.axonix.com
 legal.marketo.com
 legalterms.cbsinteractive.com
@@ -10519,6 +10527,7 @@ omkaaqtwzvc.com
 omnatuor.com
 omniscientspark.com
 omnitagjs.com
+omnitrend.biz
 omniture.com
 omo.adsplay.xyz
 oms-t.ants.vn
@@ -14780,6 +14789,7 @@ topsite.lv
 topsites.com.br
 topstats.com
 torimochi.line-apps.com
+tornbed.pro
 torrentz.adclixx.net
 torrentz.adnetasia.com
 torrentz.adtrackers.net
@@ -14859,6 +14869,7 @@ track.cbdatatracker.com
 track.celtra.com
 track.contently.com
 track.cordial.io
+track.couponinu.net
 track.customer.io
 track.datetrck.com
 track.dictionary.com
@@ -15272,6 +15283,7 @@ uat.ncaudienceexchange.com
 ubbfpm.com
 uberads.com
 ubermedia.com
+ubewpjbfo.com
 ubuyanalytics.ubuy.com
 uc.ucweb.com
 ucads.ucweb.com
@@ -16607,6 +16619,7 @@ www.getadmiral.com
 www.getclicky.com
 www.getpublica.com
 www.ggsfq.com
+www.gnqpystsiece.com
 www.go-rillatrack.com
 www.goodnotification.net
 www.google-analytics.com
@@ -16777,6 +16790,7 @@ www.ohchat.net
 www.olkrzytv.com
 www.omappapi.com
 www.omnitagjs.com
+www.omnitrend.biz
 www.onaudience.com
 www.onclickalgo.com
 www.onclickmega.com
@@ -16949,6 +16963,7 @@ www.tubeadvertising.eu
 www.turn.com
 www.twiago.com
 www.tynt.com
+www.ubewpjbfo.com
 www.uciservice.com
 www.ucxfdvhuqwpig.com
 www.ugdturner.com
