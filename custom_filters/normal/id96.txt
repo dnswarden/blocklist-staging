@@ -105,7 +105,6 @@ a.ads1.msn.com
 a.ads2.msn.com
 a.adskeeper.co.uk
 a.adspeed.net
-a.adsplay.xyz
 a.adsrvr.org
 a.adtechjp.com
 a.adtechus.com
@@ -176,7 +175,6 @@ a.vtvdigital.vn
 a.xanga.com
 a.zillastream.com
 a1.adform.net
-a1.adsplay.xyz
 a1.awin1.com
 a135.wftv.com
 a2.adform.net
@@ -184,9 +182,7 @@ a2.chartboost.com
 a2.server.cpmstar.com
 a2.steelhousemedia.com
 a2tw6yoodsag.com
-a3.adsplay.xyz
 a3cloud.net
-a4.adsplay.xyz
 a4.tl
 a8.net
 a9.com
@@ -306,6 +302,7 @@ actions-latb.taboola.com
 actions-nj.taboola.com
 actions-sg.taboola.com
 actionsplash.com
+activate.ensighten.com
 active.iperceptions.com
 activity.serving-sys.com
 actualdeals.com
@@ -706,7 +703,6 @@ adform.net
 adformdsp.net
 adformsync01.admantx.com
 adformui.admantx.com
-adfox-c2s-ams.creativecdn.com
 adfox.yandex.ru
 adfraud.adoptimize.info
 adfs.qadynamics.marketo.com
@@ -828,7 +824,6 @@ admicro5.vcmedia.vn
 admicro6.vcmedia.vn
 admidainsight.com
 admin.adsplay.net
-admin.adsplay.xyz
 admin.andbeyond.media
 admin.appnext.com
 admin.dable.io
@@ -947,7 +942,6 @@ adpxl.co
 adrazzi.com
 adrcdn.com
 adrcntr.com
-adreach.me
 adreactor.com
 adrealclick.com
 adreclaim.com
@@ -1676,7 +1670,6 @@ adsparc.net
 adspeed.net
 adspirit.de
 adsplay.net
-adsplay.xyz
 adspleen.com
 adsplus.vn
 adsponse.de
@@ -1729,7 +1722,6 @@ adsys.townnews.com
 adsystem.simplemachines.org
 adt.com.vn
 adt.cpatrk.net
-adt.effectivemeasure.net
 adt.xdrig.com
 adtag.ad.smaato.net
 adtag.admarketplace.net
@@ -2369,6 +2361,7 @@ analytics.diyriver.io
 analytics.donglogs.com
 analytics.eclick.vn
 analytics.edgekey.net
+analytics.ensighten.com
 analytics.evgcdn.net
 analytics.ff.avast.com
 analytics.fsoft.com.vn
@@ -2626,7 +2619,6 @@ api.adsafeprotected.com
 api.adserver-e7.com
 api.adshop.infolinks.com
 api.adskeeper.co.uk
-api.adsplay.xyz
 api.adspyglass.com
 api.adsymptotic.com
 api.adthor.com
@@ -2851,7 +2843,6 @@ api2.mediaforge.com
 api2.poperblocker.com
 api3.adspruce.com
 api3.siftscience.com
-api4report.adsplay.xyz
 api5.batmobi.net
 apia.headlines.pw
 apifwd.growingio.com
@@ -3218,11 +3209,8 @@ attractiveafternoon.com
 attributionapp.com
 attributiontracker.com
 atwola.com
-au-cdn.effectivemeasure.net
 au-insight.ants.vn
-au-ssl.effectivemeasure.net
 au.ants.vn
-au.effectivemeasure.net
 au.marketo.com
 au.w.inmobi.cn
 au.w.inmobi.com
@@ -4008,7 +3996,6 @@ bzwcgscqnf.com
 bzwdksdngjhay.com
 c-adash.m.taobao.com
 c-api-bit.shopeemobile.com
-c-cdn.effectivemeasure.net
 c-eu.adsymptotic.com
 c-eus.w.inmobi.com
 c-evt.moatads.com
@@ -4049,7 +4036,6 @@ c.deployads.com
 c.doublemax.net
 c.dtscout.com
 c.eclick.vn
-c.effectivemeasure.net
 c.evidon.com
 c.fqtag.com
 c.go-mpulse.net
@@ -4116,7 +4102,6 @@ c4d-cdn.adcolony.com
 c4dm.adcolony.com
 c5.adalyser.com
 c5.gostats.vn
-ca-cdn.effectivemeasure.net
 ca-g2.gumgum.com
 ca.clcknads.pro
 ca.iadsdk.apple.com
@@ -4341,7 +4326,6 @@ cdn.adsfactor.net
 cdn.adskeeper.co.uk
 cdn.adskeeper.com
 cdn.adspirit.de
-cdn.adsplay.xyz
 cdn.adswizz.com
 cdn.adtrue.com
 cdn.advertserve.com
@@ -4426,7 +4410,6 @@ cdn.doubleverify.com
 cdn.dynamicyield.com
 cdn.easyads28.info
 cdn.easyads28.mobi
-cdn.effectivemeasure.net
 cdn.engine.4dsply.com
 cdn.engine.phn.doublepimp.com
 cdn.engine.spotscenered.info
@@ -4738,7 +4721,6 @@ cf.adsfactor.net
 cf.adxcel.com
 cf.alcmpn.com
 cf.artsai.com
-cf.effectivemeasure.net
 cf.iadsdk.apple.com
 cf.im-apps.net
 cfa.2mdnsys.com
@@ -5397,12 +5379,10 @@ couponinu.net
 coveredbetting.com
 cp.abbp1.pw
 cp.adform.net
-cp.adsplay.xyz
 cp.novanet.vn
 cp.polyad.net
 cp.pushwoosh.com
 cp.qc.coccoc.com
-cp1.adsplay.xyz
 cpa-tc.com
 cpa-tracking.mclick.mobi
 cpa.adcolony.com
@@ -5411,7 +5391,6 @@ cpanel.adnetworktech.com
 cpanel.asianmedia.com
 cpays.com
 cpcclick.novanet.vn
-cpd.adsplay.xyz
 cpi.adflex.vn
 cpm-ad.com
 cpm.andbeyond.media
@@ -5618,7 +5597,6 @@ d.adroll.com
 d.adsco.re
 d.adspeed.net
 d.adsplay.net
-d.adsplay.xyz
 d.adup-tech.com
 d.agkn.com
 d.anthill.vn
@@ -5718,7 +5696,6 @@ d5935-1dea9.api.pushwoosh.com
 d5nxst8fruw4z.cloudfront.net
 d6.adsplay.net
 d6jfiirio372.com
-d7.adsplay.xyz
 d9.flashtalking.com
 da-ads.com
 da-cdn.amazon-adsystem.com
@@ -5976,6 +5953,7 @@ despicablereporthusband.com
 dest.modestsunf.com
 detailedglue.com
 detailedgovernment.com
+detect-survey.effectivemeasure.net
 detect.rayjump.com
 detectdiscovery.com
 detik.serving-sys.com
@@ -7059,7 +7037,6 @@ forter.com
 forthcomingpropelwho.com
 fortt-rade.com
 fortvision.com
-forums.sharethis.com
 forzslodge.com
 fouanalytics.com
 fourarithmetic.com
@@ -7070,7 +7047,6 @@ fp.measure.office.com
 fp.metricswpsh.com
 fp.studio.inmobicdn.net
 fqtag.com
-fr-cdn.effectivemeasure.net
 fr.districtm.ca
 fr.indexexchange.com
 fr.marketo.com
@@ -7575,7 +7551,6 @@ gurgle.zdbb.net
 gusabid.adview.com
 gv1.xdrig.com
 gw.flurry.com
-gw01.adsplay.xyz
 gwallet.com
 gwnyc.smaato.net
 gwsfo.smaato.net
@@ -7768,14 +7743,12 @@ hitslink.com
 hittail.com
 hitwebcounter.com
 hjfmaukf.com
-hk-cdn.effectivemeasure.net
 hk-match.taboola.com
 hk-pvmax.tenmax.io
 hk-sync.taboola.com
 hk-vid-events.taboola.com
 hk-wf.taboola.com
 hk.adserver.yahoo.com
-hk.effectivemeasure.net
 hk.meet.ssl2.duapps.com
 hkbid.adview.com
 hkoxlirf.com
@@ -7983,9 +7956,7 @@ icm.kochava.com
 icon.chartboost.com
 iconadserver.com
 icptrack.com
-id-cdn.effectivemeasure.net
 id.adsplay.net
-id.adsplay.xyz
 id.analytics.glance.inmobi.com
 id.anthill.vn
 id.api.glance.inmobi.com
@@ -8219,10 +8190,8 @@ impulsehands.com
 imrworldwide.com
 imrww.exelator.com
 imstks.com
-in-cdn.effectivemeasure.net
 in-gmtdmp.mookie1.com
 in-page-push.com
-in-ssl.effectivemeasure.net
 in-view.gammaplatform.com
 in.admedia.com
 in.adsloads.com
@@ -8280,7 +8249,6 @@ info.criteo.com
 info.leanplum.com
 info.lgsmartad.com
 info.marketo.com
-info.sharethis.com
 info.smaato.com
 info.startappservice.com
 info.static.startappservice.com
@@ -8302,7 +8270,6 @@ ingameads.gameloft.com
 ingest-qa.kube-prod.vungle.com
 ingest.vungle.com
 ingivergrimier.com
-ingress.adsplay.xyz
 ingress.unityads.unity3d.com
 inheritedfinnishdysfunctional.com
 init.startappservice.com
@@ -8500,7 +8467,6 @@ ir.us.y.atwola.com
 irchincsp.com
 irduwhojas.ga
 ireklama.cz
-iris.iad.apple.com
 irncdn.com
 ironbeast.io
 ironsource.mobi
@@ -9144,7 +9110,6 @@ log.ad.xiaomi.com
 log.adap.tv
 log.adflex.vn
 log.adsplay.net
-log.adsplay.xyz
 log.adtimaserver.vn
 log.aimtell.com
 log.ajunews.com
@@ -9164,7 +9129,6 @@ log.beecost.vn
 log.bizlive.vn
 log.btopenworld.com
 log.bumlam.com
-log.byteoversea.com
 log.clarity.ms
 log.d.eclick.vn
 log.daidoanket.vn
@@ -9262,7 +9226,6 @@ log2.adsplay.net
 log3.adsplay.net
 log4.adsplay.net
 log4x.nixcdn.com
-log7.adsplay.xyz
 loga2.doubleverify.com
 logall.doubleverify.com
 logapi.misa.com.vn
@@ -9552,9 +9515,7 @@ mathtag.com
 mathtag.com.edgekey.net
 matomo.cloud
 matomo.ecoe.vn
-matomo.energyfacility.vn
 matomo.hicity.vn
-matomo.magicmarketing.vn
 matomo.quan.hoabinh.vn
 matomo.shac.vn
 matomo.vepg.vn
@@ -9566,8 +9527,6 @@ mautic.bdev.co.th
 mautic.casso.vn
 mautic.chetaomaysaigon.vn
 mautic.cloudify.vn
-mautic.datium.vn
-mautic.dongdomedia.vn
 mautic.easygroup.vn
 mautic.educa.vn
 mautic.educe.vn
@@ -9575,7 +9534,6 @@ mautic.haproinfo.vn
 mautic.hicity.vn
 mautic.hubs.vn
 mautic.icsc.vn
-mautic.itnavi.com.vn
 mautic.jagodo.vn
 mautic.paa.vn
 mautic.serverhub.vn
@@ -9583,7 +9541,6 @@ mautic.sts.vn
 mautic.teky.edu.vn
 mautic.thietkexaynhadep.vn
 mautic.vmax.vn
-mautic.yte-suckhoe.vn
 mavericks.marketo.com
 mavq.net
 maw5r7y9s9helley.com
@@ -9621,13 +9578,11 @@ mdc.meitustat.com
 mdotm.com
 mdsp.avazutracking.net
 mdt-www.marketo.com
-me-cdn.effectivemeasure.net
-me-ssl.effectivemeasure.net
 me.cpatrk.net
-me.effectivemeasure.net
 me.xdrig.com
 measure.admiralmarkets.com
 measure.analysis.fi
+measure.ensighten.com
 measure.office.com
 measuread.com
 measuremap.com
@@ -10072,7 +10027,6 @@ msg.umengcloud.com
 msga.cupid.iqiyi.com
 msgapp.com
 msgose.com
-msn-cdn.effectivemeasure.net
 msn.serving-sys.com
 mstorer.net
 mstr.sharethrough.com
@@ -10119,12 +10073,10 @@ mxs01.cityads.com
 mxs02.cityads.com
 mxvp-ad-config-prod-1.zenmxapps.com
 mxvp-feature-toggle-prod-1.zenmxapps.com
-my-cdn.effectivemeasure.net
 my-pvmax.tenmax.io
 my-ssl.effectivemeasure.net
 my.ad4screen.com
 my.applifier.com
-my.effectivemeasure.net
 my.fatchilli.media
 my.hellobar.com
 my.lifestreet.com
@@ -10443,15 +10395,12 @@ nyalacornily.cam
 nychi2.outbrain.com
 nyidt.adsafeprotected.com
 nytimes-d.openx.net
-nz-cdn.effectivemeasure.net
-nz-ssl.effectivemeasure.net
 nzaza.com
 nzihjybdeq.com
 nzurlmq.com
 o-s.io
 o.addthis.com
 o.adgrx.com
-o.agentanalytics.com
 o.bluekai.com
 o.cityads.com
 o.mainadv.com
@@ -10540,7 +10489,6 @@ omniscientspark.com
 omnitagjs.com
 omnitrend.biz
 omniture.com
-omo.adsplay.xyz
 oms-t.ants.vn
 oms.expedia.com
 omtrdc.net
@@ -10765,7 +10713,6 @@ p.addthis.com
 p.adnxs.com
 p.adrta.com
 p.adsymptotic.com
-p.agentanalytics.com
 p.alcmpn.com
 p.anthill.vn
 p.ants.vn
@@ -11076,7 +11023,6 @@ pge.unityads.unity3d.com
 pgmcdn.com
 pgmediaserve.com
 pgpartner.com
-ph-cdn.effectivemeasure.net
 phanquang.vn
 phasmfranca.com
 pheedo.com
@@ -11250,7 +11196,6 @@ piximedia.com
 pixnet-network-falcon.pixanalytics.com
 pixon.ads-pixiv.net
 pjhku.com
-pk-cdn.effectivemeasure.net
 pk.mainadv.com
 pkhhyool.com
 pl.adxxx.com
@@ -11397,7 +11342,6 @@ poshhateful.com
 pososrhwu2jf8jf09.com
 possessivebucket.com
 possibleboats.com
-post.agentanalytics.com
 post.iperceptions.com
 post.update.3lift.com
 post.update.a-mo.net
@@ -12193,7 +12137,6 @@ report-stats.ad.jiguang.cn
 report-zt.1rx.io
 report.ad4game.com
 report.adsplay.net
-report.adsplay.xyz
 report.adview.cn
 report.adview.com
 report.appmetrica.webvisor.com
@@ -12517,9 +12460,6 @@ rtbr-europe-west.bebi.com
 rtbr-us-central.bebi.com
 rtbr.bebi.com
 rtbrennab.com
-rtbsnip-c2s-ams.creativecdn.com
-rtbsnip-c2s-ash.creativecdn.com
-rtbsnip-c2s-sin.creativecdn.com
 rtbsuperhub.com
 rtbsystem.org
 rtbx.adgrx.com
@@ -12625,7 +12565,6 @@ s.adroll.com
 s.ads.152media.com
 s.adtelligent.com
 s.adx.opera.com
-s.agentanalytics.com
 s.amazon-adsystem.com
 s.atemda.com
 s.axonix.com
@@ -12832,6 +12771,7 @@ scan.adxxx.com
 scanscout.com
 scarabresearch.com
 scarcesign.com
+scarf.ensighten.com
 scarletcashwi5.com
 scatteredheat.com
 scdn.cxense.com
@@ -12901,7 +12841,6 @@ sdk.a-mo.net
 sdk.a4.tl
 sdk.ad.smaato.net
 sdk.adflex.vn
-sdk.adsplay.xyz
 sdk.adspruce.com
 sdk.appadhoc.com
 sdk.appnext.com
@@ -12944,7 +12883,6 @@ se.smaato.net
 se.themoneytizer.com
 sea-u.openx.net
 sea.advertising.yahoo.com
-sea.effectivemeasure.net
 seaboblit.com
 seal.digicert.com
 seal.globalsign.com
@@ -13150,7 +13088,6 @@ sf.vserv.mobi
 sf9yvla26s5t.com
 sftp.criteo.com
 sfw.adsafeprotected.com
-sg-cdn.effectivemeasure.net
 sg-config.sensic.net
 sg-gmtdmp.gd2.mookie1.com
 sg-match.taboola.com
@@ -13449,8 +13386,6 @@ son-in-lawmorbid.com
 sonar.adswizz.com
 songdew.pushengage.com
 sonobi.com
-sony.adsplay.xyz
-sony1.adsplay.xyz
 sop.urekamedia.com
 soperson.com
 sophi.io
@@ -14353,7 +14288,6 @@ syyycc.com
 t-ads.adap.tv
 t.9gag.com
 t.adcell.com
-t.agentanalytics.com
 t.ants.vn
 t.appsflyer.com
 t.beop.io
@@ -14649,7 +14583,6 @@ tg1.playstream.media
 tgdfm.adtdp.com
 tgvbwjbnxz.com
 tgzobwoutuwn.com
-th-cdn.effectivemeasure.net
 thanosofcos5.com
 thapi.flygame.io
 tharbadir.com
@@ -15264,7 +15197,6 @@ u-connect.urekamedia.com
 u-dmp.urekamedia.com
 u-on.eu
 u.acuityplatform.com
-u.agentanalytics.com
 u.atv.duapps.com
 u.cdnwidget.com
 u.dc.duapps.com
@@ -15440,7 +15372,6 @@ urlin.netcoresmartech.com
 uruswan.com
 us-ads.openx.net
 us-adsrv.rtbsuperhub.com
-us-cdn.effectivemeasure.net
 us-central.load.exelator.com
 us-content.mediaforge.com
 us-east-1.event.prod.bidr.io
@@ -15581,7 +15512,6 @@ v.adthor.com
 v.adup-tech.com
 v.bebi.com
 v.doublemax.net
-v.effectivemeasure.net
 v.g.l.inmobicdn.net
 v.gdt.qq.com
 v.lkqd.net
@@ -15967,6 +15897,7 @@ vulcan2.branch.io
 vulcan3.branch.io
 vungle.com
 vuwmxjusucnh.com
+vyfrxuytzn.com
 vymhnxjyj.com
 vz-cdn.trafficjunky.net
 w.ad.style
@@ -16172,12 +16103,6 @@ widgets.outbrain.com
 widgetv4.subiz.com
 widow5blackfr.com
 wieistmeineip.de
-wifi-api.adsplay.xyz
-wifi-api1.adsplay.xyz
-wifi-api2.adsplay.xyz
-wifi-api3.adsplay.xyz
-wifi-api4.adsplay.xyz
-wifi.adsplay.xyz
 wifiads.cleverads.vn
 wiinvent.com.vn
 wiinvent.tv
@@ -16378,7 +16303,6 @@ www.adpone.com
 www.adpopcorn.com
 www.adpushup.com
 www.adrcdn.com
-www.adreach.me
 www.adrealclick.com
 www.adrecover.com
 www.adrta.com
@@ -16586,7 +16510,6 @@ www.duapps.com
 www.dynamicadx.com
 www.eclick.vn
 www.ecpms.net
-www.effectivemeasure.net
 www.ematicsolutions.com
 www.emjcd.com
 www.entravision.com
@@ -17061,19 +16984,9 @@ www.zenadservices.net
 www.zergnet.com
 www.zlbdvgjlxm.com
 www.zxc.world
-www1.effectivemeasure.net
 www1.tynt.com
-www2.effectivemeasure.net
 www3.doubleclick.net
-www3.effectivemeasure.net
 www3.smartadserver.com
-www4.effectivemeasure.net
-www5.effectivemeasure.net
-www6.effectivemeasure.net
-www7.effectivemeasure.net
-www8-ssl.effectivemeasure.net
-www8.effectivemeasure.net
-www9.effectivemeasure.net
 wwwstatic.inspectlet.com
 wxapi.growingio.com
 wyjimapsi.pro
@@ -17138,7 +17051,6 @@ xml.accesstrade.net
 xml.admidainsight.com
 xml.admozartxml.com
 xml.adpicmedia.net
-xml.adreach.me
 xml.adservercheck.net
 xml.adservme.com
 xml.adx1.com
@@ -17201,7 +17113,6 @@ yahoo.adclixx.net
 yahoo.adnetasia.com
 yahoo.adtrackers.net
 yahoo.bannertrack.net
-yahoo.effectivemeasure.net
 yahoo.media.net
 yandexadexchange.net
 yasiwngdihnfe.com
@@ -17313,8 +17224,6 @@ z.optmnstr.com
 z3dmbpl6309s.com
 z5x.net
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
-za-cdn.effectivemeasure.net
-za-ssl.effectivemeasure.net
 za.baomoi.com
 za.zapps.vn
 za.zdn.vn
