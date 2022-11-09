@@ -772,6 +772,7 @@ cisco.facebook.com
 citrix.facebook.com
 cla.developers.google.com
 clearinghouse.one.microsoft.com
+click.redditmail.com
 client.cdn77.com
 client6.google.com
 clientauthconfig.clients6.google.com
