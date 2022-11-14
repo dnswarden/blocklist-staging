@@ -4560,6 +4560,7 @@ cdn.uc.atwola.com
 cdn.unblockia.com
 cdn.undertone.com
 cdn.unibots.in
+cdn.unibotscdn.com
 cdn.unid.go.com
 cdn.unityads.unity3d.com
 cdn.uponelectabuzzor.club
@@ -5753,6 +5754,7 @@ dataserver.adhigh.net
 datashreddergold.com
 datawrkz.com
 dataxu.com
+datk.anythinktech.com
 dau.fyber.com
 davaifoa.com
 daz3rw5a5k4h.com
@@ -11077,6 +11079,7 @@ pixel.condenastdigital.com
 pixel.everesttech.net
 pixel.exelator.com
 pixel.facebook.com
+pixel.gliacloud.com
 pixel.inforsea.com
 pixel.invitemedia.com
 pixel.kargo.com
@@ -12788,7 +12791,6 @@ sdk.persona.ly
 sdk.pushdi.com
 sdk.s.360.cn
 sdk.sharethrough.com
-sdk.split.io
 sdk.starbolt.io
 sdk.truepush.com
 sdkconfig.ad.india.xiaomi.com
@@ -12948,6 +12950,7 @@ server.asianmedia.com
 server.cpmstar.com
 server.ethicalads.io
 server.iad.liveperson.net
+server.zmedia.vn
 serverbid.com
 serversidestats.instant.page
 servethis.com
@@ -13990,6 +13993,7 @@ stream.adbrix.io
 stream.adtimaserver.vn
 stream.org.adtimaserver.vn
 stream.stat-rock.com
+stream.unibotscdn.com
 streaming.adswizz.com
 streaming.playstream.media
 strikead.com
@@ -15215,6 +15219,7 @@ understandintimidate.com
 undertone.com
 undooptimisticsuction.com
 unibots.in
+unibotscdn.com
 unicaitaly.it
 uniconsent.com
 unid.go.com
@@ -17103,7 +17108,6 @@ z5x.net
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 za.baomoi.com
 za.zapps.vn
-za.zdn.vn
 za.zingmp3.vn
 za.zingnews.vn
 zabbix.bidgear.com
