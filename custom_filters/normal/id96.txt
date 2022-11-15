@@ -248,6 +248,7 @@ absoluteclickscom.com
 absorbingband.com
 abstractedauthority.com
 absurdwater.com
+abtasty.com
 abtest.mistat.xiaomi.com
 abutparker.com
 abz.com
@@ -894,6 +895,7 @@ ado.pro-market.net
 adobe-sync.dotomi.com
 adobe.adhaven.com
 adobe.sync.go.sonobi.com
+adobecorp.data.adobedc.net
 adocean.pl
 adonspot.com
 adop.cc
@@ -2118,6 +2120,7 @@ ajfnee.com
 ajouter.net
 ajx272.online
 ajxx91.online
+ak-ads-ns.prisasd.com
 ak-events-collector.spot.im
 ak-is.net
 ak-is2.net
@@ -2451,6 +2454,7 @@ analyticsapi.bsbportal.com
 analyticsnew.overwolf.com
 analyze.accesstrade.net
 anansao2ay8yap09.com
+anapixel.marca.com
 andbeyond.media
 android-sdk.aatkit.com
 android-stat.acestream.net
@@ -2769,6 +2773,7 @@ api.stickers.duapps.com
 api.subiz.com.vn
 api.subiz.net
 api.subiz.xyz
+api.survicate.com
 api.swrve.com
 api.taboola.com
 api.tapjoy.com
@@ -3771,6 +3776,7 @@ blogtopsites.com
 bloodleian.club
 blu.mobileads.msn.com
 bluadz.com
+blue.thehill.com
 blueadss.com
 blueadvertise.com
 bluecava.com
@@ -4188,6 +4194,7 @@ ccc.sys.miui.com
 cccpmo.com
 ccgateway.net
 ccmcroads.com
+ccpa.psg.nexstardigital.net
 ccportal.iad.apple.com
 ccrt-en.ad-stir.com
 ccrt-ja.ad-stir.com
@@ -4406,6 +4413,7 @@ cdn.hbplatform.com
 cdn.heapanalytics.com
 cdn.histats.com
 cdn.house
+cdn.hubvisor.io
 cdn.id5-sync.com
 cdn.idealmedia.io
 cdn.im-apps.net
@@ -5133,6 +5141,7 @@ collector.effectivemeasure.net
 collector.githubapp.com
 collector.leaddyno.com
 collector.megaxh.com
+collector.pi.spectrum.net
 collector.sphgfgx.com
 collector.unsplash.com
 collector.xhamster.com
@@ -5559,6 +5568,7 @@ cybermonitor.com
 cynicaugural.com
 cz.gmads.mookie1.com
 czilladx.com
+czx5eyk0exbhwp43ya.biz
 d-cache.microadinc.com
 d-track.send.microadinc.com
 d.adroll.com
@@ -5712,6 +5722,7 @@ data-public.trafficfactory.biz
 data.24smi.net
 data.abebooks.com
 data.ad-score.com
+data.adobedc.net
 data.adop.cc
 data.ads.heytapmobi.com
 data.ads.oppomobile.com
@@ -6289,6 +6300,7 @@ dync.c.appier.net
 dync2.c.appier.net
 dync4.c.appier.net
 dyntrk.com
+dyv1bugovvq1g.cloudfront.net
 dzienkudrow.com
 e-bannerx.com
 e-eu-central-1.serverbid.com
@@ -6389,6 +6401,7 @@ edge-geo.nc0.co
 edge-west.customer.io
 edge.ad1x.com
 edge.addthis.com
+edge.adobedc.net
 edge.ads.twitch.tv
 edge.bnmla.com
 edge.mdcgate.com
@@ -6541,6 +6554,7 @@ es.adxxx.com
 es.indexexchange.com
 es.themoneytizer.com
 escudotagalog.com
+esdk.data.adobedc.net
 esellerate.net
 esi.amp.permutive.com
 eskimi.com
@@ -6952,6 +6966,7 @@ flimsycircle.com
 floodingonion.com
 floodprincipal.com
 floralrichardapprentice.com
+flowerstreatment.com
 flowgo.com
 fls-cn.amazon-adsystem.com
 fls-eu.amazon-adsystem.com
@@ -7001,6 +7016,7 @@ fouanalytics.com
 fourarithmetic.com
 fourier.taobao.com
 fout.jp
+fp-cdn.azureedge.net
 fp.advertising.microsoft.com
 fp.measure.office.com
 fp.metricswpsh.com
@@ -7098,6 +7114,7 @@ g11v.prd.ads.aws.fwmrm.net
 g2.adspeed.net
 g2.gumgum.com
 g2afse.com
+g2insights-cdn.azureedge.net
 g8.adspeed.net
 g8ads.com
 ga-ads.com
@@ -7473,6 +7490,7 @@ growlr.adsbynimbus.com
 growpush.trackpush.com
 growth.branch.io
 growth.smartconvert.co
+growthrx.in
 grozeesh.com
 grudgewallet.com
 gruschiwere.com
@@ -7785,6 +7803,7 @@ hub.automatad.com
 hub.onfluencer.net
 hub.onmarketer.net
 hub.simpli.fi
+hubvisor.io
 hubzozo.com
 hud.crazyegg.com
 huerty.site
@@ -7905,6 +7924,7 @@ ib.anycast.adnxs.com
 ib.mookie1.com
 ibanwatch.com
 ibd-as-api.iq.com
+ibeat.indiatimes.com
 ibillboard.com
 ibv.lijit.com
 ibv.stat-rock.com
@@ -9021,11 +9041,13 @@ lm.serving-sys.com
 lmht-membership.com
 lmsreport.systems.vn
 ln.gamesrevenue.com
+lngtd.com
 lo8ve6ygour3pea4cee.com
 load.exelator.com
 load.sumome.com
 load.wpm.neustar.biz
 loadan.exelator.com
+loader-cdn.azureedge.net
 loader.sharethis.com
 loadeu.exelator.com
 loading321.com
@@ -9437,6 +9459,7 @@ markmansonbooklst.com
 markofathenaluk.com
 marphezis.com
 mars.media
+martech.condenastdigital.com
 mas-sdk.amazon-adsystem.com
 mas.sector.sk
 masasaudi.com
@@ -9837,6 +9860,7 @@ mobile.yandexadexchange.net
 mobileactive.com
 mobilead.vn
 mobileads.dieuviet.com
+mobileads.indiatimes.com
 mobileadvertisinghub.com
 mobileanalytics.us-east-1.amazonaws.com
 mobileanalytics.useinsider.com
@@ -11122,6 +11146,7 @@ pixel.yabidos.com
 pixel2.cheqzone.com
 pixel2.moatads.com
 pixelappcollector.thesun.co.uk
+pixelcounter.marca.com
 pixelg.adswizz.com
 pixels.ad.gt
 pixels.omnitagjs.com
@@ -11150,6 +11175,7 @@ platform.atdnetwork.com
 platform.bidgear.com
 platform.blueseed.tv
 platform.engageya.com
+platform.iteratehq.com
 platform.jeoway.com
 platform.jsecoin.com
 platform.pubfuture.com
@@ -11721,6 +11747,7 @@ px4.ads.linkedin.com
 pxcel.sharethis.com
 pxl.pbbl.co
 pxl.tsyndicate.com
+pxlctl.elpais.com
 pxrt.adsfactor.net
 pxs.atomex.net
 pymx5.com
@@ -12440,6 +12467,7 @@ rum-http-intake.logs.datadoghq.com
 rum-http-intake.logs.datadoghq.eu
 rum-static.pingdom.net
 rum.browser-intake-datadoghq.com
+rum.condenastdigital.com
 rum.logsss.com
 rum.uptime.com
 rum.wpm.neustar.biz
@@ -12528,6 +12556,7 @@ s.kau.li
 s.kenh14.vn
 s.lkqd.net
 s.logsss.com
+s.media-imdb.com
 s.moatads.com
 s.mopub.com
 s.nend.net
@@ -12883,6 +12912,7 @@ segment-pixel.invitemedia.com
 segment.com
 segment.io
 segment.prod.bidr.io
+segment.psg.nexstardigital.net
 segments.adap.tv
 seisinhinger.com
 sejs.moatads.com
@@ -13179,6 +13209,7 @@ sleevedcaelum.com
 slickaffiliate.com
 slicktext.com
 slight-responsibility.pro
+slike.indiatimes.com
 slimads.vn
 slinks.yadro.ru
 slipperysack.com
@@ -13746,6 +13777,7 @@ static.fuseplatform.net
 static.gammaplatform.com
 static.genieessp.com
 static.getclicky.com
+static.growthrx.in
 static.hbplatform.com
 static.hotjar.com
 static.innovid.com
@@ -14080,12 +14112,14 @@ suriflowers.com
 survey-staging.wootric.com
 survey.chartbeat.net
 survey.g.doubleclick.net
+survey.survicate.com
 survey.wootric.com
 survey2.voicefive.com
 surveys-staging.hotjar.com
 surveys.hotjar.com
 surveys.insightexpressai.com
 surveywall-api.survata.com
+survicate.com
 susifhfh2d8ldn09.com
 sv-api-event.headlines.pw
 sv-api-lottery.headlines.pw
@@ -14401,6 +14435,7 @@ target-us.samsung.com
 target.microsoft.com
 targeting.focas.jp
 targeting.unrulymedia.com
+targeting.washpost.nile.works
 targetingnow.com
 targetnet.com
 targetpoint.com
@@ -14556,6 +14591,7 @@ ticklesign.com
 tidaltv.com
 tiki.ants.vn
 tikivn.api.sociaplus.com
+tilanalytics.timesinternet.in
 timeinc.trc.taboola.com
 tinkoff.cityads.com
 tinybar.com
@@ -15046,6 +15082,7 @@ trustednotice.news
 trusterejecta.com
 trustx.org
 trx.adscale.de
+try.abtasty.com
 ts.alcmpn.com
 ts.siteimprove.com
 tsis.jpush.cn
@@ -15174,6 +15211,7 @@ ui.ad-score.com
 ui.clevernt.com
 uid.bumlam.com
 uid.mavencoalition.io
+uie.data.cbc.ca
 uitopadxdy.com
 ujm.hansel.io
 uk-ads.openx.net
@@ -16137,7 +16175,6 @@ www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www-staging.stack-sonar.com
 www-staging.wootric.com
-www.0i0i0i0.com
 www.12signup.com
 www.152media.com
 www.2leep.com
