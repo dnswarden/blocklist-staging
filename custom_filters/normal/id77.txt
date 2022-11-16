@@ -1354,6 +1354,7 @@ click.bkdpt.com
 click.cartsguru.io
 click.cision.com
 click.classmates.com
+click.comm.rcibank.co.uk
 click.digital.metaquestmail.com
 click.e.progressive.com
 click.em.blizzard.com
@@ -1364,6 +1365,7 @@ click.hookupinyourcity.com
 click.hooligapps.com
 click.kmindex.ru
 click.news.vans.com
+click.nl.npr.org
 click.redditmail.com
 click.twcwigs.com
 click2freemoney.com
@@ -3227,6 +3229,7 @@ tealeaf.com
 tealium.cbsnews.com
 tealium.com
 tealiumiq.com
+tediousticket.com
 tedioustooth.com
 teenrevenue.com
 teenyvolcano.com
