@@ -3139,6 +3139,7 @@ email.victoria50.de
 email.victoria50.fr
 email.victoria50.ie
 email.wisestamp.com
+email.wiseupmexico.com
 email.wooftrax.com
 email.x-plane.com
 email1.advisorycloud.com
@@ -3968,10 +3969,12 @@ gbc2.nl.eu.criteo.com
 gbc2.va.us.criteo.com
 gbc3.da.us.criteo.com
 gbc3.jp2.as.criteo.com
+gbc3.nl.eu.criteo.com
 gbc3.va.us.criteo.com
 gbc4.da.us.criteo.com
 gbc4.fr.eu.criteo.com
 gbc4.nl.eu.criteo.com
+gbc4.sg1.as.criteo.com
 gbc4.va.us.criteo.com
 gbc5.da.us.criteo.com
 gbc5.nl.eu.criteo.com
@@ -4984,6 +4987,7 @@ go.texascapitalbank.com
 go.textmaxxpro.com
 go.thayerleaderdevelopment.com
 go.theadvisorinsider.com
+go.theagencyre.com
 go.theblueground.com
 go.thecarcreditcentre.co.uk
 go.theexpogroup.com
@@ -6609,6 +6613,7 @@ master.ec.eulerian.net
 matby.eulerian.net
 mathon.eulerian.net
 mboxedge31.tt.omtrdc.net
+mboxedge32-02.tt.omtrdc.net
 mboxedge32.tt.omtrdc.net
 mboxedge34-02.tt.omtrdc.net
 mboxedge34.tt.omtrdc.net
@@ -15216,6 +15221,7 @@ www.email.uk.pampers.com
 www.email.victoria.co.uk
 www.email.victoria50.de
 www.email.victoria50.fr
+www.email.wiseupmexico.com
 www.engage.swaindestinations.com
 www.esp.pgregistro.com
 www.eulerian.net
