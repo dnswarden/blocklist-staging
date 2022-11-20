@@ -1073,5 +1073,50 @@
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 107
+    },
+    {
+        "loc":"custom_filters/normal/id108.txt",
+        "name": "hagezi (Multi Light)",
+        "category": "Ads, Privacy, Adblock",
+        "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 108
+    },
+    {
+        "loc":"custom_filters/normal/id109.txt",
+        "name": "hagezi (Multi Normal)",
+        "category": "Ads, Privacy, Adblock",
+        "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 109
+    },
+    {
+        "loc":"custom_filters/normal/id110.txt",
+        "name": "hagezi (Multi Pro)",
+        "category": "Ads, Privacy, Adblock",
+        "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 110
+    },
+    {
+        "loc":"custom_filters/normal/id111.txt",
+        "name": "hagezi (Multi Pro++)",
+        "category": "Ads, Privacy, Adblock",
+        "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.plus.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 111
+    },
+    {
+        "loc":"custom_filters/normal/id112.txt",
+        "name": "hagezi (Threat Intelligence Feeds)",
+        "category": "Malware, Privacy, Adblock",
+        "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 112
     }     
 ]
