@@ -105,3 +105,8 @@
  * https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontent.txt
  * https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistadultcontent.txt
  * https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontentwildcard.txt
+ * https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt
+ * https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt
+ * https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt
+ * https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.plus.txt
+ * https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt
