@@ -534,6 +534,7 @@ ads.genieessp.com
 ads.imbc.com
 ads.jp2.vip.prod.criteo.com
 ads.par.vip.prod.criteo.com
+ads.sg1.vip.prod.criteo.com
 ads.simpli.fi
 ads.spacenine.biz
 ads.us.criteo.com
@@ -3975,6 +3976,7 @@ gbc1.nl.eu.criteo.com
 gbc1.va.us.criteo.com
 gbc2.da.us.criteo.com
 gbc2.nl.eu.criteo.com
+gbc2.sg1.as.criteo.com
 gbc2.va.us.criteo.com
 gbc3.da.us.criteo.com
 gbc3.jp2.as.criteo.com
@@ -12053,6 +12055,7 @@ pi.pardot.com
 pi.piensoymascotas.com
 pinnacle.plato.com.au
 pivotpointsecurity.actonservice.com
+pix-eu.mathtag.com
 pix.am5.vip.prod.criteo.net
 pix.da1.vip.prod.criteo.net
 pix.jp2.vip.prod.criteo.net
