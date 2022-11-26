@@ -2499,6 +2499,7 @@ ablyft.com
 abmaxdigital.com
 abmpyramid.com
 abmr.net
+abn.lczk.cn
 abnegatedigging.com
 abnegatespitefulweep.com
 abnegationbanquet.com
@@ -3990,7 +3991,6 @@ admost-banner.b-cdn.net
 admost.com
 admoxi.com
 admozartxml.com
-admp-tc.delfi.ee
 admp-tc.delfi.lv
 adms.phunusuckhoe.vn
 admsapi.businessweekly.com.tw
@@ -7801,7 +7801,6 @@ anikeoba.com
 animadulte.com
 animal-drawings.com
 animal36.com
-animalrank.com
 animalscottage.org
 animaltoplist.com
 animated-company.pro
@@ -10362,7 +10361,6 @@ banners.oxiads.fr
 banners.passion.com
 banners.payserve.com
 banners.penthouse.com
-banners.perfectgonzo.com
 banners.popads.net
 banners.prikol.ru
 banners.resultonline.com
@@ -10800,6 +10798,7 @@ beastbeef.com
 beastbuying.com
 beastintruder.com
 beastsclassbiscuit.com
+beat.yourtv.jp
 beataemusky.com
 beatbase.live
 beatifulapplabland.com
@@ -17116,6 +17115,9 @@ d-agency.net
 d-bi.fr
 d-cache.microadinc.com
 d-collector.jennifersoft.com
+d-log.asahi.co.jp
+d-log.bs-asahi.tv
+d-log.tv-asahi.co.jp
 d-markets.net
 d-stats.com
 d-test.39.net
@@ -17169,6 +17171,7 @@ d.sondakika.com
 d.t.sieu-viet.com
 d.tocat.co
 d.turn.com
+d.tv-asahi.co.jp
 d.us.criteo.com
 d.wi-fi.ru
 d.ziyuanm.com
@@ -19628,6 +19631,7 @@ driverpaksolution.ru
 driverpartially.com
 drivingdirt.com
 drivotracker.com
+drizzlerules.com
 drjayabalan.com
 drjgjngf.com
 drkness.net
@@ -20831,6 +20835,7 @@ engineering.wootric.com
 engineeringcoaching.com
 enginenetwork.com
 engineseeker.com
+engingsecondu.com
 englandhogmane.com
 englandrelent.com
 englerbraw.com
@@ -21033,7 +21038,6 @@ erringcrambly.com
 errlog.umeng.com
 errlogos.umeng.com
 error.videonow.ru
-errors.perfectgonzo.com
 errors.snackly.co
 erstartirrel.buzz
 ert.eiwagggg.com
@@ -26978,6 +26982,7 @@ iez.jojome.xyz
 ifa.tube8live.com
 ifctpads.inmobicdn.net
 ifinaukncecaf.xyz
+ifknittedhurtful.com
 iframe.adxxx.com
 iframe.mediaplazza.com
 iframe2.adxxx.com
@@ -37621,6 +37626,7 @@ pelicula20.com
 pelisnetwork.com
 peltaush.click
 pem.tamboys.pics
+pemainedperio.com
 pendulumkeg.com
 pendulumtemporary.com
 pengenanu.files.im
@@ -40069,6 +40075,7 @@ pusholympus.com
 pushorg.com
 pushosub.com
 pushosubk.com
+pushowl.com
 pushprofit.net
 pushprofit.ru
 pushpush.net
@@ -41123,6 +41130,8 @@ recs.shareaholic.com
 recsite.smartconvert.co
 recuerdard.com
 recurseagin.com
+recv-entry.tbs.co.jp
+recv-jnn.tbs.co.jp
 recyclingbees.com
 red.erne.co
 red.hatena.ne.jp
@@ -49500,7 +49509,6 @@ top-performance.top
 top-ro.ro
 top-site-list.com
 top-staging.mail.ru
-top.artcomix.com
 top.c-stat.eu
 top.elec.ru
 top.gigmir.net
@@ -52829,6 +52837,7 @@ view-flix.com
 view.adjust.com
 view.adsmanager.ga
 view.atdmt.com
+view.fujitv.co.jp
 view.navdmp.com
 view4cash.de
 viewablemedia.net
@@ -56427,7 +56436,6 @@ zoopy.xyz
 zoosexart.com
 zoosnet.net
 zoossoft.net
-zootoplist.com
 zootravel.com
 zoover.adclixx.net
 zoover.adnetasia.com
