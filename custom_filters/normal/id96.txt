@@ -5676,6 +5676,7 @@ daleriki.com
 damdoor.com
 danarimedia.xml.ak-is2.net
 danban.com
+danbo.org
 dancemistake.com
 dap.digitalgov.gov
 dapper.net
@@ -13268,6 +13269,7 @@ spitzerpfunde.com
 spixel.adsafeprotected.com
 spl.zeotap.com
 splitroute.adserver.yahoo.com
+sponsor.imacdn.com
 sponsorads.de
 sponsorpay.com
 sponsorpro.de
