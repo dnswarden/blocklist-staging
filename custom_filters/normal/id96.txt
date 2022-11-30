@@ -1952,7 +1952,6 @@ adxpansion.com
 adxplay.com
 adxpose.com
 adxpremium.services
-adxprts.com
 adxserve.com
 adxvalue.com
 adxxx.com
@@ -2066,7 +2065,6 @@ ai-personalization-prod-static.demandbase.com
 ai.addthis.com
 ai.nanda.vn
 ai.thanhnien.vn
-aiaisharetrace.com
 aicactus.io
 aidps.atdmt.com
 aif.yadro.ru
@@ -2329,7 +2327,6 @@ analytics.bitrix.info
 analytics.bkav.com
 analytics.bkav.com.vn
 analytics.bluekai.com
-analytics.bluemotionmedia.vn
 analytics.ccgateway.net
 analytics.cdn.live
 analytics.chartboost.com
@@ -6385,7 +6382,6 @@ edge01.chartbeat.net
 edgecdn.bizible.com
 edgeio.com
 editorial.outbrain.com
-edublog.pw
 edxlewni.com
 eehuzaih.com
 eelfadechi.com
@@ -6972,6 +6968,8 @@ fqtag.com
 fr.districtm.ca
 fr.indexexchange.com
 fr.marketo.com
+fra-01.braze.eu
+fra-02.braze.eu
 frailoffer.com
 frame.deployads.com
 frameworkdeserve.com
@@ -7446,7 +7444,6 @@ gta1.growingio.com
 gtmjs.com
 gtop.ro
 gtop100.com
-gtsads.com
 gtsmobi.com
 guardedschool.com
 guardianapps.co.uk
@@ -7612,7 +7609,6 @@ hi-cdn.adsparc.net
 hi.districtm.ca
 hidden.gogoceleb.com
 hidelen.com
-higherincomparablehandicraft.com
 highfalutinroom.com
 highlandscoffee.adsota.com
 highmaidfhr.com
@@ -7972,7 +7968,6 @@ images3.taboola.com
 images4.taboola.com
 images5.taboola.com
 imagesrv.adition.com
-imagineposition.com
 imap.netcoresmartech.com
 imarketservices.com
 imatmobile.com
@@ -8613,7 +8608,6 @@ justuno.com
 justwebads.com
 jwpevent.1rx.io
 jwpltx.com
-jxdqawzenrpw.com
 k.et.nytimes.com
 k.iinfo.cz
 k.logging.admicro.vn
@@ -8662,7 +8656,6 @@ kinesis-doo.xs.ak-is2.net
 king3rsc7ol9e3ge.com
 kinhincauking.website
 kinkledunendly.com
-kiolim.com
 kiosked.com
 kissmetrics.com
 kitbit.net
@@ -8768,7 +8761,6 @@ labs.revcontent.com
 labs.taplytics.com
 ladsp.com
 ladsp.jp
-ladsreds.com
 lakequincy.com
 lalaping.com
 lambingsyddir.com
@@ -8890,7 +8882,6 @@ lightspeedcash.com
 lijit.com
 lijit.pixel.invitemedia.com
 likedstring.com
-lilureem.com
 limeclassycaption.com
 limurol.com
 lingamretene.com
@@ -9988,7 +9979,6 @@ n.gameads.io
 n.gemini.yahoo.com
 n.pc2ads.com
 n.popclck.org
-n176adserv.com
 n4052ad.doubleclick.net
 n4403ad.doubleclick.net
 n69.com
@@ -10042,7 +10032,6 @@ navigator.mediarithmics.com
 navrcholu.cz
 nazarickol.com
 nbjmp.com
-nbnefwuifvp.com
 nbryb.com
 nc.gdt.qq.com
 nc.pubpowerplatform.io
@@ -10050,7 +10039,6 @@ nc0.co
 ncaudienceexchange.com
 nct1.logging.nextsmarty.com
 nct2-logging.nct.vn
-nctylivpwhpby.com
 ndha4sding6gf.com
 ndparking.com
 ndroip.com
@@ -10150,7 +10138,6 @@ nobid.io
 node.gameads.io
 noerwe5gianfor19e4st.com
 noiselessplough.com
-noisysortcasualty.com
 nojscontainer.pepperjam.com
 nol.yahoo.com
 nolrougn.com
@@ -10335,7 +10322,6 @@ omciecoa37tw4.com
 omclyzyapf.com
 omguk.com
 omjitjlhx.com
-omkaaqtwzvc.com
 omnatuor.com
 omniscientspark.com
 omnitagjs.com
@@ -10422,7 +10408,6 @@ openx.motgame.vn
 openx.net
 openx2-match.dotomi.com
 operate-sdk-telemetry.unity3d.com
-operationkettle.com
 ophan.theguardian.com
 opienetwork.com
 opinionstage.com
@@ -10465,7 +10450,6 @@ orbsclawand.com
 ord-ae.conversantmedia.com
 organizationwoundedvast.com
 orgxts.com
-origaniberes.com
 origin-ads.exdynsrv.com
 origin-ads.exosrv.com
 origin-ads.optimizesrv.com
@@ -10664,7 +10648,6 @@ pagexray.fouanalytics.com
 pagiwp.com
 pagne4cham4hrobl.com
 paid.outbrain.com
-paishuno.net
 paleleaf.com
 pamphletconspiracy.com
 panagiatelia.website
@@ -10900,12 +10883,10 @@ pi.ispot.tv
 piads.vn
 pieceredirect.com
 pierisrapgae.com
-pierrottease.com
 piet2eix3l.com
 pietexture.com
 pignuwoa.com
 pigtre.com
-pigwinspath.icu
 pikedhelloed.com
 pikeletkiyi.com
 pilgrimarduouscorruption.com
@@ -11937,7 +11918,6 @@ refersion.com
 reflectivereward.com
 reflushneuma.com
 refnippod.com
-reforge.in
 refpa.top
 refraintupaiid.com
 refresh.pbstck.com
@@ -12677,6 +12657,8 @@ sdk.appnext.com
 sdk.appsflyer.com
 sdk.apptentive.com
 sdk.e.qq.com
+sdk.fra-01.braze.eu
+sdk.fra-02.braze.eu
 sdk.hansel.io
 sdk.heyzap.com
 sdk.iad-01.braze.com
@@ -13148,6 +13130,7 @@ sn.moatads.com
 snap.licdn.com
 snapads.com
 snapgiant.com
+snebbubbled.com
 snigelweb.com
 snippets-codes.creativecdn.com
 snippets-fallback.creativecdn.com
@@ -14439,7 +14422,6 @@ thterras.com
 thumb.dable.io
 thumbnails.infolinks.com
 thunder.adnxs.com
-thurag.com
 tia.timeinc.net
 tiads.timeinc.net
 tibacta.com
@@ -16832,7 +16814,6 @@ xxxcounter.com
 xxxjmp.com
 xxxmyself.com
 xy7elite.com
-xykdglmymu.com
 xymhdmqrjxwl.com
 y.analytics.app-adforce.jp
 y.cdn.adblade.com
@@ -16854,7 +16835,6 @@ yahoo.bannertrack.net
 yahoo.media.net
 yampxuxrjyhv.com
 yandexadexchange.net
-yasiwngdihnfe.com
 yasni.adclixx.net
 yasni.adnetasia.com
 yasni.adtrackers.net
