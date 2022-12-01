@@ -494,6 +494,7 @@ ad.turn.com
 ad.tv2.no
 ad.uk.doubleclick.net
 ad.unimhk.com
+ad.us.sinaimg.cn
 ad.usatoday.com
 ad.vidverto.io
 ad.vietbao.vn
