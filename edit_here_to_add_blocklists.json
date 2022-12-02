@@ -1121,7 +1121,7 @@
     },
     {
         "loc":"custom_filters/normal/id113.txt",
-        "name": "dnswarden (blacklist)",
+        "name": "dnswarden (blacklist extreme)",
         "category": "Ads, Tiny",
         "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklist_extreme.txt",
         "totalDomains": 0,
