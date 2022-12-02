@@ -1,2 +1,3 @@
 doubleclick.net
+hesads.akamaized.net
 mercury.akamaized.net
