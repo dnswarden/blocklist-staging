@@ -617,7 +617,6 @@
 101-vix-260.mktoresp.com
 101-wmj-500.mktoresp.com
 101.6.87.194.dynamic.dol.ru
-101010.pl
 1010296.adoric-om.com
 10112.engine.mobileapptracking.com
 10130.engine.mobileapptracking.com
@@ -37028,7 +37027,6 @@ api.cossette.adgear.com
 api.cpu.baidu.com
 api.crispadvertising.com
 api.crittercism.com
-api.crowdin.com
 api.crowdtangle.com
 api.crowdtwist.com
 api.cupid.iqiyi.com
@@ -47290,6 +47288,7 @@ c.thanksearch.com
 c.thecounter.de
 c.themoneytizer.com
 c.thestat.net
+c.tkkdoc.com
 c.tnkexchange.com
 c.tr.msn.com
 c.tracking.goodgamestudios.com
@@ -49262,7 +49261,6 @@ cdn.content.exoticads.com
 cdn.contentabc.com
 cdn.contentadserver.com
 cdn.contentspread.net
-cdn.cookielaw.org
 cdn.cpiera.com
 cdn.cpmstar.com
 cdn.cpnscdn.com
@@ -49581,7 +49579,6 @@ cdn.petametrics.com
 cdn.platform.openx.com
 cdn.pljs.ru
 cdn.plopx.com
-cdn.plyr.io
 cdn.polmontventures.com
 cdn.popcash.net
 cdn.popmyads.com
@@ -50045,6 +50042,7 @@ cdnatstruat.adgear.com
 cdnaws.mobidea.com
 cdnaz.win
 cdnba.sokrati.com
+cdnbaidu.cjfexmf.cn
 cdnbigdata.azureedge.net
 cdncache2-a.akamaihd.net
 cdncdn.adx1.com
@@ -52936,6 +52934,7 @@ cnz.mmstat.com
 cnzz.com
 cnzz.mmstat.com
 cnzz.net
+cnzz.yifenghuyu.com
 co-gmtdmp.mookie1.com
 co.ad.lgsmartad.com
 co.ads.justpremium.com
@@ -56513,7 +56512,6 @@ crawfordcountybank.com.102.112.2o7.net
 crawlability.com
 crawlclocks.com
 crawler-dev.algolia.com
-crawler.algolia.com
 craydark.pw
 crazy4media.adk2.co
 crazy4media.adk2x.com
@@ -59824,7 +59822,6 @@ deliver.oztam.com.au
 delivere.com
 deliveredby.connectad.io
 deliveroo.7eer.net
-deliveroo.com.sg
 deliveroo.evyy.net
 delivery-asia-northeast-1.openx.net
 delivery-asia-northeast-1.servedbyopenx.com
@@ -61596,6 +61593,7 @@ doc.cnzz.com
 doc.contextweb.com
 doc.evergage.com
 doc.game.open.uc.cn
+doc.hbears.com
 doc.onthe.io
 doc.vidible.tv
 dochase.com
@@ -62565,7 +62563,6 @@ du4rq1xqh3i1k.cloudfront.net
 du73n1kdez35fylsip3fcn7u3jkkt1513559501.nuid.imrworldwide.com
 du8783wkf05yr.cloudfront.net
 dualmarket.info
-dualstack.cloudinary.com
 dualstack.f2.shared.us-eu.fastly.net
 dualvaccine.com
 duamgurza.com
@@ -68933,6 +68930,7 @@ flowplayer.space
 flowstats.net
 flowtec.com.br
 flrdra.com
+flro0c.tianhongbanjia.cn
 flrqdjglshsbi.com
 fls-cn.amazon-adsystem.com
 fls-eu.amazon-adsystem.com
@@ -82209,6 +82207,7 @@ itm-v4.pops.fastly-insights.com
 itm.ivitrack.com
 itmcash.com
 itmedia.122.2o7.net
+itmo8x.zmdwx.com.cn
 itns001.cryptogrot.io
 itnteryield.jmp9.com
 ito2tuxvfwjhjv4bgmsk0t5lwb1xc1508203721.nuid.imrworldwide.com
@@ -83837,7 +83836,6 @@ js.rmbn.ru
 js.ru.redtram.com
 js.rutor.net.pl
 js.sddan.com
-js.sentry-cdn.com
 js.smartredirect.de
 js.smi2.ru
 js.softreklam.com
@@ -89303,6 +89301,7 @@ lwnne.cn
 lwnpbwds.bid
 lwocvazxfnuj.com
 lwqwsptepdxy.com
+lwrao.qycg.wang
 lwsxrphion.com
 lwtduavwbep.com
 lwtsrwwlfd.com
@@ -92174,7 +92173,6 @@ metrica.yandex.ru
 metrica.yandex.ua
 metricfast.com
 metricology.com
-metricool.com
 metrics-api.dimensions.ai
 metrics-api.librato.com
 metrics-cbslocal-com.cdn.ampproject.org
@@ -102430,6 +102428,7 @@ p78929.clksite.com
 p78lld1s.top
 p7hwvdb4p.com
 p7tre.emv3.com
+p7vdqa.mayuetong.cn
 p8.appearch.info
 p8.firrectly.top
 p8.hecherthepar.pro
@@ -108641,6 +108640,7 @@ q6.cnzz.com
 q64a9ris0j.com
 q6jwr0dcik.kameleoon.eu
 q7.cnzz.com
+q784l0.momentchina.cn
 q7je.tlnk.io
 q8eqh.top
 q8ux4fscc7.com
@@ -112502,6 +112502,7 @@ rq.adfox.ru
 rq.adsbing.com
 rq.vserv.mobi
 rq6w3.voluumtrk.com
+rq8otf.sinochemfuheng.cn
 rqaobxvj.com
 rqbxfbls.com
 rqc3w.voluumtrk.com
@@ -118401,7 +118402,6 @@ smartdirect.com
 smarterdownloads.net
 smarterhq.io
 smarterremarketer.net
-smartertravel.com
 smartest.click
 smarteucookiebanner.upsell-apps.com.herokudns.com
 smartfixer.software-phile.com
@@ -127686,6 +127686,7 @@ tqneei.mirtesen.ru
 tqomajswbm.com
 tqpkegddso.com
 tqqjk.top
+tqqvm.haedo.biz
 tqrtxfqvcxkjiv.com
 tqssctwtiihwfs.bid
 tqtoeonkw.bid
@@ -128784,7 +128785,6 @@ tracker.nitropay.com
 tracker.nmp1.com
 tracker.offermarket.net
 tracker.onapps.org
-tracker.opentrackr.org
 tracker.peerclick.io
 tracker.pinnaclesports.com
 tracker.plan2.net
@@ -130373,7 +130373,6 @@ ts.flurry.com
 ts.geo.p.xpanama.net
 ts.idavid.liveperson.net
 ts.istrack.com
-ts.market.mi-img.com
 ts.p.xpanama.net
 ts.richmedia.yahoo.com
 ts.rtl.de
@@ -149521,7 +149520,6 @@ www.tv4chan.com
 www.tvdttzemicrotome.review
 www.tvnews.or.kr
 www.tvpage.com
-www.tvpassport.com
 www.tvshowslist.com
 www.tvsquad.com
 www.twemyksybtripewomen.review
@@ -150651,6 +150649,7 @@ wxvejfvmfwl.com
 wxwxpxtoqmipif.com
 wxxfcyoaymug.com
 wxxjd.voluumtrk.com
+wy6r8d.qejzyy.cn
 wybfcxze.com
 wycji.top
 wydpt.com
@@ -151807,6 +151806,7 @@ xurrehqawu.com
 xuuid.bc646439-8b73-4e0c-826e-cc3ea6705bd5.adk2x.com
 xuvzz.qlvfyxtzjh5.bapb.gdn
 xuwptpzdwyaw.com
+xuwqs.sxtc.wang
 xuwxbdafults.com
 xv3m8ut3y9.s.ad6media.fr
 xv9xm6zxb8.com
@@ -151875,6 +151875,7 @@ xxggvfkuawkri.com
 xxhgzzinkrbbo.com
 xxhqfprml.com
 xxhqq.voluumtrk.com
+xxl.hushenqiquan.com
 xxladu.com
 xxlargepop.com
 xxlink.net

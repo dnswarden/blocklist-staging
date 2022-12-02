@@ -2915,6 +2915,7 @@ appads.com
 appads.in
 appapi.adsafeprotected.com
 appbaqend.com
+appbetnewapp.top
 appboy-images.com
 appboy.com
 appboycdn.com
@@ -4320,6 +4321,7 @@ cdn.bitmedianetwork.com
 cdn.bizible.com
 cdn.blueadss.com
 cdn.blueseed.tv
+cdn.bncloudfl.com
 cdn.bongdadem.net
 cdn.branch.io
 cdn.brand-display.com
@@ -7748,6 +7750,7 @@ hw-cdn.trafficjunky.net
 hw.zuimeitianqi.com
 hwdata1.aniview.com
 hwdata2.aniview.com
+hwpnocpctu.com
 hwstats.unity3d.com
 hybird.rayjump.com
 hybrid.ai
@@ -13979,6 +13982,7 @@ svc-analytics.adkernel.com
 svc.analytics.adkernel.com
 svibeacon.onezapp.com
 sviter2s1olenyami1.com
+svkmxwssih.com
 sw.wpu.sh
 sw88.go.com
 swa.and.co.uk
@@ -15766,6 +15770,7 @@ webportal.criteo.com
 webpower.com
 webpush.bizfly.vn
 webpush.todo.vn
+webpushdirect.biz
 webpushr.com
 webreseau.com
 websdk.appsflyer.com
@@ -15983,6 +15988,7 @@ wt.soundestlink.com
 wtlive.com
 wuksaiho.net
 wurfl.io
+wuzbhjpvsf.com
 wv.inner-active.mobi
 wvhba6470p.com
 ww1.leadboltads.net

@@ -462,7 +462,6 @@ ads.eu.msn.com
 ads.flurry.com
 ads.gionee.com
 ads.gmodules.com
-ads.google.com
 ads.locationforexpert.com
 ads.msn.com
 ads.ninemsn.com.au
@@ -10096,7 +10095,6 @@ mobile.nanopool.org
 mobile.thecoin.pw
 mobile2.da.mgtv.com
 mobileaccess.clona.ru
-mobileads.google.com
 mobileads.msn.com
 mobilelog.kugou.com
 mobilemsg.youku.com
@@ -21607,7 +21605,6 @@ www.tazm9p7tso.trade
 www.tc.hashhot.com
 www.tco.pool.mn
 www.tcr.pool.mn
-www.tdameritrade.com
 www.team.pool.mn
 www.tech.pool.mn
 www.techtricksworld.com

@@ -705,7 +705,6 @@ forum.wgbh.org
 forums.bootleg.org.uk
 forums.darkside-raws.net
 forums.mvgroup.org
-fossbytes.com
 fourfriends.biz
 fox-kids.info
 frankyflip.dns1.us
@@ -1170,7 +1169,6 @@ norgesbyte.net
 norgestorrenten.org
 noviteti.com
 nowarez.se
-npr.org
 ntorrent.yoyo.pl
 ntorrents.net
 ntrace.in
@@ -1959,7 +1957,6 @@ tracker.nyaa.uk
 tracker.nyap2p.com
 tracker.open-internet.nl
 tracker.openbittorrent.com
-tracker.opentrackr.org
 tracker.openwebtorrent.com
 tracker.optus.nu
 tracker.packetstorm.ch

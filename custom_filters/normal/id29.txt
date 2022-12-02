@@ -435,7 +435,6 @@ adzhub.com
 adzip.co
 aegdigitalgroup.com
 aerserv.com
-aetna.com
 aetterweb.info
 affec.tv
 affgold.com
@@ -606,6 +605,7 @@ apeachsky.com
 apero-bigdata.com
 apester.com
 api.b2c.com
+api.crowdin.com
 api.mobula.sdk.duapps.com
 api.wipmania.com
 api.worldsense.com
@@ -1392,6 +1392,7 @@ cquotient.com
 crash.steampowered.com
 crashdump.spotify.com
 crashlytics.com
+crawler.algolia.com
 crazyegg.com
 crealytics.com
 createabetterinternet.com
@@ -1608,6 +1609,7 @@ displaymarketplace.com
 displaywords.com
 displaywords.net
 disqusads.com
+distillery.wistia.com
 distralytics.com
 dl-rms.com
 dleke.com
@@ -13073,7 +13075,6 @@ nexus.officeapps.live.com
 nexusapi.com
 nexusapp.com
 nexusapps.com
-nfltags.com
 nicecdn01.com
 nicecdn02.com
 nilsurvey.info
@@ -13265,7 +13266,6 @@ partnerfeed.itsfogo.com
 passionfruitads.com
 pawamedia.com
 pc20160301.com
-pcapredict.com
 pclick.yahoo.com
 pct-upd.info
 pctupd.info
@@ -13314,6 +13314,7 @@ pingmemessenger.mobi
 pingmemessenger.net
 pingmemessenger.us
 pipeaota.com
+pipedream.wistia.com
 pipeschannels.com
 pippio.com
 piwik.bahag.com
@@ -14044,6 +14045,7 @@ smartology.co
 smartology.net
 smartpassage.com
 smartstream.tv
+smarturl.it
 smb-store.c66.me
 smct.co
 smetrics.mcafee.com
@@ -14626,6 +14628,7 @@ trustedsite.com
 truviewanalytics.com
 truviewdata.com
 trychameleon.com
+ts.market.mi-img.com
 ttmdduyuru.net
 ttxm.co.uk
 tubemogul.com
@@ -14905,7 +14908,6 @@ wickhillnews.com
 wikia-beacon.com
 win30000.com
 win30000.net
-wistia.com
 wistia.net
 wobbegongmedia.net
 woopic.com
