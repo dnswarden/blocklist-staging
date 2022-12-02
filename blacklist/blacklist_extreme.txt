@@ -9,3 +9,4 @@ service.hotstar.com
 settings-analytics.hotstar.com
 videoads.hotstar.com
 vs.hotstar.com
+graph.facebook.com
