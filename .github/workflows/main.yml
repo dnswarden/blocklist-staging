@@ -7,9 +7,6 @@ on:
     paths-ignore:
       - '**.md'
       - '.github/**'
-  pull_request:
-    paths-ignore:
-      - '**.md'  
   workflow_dispatch:
 
 
