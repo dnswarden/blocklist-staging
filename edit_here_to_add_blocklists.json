@@ -1118,5 +1118,14 @@
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 112
+    },
+    {
+        "loc":"custom_filters/normal/id113.txt",
+        "name": "nextdns (Disguised Third-Party Trackers)",
+        "category": "Privacy",
+        "source": "https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 113
     }     
 ]
