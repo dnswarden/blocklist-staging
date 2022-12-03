@@ -1148,7 +1148,7 @@
     },
     {
         "loc":"custom_filters/normal/id116.txt",
-        "name": "nextdns (playstation-network),
+        "name": "nextdns (playstation-network)",
         "category": "Wildcard, Parentalcontrol",
         "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/playstation-network",
         "totalDomains": 0,
@@ -1157,7 +1157,7 @@
     },
     {
         "loc":"custom_filters/normal/id117txt",
-        "name": "nextdns (bereal),
+        "name": "nextdns (bereal)",
         "category": "Wildcard, Parentalcontrol",
         "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/bereal",
         "totalDomains": 0,
@@ -1166,7 +1166,7 @@
     },
     {
         "loc":"custom_filters/normal/id118xt",
-        "name": "nextdns (hbomax),
+        "name": "nextdns (hbomax)",
         "category": "Wildcard, Parentalcontrol",
         "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/hbomax",
         "totalDomains": 0,
