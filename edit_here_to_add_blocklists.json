@@ -1127,5 +1127,50 @@
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 113
+    },
+    {
+        "loc":"custom_filters/normal/id114.txt",
+        "name": "dandelionsprout (anti-malware)",
+        "category": "Malware",
+        "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 114
+    },
+    {
+        "loc":"custom_filters/normal/id115.txt",
+        "name": "nextdns (signal)",
+        "category": "Wildcard, Parentalcontrol",
+        "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 115
+    },
+    {
+        "loc":"custom_filters/normal/id116.txt",
+        "name": "nextdns (playstation-network),
+        "category": "Wildcard, Parentalcontrol",
+        "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/playstation-network",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 116
+    },
+    {
+        "loc":"custom_filters/normal/id117txt",
+        "name": "nextdns (bereal),
+        "category": "Wildcard, Parentalcontrol",
+        "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/bereal",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 117
+    },
+    {
+        "loc":"custom_filters/normal/id118xt",
+        "name": "nextdns (hbomax),
+        "category": "Wildcard, Parentalcontrol",
+        "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/hbomax",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 118
     }    
 ]
