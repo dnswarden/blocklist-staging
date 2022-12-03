@@ -1127,5 +1127,14 @@
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 113
+    },
+    {
+        "loc":"custom_filters/normal/id114.txt",
+        "name": "dandelionsprout (anti-malware)",
+        "category": "Malware",
+        "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 114
     }    
 ]
