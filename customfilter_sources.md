@@ -110,3 +110,5 @@
  * https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt
  * https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.plus.txt
  * https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt
+ * https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklist_extreme.txt
+ * https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
