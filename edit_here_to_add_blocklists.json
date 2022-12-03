@@ -82,7 +82,7 @@
     {
         "loc":"custom_filters/normal/id8.txt",
         "name": "1Hosts (pro)",
-        "category": "Ads, Privacy",
+        "category": "Ads, Privacy, Adblock, Adultfilter",
         "source": "https://badmojr.github.io/1Hosts/Pro/hosts.txt",
         "totalDomains": 0,
         "lastUpdated": "",
