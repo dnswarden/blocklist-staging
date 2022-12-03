@@ -2533,6 +2533,7 @@ apac.sync.im-apps.net
 apapi.adpopcorn.com
 aparvibices.com
 apathetictheory.com
+apathylahuli.website
 apc.socdm.com
 apcdn.lijit.com
 apex-ad.com
@@ -4847,6 +4848,7 @@ click-euro.acuityplatform.com
 click-haproxy.supersonicads.com
 click-mdsp.avazutracking.net
 click-us.mppmnetwork.com
+click-v4.jadspro.live
 click-west.acuityplatform.com
 click.a-ads.com
 click.ad-stir.com
@@ -6945,6 +6947,7 @@ footer-de.themoneytizer.com
 footer-es.themoneytizer.com
 footer.themoneytizer.com
 footprintdns.com
+for-j.com
 forbes.aaxads.com
 forbes.media.net
 forearmthrobjanuary.com
@@ -7010,6 +7013,7 @@ fslt.wpm.neustar.biz
 ftd.agency
 ftp.exponential.com
 ftte.xyz
+fuffscreigh.website
 fullstory.com
 fumarinpest.com
 functionalclam.com
@@ -8430,6 +8434,7 @@ jact.atdmt.com
 jadeitite.com
 jads.co
 jadserve.postrelease.com
+jadspro.live
 jaduda.com
 jaeger.vungle.com
 jaftouja.net
@@ -8680,6 +8685,7 @@ koacojus.net
 kochava.com
 kogutcho.net
 koindut.com
+kokanmokum.tech
 kolkwi4tzicraamabilis.com
 kolobif.com
 komoona.com
@@ -10013,6 +10019,7 @@ nastydollars.com
 nation.marketo.com
 native-ad.net
 native-feed.trackpush.com
+native-track.com
 native-vpaid.adxoo.com
 native-vpaid.winadx.com
 native.adkernel.com
@@ -12366,6 +12373,7 @@ s-cm.send.adnetwork.vn
 s-cs.rmp.rakuten.com
 s-files.innovid.com
 s-img.adskeeper.co.uk
+s-img.adskeeper.com
 s-img.idealmedia.io
 s-img.mgid.com
 s-img.steepto.com
@@ -13632,6 +13640,7 @@ static.hotjar.com
 static.innovid.com
 static.intentarget.com
 static.itrack.it
+static.jadspro.live
 static.juicyads.com
 static.klaviyo.com
 static.lalaping.com
@@ -14004,6 +14013,7 @@ sworkitads.herokuapp.com
 swpsvc.com
 swrve.com
 sya9yncn3q.com
+syenitetatler.tech
 synacor-match.dotomi.com
 sync-eu.connectad.io
 sync-jp.im-apps.net
@@ -14421,6 +14431,7 @@ thoosje.com
 threechurch.com
 thrnt.com
 throattrees.com
+throngsarseno.com
 thrtle.com
 thruport.com
 thterras.com
@@ -16377,6 +16388,7 @@ www.ironsource.mobi
 www.isfxsiooyjad.com
 www.islandmob.com
 www.jads.co
+www.jadspro.live
 www.jeoway.com
 www.jpush.cn
 www.jpush.io
