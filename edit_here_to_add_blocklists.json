@@ -332,7 +332,7 @@
     {
         "loc":"custom_filters/normal/id33.txt",
         "name": "energized (basic)",
-        "category": "Ads, Privacy, Adblock, Adultfilter",
+        "category": "Ads, Privacy",
         "source": "https://block.energized.pro/basic/formats/hosts.txt",
         "totalDomains": 0,
         "lastUpdated": "",
@@ -342,7 +342,7 @@
     {
         "loc":"custom_filters/normal/id34.txt",
         "name": "energized (porn)",
-        "category": "Porn, Adultfilter",
+        "category": "Porn",
         "source": "https://block.energized.pro/porn/formats/domains.txt",
         "totalDomains": 0,
         "lastUpdated": "",
