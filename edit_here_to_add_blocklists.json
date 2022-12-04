@@ -1140,7 +1140,7 @@
     {
         "loc":"custom_filters/normal/id115.txt",
         "name": "hagezi (Multi Ultimate)",
-        "category": "Malware, Privacy",
+        "category": "Ads, Malware, Privacy, Adblock",
         "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate.txt",
         "totalDomains": 0,
         "lastUpdated": "",
