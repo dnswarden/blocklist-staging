@@ -1157,8 +1157,8 @@
     },
     {
         "loc":"custom_filters/normal/id117.txt",
-        "name": "phishing.army extended",
-        "category": "Privacy, Malware, Adblock, Adultfilter",
+        "name": "phishing.army (extended)",
+        "category": "Privacy, Malware",
         "source": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
         "totalDomains": 0,
         "lastUpdated": "",
