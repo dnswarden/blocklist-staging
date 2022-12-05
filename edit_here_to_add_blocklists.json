@@ -63,7 +63,7 @@
         "loc":"custom_filters/normal/id6.txt",
         "name": "1Hosts (mini)",
         "category": "Ads, Privacy",
-        "source": "https://badmojr.github.io/1Hosts/mini/hosts.txt",
+        "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 6
@@ -73,7 +73,7 @@
         "loc":"custom_filters/normal/id7.txt",
         "name": "1Hosts (lite)",
         "category": "Ads, Privacy",
-        "source": "https://badmojr.github.io/1Hosts/Lite/hosts.txt",
+        "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 7
@@ -83,7 +83,7 @@
         "loc":"custom_filters/normal/id8.txt",
         "name": "1Hosts (pro)",
         "category": "Ads, Privacy, Adblock, Adultfilter",
-        "source": "https://badmojr.github.io/1Hosts/Pro/hosts.txt",
+        "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 8
@@ -93,7 +93,7 @@
         "loc":"custom_filters/normal/id9.txt",
         "name": "1Hosts (xtra)",
         "category": "Ads, Privacy",
-        "source": "https://badmojr.github.io/1Hosts/Xtra/hosts.txt",
+        "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 9
