@@ -163,7 +163,7 @@
         "loc":"custom_filters/normal/id16.txt",
         "name": "blocklistproject (abuse)",
         "category": "Privacy, Malware",
-        "source": "https://blocklistproject.github.io/Lists/abuse.txt",
+        "source": "https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 16
@@ -173,7 +173,7 @@
         "loc":"custom_filters/normal/id17.txt",
         "name": "blocklistproject",
         "category": "Ads",
-        "source": "https://blocklistproject.github.io/Lists/ads.txt",
+        "source": "https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 17
@@ -183,7 +183,7 @@
         "loc":"custom_filters/normal/id18.txt",
         "name": "blocklistproject (crypto)",
         "category": "Malware",
-        "source": "https://blocklistproject.github.io/Lists/crypto.txt",
+        "source": "https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 18
@@ -193,7 +193,7 @@
         "loc":"custom_filters/normal/id19.txt",
         "name": "blocklistproject (drugs)",
         "category": "Parentalcontrol",
-        "source": "https://blocklistproject.github.io/Lists/drugs.txt",
+        "source": "https://blocklistproject.github.io/Lists/alt-version/drugs-nl.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 19
@@ -203,7 +203,7 @@
         "loc":"custom_filters/normal/id20.txt",
         "name": "blocklistproject (facebook)",
         "category": "Privacy, Social",
-        "source": "https://blocklistproject.github.io/Lists/facebook.txt",
+        "source": "https://blocklistproject.github.io/Lists/alt-version/facebook-nl.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 20
@@ -213,7 +213,7 @@
         "loc":"custom_filters/normal/id21.txt",
         "name": "blocklistproject (fraud)",
         "category": "Parentalcontrol, Malware",
-        "source": "https://blocklistproject.github.io/Lists/fraud.txt",
+        "source": "https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 21
@@ -223,7 +223,7 @@
         "loc":"custom_filters/normal/id22.txt",
         "name": "blocklistproject (malware)",
         "category": "Malware",
-        "source": "https://blocklistproject.github.io/Lists/malware.txt",
+        "source": "https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 22
@@ -233,7 +233,7 @@
         "loc":"custom_filters/normal/id23.txt",
         "name": "blocklistproject (phishing)",
         "category": "Malware",
-        "source": "https://blocklistproject.github.io/Lists/phishing.txt",
+        "source": "https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 23
@@ -243,7 +243,7 @@
         "loc":"custom_filters/normal/id24.txt",
         "name": "blocklistproject (piracy)",
         "category": "Privacy",
-        "source": "https://blocklistproject.github.io/Lists/piracy.txt",
+        "source": "https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 24
@@ -253,7 +253,7 @@
         "loc":"custom_filters/normal/id25.txt",
         "name": "blocklistproject (porn)",
         "category": "Porn",
-        "source": "https://blocklistproject.github.io/Lists/porn.txt",
+        "source": "https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 25
@@ -263,7 +263,7 @@
         "loc":"custom_filters/normal/id26.txt",
         "name": "blocklistproject (scam)",
         "category": "Parentalcontrol, Malware",
-        "source": "https://blocklistproject.github.io/Lists/scam.txt",
+        "source": "https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 26
@@ -273,7 +273,7 @@
         "loc":"custom_filters/normal/id27.txt",
         "name": "blocklistproject (tiktok)",
         "category": "Privacy, Social",
-        "source": "https://blocklistproject.github.io/Lists/tiktok.txt",
+        "source": "https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 27
@@ -283,7 +283,7 @@
         "loc":"custom_filters/normal/id28.txt",
         "name": "blocklistproject (torrent)",
         "category": "Piracy",
-        "source": "https://blocklistproject.github.io/Lists/torrent.txt",
+        "source": "https://blocklistproject.github.io/Lists/alt-version/torrent-nl.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 28
@@ -293,7 +293,7 @@
         "loc":"custom_filters/normal/id29.txt",
         "name": "blocklistproject (tracking)",
         "category": "Privacy",
-        "source": "https://blocklistproject.github.io/Lists/tracking.txt",
+        "source": "https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 29
@@ -1078,7 +1078,7 @@
         "loc":"custom_filters/normal/id108.txt",
         "name": "hagezi (Multi Light)",
         "category": "Ads, Privacy",
-        "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt",
+        "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 108
@@ -1087,7 +1087,7 @@
         "loc":"custom_filters/normal/id109.txt",
         "name": "hagezi (Multi Normal)",
         "category": "Ads, Privacy",
-        "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt",
+        "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 109
@@ -1096,7 +1096,7 @@
         "loc":"custom_filters/normal/id110.txt",
         "name": "hagezi (Multi Pro)",
         "category": "Ads, Privacy",
-        "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt",
+        "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 110
@@ -1105,7 +1105,7 @@
         "loc":"custom_filters/normal/id111.txt",
         "name": "hagezi (Multi Pro++)",
         "category": "Ads, Privacy",
-        "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.plus.txt",
+        "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 111
@@ -1114,7 +1114,7 @@
         "loc":"custom_filters/normal/id112.txt",
         "name": "hagezi (Threat Intelligence Feeds)",
         "category": "Malware, Privacy",
-        "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt",
+        "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 112
@@ -1132,7 +1132,7 @@
         "loc":"custom_filters/normal/id114.txt",
         "name": "dandelionsprout (anti-malware)",
         "category": "Malware",
-        "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
+        "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 114
@@ -1141,7 +1141,7 @@
         "loc":"custom_filters/normal/id115.txt",
         "name": "dandelionsprout (Nordic Filter for Tidier Websites)",
         "category": "Ads",
-        "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/AdawayHosts",
+        "source": "https://gitlab.com/DandelionSprout/adfilt/raw/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 115
