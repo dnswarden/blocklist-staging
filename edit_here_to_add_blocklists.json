@@ -1172,5 +1172,41 @@
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 118
+    },
+    {
+        "loc":"custom_filters/normal/id119.txt",
+        "name": "USOM (blacklist)",
+        "category": "Malware",
+        "source": "https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/main/urls.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 119
+    },
+    {
+        "loc":"custom_filters/normal/id120.txt",
+        "name": "DuckDuckGo (Tracker Radar)",
+        "category": "Privacy",
+        "source": "https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 120
+    },
+    {
+        "loc":"custom_filters/normal/id121.txt",
+        "name": "nextdns (recommended)",
+        "category": "Ads, Privacy, Malware",
+        "source": "https://raw.githubusercontent.com/cbuijs/accomplist/master/nextdns-recommended/plain.black.domain.list",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 121
+    },
+    {
+        "loc":"custom_filters/normal/id122.txt",
+        "name": "rooneymcnibnug (SNAFU List)",
+        "category": "Ads, Privacy, Malware",
+        "source": "https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 122
     }    
 ]
