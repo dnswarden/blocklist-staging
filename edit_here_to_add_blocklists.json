@@ -1136,5 +1136,41 @@
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 114
+    },
+    {
+        "loc":"custom_filters/normal/id115.txt",
+        "name": "dandelionsprout (Nordic Filter for Tidier Websites)",
+        "category": "Ads",
+        "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/AdawayHosts",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 115
+    },
+    {
+        "loc":"custom_filters/normal/id116.txt",
+        "name": "vdbhb59 (Unified Hosts)",
+        "category": "Ads, Malware",
+        "source": "https://raw.githubusercontent.com/vdbhb59/hosts/master/hosts",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 116
+    },
+    {
+        "loc":"custom_filters/normal/id117.txt",
+        "name": "phishing.army extended",
+        "category": "Privacy, Malware, Adblock, Adultfilter",
+        "source": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 117
+    },
+    {
+        "loc":"custom_filters/normal/id118.txt",
+        "name": "Inversion",
+        "category": "Malware",
+        "source": "https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 118
     }    
 ]
