@@ -1163,5 +1163,14 @@
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 117
+    },
+    {
+        "loc":"custom_filters/normal/id118.txt",
+        "name": "Inversion",
+        "category": "Malware",
+        "source": "https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 118
     }    
 ]
