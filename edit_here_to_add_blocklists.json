@@ -1023,7 +1023,7 @@
         "loc":"custom_filters/normal/id102.txt",
         "name": "bongochong (CombinedPrivacy)",
         "category": "Ads, Privacy",
-        "source": "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts",
+        "source": "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt",
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 102
