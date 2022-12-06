@@ -2365,6 +2365,7 @@ analytics.localytics.com
 analytics.logsss.com
 analytics.m2.ai
 analytics.mailmunch.co
+analytics.map.qq.com
 analytics.mfocus.vn
 analytics.mintegral.net
 analytics.mobile.walmart.com
@@ -3707,6 +3708,7 @@ bidtheatre.com
 bidtor.admanmedia.com
 bidtrk.com
 bidvertiser.com
+bifrost-api.hotstar.com
 bigbangads.go2cloud.org
 bigbangmedia.com
 bigclicks.com
@@ -4157,6 +4159,7 @@ cbslnk.cbsileads.com
 cbx.net
 cc-api-data.adobe.io
 cc.adspsp.com
+cc.map.qq.com
 cc.swiftype.com
 cc.sys.intl.xiaomi.com
 cc.sys.miui.com
@@ -6623,6 +6626,7 @@ eventgateway.soundcloud.com
 eventlog.outbrain.com
 eventlogger.soundcloud.com
 eventreg.sphdigital.com
+events-analytics.hotstar.com
 events-collector.spot.im
 events-dra.op.hicloud.com
 events-writer.smartlook.com
@@ -9147,6 +9151,7 @@ logs.convertexperiments.com
 logs.datadoghq.com
 logs.datadoghq.eu
 logs.docnhanh.com.vn
+logs.hotstar.com
 logs.insight.rapid7.com
 logs.ironsrc.mobi
 logs.roku.com
@@ -12896,6 +12901,7 @@ sessions.bugsnag.com
 setbackclassy.com
 seth.avazutracking.net
 setting.rayjump.com
+settings-analytics.hotstar.com
 settings.crashlytics.com
 settings.luckyorange.net
 seventeencheckcurtain.com
@@ -15531,6 +15537,7 @@ video.your-notice.com
 videoadex.com
 videoadextradata.outbrain.com
 videoads-cloud.rovio.com
+videoads.hotstar.com
 videoapi.smartadserver.com
 videocdn.adspeed.net
 videoegg.com
