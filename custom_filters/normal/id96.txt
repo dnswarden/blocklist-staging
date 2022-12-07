@@ -2708,7 +2708,6 @@ api.mobula.sdk.duapps.com
 api.monedata.io
 api.mppmnetwork.com
 api.nas.nct.vn
-api.netcoresmartech.com
 api.newsmaxfeednetwork.com
 api.nextgen.guardianapps.co.uk
 api.nixozz.com
@@ -3708,7 +3707,6 @@ bidtheatre.com
 bidtor.admanmedia.com
 bidtrk.com
 bidvertiser.com
-bifrost-api.hotstar.com
 bigbangads.go2cloud.org
 bigbangmedia.com
 bigclicks.com
@@ -4580,7 +4578,6 @@ cdn1.bnmla.com
 cdn1.inner-active.mobi
 cdn1.mediaforge.com
 cdn1.mobfox.com
-cdn1.netcoresmartech.com
 cdn1.smartadserver.com
 cdn1.tpmedia.online
 cdn1.vntsm.com
@@ -4652,7 +4649,6 @@ cdns.connatix.com
 cdnssl.clicktale.net
 cdnstatic.daleriki.com
 cdnstoremedia.com
-cdnt.netcoresmartech.com
 cdnv.ad-stir.com
 cdnv.tpmedia.online
 cdnwidget.com
@@ -5364,7 +5360,6 @@ cpm.novanet.vn
 cpm.vidoomy.com
 cpmaffiliation.com
 cpmstar.com
-cpn.netcoresmartech.com
 cpo.adflex.vn
 cpt.geniee.jp
 cpux.gmud.top
@@ -7264,7 +7259,6 @@ global.adserver.yahoo.com
 global.appnext.com
 global.event.prod.bidr.io
 global.load.exelator.com
-global.netcoresmartech.com
 global.proper.io
 global.px.quantserve.com
 global.telemetry.insights.video.a2z.com
@@ -7329,7 +7323,6 @@ go.mobisla.com
 go.mobpartner.mobi
 go.mobytrks.com
 go.mouseflow.com
-go.netcoresmartech.com
 go.onclasrv.com
 go.openx.com
 go.padstm.com
@@ -7980,7 +7973,6 @@ images3.taboola.com
 images4.taboola.com
 images5.taboola.com
 imagesrv.adition.com
-imap.netcoresmartech.com
 imarketservices.com
 imatmobile.com
 imc.mediaz.vn
@@ -10082,7 +10074,6 @@ netagent.cz
 netclickstats.com
 netcommunities.com
 netcore.co.in
-netcoresmartech.com
 netdirect.nl
 netflame.cc
 netincap.com
@@ -10310,7 +10301,6 @@ offerfusion.com
 offerimage.com
 offermatica.com
 offers.appnext.com
-offers.netcoresmartech.com
 offers.propellerads.com
 offerwall.headlines.pw
 offoonguser.com
@@ -10632,7 +10622,6 @@ p4r24.eu
 p50523.clksite.com
 p69523.clksite.com
 p94825.clksite.com
-pa.netcoresmartech.com
 pabc.chartbeat.net
 pac.thesun.co.uk
 pad-v3.presage.io
@@ -11118,9 +11107,7 @@ pmp-beacon.apx.appier.net
 pmp.adiiix.com
 pmyspace.chartbeat.net
 pn.bquildna43.site
-pn.netcoresmartech.com
 pncloudfl.com
-pnrules.netcoresmartech.com
 pnytimes.chartbeat.net
 po.adflex.vn
 pocitadlo.cz
@@ -11217,15 +11204,6 @@ pr-star.de
 pr-ten.de
 pr.adxxx.com
 pr.comet.yahoo.com
-pr1.netcoresmartech.com
-pr2.netcoresmartech.com
-pr3.netcoresmartech.com
-pr4.netcoresmartech.com
-pr5.netcoresmartech.com
-pr6.netcoresmartech.com
-pr7.netcoresmartech.com
-pr8.netcoresmartech.com
-pr9.netcoresmartech.com
 praddpro.de
 praght.tech
 prakritinfixed.com
@@ -11778,7 +11756,6 @@ raf.overwolf.com
 railwayrainstorm.com
 rakamu.com
 ralijqugghwqil.com
-raman.netcoresmartech.com
 ramp.purch.com
 rampanel.com
 rampidads.com
@@ -14566,7 +14543,6 @@ tpe-pvmax.tenmax.io
 tpe-ssp.tenmax.io
 tpmedia.online
 tpnads.com
-tprappin1.netcoresmartech.com
 tps.doubleverify.com
 tps30.doubleverify.com
 tpt.dotomi.com
@@ -14979,8 +14955,6 @@ tw.as.y.atwola.com
 tw.c.appier.net
 tw.wpu.sh
 twa-pvmax.tenmax.io
-twa.netcoresmartech.com
-twa3.netcoresmartech.com
 twazzyoidwlfe.com
 twentyfourhonlineadvertising-d.openx.net
 twiago.com
@@ -15169,7 +15143,6 @@ url.sd.duapps.com
 urlcash.net
 urlhandler.aniview.com
 urlhausa.com
-urlin.netcoresmartech.com
 uruswan.com
 us-ads.openx.net
 us-adsrv.rtbsuperhub.com
@@ -15704,7 +15677,6 @@ w3i.com
 wa.and.co.uk
 wa.appsflyer.com
 wa.metro.co.uk
-waapi.netcoresmartech.com
 waeshana.com
 wagersinging.com
 waisheph.com
@@ -16001,7 +15973,6 @@ wsod.com
 wss.ezca.asia
 wt-eu02.net
 wt.alcmpn.com
-wt.netcoresmartech.com
 wt.soundestlink.com
 wtlive.com
 wuksaiho.net
@@ -16485,7 +16456,6 @@ www.navdmp.com
 www.nbryb.com
 www.ncaudienceexchange.com
 www.nend.net
-www.netcoresmartech.com
 www.newsmaxfeednetwork.com
 www.nexage.com
 www.ninkorant.online
