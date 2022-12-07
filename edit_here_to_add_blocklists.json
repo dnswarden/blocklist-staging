@@ -1172,5 +1172,41 @@
         "totalDomains": 0,
         "lastUpdated": "",
         "value": 118
+    },
+    {         
+        "loc":"custom_filters/normal/id119.txt",
+        "name": "Prigent (Ads)",
+        "category": "Malware",
+        "source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 119
+    },
+    {
+        "loc":"custom_filters/normal/id120.txt",
+        "name": "Prigent (Crypto)",
+        "category": "Malware",
+        "source": "https://v.firebog.net/hosts/Prigent-Crypto.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 120
+    },
+    {
+        "loc":"custom_filters/normal/id121.txt",
+        "name": "RPiList (Phishing)",
+        "category": "Malware",
+        "source": "https://v.firebog.net/hosts/RPiList-Phishing.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 121
+    },
+    {
+        "loc":"custom_filters/normal/id122.txt",
+        "name": "RPiList (Malware)",
+        "category": "Malware",
+        "source": "https://v.firebog.net/hosts/RPiList-Malware.txt",
+        "totalDomains": 0,
+        "lastUpdated": "",
+        "value": 122
     }    
 ]
