@@ -1459,7 +1459,7 @@
     "loc": "custom_filters/normal/id123.txt",
     "name": "dnswarden (tiny whitelist)",
     "category": "Whitelis",
-    "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/tinylist.txxxxxt",
+    "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/tinylist.txt",
     "enabled": true,
     "format": "hosts",
     "totalDomains": 0,
