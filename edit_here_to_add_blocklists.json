@@ -794,7 +794,7 @@
   {
     "loc": "custom_filters/normal/id66.txt",
     "name": "nextdns (affiliate-tracking-domains)",
-    "category": "Privacy",
+    "category": "Whitelist",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains",
     "enabled": true,
     "format": "hosts",
