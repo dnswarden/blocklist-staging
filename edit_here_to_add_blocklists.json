@@ -1454,5 +1454,16 @@
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 122
+  },
+    {
+    "loc": "custom_filters/normal/id4.txt",
+    "name": "dnswarden (tiny whitelist)",
+    "category": "Whitelis",
+    "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/tinylist.txxxxxt",
+    "enabled": true,
+    "format": "hosts",
+    "totalDomains": 0,
+    "lastUpdated": "",
+    "value": 3453
   }
 ]
