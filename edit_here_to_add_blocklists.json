@@ -1456,7 +1456,7 @@
     "value": 122
   },
     {
-    "loc": "custom_filters/normal/id4.txt",
+    "loc": "custom_filters/normal/id123.txt",
     "name": "dnswarden (tiny whitelist)",
     "category": "Whitelis",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/tinylist.txxxxxt",
