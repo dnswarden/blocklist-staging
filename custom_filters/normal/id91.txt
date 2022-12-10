@@ -1426,7 +1426,7 @@ asu05.fun
 asu08.shop
 asu09.shop
 asu11.shop
-asu12.store.
+asu12.store
 asustech.cf
 asyndenera.xyz
 atakamul.com
