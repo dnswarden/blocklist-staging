@@ -1,1 +1,2 @@
 example.com
+api.eu-west-1.aiv-delivery.net
