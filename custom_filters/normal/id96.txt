@@ -500,6 +500,7 @@ ad.vidverto.io
 ad.vietbao.vn
 ad.virtual-nights.com
 ad.vkool.net
+ad.vkoolzzz.net
 ad.vnnayngaytin.vn
 ad.weatherbug.com
 ad.wsod.com
@@ -693,6 +694,7 @@ adflex.vn
 adflight.com
 adfly.vn
 adfonic.net
+adforcast.com
 adforce.com
 adform.com
 adform.net
@@ -1008,6 +1010,7 @@ ads.360yield.com
 ads.4tube.com
 ads.568play.vn
 ads.5ci.lt
+ads.6svn.com
 ads.abovetopsecret.com
 ads.aceweb.net
 ads.activestate.com
@@ -1428,6 +1431,7 @@ ads.wwe.biz
 ads.x-cdn.org
 ads.xedoisong.vn
 ads.xemphimso.com
+ads.xemtivisohd.net
 ads.xhamster.com
 ads.xtra.co.nz
 ads.yadro.ru
@@ -2409,6 +2413,8 @@ analytics.scalemonk.com
 analytics.seg.ritual.com
 analytics.sejda.com
 analytics.shareaholic.com
+analytics.shein.co.uk
+analytics.shein.com
 analytics.shift.agency
 analytics.siliconexpert.com
 analytics.similarweb.com
@@ -3058,6 +3064,7 @@ asgclickkl.com
 asgclickpop.com
 asgdfasad.mm-cgnews.com
 ash.creativecdn.com
+ashadofe.com
 ashcdn.com
 ashoupsu.com
 asia-monitor-stsdk.vivoglobal.com
@@ -3288,6 +3295,7 @@ axonix.com
 ay.delivery
 ayadsaws.ayads.co
 aylarl.com
+ayrtpmwuymzbbq.com
 az-pe.o-s.io
 az-ue2.atemda.com
 azjpixel.adsafeprotected.com
@@ -4621,7 +4629,6 @@ cdn5.proadscdn.com
 cdn61962044.ahacdn.me
 cdn62004373.ahacdn.me
 cdn65182383.ahacdn.me
-cdn70555962.ahacdn.me
 cdn72891311.ahacdn.me
 cdn77.cityads.com
 cdn78085165.ahacdn.me
@@ -5399,6 +5406,7 @@ cre-ads.com
 creafi-online-media.com
 creafi.com
 creamssicsite.com
+creative-cdn.oddsserve.com
 creative-gallery.gumgum.com
 creative-serving.com
 creative-templates-api.gumgum.com
@@ -5764,6 +5772,7 @@ dc8xl0ndzn2cb.cloudfront.net
 dcba.popcash.net
 dcdn.adnxs-simple.com
 dcdn.adnxs.com
+dckifhpovvbpb.com
 dclk-match.dotomi.com
 dco-msg.mathtag.com
 dco-pix.mathtag.com
@@ -6236,6 +6245,7 @@ dspapi.bidtellect.com
 dspcluster.adfarm1.adition.com
 dspmulti.com
 dst.polyad.net
+dsucjlwjypo.com
 dsum-sec.casalemedia.com
 dsum.casalemedia.com
 dt.adsafeprotected.com
@@ -7247,6 +7257,7 @@ glance.l.inmobicdn.net
 glanceguide.com
 glassesoftruth.com
 glassmilheart.com
+glefeesh.net
 gleitmappy.com
 glersakr.com
 gliffyfreaked.com
@@ -7286,6 +7297,7 @@ gmossp-sp.jp
 gmtdmp.mookie1.com
 gnar.grammarly.com
 gnenuelnn.com
+gnfoxcsgk.com
 gnqpystsiece.com
 gnurpfjolmompl.com
 go-clicks.de
@@ -7820,6 +7832,7 @@ iab-imp-gateway.supersonicads.com
 iab.net
 iabmap.evidon.com
 iabtechlab.com
+iabusprivacy.pmc.com
 iact.atdmt.com
 iad-01.braze.com
 iad-02.braze.com
@@ -9367,6 +9380,7 @@ mas-sdk.amazon-adsystem.com
 mas.sector.sk
 masasaudi.com
 mask.pubnative.info
+massive-dark.pro
 master.statistics.aatkit.com
 mastermind.com
 match.360yield.com
@@ -10288,6 +10302,7 @@ ocsp.msocsp.comcdn.bttrack.com
 ocx.umeng.com
 odb.outbrain.com
 oddscornflower.com
+oddsserve.com
 odr.mookie1.com
 oebadu.com
 oewa.at
@@ -10306,6 +10321,7 @@ offerwall.headlines.pw
 offoonguser.com
 ofhappinyer.com
 ofnumeltor.com
+ofsyuxaveckulgf.com
 ofw-client-cdn.fyber.com
 og-iad2.adsymptotic.com
 og-sc2.adsymptotic.com
@@ -12068,6 +12084,7 @@ rex.bnmla.com
 rezync.com
 rfihub.com
 rfp.lkqd.net
+rfpx1.com
 rgaudit.1rx.io
 rgthrottle.1rx.io
 rh.otnolatrnup.com
@@ -13722,6 +13739,7 @@ stats.apester.com
 stats.appsflyer.com
 stats.avaaz.org
 stats.aws.rubiconproject.com
+stats.bannernow.com
 stats.betradar.com
 stats.bilsyndication.com
 stats.bizweb.vn
@@ -13851,6 +13869,7 @@ stocks-analytics-events.apple.com
 stootsou.net
 storage.affmates.com
 storage.cloud.kargo.com
+storage.mcwnow.co
 storage.outbrain.com
 store.trafficfactory.biz
 storeconfig.mistat.intl.xiaomi.com
@@ -15101,7 +15120,9 @@ untd.com
 unthem.com
 untidyquestion.com
 untimburra.com
+untrendenam.com
 untruerbelili.com
+unugilpcyxoep.com
 unusualtitle.com
 unwrittenspot.com
 upapi.net
@@ -15268,6 +15289,7 @@ utop.umengcloud.com
 uts-front.line-apps.com
 uttclimber.com
 uttermosthobbies.com
+utubepwhml.com
 uwoaptee.com
 uyunad.com
 uyyksmmlipvcvj.com
@@ -15294,6 +15316,7 @@ v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 v1.addthis.com
 v1.addthisedge.com
 v1.nend.net
+v1.oddsserve.com
 v16-ad.byteoversea.com
 v2.api.adflex.vn
 v2.chartboost.com
@@ -15632,6 +15655,7 @@ vpn-europe.conversantmedia.com
 vpn-us-west.conversantmedia.com
 vpon.com
 vpx.mathtag.com
+vqhlhfjmvcvxw.com
 vr.ad-stir.com
 vrqsvrnjrhdmek.com
 vrs.cz
@@ -16803,6 +16827,7 @@ xtendmedia.com
 xtremepush.com
 xtremeserve.xyz
 xtremetop100.com
+xvdifvuro.com
 xvlcbwlgpy.com
 xx.c.appier.net
 xxssyndic.com
