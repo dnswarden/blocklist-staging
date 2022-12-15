@@ -878,6 +878,9 @@ adnet.de
 adnet.ru
 adnetasia.com
 adnetinteractive.com
+adnetwork-adserver.aiactiv.io
+adnetwork-core-lb7.aiactiv.io
+adnetwork-core.aiactiv.io
 adnetwork.ad.kakaocorp.com
 adnetwork.adasiaholdings.com
 adnetwork.net
@@ -2353,6 +2356,7 @@ analytics.glance.inmobi.com
 analytics.google.com
 analytics.govinfo.gov
 analytics.headerbiddr.net
+analytics.hebela.vn
 analytics.hostyour.video
 analytics.htmedia.in
 analytics.hub-js.com
@@ -2363,6 +2367,7 @@ analytics.jamstackvietnam.com
 analytics.jeoway.com
 analytics.jumboprivacy.com
 analytics.kau.li
+analytics.keepstreams.com
 analytics.kidoz.net
 analytics.live.com
 analytics.localytics.com
@@ -2422,6 +2427,7 @@ analytics.slashdotmedia.com
 analytics.sohatv.vn
 analytics.spotify.com
 analytics.starmakerstudios.com
+analytics.streamgaga.com
 analytics.swiggy.com
 analytics.teko.vn
 analytics.tiki.vn
@@ -3653,6 +3659,7 @@ betweendigital.com
 bewilderedblade.com
 beyondsecurity.com
 bfmio.com
+bg4nxu2u5t.com
 bgadx.com
 bh.contextweb.com
 bhcumsc.com
@@ -5805,6 +5812,7 @@ decisivedrawer.com
 decisiveducks.com
 decknetwork.net
 decoycreation.com
+decptynhipdrkrg.com
 dedicatedmedia.com
 deecqem892bg5er.com
 deehalig.net
@@ -6516,6 +6524,7 @@ epom.com
 epomads2.4shared.com
 epomapps.com
 eqads.com
+eqplmatlm.com
 eqworks.com
 eqx.smartadserver.com
 eremuribleak.com
@@ -6956,6 +6965,7 @@ footer-de.themoneytizer.com
 footer-es.themoneytizer.com
 footer.themoneytizer.com
 footprintdns.com
+fopsoado.com
 for-j.com
 forbes.aaxads.com
 forbes.media.net
@@ -7123,6 +7133,7 @@ gan.doubleclick.net
 gandalf.younetmedia.com
 ganemur.com
 gangsstowapps.com
+ganjbqrzhkle.com
 garagesewe.com
 gaspra.iad-03.braze.com
 gatekeeper.outbrain.com
@@ -7629,6 +7640,7 @@ highfalutinroom.com
 highlandscoffee.adsota.com
 highmaidfhr.com
 highperformancecpm.com
+highperformancecpmgate.com
 highperformancecpmnetwork.com
 highperformancedformats.com
 highprofitnetwork.com
@@ -7898,6 +7910,7 @@ idea.4cinsights.com
 idealmedia.io
 ideliv.net
 idelv.net
+identify.aiactiv.io
 identify.hotjar.com
 identity.mparticle.com
 idg.amp.permutive.com
@@ -7926,6 +7939,7 @@ ifrb.a8.net
 ignaik.tenmax.io
 ignite.adtima.vn
 ih.adscale.de
+iifvcfwiqi.com
 iki.daleriki.com
 ilbanner.com
 ilead.itrack.it
@@ -8310,6 +8324,7 @@ invitesugar.com
 invl.co
 invoca.net
 invocation.cheqzone.com
+invol.co
 inwraptsekane.com
 io-cdn.bfmio.com
 io.mediarithmics.com
@@ -8378,6 +8393,7 @@ ir.us.y.atwola.com
 irchincsp.com
 ireklama.cz
 irncdn.com
+irnwislborwvh.com
 ironbeast.io
 ironsource.mobi
 irousbisayan.com
@@ -8484,6 +8500,7 @@ jira-hack.appboy.com
 jira.indoleads.com
 jira.novaon.asia
 jira.smaato.net
+jitteryhire.pro
 jivox.com
 jiwire.com
 jkci.adsfactor.net
@@ -9342,6 +9359,7 @@ map.admarvel.com
 map.mediaforge.com
 maper.info
 maps.amung.us
+marazma.com
 marchex.com
 marchex.io
 marfeel.com
@@ -10500,6 +10518,7 @@ otheve.beacon.qq.com
 othstr.beacon.qq.com
 otm-r.com
 otnolatrnup.com
+otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
 oustoope.com
@@ -11738,7 +11757,6 @@ r.logrocket.com
 r.logrocket.io
 r.lr-in.com
 r.mobpartner.mobi
-r.mradx.net
 r.msn.com
 r.my.com
 r.openx.net
@@ -11750,7 +11768,6 @@ r.trwl1.com
 r.turn.com
 r.unblockia.com
 r.wowreality.info
-r0.mradx.net
 r1.snnd.co
 r1.visualwebsiteoptimizer.com
 r2.cnt.my
@@ -11837,6 +11854,7 @@ readingguilt.com
 readpeak.com
 readserver.net
 readymoon.com
+real-difficulty.pro
 real-native.tenmax.io
 real.pclick.yahoo.com
 real.sp.analytics.yahoo.com
@@ -13586,6 +13604,7 @@ static.adxxx.com
 static.adzerk.net
 static.affiliate.rakuten.co.jp
 static.agkn.com
+static.aiactiv.io
 static.ambient-platform.com
 static.ambientdsp.com
 static.amcdn.vn
@@ -15847,6 +15866,7 @@ whos.amung.us
 whosthat.ssl2.duapps.com
 whowhipi.net
 whugesto.net
+wibtntmvox.com
 widdit.com
 widespace.com
 widget-1.oncustomer.asia
@@ -15961,6 +15981,7 @@ wpnrtnmrewunrtok.xyz
 wpold.automatad.com
 wps.relateddigital.com
 wpu.sh
+wqzyxxrrep.com
 wr.indexexchange.com
 wrapper.blueseed.tv
 wrapper.lemde.fr
