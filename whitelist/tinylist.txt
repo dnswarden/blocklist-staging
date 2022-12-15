@@ -1,5 +1,7 @@
 www.gravatar.com
 gravatar.com
+www.codeberg.org
+codeberg.org
 ipinfo.io
 api.eu-west-1.aiv-delivery.net
 userlocation.googleapis.com
