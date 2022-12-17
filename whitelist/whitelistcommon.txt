@@ -1,3 +1,6 @@
+api.eu-west-1.aiv-delivery.net
+codeberg.org
+www.codeberg.org
 bolt.dropbox.com
 m.recipes.timesofindia.com
 click.redditmail.com
