@@ -362,6 +362,7 @@ api.choice.microsoft.com
 api.connect.facebook.com
 api.cryptonator.com
 api.dds.microsoft.com
+api.eu-west-1.aiv-delivery.net
 api.gravatar.com
 api.ipify.org
 api.jio.com
@@ -842,6 +843,7 @@ code.facebook.com
 code.l.google.com
 code.msdn.microsoft.com
 code.prod.facebook.com
+codeberg.org
 codelabs.developers.google.com
 codepremium.msdn.microsoft.com
 codesearch.google.com
@@ -3667,6 +3669,7 @@ www.clientauthconfig.googleapis.com
 www.clientmetrics-pa.googleapis.com
 www.clients1.google.com
 www.cls.s7.exct.net
+www.codeberg.org
 www.collect.media.jio.com
 www.config.safedk.com
 www.connect.facebook.com
