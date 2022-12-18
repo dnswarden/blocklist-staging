@@ -849,6 +849,7 @@ ar.atelier-romeo.com
 ar.i-run.fr
 aracat01.wt-eu02.net
 archant.demdex.net
+area.amdc.m.taobao.com
 area.amdc.m.taobao.com.gds.alibabadns.com
 arg.mail.haircode.com
 arg.mail.pampers.com

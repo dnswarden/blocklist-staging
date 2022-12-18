@@ -88051,6 +88051,7 @@ lofhick.info
 lofipgeld.bid
 log-01.ec2.us.east.liverail.com
 log-abroad.avlyun.sec.miui.com
+log-api.pangolin-sdk-toutiao-b.com
 log-b.liverail.com
 log-collector.svctr.zynga.com
 log-config.samsungacr.com
@@ -102293,6 +102294,7 @@ p2pvz.net
 p2r14.com
 p2trc.emv2.com
 p2tre.emv3.com
+p3-be-pack-sign.pglstatp-toutiao.com
 p3.adhitzads.com
 p3.brandreachsys.com
 p3.firrectly.top
@@ -102394,6 +102396,7 @@ p5f8nenxnctbyif9ltzcykbarwtaw1509913130.nuid.imrworldwide.com
 p5genexs.com
 p5trc.emv2.com
 p5tre.emv3.com
+p6-be-pack-sign.pglstatp-toutiao.com
 p6.appearch.info
 p6.firrectly.top
 p6.news-subscribe.com
