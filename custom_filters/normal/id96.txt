@@ -7439,6 +7439,7 @@ grapeshot.co.uk
 graphql.logrocket.com
 graphs.amung.us
 greatdexchange.com
+greatlove.pro
 greedseed.world
 green.erne.co
 greenplasticdua.com
@@ -8911,6 +8912,7 @@ lgglobal.ihago.net
 lgs.vliplatform.com
 lgsmartad.com
 liadm.com
+liaisondegreedaughters.com
 lib.adnxs.com
 lib.pgmcdn.com
 lib.vmweb.net
@@ -9021,6 +9023,7 @@ loftsbaacad.com
 log-collector.shopee.vn
 log-config.samsungacr.com
 log-eap-sg.coloros.com
+log-giaoducthoidai.epicdn.me
 log-ingestion-eu.samsungacr.com
 log-ingestion.samsungacr.com
 log-ird.outbrain.com
@@ -9065,6 +9068,7 @@ log.gds.mmstat.com
 log.getdropbox.com
 log.giacngo.vn
 log.giaoduc.net.vn
+log.giaoducthoidai.vn
 log.go.com
 log.gop1.co
 log.hemera.com.vn
@@ -11699,6 +11703,7 @@ qcv5.blogtruyen.vn
 qcx.quantserve.com
 qdfxeqhnjuknyy.com
 qds0l.publishers.tremorhub.com
+qgicqtyh.com
 qip.yadro.ru
 qlcdnvkgi.com
 qlog.adap.tv
@@ -11717,6 +11722,7 @@ quadrupleclick.com
 quaintcan.com
 quakemarketing.com
 quallyrimers.com
+quangcao-thanhnien.epicdn.me
 quangcao.24h.com.vn
 quangcao.baovannghe.com.vn
 quangcao.fff.com.vn
@@ -14286,7 +14292,6 @@ tagmngrs.com
 tagrec.sphdigital.com
 tags-cdn.deployads.com
 tags-dev.adsafety.net
-tags-eu.tiqcdn.com
 tags-uc.growingio.com
 tags.adnuntius.com
 tags.adsafety.net
@@ -14304,7 +14309,6 @@ tags.native-ad.net
 tags.onscroll.com
 tags.premiumads.com.br
 tags.sharethis.com
-tags.tiqcdn.com
 tags.us.onscroll.com
 tags.viewdeos.com
 tags.w55c.net
