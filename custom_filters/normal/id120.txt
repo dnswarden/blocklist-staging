@@ -6963,6 +6963,7 @@ crypto-court.com
 crypto-daio.co.uk
 crypto-event.world
 crypto-land.net
+crypto-loot.000.0x1f4b0.com
 crypto-loot.com
 crypto-me.com
 crypto-mining-pool.com
@@ -47999,7 +48000,6 @@ kissdoujin.com
 kisshentai.net
 kisvtclf.bid
 kittypool.club
-kiwifarms.net
 kiwiminers.com
 kjabglumgwbsvq.bid
 kjbqzbiteubt.com
