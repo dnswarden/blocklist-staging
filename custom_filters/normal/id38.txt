@@ -3179,7 +3179,6 @@ lnk.ask.fm
 lntecc.m.facebook.com
 lntinfotech.m.facebook.com
 loc.badoo.com
-localhost.localdomain
 locp-de.aws.viber.com
 locp-de.viber.com
 locp-ir.aws.viber.com
