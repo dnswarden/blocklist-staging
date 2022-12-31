@@ -17,7 +17,7 @@
     "category": "Ads, Privacy, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_full.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 1
@@ -29,7 +29,7 @@
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_basic.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 2
@@ -41,7 +41,7 @@
     "category": "Porn, Adultfilter",
     "source": "https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_nsfw.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 3
@@ -53,7 +53,7 @@
     "category": "Whitelist, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 4
@@ -65,7 +65,7 @@
     "category": "Force safe search, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/forcesafesearch.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 5
@@ -77,7 +77,7 @@
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 6
@@ -89,7 +89,7 @@
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 7
@@ -101,7 +101,7 @@
     "category": "Ads, Privacy, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 8
@@ -113,7 +113,7 @@
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 9
@@ -125,7 +125,7 @@
     "category": "Parentalcontrol",
     "source": "https://raw.githubusercontent.com/badmojr/addons_1Hosts/main/kidSaf/domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 10
@@ -161,7 +161,7 @@
     "category": "Ads",
     "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 13
@@ -173,7 +173,7 @@
     "category": "Privacy",
     "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 14
@@ -185,7 +185,7 @@
     "category": "Ads, Privacy",
     "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 15
@@ -197,7 +197,7 @@
     "category": "Privacy, Malware",
     "source": "https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 16
@@ -209,7 +209,7 @@
     "category": "Ads",
     "source": "https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 17
@@ -221,7 +221,7 @@
     "category": "Malware",
     "source": "https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 18
@@ -233,7 +233,7 @@
     "category": "Parentalcontrol",
     "source": "https://blocklistproject.github.io/Lists/alt-version/drugs-nl.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 19
@@ -245,7 +245,7 @@
     "category": "Privacy, Social",
     "source": "https://blocklistproject.github.io/Lists/alt-version/facebook-nl.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 20
@@ -257,7 +257,7 @@
     "category": "Parentalcontrol, Malware",
     "source": "https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 21
@@ -269,7 +269,7 @@
     "category": "Malware",
     "source": "https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 22
@@ -281,7 +281,7 @@
     "category": "Malware",
     "source": "https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 23
@@ -293,7 +293,7 @@
     "category": "Privacy",
     "source": "https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 24
@@ -305,7 +305,7 @@
     "category": "Porn",
     "source": "https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 25
@@ -317,7 +317,7 @@
     "category": "Parentalcontrol, Malware",
     "source": "https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 26
@@ -329,7 +329,7 @@
     "category": "Privacy, Social",
     "source": "https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 27
@@ -341,7 +341,7 @@
     "category": "Piracy",
     "source": "https://blocklistproject.github.io/Lists/alt-version/torrent-nl.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 28
@@ -353,7 +353,7 @@
     "category": "Privacy",
     "source": "https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 29
@@ -365,7 +365,7 @@
     "category": "Ads, Privacy",
     "source": "https://block.energized.pro/spark/formats/domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 30
@@ -377,7 +377,7 @@
     "category": "Ads, Privacy",
     "source": "https://block.energized.pro/bluGo/formats/domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 31
@@ -389,7 +389,7 @@
     "category": "Ads, Privacy",
     "source": "https://block.energized.pro/blu/formats/domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 32
@@ -401,7 +401,7 @@
     "category": "Ads, Privacy",
     "source": "https://block.energized.pro/basic/formats/domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 33
@@ -413,7 +413,7 @@
     "category": "Porn",
     "source": "https://block.energized.pro/porn/formats/domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 34
@@ -425,7 +425,7 @@
     "category": "Ads, Privacy",
     "source": "https://block.energized.pro/ultimate/formats/domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 35
@@ -437,7 +437,7 @@
     "category": "Ads, Privacy, Porn",
     "source": "https://block.energized.pro/unified/formats/domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 36
@@ -449,7 +449,7 @@
     "category": "Porn",
     "source": "https://block.energized.pro/extensions/porn-lite/formats/domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 37
@@ -461,7 +461,7 @@
     "category": "Privacy, Social",
     "source": "https://block.energized.pro/extensions/social/formats/domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 38
@@ -473,7 +473,7 @@
     "category": "Privacy",
     "source": "https://block.energized.pro/extensions/regional/formats/domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 39
@@ -485,7 +485,7 @@
     "category": "Privacy",
     "source": "https://block.energized.pro/extensions/xtreme/formats/domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 40
@@ -497,7 +497,7 @@
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/facebook",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 41
@@ -509,7 +509,7 @@
     "category": "Parentalcontrol",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 42
@@ -521,7 +521,7 @@
     "category": "Wildcard, Parentalcontrol",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/safesearch-not-supported",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 43
@@ -533,7 +533,7 @@
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/dht-bootstrap-nodes",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 44
@@ -545,7 +545,7 @@
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/file-hosting",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 45
@@ -557,7 +557,7 @@
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 46
@@ -569,7 +569,7 @@
     "category": "Wildcard, Parentalcontrol",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-audio",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 47
@@ -581,7 +581,7 @@
     "category": "Wildcard, Parentalcontrol",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-video",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 48
@@ -593,7 +593,7 @@
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-clients",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 49
@@ -605,7 +605,7 @@
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-trackers",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 50
@@ -617,7 +617,7 @@
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-websites",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 51
@@ -629,7 +629,7 @@
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/usenet",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 52
@@ -641,7 +641,7 @@
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/warez",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 53
@@ -653,7 +653,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/amazon",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 54
@@ -665,7 +665,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/dailymotion",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 55
@@ -677,7 +677,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/ebay",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 56
@@ -689,7 +689,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/netflix",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 57
@@ -701,7 +701,7 @@
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/reddit",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 58
@@ -713,7 +713,7 @@
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/snapchat",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 59
@@ -725,7 +725,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/spotify",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 60
@@ -737,7 +737,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/steam",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 61
@@ -749,7 +749,7 @@
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/twitch",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 62
@@ -761,7 +761,7 @@
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/twitter",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 63
@@ -773,7 +773,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/vimeo",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 64
@@ -785,7 +785,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/youtube",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 65
@@ -797,7 +797,7 @@
     "category": "Whitelist",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 66
@@ -809,7 +809,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 67
@@ -821,7 +821,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 68
@@ -833,7 +833,7 @@
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 69
@@ -857,7 +857,7 @@
     "category": "Ads, Privacy, Ablock, Adultfilter",
     "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 71
@@ -917,7 +917,7 @@
     "category": "Wildcard, Privacy",
     "source": "https://raw.githubusercontent.com/nickspaargaren/no-google/master/wildcards-domains",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 76
@@ -929,7 +929,7 @@
     "category": "Ads, Privacy",
     "source": "https://pgl.yoyo.org/as/serverlist.php?hostformat=domains&mimetype=plaintext",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 77
@@ -953,7 +953,7 @@
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/social_networks/domains",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 79
@@ -989,7 +989,7 @@
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 82
@@ -1001,7 +1001,7 @@
     "category": "Privacy, Malware",
     "source": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/malware.list",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 83
@@ -1013,7 +1013,7 @@
     "category": "Privacy",
     "source": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 84
@@ -1025,7 +1025,7 @@
     "category": "Malware",
     "source": "https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 85
@@ -1037,7 +1037,7 @@
     "category": "Privacy",
     "source": "https://hostfiles.frogeye.fr/firstparty-trackers.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 86
@@ -1049,7 +1049,7 @@
     "category": "Privacy",
     "source": "https://hostfiles.frogeye.fr/multiparty-trackers.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 87
@@ -1061,7 +1061,7 @@
     "category": "Malware",
     "source": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/malware/domains",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 88
@@ -1073,7 +1073,7 @@
     "category": "Malware",
     "source": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/phishing/domains",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 89
@@ -1085,7 +1085,7 @@
     "category": "Ads, Tiny",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommon.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 90
@@ -1097,7 +1097,7 @@
     "category": "Malware, Privacy",
     "source": "https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 91
@@ -1109,7 +1109,7 @@
     "category": "Ads, Privacy, Adblock, Adultfilter",
     "source": "https://www.stopforumspam.com/downloads/toxic_domains_whole.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 92
@@ -1121,7 +1121,7 @@
     "category": "Malware",
     "source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 93
@@ -1145,7 +1145,7 @@
     "category": "Ads",
     "source": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 95
@@ -1169,7 +1169,7 @@
     "category": "Privacy, Malware, Adblock, Adultfilter",
     "source": "https://phishing.army/download/phishing_army_blocklist.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 97
@@ -1246,138 +1246,151 @@
     "lastUpdated": "",
     "value": 103
   },
+
   {
     "loc": "custom_filters/wildcard/id104.txt",
     "name": "dnswarden (blacklist wildcard)",
     "category": "Ads, Privacy, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommonwildcard.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 104
   },
+
   {
     "loc": "custom_filters/normal/id105.txt",
     "name": "dnswarden (blacklist adult content)",
     "category": "Ads, Privacy, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontent.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 105
   },
+
   {
     "loc": "custom_filters/normal/id106.txt",
     "name": "dnswarden (whitelist adult content)",
     "category": "Whitelist, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistadultcontent.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 106
   },
+
   {
     "loc": "custom_filters/wildcard/id107.txt",
     "name": "dnswarden (adult filter blacklist wildcard)",
     "category": "Ads, Privacy, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontentwildcard.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "wildcards",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 107
   },
+
   {
     "loc": "custom_filters/normal/id108.txt",
     "name": "hagezi (Multi Light)",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 108
   },
+
   {
     "loc": "custom_filters/normal/id109.txt",
     "name": "hagezi (Multi Normal)",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 109
   },
+
   {
     "loc": "custom_filters/normal/id110.txt",
     "name": "hagezi (Multi Pro)",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 110
   },
+
   {
     "loc": "custom_filters/normal/id111.txt",
     "name": "hagezi (Multi Pro++)",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 111
   },
+
   {
     "loc": "custom_filters/normal/id112.txt",
     "name": "hagezi (Threat Intelligence Feeds)",
     "category": "Malware, Privacy",
     "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 112
   },
+
   {
     "loc": "custom_filters/normal/id113.txt",
     "name": "dnswarden (blacklist extreme)",
     "category": "Ads, Extreme, Tiny",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklist_extreme.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 113
   },
+
   {
     "loc": "custom_filters/normal/id114.txt",
     "name": "dandelionsprout (anti-malware)",
     "category": "Malware",
     "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 114
   },
+
   {
     "loc": "custom_filters/normal/id115.txt",
     "name": "dandelionsprout (Nordic Filter for Tidier Websites)",
     "category": "Ads",
     "source": "https://gitlab.com/DandelionSprout/adfilt/raw/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 115
   },
+
   {
     "loc": "custom_filters/normal/id116.txt",
     "name": "vdbhb59 (Unified Hosts)",
@@ -1389,68 +1402,74 @@
     "lastUpdated": "",
     "value": 116
   },
+
   {
     "loc": "custom_filters/normal/id117.txt",
     "name": "phishing.army (extended)",
     "category": "Privacy, Malware",
     "source": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 117
   },
+
   {
     "loc": "custom_filters/normal/id118.txt",
     "name": "Inversion",
     "category": "Malware",
     "source": "https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 118
   },
+
   {
     "loc": "custom_filters/normal/id119.txt",
     "name": "Prigent (Ads)",
     "category": "Malware",
     "source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 119
   },
+
   {
     "loc": "custom_filters/normal/id120.txt",
     "name": "Prigent (Crypto)",
     "category": "Malware",
     "source": "https://v.firebog.net/hosts/Prigent-Crypto.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 120
   },
+
   {
     "loc": "custom_filters/normal/id121.txt",
     "name": "RPiList (Phishing)",
     "category": "Malware",
     "source": "https://v.firebog.net/hosts/RPiList-Phishing.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 121
   },
+
   {
     "loc": "custom_filters/normal/id122.txt",
     "name": "RPiList (Malware)",
     "category": "Malware",
     "source": "https://v.firebog.net/hosts/RPiList-Malware.txt",
     "enabled": true,
-    "format": "hosts",
+    "format": "domains",
     "totalDomains": 0,
     "lastUpdated": "",
     "value": 122
