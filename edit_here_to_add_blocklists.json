@@ -147,7 +147,7 @@
     "loc": "custom_filters/normal/id12.txt",
     "name": "someonewhocares",
     "category": "Ads, Privacy",
-    "source": "https://someonewhocares.org/hosts/ipv6zero/hosts/",
+    "source": "https://someonewhocares.org/hosts/zero/hosts",
     "enabled": true,
     "format": "hosts",
     "totalDomains": 0,
@@ -205,7 +205,7 @@
 
   {
     "loc": "custom_filters/normal/id17.txt",
-    "name": "blocklistproject",
+    "name": "blocklistproject (ads)",
     "category": "Ads",
     "source": "https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt",
     "enabled": true,
@@ -1227,7 +1227,7 @@
     "loc": "custom_filters/normal/id102.txt",
     "name": "bongochong (CombinedPrivacy)",
     "category": "Ads, Privacy",
-    "source": "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final-Dual.hosts",
+    "source": "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts",
     "enabled": true,
     "format": "hosts",
     "totalDomains": 0,
