@@ -1,0 +1,12 @@
+agl-intl.hotstar.com
+bifrost-api.hotstar.com
+cws-hotstar.conviva.com
+events-analytics.hotstar.com
+fp-analytics.hotstar.com
+graph.facebook.com
+hb-analytics.hotstar.com
+logs.hotstar.com
+service.hotstar.com
+settings-analytics.hotstar.com
+videoads.hotstar.com
+vs.hotstar.com
