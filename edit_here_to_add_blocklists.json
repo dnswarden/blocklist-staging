@@ -122,7 +122,7 @@
   {
     "loc": "custom_filters/normal/id10.txt",
     "name": "1Hosts (kidSaf)",
-    "category": "Parentalcontrol",
+    "category": "Parentalcontrol, Porn",
     "source": "https://raw.githubusercontent.com/badmojr/addons_1Hosts/main/kidSaf/domains.txt",
     "enabled": true,
     "format": "hosts",
@@ -290,7 +290,7 @@
   {
     "loc": "custom_filters/normal/id24.txt",
     "name": "The Block List Project (Piracy)",
-    "category": "Privacy",
+    "category": "Piracy",
     "source": "https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt",
     "enabled": true,
     "format": "hosts",
@@ -470,7 +470,7 @@
   {
     "loc": "custom_filters/normal/id39.txt",
     "name": "Energized (Regional)",
-    "category": "Privacy",
+    "category": "Ads, Privacy",
     "source": "https://block.energized.pro/extensions/regional/formats/domains.txt",
     "enabled": true,
     "format": "hosts",
@@ -517,7 +517,7 @@
 
   {
     "loc": "custom_filters/wildcard/id43.txt",
-    "name": "NextDNS (SafeSearch-Not-Supported)",
+    "name": "NextDNS (SafeSearch Not Supported)",
     "category": "Wildcard, Parentalcontrol",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/safesearch-not-supported",
     "enabled": true,
@@ -854,7 +854,7 @@
   {
     "loc": "custom_filters/normal/id71.txt",
     "name": "Adguard (CNAME-Trackers)",
-    "category": "Ads, Privacy, Ablock, Adultfilter",
+    "category": "Privacy, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt",
     "enabled": true,
     "format": "hosts",
@@ -1178,7 +1178,7 @@
   {
     "loc": "custom_filters/normal/id98.txt",
     "name": "zerodot1 (CoinBlocker)",
-    "category": "Parentalcontrol, Adblock, Adultfilter",
+    "category": "Parentalcontrol, Malware, Adblock, Adultfilter",
     "source": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
     "enabled": true,
     "format": "hosts",
@@ -1249,7 +1249,7 @@
   {
     "loc": "custom_filters/wildcard/id104.txt",
     "name": "dnswarden (Blacklist Wildcard)",
-    "category": "Ads, Privacy, Adblock, Adultfilter",
+    "category": "Ads, Privacy, Wildcard, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommonwildcard.txt",
     "enabled": true,
     "format": "hosts",
@@ -1260,7 +1260,7 @@
   {
     "loc": "custom_filters/normal/id105.txt",
     "name": "dnswarden (Blacklist Adult Content)",
-    "category": "Ads, Privacy, Adblock, Adultfilter",
+    "category": "Porn, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontent.txt",
     "enabled": true,
     "format": "hosts",
@@ -1282,7 +1282,7 @@
   {
     "loc": "custom_filters/wildcard/id107.txt",
     "name": "dnswarden (Adult Filter Blacklist Wildcard)",
-    "category": "Ads, Privacy, Adultfilter",
+    "category": "Ads, Privacy, Wildcard, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontentwildcard.txt",
     "enabled": true,
     "format": "hosts",
