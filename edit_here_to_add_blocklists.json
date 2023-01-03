@@ -482,7 +482,7 @@
   {
     "loc": "custom_filters/normal/id40.txt",
     "name": "Energized (Xtreme)",
-    "category: "Privacy",
+    "category": "Privacy",
     "source": "https://block.energized.pro/extensions/xtreme/formats/domains.txt",
     "enabled": true,
     "format": "hosts",
