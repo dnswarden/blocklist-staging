@@ -17,8 +17,8 @@
     "source": "https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_full.txt",
     "enabled": true,
     "format": "hosts",
-    "totalDomains": "1039445",
-    "lastUpdated": "Tue Jan  3 02:58:51 UTC 2023",
+    "totalDomains": "1039444",
+    "lastUpdated": "Tue Jan  3 06:25:09 UTC 2023",
     "value": 1
   },
   {
@@ -29,7 +29,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "92794",
-    "lastUpdated": "Tue Jan  3 02:58:52 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:09 UTC 2023",
     "value": 2
   },
   {
@@ -39,8 +39,8 @@
     "source": "https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_nsfw.txt",
     "enabled": true,
     "format": "hosts",
-    "totalDomains": "449277",
-    "lastUpdated": "Tue Jan  3 02:58:54 UTC 2023",
+    "totalDomains": "449454",
+    "lastUpdated": "Tue Jan  3 06:25:11 UTC 2023",
     "value": 3
   },
   {
@@ -51,7 +51,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "4089",
-    "lastUpdated": "Tue Jan  3 02:58:55 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:11 UTC 2023",
     "value": 4
   },
   {
@@ -62,7 +62,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "198",
-    "lastUpdated": "Tue Jan  3 02:58:55 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:11 UTC 2023",
     "value": 5
   },
   {
@@ -72,8 +72,8 @@
     "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.txt",
     "enabled": true,
     "format": "hosts",
-    "totalDomains": "69657",
-    "lastUpdated": "Tue Jan  3 02:58:56 UTC 2023",
+    "totalDomains": "69679",
+    "lastUpdated": "Tue Jan  3 06:25:12 UTC 2023",
     "value": 6
   },
   {
@@ -84,7 +84,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "99656",
-    "lastUpdated": "Tue Jan  3 02:58:57 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:12 UTC 2023",
     "value": 7
   },
   {
@@ -94,8 +94,8 @@
     "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt",
     "enabled": true,
     "format": "hosts",
-    "totalDomains": "212979",
-    "lastUpdated": "Tue Jan  3 02:58:58 UTC 2023",
+    "totalDomains": "202240",
+    "lastUpdated": "Tue Jan  3 06:25:13 UTC 2023",
     "value": 8
   },
   {
@@ -105,19 +105,19 @@
     "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt",
     "enabled": true,
     "format": "hosts",
-    "totalDomains": "491043",
-    "lastUpdated": "Tue Jan  3 02:59:00 UTC 2023",
+    "totalDomains": "480355",
+    "lastUpdated": "Tue Jan  3 06:25:15 UTC 2023",
     "value": 9
   },
   {
     "loc": "custom_filters/normal/id10.txt",
     "name": "1Hosts (kidSaf)",
-    "category": "Parentalcontrol",
+    "category": "Parentalcontrol, Porn",
     "source": "https://raw.githubusercontent.com/badmojr/addons_1Hosts/main/kidSaf/domains.txt",
     "enabled": true,
     "format": "hosts",
-    "totalDomains": "1647614",
-    "lastUpdated": "Tue Jan  3 02:59:05 UTC 2023",
+    "totalDomains": "1647612",
+    "lastUpdated": "Tue Jan  3 06:25:19 UTC 2023",
     "value": 10
   },
   {
@@ -128,7 +128,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "112254",
-    "lastUpdated": "Tue Jan  3 02:59:07 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:21 UTC 2023",
     "value": 11
   },
   {
@@ -139,7 +139,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "11398",
-    "lastUpdated": "Tue Jan  3 02:59:09 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:22 UTC 2023",
     "value": 12
   },
   {
@@ -150,7 +150,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "2701",
-    "lastUpdated": "Tue Jan  3 02:59:09 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:23 UTC 2023",
     "value": 13
   },
   {
@@ -161,7 +161,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "2735",
-    "lastUpdated": "Tue Jan  3 02:59:10 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:23 UTC 2023",
     "value": 14
   },
   {
@@ -172,7 +172,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "34",
-    "lastUpdated": "Tue Jan  3 02:59:10 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:24 UTC 2023",
     "value": 15
   },
   {
@@ -183,7 +183,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "435162",
-    "lastUpdated": "Tue Jan  3 02:59:12 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:25 UTC 2023",
     "value": 16
   },
   {
@@ -194,7 +194,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "154562",
-    "lastUpdated": "Tue Jan  3 02:59:13 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:26 UTC 2023",
     "value": 17
   },
   {
@@ -205,7 +205,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "23786",
-    "lastUpdated": "Tue Jan  3 02:59:13 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:26 UTC 2023",
     "value": 18
   },
   {
@@ -216,7 +216,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "26028",
-    "lastUpdated": "Tue Jan  3 02:59:14 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:27 UTC 2023",
     "value": 19
   },
   {
@@ -227,7 +227,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "22459",
-    "lastUpdated": "Tue Jan  3 02:59:14 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:27 UTC 2023",
     "value": 20
   },
   {
@@ -238,7 +238,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "196085",
-    "lastUpdated": "Tue Jan  3 02:59:16 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:28 UTC 2023",
     "value": 21
   },
   {
@@ -249,7 +249,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "435253",
-    "lastUpdated": "Tue Jan  3 02:59:17 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:29 UTC 2023",
     "value": 22
   },
   {
@@ -260,18 +260,18 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "190215",
-    "lastUpdated": "Tue Jan  3 02:59:18 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:30 UTC 2023",
     "value": 23
   },
   {
     "loc": "custom_filters/normal/id24.txt",
     "name": "The Block List Project (Piracy)",
-    "category": "Privacy",
+    "category": "Piracy",
     "source": "https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt",
     "enabled": true,
     "format": "hosts",
     "totalDomains": "2128",
-    "lastUpdated": "Tue Jan  3 02:59:19 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:31 UTC 2023",
     "value": 24
   },
   {
@@ -282,7 +282,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "500237",
-    "lastUpdated": "Tue Jan  3 02:59:21 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:32 UTC 2023",
     "value": 25
   },
   {
@@ -293,7 +293,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "1266",
-    "lastUpdated": "Tue Jan  3 02:59:21 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:32 UTC 2023",
     "value": 26
   },
   {
@@ -304,7 +304,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "3698",
-    "lastUpdated": "Tue Jan  3 02:59:21 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:33 UTC 2023",
     "value": 27
   },
   {
@@ -315,7 +315,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "2617",
-    "lastUpdated": "Tue Jan  3 02:59:22 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:33 UTC 2023",
     "value": 28
   },
   {
@@ -326,7 +326,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "15053",
-    "lastUpdated": "Tue Jan  3 02:59:22 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:33 UTC 2023",
     "value": 29
   },
   {
@@ -337,7 +337,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "0",
-    "lastUpdated": "Tue Jan  3 02:58:45 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:06 UTC 2023",
     "value": 30
   },
   {
@@ -348,7 +348,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "121503",
-    "lastUpdated": "Tue Jan  3 02:58:45 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:06 UTC 2023",
     "value": 31
   },
   {
@@ -359,7 +359,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "0",
-    "lastUpdated": "Tue Jan  3 02:58:45 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:06 UTC 2023",
     "value": 32
   },
   {
@@ -370,7 +370,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "0",
-    "lastUpdated": "Tue Jan  3 02:58:45 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:06 UTC 2023",
     "value": 33
   },
   {
@@ -381,7 +381,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "0",
-    "lastUpdated": "Tue Jan  3 02:58:45 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:06 UTC 2023",
     "value": 34
   },
   {
@@ -392,7 +392,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "0",
-    "lastUpdated": "Tue Jan  3 02:58:45 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:06 UTC 2023",
     "value": 35
   },
   {
@@ -403,7 +403,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "0",
-    "lastUpdated": "Tue Jan  3 02:58:45 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:06 UTC 2023",
     "value": 36
   },
   {
@@ -414,7 +414,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "414",
-    "lastUpdated": "Tue Jan  3 02:58:45 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:06 UTC 2023",
     "value": 37
   },
   {
@@ -425,18 +425,18 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "6974",
-    "lastUpdated": "Tue Jan  3 02:58:45 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:06 UTC 2023",
     "value": 38
   },
   {
     "loc": "custom_filters/normal/id39.txt",
     "name": "Energized (Regional)",
-    "category": "Privacy",
+    "category": "Ads, Privacy",
     "source": "https://block.energized.pro/extensions/regional/formats/domains.txt",
     "enabled": true,
     "format": "hosts",
     "totalDomains": "64169",
-    "lastUpdated": "Tue Jan  3 02:58:45 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:06 UTC 2023",
     "value": 39
   },
   {
@@ -447,7 +447,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "1",
-    "lastUpdated": "Tue Jan  3 02:58:45 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:06 UTC 2023",
     "value": 40
   },
   {
@@ -458,7 +458,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "9",
-    "lastUpdated": "Tue Jan  3 02:59:27 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:38 UTC 2023",
     "value": 41
   },
   {
@@ -469,18 +469,18 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "634",
-    "lastUpdated": "Tue Jan  3 02:59:27 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:38 UTC 2023",
     "value": 42
   },
   {
     "loc": "custom_filters/wildcard/id43.txt",
-    "name": "NextDNS (SafeSearch-Not-Supported)",
+    "name": "NextDNS (SafeSearch Not Supported)",
     "category": "Wildcard, Parentalcontrol",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/safesearch-not-supported",
     "enabled": true,
     "format": "hosts",
     "totalDomains": "160",
-    "lastUpdated": "Tue Jan  3 02:59:28 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:38 UTC 2023",
     "value": 43
   },
   {
@@ -491,7 +491,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "5",
-    "lastUpdated": "Tue Jan  3 02:59:28 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:38 UTC 2023",
     "value": 44
   },
   {
@@ -502,7 +502,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "110",
-    "lastUpdated": "Tue Jan  3 02:59:28 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:39 UTC 2023",
     "value": 45
   },
   {
@@ -513,7 +513,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "40",
-    "lastUpdated": "Tue Jan  3 02:59:29 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:39 UTC 2023",
     "value": 46
   },
   {
@@ -524,7 +524,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "65",
-    "lastUpdated": "Tue Jan  3 02:59:29 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:39 UTC 2023",
     "value": 47
   },
   {
@@ -535,7 +535,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "600",
-    "lastUpdated": "Tue Jan  3 02:59:30 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:39 UTC 2023",
     "value": 48
   },
   {
@@ -546,7 +546,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "31",
-    "lastUpdated": "Tue Jan  3 02:59:30 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:40 UTC 2023",
     "value": 49
   },
   {
@@ -557,7 +557,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "351",
-    "lastUpdated": "Tue Jan  3 02:59:30 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:40 UTC 2023",
     "value": 50
   },
   {
@@ -568,7 +568,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "1105",
-    "lastUpdated": "Tue Jan  3 02:59:31 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:40 UTC 2023",
     "value": 51
   },
   {
@@ -579,7 +579,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "12",
-    "lastUpdated": "Tue Jan  3 02:59:31 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:40 UTC 2023",
     "value": 52
   },
   {
@@ -590,7 +590,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "107",
-    "lastUpdated": "Tue Jan  3 02:59:32 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:40 UTC 2023",
     "value": 53
   },
   {
@@ -601,7 +601,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "23",
-    "lastUpdated": "Tue Jan  3 02:59:32 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:41 UTC 2023",
     "value": 54
   },
   {
@@ -612,7 +612,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "3",
-    "lastUpdated": "Tue Jan  3 02:59:32 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:41 UTC 2023",
     "value": 55
   },
   {
@@ -623,7 +623,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "27",
-    "lastUpdated": "Tue Jan  3 02:59:33 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:41 UTC 2023",
     "value": 56
   },
   {
@@ -634,7 +634,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "6",
-    "lastUpdated": "Tue Jan  3 02:59:33 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:41 UTC 2023",
     "value": 57
   },
   {
@@ -645,7 +645,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "5",
-    "lastUpdated": "Tue Jan  3 02:59:34 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:42 UTC 2023",
     "value": 58
   },
   {
@@ -656,7 +656,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "10",
-    "lastUpdated": "Tue Jan  3 02:59:34 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:42 UTC 2023",
     "value": 59
   },
   {
@@ -667,7 +667,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "11",
-    "lastUpdated": "Tue Jan  3 02:59:35 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:42 UTC 2023",
     "value": 60
   },
   {
@@ -678,7 +678,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "12",
-    "lastUpdated": "Tue Jan  3 02:59:35 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:42 UTC 2023",
     "value": 61
   },
   {
@@ -689,7 +689,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "7",
-    "lastUpdated": "Tue Jan  3 02:59:35 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:43 UTC 2023",
     "value": 62
   },
   {
@@ -700,7 +700,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "5",
-    "lastUpdated": "Tue Jan  3 02:59:36 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:43 UTC 2023",
     "value": 63
   },
   {
@@ -711,7 +711,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "4",
-    "lastUpdated": "Tue Jan  3 02:59:36 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:43 UTC 2023",
     "value": 64
   },
   {
@@ -722,7 +722,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "17",
-    "lastUpdated": "Tue Jan  3 02:59:37 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:43 UTC 2023",
     "value": 65
   },
   {
@@ -733,7 +733,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "454",
-    "lastUpdated": "Tue Jan  3 02:59:37 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:44 UTC 2023",
     "value": 66
   },
   {
@@ -744,7 +744,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "8",
-    "lastUpdated": "Tue Jan  3 02:59:37 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:44 UTC 2023",
     "value": 67
   },
   {
@@ -755,7 +755,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "23",
-    "lastUpdated": "Tue Jan  3 02:59:38 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:44 UTC 2023",
     "value": 68
   },
   {
@@ -766,7 +766,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "9",
-    "lastUpdated": "Tue Jan  3 02:59:38 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:44 UTC 2023",
     "value": 69
   },
   {
@@ -776,19 +776,19 @@
     "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
     "enabled": true,
     "format": "abp",
-    "totalDomains": "47294",
-    "lastUpdated": "Tue Jan  3 02:59:39 UTC 2023",
+    "totalDomains": "47299",
+    "lastUpdated": "Tue Jan  3 06:25:45 UTC 2023",
     "value": 70
   },
   {
     "loc": "custom_filters/normal/id71.txt",
     "name": "Adguard (CNAME-Trackers)",
-    "category": "Ads, Privacy, Ablock, Adultfilter",
+    "category": "Privacy, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt",
     "enabled": true,
     "format": "hosts",
     "totalDomains": "37755",
-    "lastUpdated": "Tue Jan  3 02:59:40 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:45 UTC 2023",
     "value": 71
   },
   {
@@ -799,7 +799,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "248673",
-    "lastUpdated": "Tue Jan  3 02:59:41 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:47 UTC 2023",
     "value": 72
   },
   {
@@ -810,7 +810,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "165570",
-    "lastUpdated": "Tue Jan  3 02:59:43 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:48 UTC 2023",
     "value": 73
   },
   {
@@ -821,7 +821,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "6418",
-    "lastUpdated": "Tue Jan  3 02:59:43 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:48 UTC 2023",
     "value": 74
   },
   {
@@ -832,7 +832,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "1730",
-    "lastUpdated": "Tue Jan  3 02:59:43 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:48 UTC 2023",
     "value": 75
   },
   {
@@ -843,7 +843,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "301",
-    "lastUpdated": "Tue Jan  3 02:59:44 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:49 UTC 2023",
     "value": 76
   },
   {
@@ -854,7 +854,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "3671",
-    "lastUpdated": "Tue Jan  3 02:59:45 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:54 UTC 2023",
     "value": 77
   },
   {
@@ -865,7 +865,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "31163",
-    "lastUpdated": "Tue Jan  3 02:59:46 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:55 UTC 2023",
     "value": 78
   },
   {
@@ -876,7 +876,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "682",
-    "lastUpdated": "Tue Jan  3 02:59:46 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:55 UTC 2023",
     "value": 79
   },
   {
@@ -887,7 +887,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "19508",
-    "lastUpdated": "Tue Jan  3 02:59:47 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:55 UTC 2023",
     "value": 80
   },
   {
@@ -898,7 +898,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "87497",
-    "lastUpdated": "Tue Jan  3 02:59:47 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:56 UTC 2023",
     "value": 81
   },
   {
@@ -909,7 +909,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "8146",
-    "lastUpdated": "Tue Jan  3 02:59:48 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:56 UTC 2023",
     "value": 82
   },
   {
@@ -920,7 +920,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "793",
-    "lastUpdated": "Tue Jan  3 02:59:48 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:57 UTC 2023",
     "value": 83
   },
   {
@@ -931,7 +931,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "16472",
-    "lastUpdated": "Tue Jan  3 02:59:49 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:57 UTC 2023",
     "value": 84
   },
   {
@@ -942,7 +942,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "13467",
-    "lastUpdated": "Tue Jan  3 02:59:49 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:57 UTC 2023",
     "value": 85
   },
   {
@@ -953,7 +953,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "14071",
-    "lastUpdated": "Tue Jan  3 02:59:51 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:25:59 UTC 2023",
     "value": 86
   },
   {
@@ -964,7 +964,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "15513",
-    "lastUpdated": "Tue Jan  3 02:59:53 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:00 UTC 2023",
     "value": 87
   },
   {
@@ -975,7 +975,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "39214",
-    "lastUpdated": "Tue Jan  3 02:59:54 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:00 UTC 2023",
     "value": 88
   },
   {
@@ -986,7 +986,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "38957",
-    "lastUpdated": "Tue Jan  3 02:59:54 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:01 UTC 2023",
     "value": 89
   },
   {
@@ -997,7 +997,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "3",
-    "lastUpdated": "Tue Jan  3 02:59:55 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:01 UTC 2023",
     "value": 90
   },
   {
@@ -1008,7 +1008,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "17792",
-    "lastUpdated": "Tue Jan  3 02:59:55 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:01 UTC 2023",
     "value": 91
   },
   {
@@ -1018,8 +1018,8 @@
     "source": "https://www.stopforumspam.com/downloads/toxic_domains_whole.txt",
     "enabled": true,
     "format": "hosts",
-    "totalDomains": "41210",
-    "lastUpdated": "Tue Jan  3 02:59:55 UTC 2023",
+    "totalDomains": "41453",
+    "lastUpdated": "Tue Jan  3 06:26:02 UTC 2023",
     "value": 92
   },
   {
@@ -1030,7 +1030,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "38",
-    "lastUpdated": "Tue Jan  3 02:59:57 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:03 UTC 2023",
     "value": 93
   },
   {
@@ -1041,7 +1041,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "7355",
-    "lastUpdated": "Tue Jan  3 02:59:57 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:03 UTC 2023",
     "value": 94
   },
   {
@@ -1052,7 +1052,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "65757",
-    "lastUpdated": "Tue Jan  3 02:59:58 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:03 UTC 2023",
     "value": 95
   },
   {
@@ -1063,7 +1063,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "17123",
-    "lastUpdated": "Tue Jan  3 02:59:58 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:04 UTC 2023",
     "value": 96
   },
   {
@@ -1073,19 +1073,19 @@
     "source": "https://phishing.army/download/phishing_army_blocklist.txt",
     "enabled": true,
     "format": "hosts",
-    "totalDomains": "90090",
-    "lastUpdated": "Tue Jan  3 02:59:59 UTC 2023",
+    "totalDomains": "90069",
+    "lastUpdated": "Tue Jan  3 06:26:04 UTC 2023",
     "value": 97
   },
   {
     "loc": "custom_filters/normal/id98.txt",
     "name": "zerodot1 (CoinBlocker)",
-    "category": "Parentalcontrol, Adblock, Adultfilter",
+    "category": "Parentalcontrol, Malware, Adblock, Adultfilter",
     "source": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
     "enabled": true,
     "format": "hosts",
     "totalDomains": "3496",
-    "lastUpdated": "Tue Jan  3 02:59:59 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:05 UTC 2023",
     "value": 98
   },
   {
@@ -1096,7 +1096,7 @@
     "enabled": true,
     "format": "abp",
     "totalDomains": "167",
-    "lastUpdated": "Tue Jan  3 03:00:00 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:05 UTC 2023",
     "value": 99
   },
   {
@@ -1107,7 +1107,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "428946",
-    "lastUpdated": "Tue Jan  3 03:00:03 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:08 UTC 2023",
     "value": 100
   },
   {
@@ -1118,7 +1118,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "167499",
-    "lastUpdated": "Tue Jan  3 03:00:05 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:09 UTC 2023",
     "value": 101
   },
   {
@@ -1129,7 +1129,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "134066",
-    "lastUpdated": "Tue Jan  3 03:00:06 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:09 UTC 2023",
     "value": 102
   },
   {
@@ -1140,29 +1140,29 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "1384",
-    "lastUpdated": "Tue Jan  3 03:00:06 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:10 UTC 2023",
     "value": 103
   },
   {
     "loc": "custom_filters/wildcard/id104.txt",
     "name": "dnswarden (Blacklist Wildcard)",
-    "category": "Ads, Privacy, Adblock, Adultfilter",
+    "category": "Ads, Privacy, Wildcard, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommonwildcard.txt",
     "enabled": true,
     "format": "hosts",
     "totalDomains": "100",
-    "lastUpdated": "Tue Jan  3 03:00:07 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:10 UTC 2023",
     "value": 104
   },
   {
     "loc": "custom_filters/normal/id105.txt",
     "name": "dnswarden (Blacklist Adult Content)",
-    "category": "Ads, Privacy, Adblock, Adultfilter",
+    "category": "Porn, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontent.txt",
     "enabled": true,
     "format": "hosts",
     "totalDomains": "2",
-    "lastUpdated": "Tue Jan  3 03:00:07 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:10 UTC 2023",
     "value": 105
   },
   {
@@ -1173,18 +1173,18 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "1",
-    "lastUpdated": "Tue Jan  3 03:00:07 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:10 UTC 2023",
     "value": 106
   },
   {
     "loc": "custom_filters/wildcard/id107.txt",
     "name": "dnswarden (Adult Filter Blacklist Wildcard)",
-    "category": "Ads, Privacy, Adultfilter",
+    "category": "Ads, Privacy, Wildcard, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontentwildcard.txt",
     "enabled": true,
     "format": "hosts",
     "totalDomains": "2",
-    "lastUpdated": "Tue Jan  3 03:00:08 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:11 UTC 2023",
     "value": 107
   },
   {
@@ -1195,7 +1195,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "329883",
-    "lastUpdated": "Tue Jan  3 03:00:09 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:12 UTC 2023",
     "value": 108
   },
   {
@@ -1206,7 +1206,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "1211071",
-    "lastUpdated": "Tue Jan  3 03:00:15 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:15 UTC 2023",
     "value": 109
   },
   {
@@ -1217,7 +1217,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "1332719",
-    "lastUpdated": "Tue Jan  3 03:00:22 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:19 UTC 2023",
     "value": 110
   },
   {
@@ -1228,7 +1228,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "1409838",
-    "lastUpdated": "Tue Jan  3 03:00:27 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:23 UTC 2023",
     "value": 111
   },
   {
@@ -1239,7 +1239,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "1152884",
-    "lastUpdated": "Tue Jan  3 03:00:30 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:25 UTC 2023",
     "value": 112
   },
   {
@@ -1250,7 +1250,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "12",
-    "lastUpdated": "Tue Jan  3 03:00:31 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:26 UTC 2023",
     "value": 113
   },
   {
@@ -1261,7 +1261,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "10338",
-    "lastUpdated": "Tue Jan  3 03:00:31 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:26 UTC 2023",
     "value": 114
   },
   {
@@ -1272,7 +1272,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "373",
-    "lastUpdated": "Tue Jan  3 03:00:32 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:26 UTC 2023",
     "value": 115
   },
   {
@@ -1283,7 +1283,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "290511",
-    "lastUpdated": "Tue Jan  3 03:00:35 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:28 UTC 2023",
     "value": 116
   },
   {
@@ -1293,8 +1293,8 @@
     "source": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
     "enabled": true,
     "format": "hosts",
-    "totalDomains": "92854",
-    "lastUpdated": "Tue Jan  3 03:00:35 UTC 2023",
+    "totalDomains": "92818",
+    "lastUpdated": "Tue Jan  3 06:26:28 UTC 2023",
     "value": 117
   },
   {
@@ -1305,7 +1305,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "627103",
-    "lastUpdated": "Tue Jan  3 03:00:39 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:30 UTC 2023",
     "value": 118
   },
   {
@@ -1316,7 +1316,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "3675",
-    "lastUpdated": "Tue Jan  3 03:00:39 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:30 UTC 2023",
     "value": 119
   },
   {
@@ -1327,7 +1327,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "53183",
-    "lastUpdated": "Tue Jan  3 03:00:40 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:31 UTC 2023",
     "value": 120
   },
   {
@@ -1338,7 +1338,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "400932",
-    "lastUpdated": "Tue Jan  3 03:00:41 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:32 UTC 2023",
     "value": 121
   },
   {
@@ -1349,7 +1349,7 @@
     "enabled": true,
     "format": "hosts",
     "totalDomains": "170918",
-    "lastUpdated": "Tue Jan  3 03:00:42 UTC 2023",
+    "lastUpdated": "Tue Jan  3 06:26:33 UTC 2023",
     "value": 122
   }
 ]
