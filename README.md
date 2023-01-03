@@ -1,7 +1,7 @@
 Staging blacklist/whitelist/customlist repo for dnswarden
 
 
-### AdultFilter DNS uses following lists
+### AdultFilter DNS uses the following lists
 
 * adguardcnametrackers - [source](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt) - id71
 * fanboyannoyance - [source](https://easylist.to/easylist/fanboy-annoyance.txt) - id99
@@ -25,7 +25,7 @@ Staging blacklist/whitelist/customlist repo for dnswarden
 
 
 
-### AdBlock DNS uses following lists
+### Adblock DNS uses the following lists
 
 * adguardcnametrackers - [source](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt) - id71
 * fanboyannoyance - [source](https://easylist.to/easylist/fanboy-annoyance.txt) - id99
