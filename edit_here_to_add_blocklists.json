@@ -49,7 +49,7 @@
 
   {
     "loc": "custom_filters/normal/id4.txt",
-    "name": "dnswarden (whitelist)",
+    "name": "dnswarden (Whitelist)",
     "category": "Whitelist, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt",
     "enabled": true,
@@ -61,7 +61,7 @@
 
   {
     "loc": "custom_filters/normal/id5.txt",
-    "name": "Enforce safe search",
+    "name": "Enforce Safe Search",
     "category": "Force safe search, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/forcesafesearch.txt",
     "enabled": true,
@@ -85,7 +85,7 @@
 
   {
     "loc": "custom_filters/normal/id7.txt",
-    "name": "1Hosts (lite)",
+    "name": "1Hosts (Lite)",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt",
     "enabled": true,
@@ -97,7 +97,7 @@
 
   {
     "loc": "custom_filters/normal/id8.txt",
-    "name": "1Hosts (pro)",
+    "name": "1Hosts (Pro)",
     "category": "Ads, Privacy, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt",
     "enabled": true,
@@ -109,7 +109,7 @@
 
   {
     "loc": "custom_filters/normal/id9.txt",
-    "name": "1Hosts (xtra)",
+    "name": "1Hosts (Xtra)",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt",
     "enabled": true,
@@ -121,7 +121,7 @@
 
   {
     "loc": "custom_filters/normal/id10.txt",
-    "name": "1Hosts (kidsaf)",
+    "name": "1Hosts (kidSaf)",
     "category": "Parentalcontrol",
     "source": "https://raw.githubusercontent.com/badmojr/addons_1Hosts/main/kidSaf/domains.txt",
     "enabled": true,
@@ -157,7 +157,7 @@
 
   {
     "loc": "custom_filters/normal/id13.txt",
-    "name": "disconnect.me (ads)",
+    "name": "disconnect.me (Ads)",
     "category": "Ads",
     "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
     "enabled": true,
@@ -169,7 +169,7 @@
 
   {
     "loc": "custom_filters/normal/id14.txt",
-    "name": "disconnect.me (malvertising)",
+    "name": "disconnect.me (Malvertising)",
     "category": "Privacy",
     "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
     "enabled": true,
@@ -181,7 +181,7 @@
 
   {
     "loc": "custom_filters/normal/id15.txt",
-    "name": "disconnect.me (tracking)",
+    "name": "disconnect.me (Tracking)",
     "category": "Ads, Privacy",
     "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt",
     "enabled": true,
@@ -193,7 +193,7 @@
 
   {
     "loc": "custom_filters/normal/id16.txt",
-    "name": "blocklistproject (abuse)",
+    "name": "The Block List Project (Abuse)",
     "category": "Privacy, Malware",
     "source": "https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt",
     "enabled": true,
@@ -205,7 +205,7 @@
 
   {
     "loc": "custom_filters/normal/id17.txt",
-    "name": "blocklistproject (ads)",
+    "name": "The Block List Project (Ads)",
     "category": "Ads",
     "source": "https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt",
     "enabled": true,
@@ -217,7 +217,7 @@
 
   {
     "loc": "custom_filters/normal/id18.txt",
-    "name": "blocklistproject (crypto)",
+    "name": "The Block List Project (Crypto)",
     "category": "Malware",
     "source": "https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt",
     "enabled": true,
@@ -229,7 +229,7 @@
 
   {
     "loc": "custom_filters/normal/id19.txt",
-    "name": "blocklistproject (drugs)",
+    "name": "The Block List Project (Drugs)",
     "category": "Parentalcontrol",
     "source": "https://blocklistproject.github.io/Lists/alt-version/drugs-nl.txt",
     "enabled": true,
@@ -241,7 +241,7 @@
 
   {
     "loc": "custom_filters/normal/id20.txt",
-    "name": "blocklistproject (facebook)",
+    "name": "The Block List Project (Facebook)",
     "category": "Privacy, Social",
     "source": "https://blocklistproject.github.io/Lists/alt-version/facebook-nl.txt",
     "enabled": true,
@@ -253,7 +253,7 @@
 
   {
     "loc": "custom_filters/normal/id21.txt",
-    "name": "blocklistproject (fraud)",
+    "name": "The Block List Project (Fraud)",
     "category": "Parentalcontrol, Malware",
     "source": "https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt",
     "enabled": true,
@@ -265,7 +265,7 @@
 
   {
     "loc": "custom_filters/normal/id22.txt",
-    "name": "blocklistproject (malware)",
+    "name": "The Block List Project (Malware)",
     "category": "Malware",
     "source": "https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt",
     "enabled": true,
@@ -277,7 +277,7 @@
 
   {
     "loc": "custom_filters/normal/id23.txt",
-    "name": "blocklistproject (phishing)",
+    "name": "The Block List Project (Phishing)",
     "category": "Malware",
     "source": "https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt",
     "enabled": true,
@@ -289,7 +289,7 @@
 
   {
     "loc": "custom_filters/normal/id24.txt",
-    "name": "blocklistproject (piracy)",
+    "name": "The Block List Project (Piracy)",
     "category": "Privacy",
     "source": "https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt",
     "enabled": true,
@@ -301,7 +301,7 @@
 
   {
     "loc": "custom_filters/normal/id25.txt",
-    "name": "blocklistproject (porn)",
+    "name": "The Block List Project (Porn)",
     "category": "Porn",
     "source": "https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt",
     "enabled": true,
@@ -313,7 +313,7 @@
 
   {
     "loc": "custom_filters/normal/id26.txt",
-    "name": "blocklistproject (scam)",
+    "name": "The Block List Project (Scam)",
     "category": "Parentalcontrol, Malware",
     "source": "https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt",
     "enabled": true,
@@ -325,7 +325,7 @@
 
   {
     "loc": "custom_filters/normal/id27.txt",
-    "name": "blocklistproject (tiktok)",
+    "name": "The Block List Project (TikTok)",
     "category": "Privacy, Social",
     "source": "https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt",
     "enabled": true,
@@ -337,7 +337,7 @@
 
   {
     "loc": "custom_filters/normal/id28.txt",
-    "name": "blocklistproject (torrent)",
+    "name": "The Block List Project (Torrent)",
     "category": "Piracy",
     "source": "https://blocklistproject.github.io/Lists/alt-version/torrent-nl.txt",
     "enabled": true,
@@ -349,7 +349,7 @@
 
   {
     "loc": "custom_filters/normal/id29.txt",
-    "name": "blocklistproject (tracking)",
+    "name": "The Block List Project (Tracking)",
     "category": "Privacy",
     "source": "https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt",
     "enabled": true,
@@ -361,7 +361,7 @@
 
   {
     "loc": "custom_filters/normal/id30.txt",
-    "name": "energized (spark)",
+    "name": "Energized (Spark)",
     "category": "Ads, Privacy",
     "source": "https://block.energized.pro/spark/formats/domains.txt",
     "enabled": true,
@@ -373,7 +373,7 @@
 
   {
     "loc": "custom_filters/normal/id31.txt",
-    "name": "energized (bluGo)",
+    "name": "Energized (BluGo)",
     "category": "Ads, Privacy",
     "source": "https://block.energized.pro/bluGo/formats/domains.txt",
     "enabled": true,
@@ -385,7 +385,7 @@
 
   {
     "loc": "custom_filters/normal/id32.txt",
-    "name": "energized (blu)",
+    "name": "Energized (Blu)",
     "category": "Ads, Privacy",
     "source": "https://block.energized.pro/blu/formats/domains.txt",
     "enabled": true,
@@ -397,7 +397,7 @@
 
   {
     "loc": "custom_filters/normal/id33.txt",
-    "name": "energized (basic)",
+    "name": "Energized (Basic)",
     "category": "Ads, Privacy",
     "source": "https://block.energized.pro/basic/formats/domains.txt",
     "enabled": true,
@@ -409,7 +409,7 @@
 
   {
     "loc": "custom_filters/normal/id34.txt",
-    "name": "energized (porn)",
+    "name": "Energized (Porn)",
     "category": "Porn",
     "source": "https://block.energized.pro/porn/formats/domains.txt",
     "enabled": true,
@@ -421,7 +421,7 @@
 
   {
     "loc": "custom_filters/normal/id35.txt",
-    "name": "energized (ultimate)",
+    "name": "Energized (Ultimate)",
     "category": "Ads, Privacy",
     "source": "https://block.energized.pro/ultimate/formats/domains.txt",
     "enabled": true,
@@ -433,7 +433,7 @@
 
   {
     "loc": "custom_filters/normal/id36.txt",
-    "name": "energized (unified)",
+    "name": "Energized (Unified)",
     "category": "Ads, Privacy, Porn",
     "source": "https://block.energized.pro/unified/formats/domains.txt",
     "enabled": true,
@@ -445,7 +445,7 @@
 
   {
     "loc": "custom_filters/normal/id37.txt",
-    "name": "energized (porn-lite)",
+    "name": "Energized (Porn-Lite)",
     "category": "Porn",
     "source": "https://block.energized.pro/extensions/porn-lite/formats/domains.txt",
     "enabled": true,
@@ -457,7 +457,7 @@
 
   {
     "loc": "custom_filters/normal/id38.txt",
-    "name": "energized (social)",
+    "name": "Energized (Social)",
     "category": "Privacy, Social",
     "source": "https://block.energized.pro/extensions/social/formats/domains.txt",
     "enabled": true,
@@ -469,7 +469,7 @@
 
   {
     "loc": "custom_filters/normal/id39.txt",
-    "name": "energized (regional)",
+    "name": "Energized (Regional)",
     "category": "Privacy",
     "source": "https://block.energized.pro/extensions/regional/formats/domains.txt",
     "enabled": true,
@@ -481,8 +481,8 @@
 
   {
     "loc": "custom_filters/normal/id40.txt",
-    "name": "energized (xtreme)",
-    "category": "Privacy",
+    "name": "Energized (Xtreme)",
+    "category: "Privacy",
     "source": "https://block.energized.pro/extensions/xtreme/formats/domains.txt",
     "enabled": true,
     "format": "hosts",
@@ -493,7 +493,7 @@
 
   {
     "loc": "custom_filters/wildcard/id41.txt",
-    "name": "nextdns (facebook)",
+    "name": "NextDNS (Facebook)",
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/facebook",
     "enabled": true,
@@ -505,7 +505,7 @@
 
   {
     "loc": "custom_filters/normal/id42.txt",
-    "name": "nextdns (bypass-methods)",
+    "name": "NextDNS (Bypass-Methods)",
     "category": "Parentalcontrol",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods",
     "enabled": true,
@@ -517,7 +517,7 @@
 
   {
     "loc": "custom_filters/wildcard/id43.txt",
-    "name": "nextdns (safesearch-not-supported)",
+    "name": "NextDNS (SafeSearch-Not-Supported)",
     "category": "Wildcard, Parentalcontrol",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/safesearch-not-supported",
     "enabled": true,
@@ -529,7 +529,7 @@
 
   {
     "loc": "custom_filters/wildcard/id44.txt",
-    "name": "nextdns (dht-bootstrap-nodes)",
+    "name": "NextDNS (DHT-Bootstrap-Nodes)",
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/dht-bootstrap-nodes",
     "enabled": true,
@@ -541,7 +541,7 @@
 
   {
     "loc": "custom_filters/wildcard/id45.txt",
-    "name": "nextdns (file-hosting)",
+    "name": "NextDNS (File-Hosting)",
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/file-hosting",
     "enabled": true,
@@ -553,7 +553,7 @@
 
   {
     "loc": "custom_filters/wildcard/id46.txt",
-    "name": "nextdns (proxies)",
+    "name": "NextDNS (Proxies)",
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies",
     "enabled": true,
@@ -565,7 +565,7 @@
 
   {
     "loc": "custom_filters/wildcard/id47.txt",
-    "name": "nextdns (streaming-audio)",
+    "name": "NextDNS (Streaming Audio)",
     "category": "Wildcard, Parentalcontrol",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-audio",
     "enabled": true,
@@ -577,7 +577,7 @@
 
   {
     "loc": "custom_filters/wildcard/id48.txt",
-    "name": "nextdns (streaming-video)",
+    "name": "NextDNS (Streaming Video)",
     "category": "Wildcard, Parentalcontrol",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-video",
     "enabled": true,
@@ -589,7 +589,7 @@
 
   {
     "loc": "custom_filters/wildcard/id49.txt",
-    "name": "nextdns (torrent-clients)",
+    "name": "NextDNS (Torrent Clients)",
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-clients",
     "enabled": true,
@@ -601,7 +601,7 @@
 
   {
     "loc": "custom_filters/wildcard/id50.txt",
-    "name": "nextdns (torrent-trackers)",
+    "name": "NextDNS (Torrent Trackers)",
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-trackers",
     "enabled": true,
@@ -613,7 +613,7 @@
 
   {
     "loc": "custom_filters/wildcard/id51.txt",
-    "name": "nextdns (torrent-websites)",
+    "name": "NextDNS (Torrent Websites)",
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-websites",
     "enabled": true,
@@ -625,7 +625,7 @@
 
   {
     "loc": "custom_filters/wildcard/id52.txt",
-    "name": "nextdns (usenet)",
+    "name": "NextDNS (Usenet)",
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/usenet",
     "enabled": true,
@@ -637,7 +637,7 @@
 
   {
     "loc": "custom_filters/wildcard/id53.txt",
-    "name": "nextdns (warez)",
+    "name": "NextDNS (Warez)",
     "category": "Wildcard, Parentalcontrol, Piracy",
     "source": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/warez",
     "enabled": true,
@@ -649,7 +649,7 @@
 
   {
     "loc": "custom_filters/wildcard/id54.txt",
-    "name": "nextdns (amazon)",
+    "name": "NextDNS (Amazon)",
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/amazon",
     "enabled": true,
@@ -661,7 +661,7 @@
 
   {
     "loc": "custom_filters/wildcard/id55.txt",
-    "name": "nextdns (dailymotion)",
+    "name": "NextDNS (Dailymotion)",
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/dailymotion",
     "enabled": true,
@@ -673,7 +673,7 @@
 
   {
     "loc": "custom_filters/wildcard/id56.txt",
-    "name": "nextdns (ebay)",
+    "name": "NextDNS (Ebay)",
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/ebay",
     "enabled": true,
@@ -685,7 +685,7 @@
 
   {
     "loc": "custom_filters/wildcard/id57.txt",
-    "name": "nextdns (netflix)",
+    "name": "NextDNS (Netflix)",
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/netflix",
     "enabled": true,
@@ -697,7 +697,7 @@
 
   {
     "loc": "custom_filters/wildcard/id58.txt",
-    "name": "nextdns (reddit)",
+    "name": "NextDNS (Reddit)",
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/reddit",
     "enabled": true,
@@ -709,7 +709,7 @@
 
   {
     "loc": "custom_filters/wildcard/id59.txt",
-    "name": "nextdns (snapchat)",
+    "name": "NextDNS (Snapchat)",
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/snapchat",
     "enabled": true,
@@ -721,7 +721,7 @@
 
   {
     "loc": "custom_filters/wildcard/id60.txt",
-    "name": "nextdns (spotify)",
+    "name": "NextDNS (Spotify)",
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/spotify",
     "enabled": true,
@@ -733,7 +733,7 @@
 
   {
     "loc": "custom_filters/wildcard/id61.txt",
-    "name": "nextdns (steam)",
+    "name": "NextDNS (Steam)",
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/steam",
     "enabled": true,
@@ -745,7 +745,7 @@
 
   {
     "loc": "custom_filters/wildcard/id62.txt",
-    "name": "nextdns (twitch)",
+    "name": "NextDNS (Twitch)",
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/twitch",
     "enabled": true,
@@ -757,7 +757,7 @@
 
   {
     "loc": "custom_filters/wildcard/id63.txt",
-    "name": "nextdns (twitter)",
+    "name": "NextDNS (Twitter)",
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/twitter",
     "enabled": true,
@@ -769,7 +769,7 @@
 
   {
     "loc": "custom_filters/wildcard/id64.txt",
-    "name": "nextdns (vimeo)",
+    "name": "NextDNS (Vimeo)",
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/vimeo",
     "enabled": true,
@@ -781,7 +781,7 @@
 
   {
     "loc": "custom_filters/wildcard/id65.txt",
-    "name": "nextdns (youtube)",
+    "name": "NextDNS (YouTube)",
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/youtube",
     "enabled": true,
@@ -793,7 +793,7 @@
 
   {
     "loc": "custom_filters/normal/id66.txt",
-    "name": "nextdns (affiliate-tracking-domains)",
+    "name": "NextDNS (Affiliate Tracking Domains)",
     "category": "Whitelist",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains",
     "enabled": true,
@@ -805,7 +805,7 @@
 
   {
     "loc": "custom_filters/wildcard/id67.txt",
-    "name": "nextdns (huawei)",
+    "name": "NextDNS (Huawei)",
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei",
     "enabled": true,
@@ -817,7 +817,7 @@
 
   {
     "loc": "custom_filters/wildcard/id68.txt",
-    "name": "nextdns (windows)",
+    "name": "NextDNS (Windows)",
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows",
     "enabled": true,
@@ -829,7 +829,7 @@
 
   {
     "loc": "custom_filters/wildcard/id69.txt",
-    "name": "nextdns (xiaomi)",
+    "name": "NextDNS (Xiaomi)",
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi",
     "enabled": true,
@@ -841,7 +841,7 @@
 
   {
     "loc": "custom_filters/normal/id70.txt",
-    "name": "adguard (dnsfilter)",
+    "name": "Adguard (DNSFilter)",
     "category": "Ads, Privacy",
     "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
     "enabled": true,
@@ -853,7 +853,7 @@
 
   {
     "loc": "custom_filters/normal/id71.txt",
-    "name": "adguard (cname-trackers)",
+    "name": "Adguard (CNAME-Trackers)",
     "category": "Ads, Privacy, Ablock, Adultfilter",
     "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt",
     "enabled": true,
@@ -901,7 +901,7 @@
 
   {
     "loc": "custom_filters/normal/id75.txt",
-    "name": "tiuxo (ads)",
+    "name": "tiuxo (Ads)",
     "category": "Ads",
     "source": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
     "enabled": true,
@@ -925,7 +925,7 @@
 
   {
     "loc": "custom_filters/normal/id77.txt",
-    "name": "yoyo.org",
+    "name": "yoyo.org (Peter Lowe)",
     "category": "Ads, Privacy",
     "source": "https://pgl.yoyo.org/as/serverlist.php?hostformat=domains&mimetype=plaintext",
     "enabled": true,
@@ -937,7 +937,7 @@
 
   {
     "loc": "custom_filters/normal/id78.txt",
-    "name": "mhxion (porn_sites)",
+    "name": "mhxion (Porn Sites)",
     "category": "Porn",
     "source": "https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt",
     "enabled": true,
@@ -949,7 +949,7 @@
 
   {
     "loc": "custom_filters/wildcard/id79.txt",
-    "name": "ut1-blacklists (social_networks)",
+    "name": "ut1-blacklists (Social Networks)",
     "category": "Wildcard, Social",
     "source": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/social_networks/domains",
     "enabled": true,
@@ -961,7 +961,7 @@
 
   {
     "loc": "custom_filters/normal/id80.txt",
-    "name": "Sinfonietta (porn)",
+    "name": "Sinfonietta (Porn)",
     "category": "Porn",
     "source": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts",
     "enabled": true,
@@ -997,7 +997,7 @@
 
   {
     "loc": "custom_filters/normal/id83.txt",
-    "name": "notrack-blocklists (malware)",
+    "name": "notrack-blocklists (Malware)",
     "category": "Privacy, Malware",
     "source": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/malware.list",
     "enabled": true,
@@ -1009,7 +1009,7 @@
 
   {
     "loc": "custom_filters/normal/id84.txt",
-    "name": "notrack-blocklists (blocklist)",
+    "name": "notrack-blocklists (Blocklist)",
     "category": "Privacy",
     "source": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list",
     "enabled": true,
@@ -1021,7 +1021,7 @@
 
   {
     "loc": "custom_filters/normal/id85.txt",
-    "name": "mitchellkrogza (malware)",
+    "name": "mitchellkrogza (Malware)",
     "category": "Malware",
     "source": "https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts",
     "enabled": true,
@@ -1057,7 +1057,7 @@
 
   {
     "loc": "custom_filters/normal/id88.txt",
-    "name": "ut1-blacklists (malware)",
+    "name": "ut1-blacklists (Malware)",
     "category": "Malware",
     "source": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/malware/domains",
     "enabled": true,
@@ -1069,7 +1069,7 @@
 
   {
     "loc": "custom_filters/normal/id89.txt",
-    "name": "ut1-blacklists (phishing)",
+    "name": "ut1-blacklists (Phishing)",
     "category": "Malware",
     "source": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/phishing/domains",
     "enabled": true,
@@ -1081,7 +1081,7 @@
 
   {
     "loc": "custom_filters/normal/id90.txt",
-    "name": "dnswarden (blacklist)",
+    "name": "dnswarden (Blacklist)",
     "category": "Ads, Tiny",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommon.txt",
     "enabled": true,
@@ -1105,7 +1105,7 @@
 
   {
     "loc": "custom_filters/normal/id92.txt",
-    "name": "stopforumspam (toxic domains)",
+    "name": "stopforumspam (Toxic Domains)",
     "category": "Ads, Privacy, Adblock, Adultfilter",
     "source": "https://www.stopforumspam.com/downloads/toxic_domains_whole.txt",
     "enabled": true,
@@ -1189,7 +1189,7 @@
 
   {
     "loc": "custom_filters/normal/id99.txt",
-    "name": "easylist (fanboy-annoyance)",
+    "name": "Easylist (Fanboy-Annoyance)",
     "category": "Ads, Adblock, Adultfilter",
     "source": "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
     "enabled": true,
@@ -1201,7 +1201,7 @@
 
   {
     "loc": "custom_filters/normal/id100.txt",
-    "name": "developerdan (ads-and-tracking)",
+    "name": "developerdan (Ads & Tracking)",
     "category": "Ads, Privacy, Adblock, Adultfilter",
     "source": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
     "enabled": true,
@@ -1213,7 +1213,7 @@
 
   {
     "loc": "custom_filters/normal/id101.txt",
-    "name": "developerdan (tracking-aggressive)",
+    "name": "developerdan (Tracking Aggressive)",
     "category": "Privacy",
     "source": "https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt",
     "enabled": true,
@@ -1248,7 +1248,7 @@
   },
   {
     "loc": "custom_filters/wildcard/id104.txt",
-    "name": "dnswarden (blacklist wildcard)",
+    "name": "dnswarden (Blacklist Wildcard)",
     "category": "Ads, Privacy, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommonwildcard.txt",
     "enabled": true,
@@ -1259,7 +1259,7 @@
   },
   {
     "loc": "custom_filters/normal/id105.txt",
-    "name": "dnswarden (blacklist adult content)",
+    "name": "dnswarden (Blacklist Adult Content)",
     "category": "Ads, Privacy, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontent.txt",
     "enabled": true,
@@ -1270,7 +1270,7 @@
   },
   {
     "loc": "custom_filters/normal/id106.txt",
-    "name": "dnswarden (whitelist adult content)",
+    "name": "dnswarden (Whitelist Adult Content)",
     "category": "Whitelist, Adblock, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistadultcontent.txt",
     "enabled": true,
@@ -1281,7 +1281,7 @@
   },
   {
     "loc": "custom_filters/wildcard/id107.txt",
-    "name": "dnswarden (adult filter blacklist wildcard)",
+    "name": "dnswarden (Adult Filter Blacklist Wildcard)",
     "category": "Ads, Privacy, Adultfilter",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontentwildcard.txt",
     "enabled": true,
@@ -1347,7 +1347,7 @@
   },
   {
     "loc": "custom_filters/normal/id113.txt",
-    "name": "dnswarden (blacklist extreme)",
+    "name": "dnswarden (Blacklist Extreme)",
     "category": "Ads, Extreme, Tiny",
     "source": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklist_extreme.txt",
     "enabled": true,
@@ -1358,7 +1358,7 @@
   },
   {
     "loc": "custom_filters/normal/id114.txt",
-    "name": "dandelionsprout (anti-malware)",
+    "name": "DandelionSprout (Anti-Malware)",
     "category": "Malware",
     "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt",
     "enabled": true,
@@ -1369,7 +1369,7 @@
   },
   {
     "loc": "custom_filters/normal/id115.txt",
-    "name": "dandelionsprout (Nordic Filter for Tidier Websites)",
+    "name": "DandelionSprout (Nordic Filter for Tidier Websites)",
     "category": "Ads",
     "source": "https://gitlab.com/DandelionSprout/adfilt/raw/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt",
     "enabled": true,
@@ -1391,7 +1391,7 @@
   },
   {
     "loc": "custom_filters/normal/id117.txt",
-    "name": "phishing.army (extended)",
+    "name": "phishing.army (Extended)",
     "category": "Privacy, Malware",
     "source": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
     "enabled": true,
