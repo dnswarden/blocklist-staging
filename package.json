@@ -1,0 +1,23 @@
+{
+  "name": "blocklist-staging",
+  "version": "0.1",
+  "description": "Staging repo for DnsWarden",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnswarden/blocklist-staging.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnswarden/blocklist-staging/issues"
+  },
+  "homepage": "https://github.com/dnswarden/blocklist-staging#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "shelljs": "^0.8.5"
+  }
+}
