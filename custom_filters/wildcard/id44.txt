@@ -1,5 +1,0 @@
-dht.aelitis.com
-dht.transmissionbt.com
-dht.vuze.com
-router.bittorrent.com
-router.utorrent.com
