@@ -1,9 +1,0 @@
-data.mistat.india.xiaomi.com
-data.mistat.intl.xiaomi.com
-data.mistat.rus.xiaomi.com
-data.mistat.xiaomi.com
-sa.api.intl.miui.com
-tracking.india.miui.com
-tracking.intl.miui.com
-tracking.miui.com
-tracking.rus.miui.com
