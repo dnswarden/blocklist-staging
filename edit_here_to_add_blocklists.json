@@ -673,7 +673,7 @@
 
   {
     "loc": "custom_filters/wildcard/id56.txt",
-    "name": "NextDNS (Ebay)",
+    "name": "NextDNS (EBay)",
     "category": "Wildcard",
     "source": "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/ebay",
     "enabled": true,
@@ -1165,7 +1165,7 @@
 
   {
     "loc": "custom_filters/normal/id97.txt",
-    "name": "phishing.army",
+    "name": "Phishing.army",
     "category": "Privacy, Malware, Adblock, Adultfilter",
     "source": "https://phishing.army/download/phishing_army_blocklist.txt",
     "enabled": true,
@@ -1179,7 +1179,7 @@
     "loc": "custom_filters/normal/id98.txt",
     "name": "zerodot1 (CoinBlocker)",
     "category": "Parentalcontrol, Malware, Adblock, Adultfilter",
-    "source": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
+    "source": "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list.txt",
     "enabled": true,
     "format": "hosts",
     "totalDomains": 0,
@@ -1292,7 +1292,7 @@
   },
   {
     "loc": "custom_filters/normal/id108.txt",
-    "name": "hagezi (Multi Light)",
+    "name": "HaGeZi (Multi Light)",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt",
     "enabled": true,
@@ -1303,7 +1303,7 @@
   },
   {
     "loc": "custom_filters/normal/id109.txt",
-    "name": "hagezi (Multi Normal)",
+    "name": "HaGeZi (Multi Normal)",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt",
     "enabled": true,
@@ -1314,7 +1314,7 @@
   },
   {
     "loc": "custom_filters/normal/id110.txt",
-    "name": "hagezi (Multi Pro)",
+    "name": "HaGeZi (Multi Pro)",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt",
     "enabled": true,
@@ -1325,7 +1325,7 @@
   },
   {
     "loc": "custom_filters/normal/id111.txt",
-    "name": "hagezi (Multi Pro++)",
+    "name": "HaGeZi (Multi Pro++)",
     "category": "Ads, Privacy",
     "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt",
     "enabled": true,
@@ -1336,7 +1336,7 @@
   },
   {
     "loc": "custom_filters/normal/id112.txt",
-    "name": "hagezi (Threat Intelligence Feeds)",
+    "name": "HaGeZi(Threat Intelligence Feeds)",
     "category": "Malware, Privacy",
     "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt",
     "enabled": true,
@@ -1371,7 +1371,7 @@
     "loc": "custom_filters/normal/id115.txt",
     "name": "DandelionSprout (Nordic Filter for Tidier Websites)",
     "category": "Ads",
-    "source": "https://gitlab.com/DandelionSprout/adfilt/raw/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt",
+    "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt",
     "enabled": true,
     "format": "hosts",
     "totalDomains": 0,
@@ -1391,7 +1391,7 @@
   },
   {
     "loc": "custom_filters/normal/id117.txt",
-    "name": "phishing.army (Extended)",
+    "name": "Phishing.army (Extended)",
     "category": "Privacy, Malware",
     "source": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
     "enabled": true,
