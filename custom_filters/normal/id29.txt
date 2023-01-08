@@ -566,6 +566,7 @@ analytics.ip-profis.de
 analytics.live-panorama.com
 analytics.live.com
 analytics.magelan.it
+analytics.meaww.com
 analytics.microsoft.com
 analytics.msn.com
 analytics.newsinc.com
@@ -690,6 +691,11 @@ as133873.net
 as134124.net
 as55819.net
 ashfordinvestments.com
+asia-analyzer-appstore.vivoglobal.com
+asia-comonrt-stsdk.vivoglobal.com
+asia-comort-stsdk.vivoglobal.com
+asia-ex-adlog.vivoglobal.com
+asia-exstsdk.vivoglobal.com
 asocials.com
 aspirer.xyz
 assoc-amazon.jp
@@ -12894,6 +12900,7 @@ mouseflow.com
 mouseflow.net
 mouseflow.org
 mouseflow.us
+mousegesturesapi.com
 moutaihotel.cn
 movfile.net
 movingos.com
@@ -12904,6 +12911,8 @@ movoxy.net
 mparticle.com
 mpdotrk.com
 mpire.com
+mplusps.ims.vodafone.com
+mpluswf.ims.vodafone.com
 mplxtms.com
 mpn-analytics.mokonocdn.com
 mpstat.us
@@ -13053,6 +13062,7 @@ netcommunities.com
 netline.com
 netlog.ru
 netmng.com
+netperform-is.vodafone.com.tr
 netscope.data.marktest.pt
 netseer.com
 netshelter.net
@@ -14100,6 +14110,7 @@ solidinc.net
 solorpowernowme.com
 solution.weborama.fr
 solvemedia.com
+songlytics.net
 sonobi.com
 soos.soliver.de
 soosooka.com
@@ -14384,6 +14395,12 @@ touchcommerce.london
 touchstoneresearch.com
 tqlkg.com
 tqn.com
+tr-domaincfg.vivoglobal.com
+tr-romsp-unifyconfig.vivoglobal.com
+tr-st-sl.vivoglobal.com
+tr-timesync.vivoglobal.com
+tr-vcode-api.vivoglobal.com
+tr-vcode-od.vivoglobal.com
 traaack.com
 track-flow.com
 track-mv-01.com
@@ -14806,6 +14823,7 @@ visualvote.com
 visualwebsiteoptimizer.com
 vizu.com
 vncovers.com
+vodafonetr.sc.omtrdc.net
 voicefive.com
 voluumtrk.com
 voluumtrk2.com

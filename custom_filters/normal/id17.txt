@@ -33073,6 +33073,7 @@ advertis.go2cloud.org
 advertise.bingads.microsoft.com
 advertise.com
 advertise.indiatimes.com
+advertise.ldplayer.net
 advertise.ru
 advertise.tucows.com
 advertise.twitpic.com
@@ -36876,6 +36877,7 @@ api.adzmedia.net
 api.ae888.com
 api.affinesystems.com
 api.agoda.com.edgekey.net
+api.ahagamecenter.com
 api.airbrake.io
 api.airfind.com
 api.airpush.com
@@ -37056,6 +37058,7 @@ api.doumob.com
 api.dsp.batmobi.net
 api.dyn.perfectaudience.com
 api.dynamicyield.com
+api.eagllwin.com
 api.elasticemail.com
 api.elysium.opera.com
 api.enjoyadsplatform.com
@@ -52242,6 +52245,7 @@ clockdisplaystoring.com
 clockskew.alphonso.tv
 clod.pw
 cloed.go2affise.com
+clog.geniex.com
 clog.go.com
 cloisteredcord.com
 cloisteredhydrant.com
@@ -56586,6 +56590,7 @@ creative.cpxcenter.com
 creative.demandbase.com
 creative.digitaltargetmarketing.com
 creative.doubleclick.net
+creative.eagllwin.com
 creative.exponential.com
 creative.hatid.com
 creative.lkqd.net
@@ -71402,6 +71407,7 @@ gameeve.beacon.qq.com
 gamefly.inq.com
 gamefly.touchcommerce.com
 gamefuse.go2cloud.org
+gamegamb.com
 gamehotus.com
 gamehouse.com
 gameleads.ru
@@ -75810,6 +75816,7 @@ hipmunk.7eer.net
 hipmunk.adlegend.com
 hipmunk.partner.intentmedia.net
 hippo.adultadworld.com
+hippoobox.com
 hir-24.eu
 hir-24.info
 hir-online.com
@@ -81984,6 +81991,7 @@ iriscoremetadataprod.blob.core.windows.net
 irismedia.g2afse.com
 irjaeupzarkvwmxonaeslgicvjvgdruvdywmdvuaoyfsjgdzhk.com
 irjndsmrnax3qldycwnttdposagxj1510283190.nuid.imrworldwide.com
+irl-api.twibida.com
 irl1.demdex.net
 irland.de.intellitxt.com
 irleti.com
@@ -93019,7 +93027,9 @@ mini.activeshopper.com
 mini1.corp.appnexus.com
 mini5-7.opera-mini.net
 mini5.opera-mini.net
+mini6g.com
 minidoc.ru
+minigame.vip
 minigameplanet.com
 miniinthebox.7eer.net
 minimob.com
@@ -111453,6 +111463,7 @@ restapi.actonsoftware.com
 restapi.amap.com
 restapi.getui.com
 restapi2.actonsoftware.com
+restart-api.palmplaystore.com
 restartad.com
 restaurantcom.tt.omtrdc.net
 restaurantelataperiadel10.com
@@ -122893,6 +122904,7 @@ store.xml.auxml.com
 storeconfig.mistat.intl.xiaomi.com
 storeconfig.mistat.xiaomi.com
 storedsearch.com
+storeen.ldmnq.com
 storefront.flurry.com
 storefront.nr-assets.net
 storesupplywarehouse.d1.sc.omtrdc.net
@@ -127231,6 +127243,7 @@ toolbelt.treasuredata.com
 toolbox-bj.getui.com
 toolbox.contentspread.net
 toolcount.ru
+toolmatrix.plus
 tools-c.clickability.com
 tools-tracking.adform.com
 tools.3g.qq.com
@@ -129726,6 +129739,7 @@ trans.globalnetworkad.com
 trans.hiido.com
 trans.youwatch.org
 trans20120430.getjar.com
+transacme.com
 transact-can.cedexis.com
 transact.justclick.ru
 transactionale.com
