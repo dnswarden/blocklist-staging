@@ -2,7 +2,8 @@
   "name": "blocklist-staging",
   "version": "0.1",
   "description": "Staging repo for DnsWarden",
-  "main": "index.js",
+  "main": "download.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,7 +18,9 @@
   },
   "homepage": "https://github.com/dnswarden/blocklist-staging#readme",
   "dependencies": {
-    "node-fetch": "^2.6.7",
+    "color-it": "^1.2.12",
+    "fs-extra": "^11.1.0",
+    "node-fetch": "^3.3.0",
     "shelljs": "^0.8.5"
   }
 }
