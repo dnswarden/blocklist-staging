@@ -2686,7 +2686,6 @@ api.flurry.com
 api.flygame.io
 api.forshrd.com
 api.fouanalytics.com
-api.fpjs.io
 api.fuseplatform.net
 api.fyber.com
 api.gameads.io
@@ -3001,8 +3000,6 @@ appular.com
 appvast.adsafeprotected.com
 apr.lijit.com
 aps.hearstnp.com
-aps1.fptls.com
-aps1.fptls2.com
 apsoutheast-match.deepintent.com
 apture.com
 apusx.com
@@ -4813,6 +4810,7 @@ cjlog.com
 cjs.ptengine.com
 cjt1.net
 cjt3w2kxrv.com
+cjxomyilmv.com
 ck.ads.heytapmobi.com
 ck.connatix.com
 ck.jads.co
@@ -6622,8 +6620,6 @@ euasync01.admantx.com
 euclid.kuula.co
 euintraspec.specificmedia.com
 eulerian.com
-eun1.fptls.com
-eun1.fptls2.com
 eur-ukp.adsrvr.org
 eurekster.com
 euro.klick.vn
@@ -7012,10 +7008,7 @@ fp.advertising.microsoft.com
 fp.measure.office.com
 fp.metricswpsh.com
 fp.studio.inmobicdn.net
-fpjs.io
 fpnpmcdn.net
-fptls.com
-fptls2.com
 fqtag.com
 fr.districtm.ca
 fr.indexexchange.com
@@ -7667,6 +7660,7 @@ hi-cdn.adsparc.net
 hi.districtm.ca
 hidden.gogoceleb.com
 hidelen.com
+highcpmrevenuenetwork.com
 highfalutinroom.com
 highlandscoffee.adsota.com
 highmaidfhr.com
@@ -7761,6 +7755,7 @@ hoverowl.com
 howdoesin.net
 howtubray.com
 hp-api.omnitagjs.com
+hpijkah.com
 hpr.outbrain.com
 hprofits.com
 hpyrdr.com
@@ -7810,6 +7805,7 @@ hwdata1.aniview.com
 hwdata2.aniview.com
 hwpnocpctu.com
 hwstats.unity3d.com
+hxgqqxopf.com
 hybird.rayjump.com
 hybrid.ai
 hydra.adsfactor.net
@@ -8735,6 +8731,7 @@ kliks.nl
 klkstrm.kargo.com
 klog.hiido.com
 klsdee.com
+kmfwrqdp.com
 kneeansweras.com
 knop.yadro.ru
 knorex.com
@@ -10891,6 +10888,7 @@ peep-auktion.de
 peer39.com
 peggedolga.com
 pegloang.com
+pejzeexukxo.com
 pelagicmismate.com
 pennilesscomingall.com
 pennyweb.com
@@ -11413,6 +11411,7 @@ profiles.segment.com
 profiles.tagger.opecloud.com
 profitablecpmgate.com
 profitablegate.com
+profitablegatetocontent.com
 profitrumour.com
 profitshare.ro
 profserv01.smaato.net
@@ -11743,6 +11742,7 @@ qrlsx.com
 qs.ioam.de
 qsearch.media.net
 qstukqmsddqgs.com
+qthiqwum.com
 quackexclusfdfjd.com
 quacksquirrel.com
 quad.yadro.ru
@@ -13910,6 +13910,7 @@ steadfastsound.com
 steadfastsystem.com
 steelhouse.com
 steelhousemedia.com
+steeltour.pro
 steepto.com
 steinfqwe6782beck.com
 stelagharris.com
@@ -15162,6 +15163,7 @@ ul.pubpowerplatform.io
 ulead.urekamedia.com
 ulogs.umeng.com
 ulogs.umengcloud.com
+ulrzovfukgkljw.com
 ultimateclixx.com
 ultimedia.com
 ultramercial.com
@@ -15332,8 +15334,6 @@ usapromotravel.com
 usasync01.admantx.com
 usc.adserver.snapads.com
 use-tor.adsrvr.org
-use1.fptls.com
-use1.fptls2.com
 useast-beacon.deepintent.com
 useast.bfmio.com
 useast.quantumdex.io
@@ -17072,6 +17072,7 @@ za.zingmp3.vn
 za.zingnews.com.vn
 za.zingnews.vn
 zabbix.bidgear.com
+zabpbhko.com
 zalo-ads-240-td.zadn.vn
 zalo-ads-240.zadn.vn
 zalo-ads-480-td.zadn.vn
