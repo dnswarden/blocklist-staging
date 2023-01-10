@@ -121,10 +121,13 @@ async function processLineByLine(fl) {
 
 async function copyFiles() {
   try {
+    console.log("Attempting to copy files to custom_filter folder");
     await fs.copy("./processed_files/", "./custom_filters/");
-    console.log("success!");
+    console.log("" + colorIt("Copied files successfully to folder!").greenBg());
   } catch (err) {
-    console.error(err);
+    console.error(
+      "" + colorIt("Unable to copy files to folder!").redBg() + err
+    );
   }
 }
 
@@ -133,4 +136,5 @@ async function main() {
   await processFiles();
   await copyFiles();
 }
+
 export { processFiles, downloadFiles, copyFiles, main };
