@@ -119,9 +119,18 @@ async function processLineByLine(fl) {
   console.log(`Finished writing ${fl}`);
 }
 
+async function copyFiles() {
+  try {
+    await fs.copy("./processed_files/", "./custom_filters/");
+    console.log("success!");
+  } catch (err) {
+    console.error(err);
+  }
+}
+
 async function main() {
   await downloadFiles();
   await processFiles();
+  await copyFiles();
 }
-
-export { processFiles, downloadFiles, main };
+export { processFiles, downloadFiles, copyFiles, main };
