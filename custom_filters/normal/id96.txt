@@ -505,6 +505,7 @@ ad.vnnayngaytin.vn
 ad.weatherbug.com
 ad.wsod.com
 ad.wz.cz
+ad.xmmnsl.com
 ad.xrea.com
 ad.yadro.ru
 ad.yieldlab.net
@@ -2828,11 +2829,14 @@ api.yieldlab.net
 api.yieldlove-ad-serving.net
 api.zcoup.com
 api1.indexexchange.com
+api16-access-gcp.pangle-b.io
 api16-access-gcp.pangle.io
+api16-access-sg.pangle-b.io
 api16-access-sg.pangle.io
 api16-access-va.pangle.io
 api16-endcard-pack-sg.pangle.io
 api16-log-gcp.pangle.io
+api16-log-sg.pangle-b.io
 api16-log-sg.pangle.io
 api2.amplitude.com
 api2.appsflyer.com
@@ -6441,6 +6445,7 @@ effusedprankle.com
 eggnogsicerya.com
 eggsosgum.site
 eghnybyvn.com
+egikoilnbwk.com
 egistonemes.com
 egreephu.com
 ehealthcaresolutions.com
@@ -8622,6 +8627,7 @@ js.w.inmobi.com
 js.wpncdn.com
 js.wpnjs.com
 js.wpnsrv.com
+js.xzjhome.cc
 js1.nend.net
 js2.ad-score.com
 js2.rfihub.com
@@ -10583,6 +10589,7 @@ outloginequity.com
 outlookabsorb.com
 outloud.outbrain.com
 output.nend.net
+outrageousmeet.pro
 outrotomr.com
 outsliggooa.com
 outtimburrtor.com
@@ -10736,6 +10743,7 @@ panagiatelia.website
 pandasloveforlife.com
 panel.ioam.de
 panel.sociaplus.com
+pangle-b.io
 pangle.io
 pansidlike.net
 pansymerbaby.com
@@ -16917,6 +16925,7 @@ xmlking.xml.ak-is2.net
 xmlppc.fs.ak-is2.net
 xmlppc.xml.ak-is2.net
 xmlppcbuzz.com
+xmvftaoz.com
 xng.trbo.com
 xoom-ads.com
 xovq5nemr.com

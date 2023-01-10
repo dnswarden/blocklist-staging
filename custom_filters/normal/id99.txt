@@ -32,6 +32,7 @@ consent-wrapper.jameda.de
 consent.23g.io
 consent.amateurphotographer.co.uk
 consent.berliner-kurier.de
+consent.digiapi.com
 consent.faz.net
 consent.gutefrage.net
 consent.ladbible.com
