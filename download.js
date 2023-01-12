@@ -18,32 +18,24 @@ async function downloadFiles() {
       urlSources.push(defaultData.blocklistConfig[x].url[y]);
   }
 
-  // Get unique urls from the list as urls can be repeated and used in multiple places.
-  let uniqueUrlSources = [...new Set(urlSources)];
+  let uniqueUrlSources = Array.from(new Set(urlSources));
 
-  // create download folder
-  !fs.existsSync(`./downloaded_files/`) && fs.mkdirSync(`./downloaded_files/`);
+  fs.mkdirSync(`./downloaded_files/`, { recursive: true });
 
   console.log(
     "Total number of lists to download and process : " + uniqueUrlSources.length
   );
 
-  for (let z in uniqueUrlSources) {
-    // lazy and easy way to store the filename
-    let file_name = crypto
-      .createHash("md5")
-      .update(uniqueUrlSources[z])
-      .digest("hex");
-    console.log(`\nDownloading ${uniqueUrlSources[z]}`);
+  const downloadPromises = uniqueUrlSources.map(async (url) => {
+    let file_name = crypto.createHash("md5").update(url).digest("hex");
+    console.log(`Downloading ${url}`);
     try {
-      const response = await fetch(uniqueUrlSources[z], { method: "GET" });
+      const response = await fetch(url, { method: "GET" });
 
       if (!response.ok) {
         console.log(
           "" +
-            colorIt(
-              `Failed to download ${uniqueUrlSources[z]} ${response.statusText}`
-            ).redBg()
+            colorIt(`Failed to download ${url} ${response.statusText}`).redBg()
         );
       }
 
@@ -53,16 +45,14 @@ async function downloadFiles() {
             flags: "w",
           })
         );
-        console.log("" + colorIt(`Saved file as ${file_name}`).greenBg());
+        console.log(`Saved file as ${file_name}`);
       }
     } catch (error) {
-      console.log(
-        "" +
-          colorIt(`Failed to download ${uniqueUrlSources[z]} `).redBg() +
-          error
-      );
+      console.log("" + colorIt(`Failed to download ${url} `).redBg() + error);
     }
-  }
+  });
+
+  await Promise.all(downloadPromises);
 }
 
 async function processFiles() {
@@ -136,5 +126,5 @@ async function main() {
   await processFiles();
   await copyFiles();
 }
-
+downloadFiles()
 export { processFiles, downloadFiles, copyFiles, main };
