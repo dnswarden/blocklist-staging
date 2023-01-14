@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node -e 'import(\"./download.js\").then( fn => fn.main() )'"
+    "build": "node -e 'import(\"./download.js\").then( fn => fn.main() )' && npx prettier --write . ",
+    "format": "npx prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,6 @@
     "color-it": "^1.2.12",
     "fs-extra": "^11.1.0",
     "node-fetch": "^3.3.0",
-    "shelljs": "^0.8.5"
+    "prettier": "^2.8.3"
   }
 }
