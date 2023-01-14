@@ -101,7 +101,7 @@ async function processLineByLine(fl) {
     var str = line;
     var data = str
       .replace(/(^[-\._!/:&=?~#].*$)|(^.*[\[\$/@>].*$)|(^.*[a-zA-Z0-9-_^/]+#.*$)|(.+\*.*$)/gim, '')
-      .replace(/(#.*$)|(^\*\.)/, '')
+      .replace(/(#.*$)|(^\*\.)|(([0-9]{1,3}\.){3}[0-9]{1,3})([ \t]+)|((::)([ \t]+))|((::)+[1]([ \t]+))/, '')
       .match(/(^.*xn--.*$)|((([a-zA-Z0-9-_]{1,})\.)+[a-zA-Z]{2,})/);
 
     if (data) {
@@ -124,6 +124,9 @@ async function copyFiles() {
 
 async function generateConfigs() {
   fs.mkdirSync(CONFIG_FOLDER, { recursive: true });
+  if (fs.existsSync(SOURCE_FOLDER)) {
+    fs.removeSync(SOURCE_FOLDER);
+  }
   fs.mkdirSync(SOURCE_FOLDER, { recursive: true });
 
   var cusFil = [];

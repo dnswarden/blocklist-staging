@@ -23,7 +23,7 @@
     "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_nsfw.txt"],
     "filterType": ["b-wild"],
     "source": "./sources/id3.md",
-    "totalDomains": 208995,
+    "totalDomains": 209114,
     "value": 3
   },
   {
@@ -700,7 +700,7 @@
     "url": ["https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt"],
     "filterType": ["b-norm"],
     "source": "./sources/id78.md",
-    "totalDomains": 31165,
+    "totalDomains": 31169,
     "value": 78
   },
   {
