@@ -626,7 +626,7 @@
     "url": ["https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"],
     "filterType": ["b-norm"],
     "source": "./sources/id70.md",
-    "totalDomains": 47787,
+    "totalDomains": 47791,
     "value": 70
   },
   {
@@ -727,7 +727,7 @@
     "url": ["https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"],
     "filterType": ["b-norm"],
     "source": "./sources/id81.md",
-    "totalDomains": 91081,
+    "totalDomains": 91441,
     "value": 81
   },
   {
@@ -826,7 +826,7 @@
     "url": ["https://www.stopforumspam.com/downloads/toxic_domains_whole.txt"],
     "filterType": ["b-norm"],
     "source": "./sources/id92.md",
-    "totalDomains": 42128,
+    "totalDomains": 42129,
     "value": 92
   },
   {
@@ -835,7 +835,7 @@
     "url": ["https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt"],
     "filterType": ["b-norm"],
     "source": "./sources/id93.md",
-    "totalDomains": 55,
+    "totalDomains": 63,
     "value": 93
   },
   {
@@ -871,7 +871,7 @@
     "url": ["https://phishing.army/download/phishing_army_blocklist.txt"],
     "filterType": ["b-norm"],
     "source": "./sources/id97.md",
-    "totalDomains": 93119,
+    "totalDomains": 93022,
     "value": 97
   },
   {
@@ -1060,7 +1060,7 @@
     "url": ["https://phishing.army/download/phishing_army_blocklist_extended.txt"],
     "filterType": ["b-norm"],
     "source": "./sources/id117.md",
-    "totalDomains": 96010,
+    "totalDomains": 95878,
     "value": 117
   },
   {

@@ -33,7 +33,7 @@ async function downloadFiles() {
   console.log(`Attempting to download files, only files failed to download will be logged`);
 
   const downloadPromises = uniqueUrlSources.map(async (url) => {
-    let file_name = crypto.createHash('md5').update(url).digest('hex');
+    let file_name = `i_${crypto.createHash('md5').update(url).digest('hex')}`;
     let attempts = 0;
     while (attempts < MAX_ATTEMPTS) {
       try {
@@ -151,10 +151,10 @@ async function generateConfigs() {
       let url = blocklist.url[i];
       let filterType = blocklist.filterType[i];
       conn.adblock.push(
-        crypto
+        `i_${crypto
           .createHash('md5')
           .update(url + '+' + filterType)
-          .digest('hex')
+          .digest('hex')}`
       );
     }
   }
@@ -163,10 +163,10 @@ async function generateConfigs() {
       let url = blocklist.url[i];
       let filterType = blocklist.filterType[i];
       conn.adultfilter.push(
-        crypto
+        `i_${crypto
           .createHash('md5')
           .update(url + '+' + filterType)
-          .digest('hex')
+          .digest('hex')}`
       );
     }
   }
@@ -178,13 +178,13 @@ async function generateConfigs() {
     for (let i = 0; i < blocklist.url.length; i++) {
       let url = blocklist.url[i];
       let filterType = blocklist.filterType[i];
-      let flHa = crypto.createHash('md5').update(url).digest('hex');
+      let flHa = `i_${crypto.createHash('md5').update(url).digest('hex')}`;
       fileHashes[flHa] = url;
       conn_arr.push(
-        crypto
+        `i_${crypto
           .createHash('md5')
           .update(url + '+' + filterType)
-          .digest('hex')
+          .digest('hex')}`
       );
       await fs.promises.appendFile(SOURCE_FOLDER + id + '.md', `## ${url}\n`);
       await countLines(CF_FOLDER + flHa)
