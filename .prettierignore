@@ -8,3 +8,4 @@ sources/
 *.md
 *.yml
 .prettierrc
+*.txt
