@@ -7,6 +7,7 @@ import readLine from 'readline';
 import fetch from 'node-fetch';
 import crypto from 'crypto';
 import colorIt from 'color-it';
+import shelljs from 'shelljs';
 import defaultData from './edit_here_to_add_blocklists.json' assert { type: 'json' };
 const { createWriteStream, createReadStream } = fs;
 const DOWNLOAD_FOLDER = './downloaded_files/';
@@ -14,6 +15,7 @@ const CONFIG_FOLDER = './config/';
 const CF_FOLDER = './custom_filters/';
 const PROCESSING_FOLDER = './processed_files/';
 const SOURCE_FOLDER = './sources/';
+const MAX_ATTEMPTS = 3;
 
 async function downloadFiles() {
   let urlSources = [];
@@ -32,28 +34,32 @@ async function downloadFiles() {
 
   const downloadPromises = uniqueUrlSources.map(async (url) => {
     let file_name = crypto.createHash('md5').update(url).digest('hex');
-    try {
-      const response = await fetch(url, { method: 'GET' });
+    let attempts = 0;
+    while (attempts < MAX_ATTEMPTS) {
+      try {
+        const response = await fetch(url, { method: 'GET' });
 
-      if (!response.ok) {
-        console.log('' + colorIt(`Failed to download ${url} ${response.statusText}`).redBg());
+        if (response.ok) {
+          const writePromise = new Promise((resolve, reject) => {
+            response.body
+              .pipe(
+                createWriteStream(DOWNLOAD_FOLDER + file_name, {
+                  flags: 'w',
+                })
+              )
+              .on('finish', resolve)
+              .on('error', reject);
+          });
+          await writePromise;
+          break;
+        }
+      } catch (error) {
+        console.log(`Attempt ${attempts + 1} failed to download ${url}`);
       }
-
-      if (response.ok) {
-        const writePromise = new Promise((resolve, reject) => {
-          response.body
-            .pipe(
-              createWriteStream(DOWNLOAD_FOLDER + file_name, {
-                flags: 'w',
-              })
-            )
-            .on('finish', resolve)
-            .on('error', reject);
-        });
-        await writePromise;
-      }
-    } catch (error) {
-      console.log('' + colorIt(`Fatal error, failed to download ${url} `).redBg() + error);
+      attempts++;
+    }
+    if (attempts === MAX_ATTEMPTS) {
+      console.log('' + colorIt(`Failed to download ${url} after ${MAX_ATTEMPTS} attempts`).redBg());
     }
   });
 
@@ -244,12 +250,21 @@ async function checkFiles() {
   }
 }
 
+async function updateHistory() {
+  const totalLines = parseInt(
+    shelljs.exec(`wc -l ${CF_FOLDER}/* | grep total | sed 's/total//g'`, { silent: true }).stdout
+  );
+  const dateUTC = shelljs.exec('date -u', { silent: true }).stdout.trim();
+  const string = `Updated at : ${dateUTC} , total domains in repo : ${totalLines}`;
+  shelljs.echo(string).toEnd('./update_history.txt');
+}
 async function main() {
   await downloadFiles();
   await processFiles();
   await copyFiles();
   await generateConfigs();
   await checkFiles();
+  await updateHistory();
 }
 
 export { processFiles, downloadFiles, copyFiles, generateConfigs, checkFiles, main };
