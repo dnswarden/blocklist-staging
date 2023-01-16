@@ -44,7 +44,7 @@ jobs:
           
           
       - name: Repository Dispatch
-        uses: peter-evans/repository-dispatch@v2
+        uses: peter-evans/repository-dispatch@v2.1.1
         with:
           token: ${{ secrets.PAT }}
           repository: ${{ secrets.REPO_NAME }}
