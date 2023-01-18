@@ -596,19 +596,21 @@
       "value": 66
     },
     {
-      "name": "NextDNS (Huawei)",
+      "name": "NextDNS & HaGeZi (Huawei)",
       "category": "Wildcard",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei"],
-      "filterType": ["b-wild"],
+      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei",
+              "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.huawei.txt",
+      "filterType": ["b-wild", "b-wild"],
       "source": "",
       "totalDomains": 0,
       "value": 67
     },
     {
-      "name": "NextDNS (Windows)",
+      "name": "NextDNS & HaGeZi (Windows)",
       "category": "Wildcard",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows"],
-      "filterType": ["b-wild"],
+      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows",
+              "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice.txt"],
+      "filterType": ["b-wild","b-wild"],
       "source": "",
       "totalDomains": 0,
       "value": 68
