@@ -19,9 +19,12 @@ const MAX_ATTEMPTS = 3;
 
 async function downloadFiles() {
   let urlSources = [];
+  console.log('' + colorIt(`Starting downloadFiles function`).indigo());
 
   for (let x in defaultData.blocklistConfig) {
-    for (let y in defaultData.blocklistConfig[x].url) urlSources.push(defaultData.blocklistConfig[x].url[y]);
+    for (let y in defaultData.blocklistConfig[x].url) {
+      urlSources.push(defaultData.blocklistConfig[x].url[y]);
+    }
   }
 
   // Get unique urls from the list as urls can be repeated and used in multiple places.
@@ -65,9 +68,13 @@ async function downloadFiles() {
 
   await Promise.all(downloadPromises);
   console.log(`Downloaded all files`);
+  console.log('' + colorIt(`Finished downloadFiles function`).green());
+  console.log('------------------------------------------------\n');
 }
 
 async function processFiles() {
+  console.log('' + colorIt(`Starting processFiles function`).indigo());
+
   if (!fs.existsSync(DOWNLOAD_FOLDER)) {
     console.log('Folder does not exist');
     process.exit(1);
@@ -88,6 +95,8 @@ async function processFiles() {
     await processLineByLine(file_name[x]);
   }
   console.log(`Finished processing files`);
+  console.log('' + colorIt(`Finished processFiles function`).green());
+  console.log('------------------------------------------------\n');
 }
 
 //  https://stackoverflow.com/a/32599033
@@ -118,6 +127,8 @@ async function processLineByLine(fl) {
 }
 
 async function copyFiles() {
+  console.log('' + colorIt(`Starting copyFiles function`).indigo());
+
   try {
     fs.mkdirSync(CF_FOLDER, { recursive: true });
     console.log('Attempting to copy files to custom_filter folder');
@@ -126,9 +137,13 @@ async function copyFiles() {
   } catch (err) {
     console.error('' + colorIt('Unable to copy files to folder!').redBg() + err);
   }
+  console.log('' + colorIt(`Finished copyFiles function`).green());
+  console.log('------------------------------------------------\n');
 }
 
 async function generateConfigs() {
+  console.log('' + colorIt(`Starting generateConfigs function`).indigo());
+
   fs.mkdirSync(CONFIG_FOLDER, { recursive: true });
   if (fs.existsSync(SOURCE_FOLDER)) {
     fs.removeSync(SOURCE_FOLDER);
@@ -200,11 +215,16 @@ async function generateConfigs() {
     blocklist.source = SOURCE_FOLDER + id + '.md';
     cusFil.push(blocklist);
   }
+  conn['discard'] = ['discard'];
+  conn['uncensored'] = ['uncensored'];
 
   await fs.promises.writeFile(CONFIG_FOLDER + 'hashes.json', JSON.stringify(fileHashes), 'utf8');
   await fs.promises.writeFile(CONFIG_FOLDER + 'conn.json', JSON.stringify(conn), 'utf8');
 
   await fs.promises.writeFile(CONFIG_FOLDER + 'customfilter.json', JSON.stringify(cusFil), 'utf8');
+
+  console.log('' + colorIt(`Finished generateConfigs function`).green());
+  console.log('------------------------------------------------\n');
 }
 
 function countLines(filePath) {
@@ -228,6 +248,7 @@ function countLines(filePath) {
 }
 
 async function checkFiles() {
+  console.log('' + colorIt(`Starting checkFiles function`).indigo());
   let hashes;
   try {
     const data = fs.readFileSync(CONFIG_FOLDER + 'hashes.json', 'utf-8');
@@ -248,15 +269,102 @@ async function checkFiles() {
   for (let y in toRemove) {
     fs.removeSync(CF_FOLDER + toRemove[y]);
   }
+  console.log('' + colorIt(`Finished checkFiles function`).green());
+  console.log('------------------------------------------------\n');
 }
 
 async function updateHistory() {
+  console.log('' + colorIt(`Starting updateHistory function`).indigo());
+
   const totalLines = parseInt(
     shelljs.exec(`wc -l ${CF_FOLDER}/* | grep total | sed 's/total//g'`, { silent: true }).stdout
   );
   const dateUTC = shelljs.exec('date -u', { silent: true }).stdout.trim();
   const string = `Updated at : ${dateUTC} , total domains in repo : ${totalLines}`;
   shelljs.echo(string).toEnd('./update_history.txt');
+  console.log('' + colorIt(`Finished updateHistory function`).green());
+  console.log('------------------------------------------------\n');
+}
+async function testValue() {
+  console.log('' + colorIt(`Starting testValue function`).indigo());
+
+  const dataBL = defaultData.blocklistConfig;
+  const dataAdblock = defaultData.adblockConfig;
+  const dataAdult = defaultData.adultfilterConfig;
+  for (let i = 0; i < dataBL.length; i++) {
+    if (dataBL[i].value > dataBL.length) {
+      console.log('' + colorIt('found value greater than index size at \n').red());
+      console.log(dataBL[i]);
+      process.exit(1);
+    }
+    for (let j = i + 1; j < dataBL.length; j++) {
+      if (dataBL[i].value == dataBL[j].value) {
+        console.log('' + colorIt('Quitting after finding first instance of repetition at\n').red());
+        console.log(dataBL[i]);
+        console.log(dataBL[j]);
+        process.exit(1);
+      }
+    }
+  }
+  for (let x in dataAdblock) {
+    if (dataAdblock[x] > dataBL.length) {
+      console.log('' + colorIt(`Found value greater than blocklist index in adblock config ${dataAdblock[x]}`).red());
+      process.exit(1);
+    }
+  }
+  for (let x in dataAdult) {
+    if (dataAdult[x] > dataBL.length) {
+      console.log(
+        '' + colorIt(`Found value greater than blocklist index in adult filter config ${dataAdult[x]}`).red()
+      );
+      process.exit(1);
+    }
+  }
+  console.log('' + colorIt(`Finished testValue function`).green());
+  console.log('------------------------------------------------\n');
+}
+async function testCore() {
+  console.log('' + colorIt(`Starting testCore function`).indigo());
+
+  const dataBL = defaultData.blocklistConfig;
+  const validFilterTypeValues = ['b-wild', 'b-norm', 'white', 'fss'];
+
+  for (let x in dataBL) {
+    if (dataBL[x].url.length != dataBL[x].filterType.length) {
+      console.log('' + colorIt('Mismatch url and filtertype length. Missing parameters at \n').red());
+      console.log(dataBL[x]);
+      process.exit(1);
+    }
+    for (let y in dataBL[x].filterType) {
+      if (!validFilterTypeValues.includes(dataBL[x].filterType[y])) {
+        console.log('' + colorIt('Invalid filter type value found at \n').red());
+        console.log(dataBL[x]);
+        process.exit(1);
+      }
+    }
+  }
+  console.log('' + colorIt(`Finished testCore function`).green());
+  console.log('------------------------------------------------\n');
+}
+
+async function testURLs() {
+  console.log('' + colorIt(`Starting url checks`).indigo());
+
+  const dataBL = defaultData.blocklistConfig;
+  for (let x in dataBL) {
+    for (let y in dataBL[x].url) {
+      try {
+        const res = await fetch(dataBL[x].url[y], { method: 'HEAD' });
+        if (res.status !== 200) {
+          console.log('' + colorIt(`Error: ${res.status} for ${dataBL[x].url[y]}`).redBg());
+        }
+      } catch (err) {
+        console.log('' + colorIt(`Error: ${err} for ${dataBL[x].url[y]}`).redBg());
+      }
+    }
+  }
+  console.log('' + colorIt(`Finished checking URLs`).green());
+  console.log('------------------------------------------------\n');
 }
 async function main() {
   await downloadFiles();
@@ -266,5 +374,15 @@ async function main() {
   await checkFiles();
   await updateHistory();
 }
-
-export { processFiles, downloadFiles, copyFiles, generateConfigs, checkFiles, main };
+export {
+  processFiles,
+  downloadFiles,
+  copyFiles,
+  generateConfigs,
+  checkFiles,
+  updateHistory,
+  testValue,
+  testCore,
+  testURLs,
+  main,
+};
