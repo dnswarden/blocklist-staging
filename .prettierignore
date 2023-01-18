@@ -6,6 +6,5 @@ node_modules/
 processed_files/
 sources/
 *.md
-*.yml
 .prettierrc
 *.txt
