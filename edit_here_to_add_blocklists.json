@@ -50,7 +50,7 @@
       "name": "1Hosts (mini)",
       "category": "Ads, Privacy",
       "url": ["https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.wildcards"],
-      "filterType": ["b-norm"],
+      "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
       "value": 6
