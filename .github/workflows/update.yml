@@ -3,7 +3,6 @@ name: 'Updates'
 on:
   push:
     paths:
-      - 'edit_here_to_add_blocklists.json'
       - 'whitelist/**'
 
   schedule:
