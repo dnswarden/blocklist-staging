@@ -49,7 +49,7 @@
     {
       "name": "1Hosts (mini)",
       "category": "Ads, Privacy",
-      "url": ["https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.txt"],
+      "url": ["https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.wildcards"],
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
@@ -861,8 +861,8 @@
     {
       "name": "bigdargon (hostsVN)",
       "category": "Ads, Privacy",
-      "url": ["https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts"],
-      "filterType": ["b-norm"],
+      "url": ["https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/wildcard.txt"],
+      "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
       "value": 96
@@ -919,8 +919,8 @@
     {
       "name": "bongochong (CombinedPrivacy)",
       "category": "Ads, Privacy",
-      "url": ["https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts"],
-      "filterType": ["b-norm"],
+      "url": ["https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-wildcard-blacklist.txt"],
+      "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
       "value": 102
