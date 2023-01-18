@@ -599,7 +599,7 @@
       "name": "NextDNS & HaGeZi (Huawei)",
       "category": "Wildcard",
       "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei",
-              "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.huawei.txt",
+              "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.huawei.txt"],
       "filterType": ["b-wild", "b-wild"],
       "source": "",
       "totalDomains": 0,
