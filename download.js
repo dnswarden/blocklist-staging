@@ -212,7 +212,7 @@ async function generateConfigs() {
     }
     conn[id] = conn_arr;
     blocklist.totalDomains = total;
-    blocklist.source = SOURCE_FOLDER + id + '.md';
+    blocklist.source = 'https://github.com/dnswarden/blocklist-staging/blob/main/sources/' + id + '.md';
     cusFil.push(blocklist);
   }
   conn['discard'] = ['discard'];
