@@ -6,11 +6,6 @@ on:
       - 'edit_here_to_add_blocklists.json'
       - 'whitelist/**'
 
-  pull_request:
-    paths:
-      - 'edit_here_to_add_blocklists.json'
-      - 'whitelist/**'
-
   schedule:
     - cron: '6 6 * * *'
   workflow_dispatch:
