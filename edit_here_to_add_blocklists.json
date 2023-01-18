@@ -879,8 +879,11 @@
     {
       "name": "zerodot1 (CoinBlocker)",
       "category": "Parentalcontrol, Malware, Adblock, Adultfilter",
-      "url": ["https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list.txt"],
-      "filterType": ["b-norm"],
+      "url": ["https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list.txt",
+              "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser.txt",
+              "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser_AdBlock.txt",
+              "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_optional.txt"],
+      "filterType": ["b-norm", "b-norm", "b-norm", "b-norm"],
       "source": "",
       "totalDomains": 0,
       "value": 98
