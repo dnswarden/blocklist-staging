@@ -861,8 +861,8 @@
     {
       "name": "bigdargon (hostsVN)",
       "category": "Ads, Privacy",
-      "url": ["https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/wildcard.txt"],
-      "filterType": ["b-wild"],
+      "url": ["https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts"],
+      "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
       "value": 96
