@@ -12,7 +12,7 @@ on:
 
 jobs:
   Checks:
-    name: 'Running on ubuntu latest'
+    name: 'Scheduled updates'
     runs-on: 'ubuntu-latest'
     steps:
       - name: Checkout repo
