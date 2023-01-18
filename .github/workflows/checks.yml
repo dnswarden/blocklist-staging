@@ -14,7 +14,7 @@ on:
 
 jobs:
   Checks:
-    name: 'Running on ubuntu latest'
+    name: 'Blocklist checks'
     runs-on: 'ubuntu-latest'
     steps:
       - name: Checkout repo
