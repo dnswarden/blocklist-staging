@@ -598,8 +598,10 @@
     {
       "name": "NextDNS & HaGeZi (Huawei)",
       "category": "Wildcard",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei",
-              "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.huawei.txt"],
+      "url": [
+        "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei",
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.huawei.txt"
+      ],
       "filterType": ["b-wild", "b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -608,9 +610,11 @@
     {
       "name": "NextDNS & HaGeZi (Windows)",
       "category": "Wildcard",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows",
-              "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice.txt"],
-      "filterType": ["b-wild","b-wild"],
+      "url": [
+        "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows",
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice.txt"
+      ],
+      "filterType": ["b-wild", "b-wild"],
       "source": "",
       "totalDomains": 0,
       "value": 68
@@ -881,10 +885,12 @@
     {
       "name": "zerodot1 (CoinBlocker)",
       "category": "Parentalcontrol, Malware, Adblock, Adultfilter",
-      "url": ["https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list.txt",
-              "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser.txt",
-              "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser_AdBlock.txt",
-              "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_optional.txt"],
+      "url": [
+        "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list.txt",
+        "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser.txt",
+        "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser_AdBlock.txt",
+        "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_optional.txt"
+      ],
       "filterType": ["b-norm", "b-norm", "b-norm", "b-norm"],
       "source": "",
       "totalDomains": 0,
@@ -921,7 +927,9 @@
     {
       "name": "bongochong (CombinedPrivacy)",
       "category": "Ads, Privacy",
-      "url": ["https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-wildcard-blacklist.txt"],
+      "url": [
+        "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-wildcard-blacklist.txt"
+      ],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -1025,10 +1033,11 @@
       "name": "dnswarden (Tiny whitelist & blacklist)",
       "category": "Tiny, Whitelist, Ads",
       "url": [
-        "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklist_extreme.txt",
-        "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/tinylist.txt"
+        "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/tiny_normal.txt",
+        "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/tinylist.txt",
+        "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/tiny_wildcard.txt"
       ],
-      "filterType": ["b-norm", "white"],
+      "filterType": ["b-norm", "white", "b-wild"],
       "source": "",
       "totalDomains": 0,
       "value": 113

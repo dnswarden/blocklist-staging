@@ -36,10 +36,10 @@ jobs:
           author_name: 'DW [github actions bot]'
           message: 'auto-update [skip ci]'
 
-      # hold off until backend is fixed, which should be soon
-      # - name: Repository Dispatch
-      #   uses: peter-evans/repository-dispatch@v2.1.1
-      #   with:
-      #     token: ${{ secrets.PAT }}
-      #     repository: ${{ secrets.REPO_NAME }}
-      #     event-type: start-building
+      # backend is fixed, search api is not updated to v2 yet
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v2.1.1
+        with:
+          token: ${{ secrets.PAT }}
+          repository: ${{ secrets.REPO_NAME }}
+          event-type: start-building
