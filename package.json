@@ -1,0 +1,32 @@
+{
+  "name": "blocklist-staging",
+  "version": "0.1",
+  "description": "Staging repo for DnsWarden",
+  "main": "download.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node -e 'import(\"./download.js\").then( fn => fn.main() )' && npx prettier --write . ",
+    "format": "npx prettier --write .",
+    "testValues": "node -e 'import(\"./download.js\").then( fn => fn.testValue() )'",
+    "testCore": "node -e 'import(\"./download.js\").then( fn => fn.testCore() )'   ",
+    "testURLs": "node -e 'import(\"./download.js\").then( fn => fn.testURLs() )'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnswarden/blocklist-staging.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnswarden/blocklist-staging/issues"
+  },
+  "homepage": "https://github.com/dnswarden/blocklist-staging#readme",
+  "dependencies": {
+    "color-it": "^1.2.12",
+    "fs-extra": "^11.1.0",
+    "node-fetch": "^3.3.0",
+    "prettier": "^2.8.3",
+    "shelljs": "^0.8.5"
+  }
+}

@@ -1,0 +1,10 @@
+blacklist/
+whitelist/
+custom_filters/
+downloaded_files/
+node_modules/
+processed_files/
+sources/
+*.md
+.prettierrc
+*.txt

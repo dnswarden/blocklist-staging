@@ -1,0 +1,45 @@
+name: 'Updates'
+
+on:
+  push:
+    paths:
+      - 'whitelist/**'
+
+  schedule:
+    - cron: '6 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  Checks:
+    name: 'Scheduled updates'
+    runs-on: 'ubuntu-latest'
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3.3.0
+      - name: Setup node
+        uses: actions/setup-node@v3.6.0
+        with:
+          node-version: '19.3.0'
+
+      - name: 'Install node dependencies'
+        run: |
+          npm install
+
+      - name: 'Update lists'
+        run: |
+          npm run build
+
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          author_name: 'DW [github actions bot]'
+          message: 'auto-update [skip ci]'
+
+      # hold off until backend is fixed, which should be soon
+      # - name: Repository Dispatch
+      #   uses: peter-evans/repository-dispatch@v2.1.1
+      #   with:
+      #     token: ${{ secrets.PAT }}
+      #     repository: ${{ secrets.REPO_NAME }}
+      #     event-type: start-building
