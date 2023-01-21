@@ -36,7 +36,6 @@ jobs:
           author_name: 'DW [github actions bot]'
           message: 'auto-update [skip ci]'
 
-      
       - name: Repository Dispatch
         uses: peter-evans/repository-dispatch@v2.1.1
         with:
