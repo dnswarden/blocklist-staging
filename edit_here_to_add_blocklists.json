@@ -1031,7 +1031,7 @@
     },
     {
       "name": "dnswarden (Tiny whitelist & blacklist)",
-      "category": "Tiny, Whitelist, Ads",
+      "category": "Tiny",
       "url": [
         "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/tiny_normal.txt",
         "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/tinylist.txt",

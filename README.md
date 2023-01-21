@@ -1,36 +1,50 @@
-# Staging blacklist/whitelist/customlist repo for dnswarden
+## Staging blacklist/whitelist/customlist repo for dnswarden
 
-## AdultFilter DNS uses the following lists
+This repo contains multiple blacklists and whitelists files required for [dnswarden](https://dnswarden.com/customfilter.html). Look at [update history](https://github.com/dnswarden/blocklist-staging/blob/main/update_history.txt) to see total number of domains in repo and when the lists were last updated.
 
-- adguardcnametrackers - [source](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt) - id71
-- fanboyannoyance - [source](https://easylist.to/easylist/fanboy-annoyance.txt) - id99
-- lightswitch05adsandtracking - [source](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) - id100
-- mitchellkrogzabaddboyzhosts - [source](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts) - id103
-- oisdfull - [source](https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_full.txt) - id1
-- phishingarmy - [source](https://phishing.army/download/phishing_army_blocklist.txt) - id97
-- stopforumspam - [source](https://www.stopforumspam.com/downloads/toxic_domains_whole.txt) - id92
-- zerodot1coinblockerlists - [source](https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list.txt) - id98
-- 1Hosts (lite) - [source](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards) - id7
-- oisdnsfw - [source](https://dbl.oisd.nl/nsfw) - id3
-- forcesafesearch - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/forcesafesearch.txt). This list enforces safe search on google, bing, duckduckgo and youtube - id5
-- whitelistcommon - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt). This is a whitelist - id4
-- whitelistadultcontent - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistadultcontent.txt). This is a whitelist. - id106
-- blacklistcommon - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommon.txt) - id90
-- blacklistcommonwildcard - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommonwildcard.txt). This is a wildcard list. - id104
-- blacklistadultcontent - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontent.txt) - id105
-- blacklistadultcontentwildcard - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontentwildcard.txt). This is a wildcard list. - id107
 
-## Adblock DNS uses the following lists
+Default adblock and adultfilter dns consists of lists defined in `adblockConfig` and `adultfilterConfig` in [default.json](https://github.com/dnswarden/blocklist-staging/blob/main/edit_here_to_add_blocklists.json). You can add or remove elements to them. Each element represents the list where `value==element` in `blocklistConfig`.
 
-- adguardcnametrackers - [source](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt) - id71
-- fanboyannoyance - [source](https://easylist.to/easylist/fanboy-annoyance.txt) - id99
-- lightswitch05adsandtracking - [source](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) - id100
-- mitchellkrogzabaddboyzhosts - [source](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts) - id103
-- oisdfull - [source](https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_full.txt) - id1
-- phishingarmy - [source](https://phishing.army/download/phishing_army_blocklist.txt) - id97
-- stopforumspam - [source](https://www.stopforumspam.com/downloads/toxic_domains_whole.txt) - id92
-- zerodot1coinblockerlists - [source](https://zerodot1.gitlab.io/CoinBlockerLists/hosts) - id98
-- 1Hosts (lite) - [source](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards) - id7
-- whitelistcommon - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt). This is a whitelist - id4
-- blacklistcommon - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommon.txt). - id90
-- blacklistcommonwildcard - [source](https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommonwildcard.txt). This is a wildcard list. - id104
+
+
+#### Editing a blocklist 
+
+You can add, remove, edit and move around the arrays in [default.json](https://github.com/dnswarden/blocklist-staging/blob/main/edit_here_to_add_blocklists.json).
+
+```
+    {
+      "name": "dnswarden (Tiny whitelist & blacklist)",
+      "category": "Tiny",
+      "url": [
+        "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/tiny_normal.txt",
+        "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/tinylist.txt",
+        "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/tiny_wildcard.txt"
+      ],
+      "filterType": ["b-norm", "white", "b-wild"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 113
+    }
+```
+where,
+
+- `"name":` String which is used to display and identify lists on [customfilter page](https://dnswarden.com/customfilter.html) and on [search page](https://dnswarden.com/search.html).
+
+- `"category":` Strings to represent a list to which category they belong. Note: Internally this has no-effect and it is only helpful while displaying lists on [customfilter page](https://dnswarden.com/customfilter.html) and on [search page](https://dnswarden.com/search.html).
+
+- `"url":` Array of urls for blocklists, can be one or more.
+
+- `"filterType":` Array of strings which represents what type of filter should the list be used as. Should always be equal to number of elements in `"url":`
+
+     `"filterType"` can take the following values 
+            
+     - `"b-norm"`: to match the exact domain in the list for blacklisting.
+     - `"white"`: to match the exact domain in the list for whitelisting.
+     - `"b-wild"`: to match a wildcard domain in the list.
+       
+-  `"value":` Integer, 
+              
+     - should be a nonrepetitive number 
+     - for new entries, always use (length of `blocklistConfig` + 1)
+
+
