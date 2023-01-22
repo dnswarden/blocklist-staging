@@ -349,7 +349,7 @@ async function testCore() {
 
 async function testURLs() {
   console.log('' + colorIt(`Starting url checks`).indigo());
-
+  let failed = 0;
   const dataBL = defaultData.blocklistConfig;
   for (let x in dataBL) {
     for (let y in dataBL[x].url) {
@@ -357,13 +357,21 @@ async function testURLs() {
         const res = await fetch(dataBL[x].url[y], { method: 'HEAD' });
         if (res.status !== 200) {
           console.log('' + colorIt(`Error: ${res.status} for ${dataBL[x].url[y]}`).redBg());
+          failed += 1;
         }
       } catch (err) {
         console.log('' + colorIt(`Error: ${err} for ${dataBL[x].url[y]}`).redBg());
+        failed += 1;
       }
     }
   }
-  console.log('' + colorIt(`Finished checking URLs`).green());
+
+  if (failed > 0) {
+    console.log(`${failed} number of urls failed`);
+    process.exit(1);
+  } else {
+    console.log('' + colorIt(`All URLs are working`).green());
+  }
   console.log('------------------------------------------------\n');
 }
 async function main() {
