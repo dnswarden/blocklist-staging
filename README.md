@@ -11,7 +11,7 @@ Default adblock and adultfilter dns consists of lists defined in `adblockConfig`
 
 You can add, remove, edit and move around the arrays in [default.json](https://github.com/dnswarden/blocklist-staging/blob/main/edit_here_to_add_blocklists.json).
 
-```
+```json
     {
       "name": "dnswarden (Tiny whitelist & blacklist)",
       "category": "Tiny",
