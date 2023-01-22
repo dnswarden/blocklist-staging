@@ -42,7 +42,6 @@
       "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/forcesafesearch.txt"],
       "filterType": ["fss"],
       "source": "",
-
       "totalDomains": 0,
       "value": 5
     },
@@ -236,10 +235,13 @@
       "value": 26
     },
     {
-      "name": "The Block List Project (TikTok)",
+      "name": "The Block List Project & HaGeZi (TikTok)",
       "category": "Privacy, Social",
-      "url": ["https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt"],
-      "filterType": ["b-norm"],
+      "url": [
+        "https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt",
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tiktok.txt"
+      ],
+      "filterType": ["b-norm", "b-wild"],
       "source": "",
       "totalDomains": 0,
       "value": 27
@@ -364,7 +366,7 @@
     {
       "name": "NextDNS (Facebook)",
       "category": "Wildcard, Social",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/facebook"],
+      "url": ["https://raw.githubusercontent.com/nextdns/services/main/services/facebook"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -373,8 +375,16 @@
     {
       "name": "NextDNS (Bypass-Methods)",
       "category": "Parentalcontrol, Wildcard",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods"],
-      "filterType": ["b-wild"],
+      "url": [
+        "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/apple-private-relay",
+        "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/browsers",
+        "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/encrypted-dns",
+        "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/linux",
+        "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/proxies",
+        "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/tor",
+        "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/vpn"
+      ],
+      "filterType": ["b-wild", "b-wild", "b-wild", "b-wild", "b-wild", "b-wild", "b-wild"],
       "source": "",
       "totalDomains": 0,
       "value": 42
@@ -382,7 +392,7 @@
     {
       "name": "NextDNS (SafeSearch Not Supported)",
       "category": "Wildcard, Parentalcontrol",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/safesearch-not-supported"],
+      "url": ["https://raw.githubusercontent.com/nextdns/no-safesearch/main/domains"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -481,7 +491,7 @@
     {
       "name": "NextDNS (Amazon)",
       "category": "Wildcard",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/amazon"],
+      "url": ["https://raw.githubusercontent.com/nextdns/services/main/services/amazon"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -490,7 +500,7 @@
     {
       "name": "NextDNS (Dailymotion)",
       "category": "Wildcard",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/dailymotion"],
+      "url": ["https://raw.githubusercontent.com/nextdns/services/main/services/dailymotion"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -499,7 +509,7 @@
     {
       "name": "NextDNS (EBay)",
       "category": "Wildcard",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/ebay"],
+      "url": ["https://raw.githubusercontent.com/nextdns/services/main/services/ebay"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -508,7 +518,7 @@
     {
       "name": "NextDNS (Netflix)",
       "category": "Wildcard",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/netflix"],
+      "url": ["https://raw.githubusercontent.com/nextdns/services/main/services/netflix"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -517,7 +527,7 @@
     {
       "name": "NextDNS (Reddit)",
       "category": "Wildcard, Social",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/reddit"],
+      "url": ["https://raw.githubusercontent.com/nextdns/services/main/services/reddit"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -526,7 +536,7 @@
     {
       "name": "NextDNS (Snapchat)",
       "category": "Wildcard, Social",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/snapchat"],
+      "url": ["https://raw.githubusercontent.com/nextdns/services/main/services/snapchat"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -535,7 +545,7 @@
     {
       "name": "NextDNS (Spotify)",
       "category": "Wildcard",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/spotify"],
+      "url": ["https://raw.githubusercontent.com/nextdns/services/main/services/spotify"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -544,7 +554,7 @@
     {
       "name": "NextDNS (Steam)",
       "category": "Wildcard",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/steam"],
+      "url": ["https://raw.githubusercontent.com/nextdns/services/main/services/steam"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -553,7 +563,7 @@
     {
       "name": "NextDNS (Twitch)",
       "category": "Wildcard, Social",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/twitch"],
+      "url": ["https://raw.githubusercontent.com/nextdns/services/main/services/twitch"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -562,7 +572,7 @@
     {
       "name": "NextDNS (Twitter)",
       "category": "Wildcard, Social",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/twitter"],
+      "url": ["https://raw.githubusercontent.com/nextdns/services/main/services/twitter"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -571,7 +581,7 @@
     {
       "name": "NextDNS (Vimeo)",
       "category": "Wildcard",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/vimeo"],
+      "url": ["https://raw.githubusercontent.com/nextdns/services/main/services/vimeo"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -580,7 +590,7 @@
     {
       "name": "NextDNS (YouTube)",
       "category": "Wildcard",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/youtube"],
+      "url": ["https://raw.githubusercontent.com/nextdns/services/main/services/youtube"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -589,7 +599,7 @@
     {
       "name": "NextDNS (Affiliate Tracking Domains)",
       "category": "Whitelist",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains"],
+      "url": ["https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains"],
       "filterType": ["white"],
       "source": "",
       "totalDomains": 0,
@@ -599,7 +609,7 @@
       "name": "NextDNS & HaGeZi (Huawei)",
       "category": "Wildcard",
       "url": [
-        "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei",
+        "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei",
         "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.huawei.txt"
       ],
       "filterType": ["b-wild", "b-wild"],
@@ -611,7 +621,7 @@
       "name": "NextDNS & HaGeZi (Windows)",
       "category": "Wildcard",
       "url": [
-        "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows",
+        "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows",
         "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice.txt"
       ],
       "filterType": ["b-wild", "b-wild"],
@@ -622,7 +632,7 @@
     {
       "name": "NextDNS (Xiaomi)",
       "category": "Wildcard",
-      "url": ["https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi"],
+      "url": ["https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -902,7 +912,6 @@
       "url": ["https://secure.fanboy.co.nz/fanboy-annoyance.txt"],
       "filterType": ["b-norm"],
       "source": "",
-
       "totalDomains": 0,
       "value": 99
     },
