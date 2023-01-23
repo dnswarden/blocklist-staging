@@ -373,7 +373,7 @@
       "value": 41
     },
     {
-      "name": "NextDNS (Bypass-Methods)",
+      "name": "Block Bypass-Methods",
       "category": "Parentalcontrol, Wildcard",
       "url": [
         "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/apple-private-relay",
@@ -382,9 +382,10 @@
         "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/linux",
         "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/proxies",
         "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/tor",
-        "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/vpn"
+        "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/vpn", 
+	"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass.txt" 
       ],
-      "filterType": ["b-wild", "b-wild", "b-wild", "b-wild", "b-wild", "b-wild", "b-wild"],
+      "filterType": ["b-wild", "b-wild", "b-wild", "b-wild", "b-wild", "b-wild", "b-wild", "b-wild" ],
       "source": "",
       "totalDomains": 0,
       "value": 42
