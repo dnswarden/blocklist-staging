@@ -1,5 +1,6 @@
 www.gravatar.com
 gravatar.com
+secure.gravatar.com
 www.codeberg.org
 codeberg.org
 blog.logrocket.com
