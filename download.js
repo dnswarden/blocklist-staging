@@ -79,6 +79,7 @@ async function processFiles() {
   // create tmp folder for processing files
   !fs.existsSync(PROCESSING_FOLDER) && fs.mkdirSync(PROCESSING_FOLDER);
 
+  // There aren't any subfolders present in this directory.
   let files = await fs.readdir(DOWNLOAD_FOLDER);
 
   console.log(`Found ${files.length} files in directory`);
@@ -90,7 +91,7 @@ async function processFiles() {
   console.log('' + colorIt(`Finished processFiles function`).green());
   console.log('------------------------------------------------\n');
 }
-
+//  https://stackoverflow.com/a/32599033
 async function processLineByLine(file) {
   const fileStream = createReadStream(path.join(DOWNLOAD_FOLDER, file));
   const writeStream = createWriteStream(path.join(PROCESSING_FOLDER, file), { flags: 'a' });
@@ -100,6 +101,9 @@ async function processLineByLine(file) {
     crlfDelay: Infinity,
   });
 
+  /* Does the regex work? Yes! 
+  Can it be improved further? Yes, of course!
+  */
   for await (const line of rl) {
     let data = line
       .replace(/(^[-\._!/:&=?~#].*$)|(^.*[\[\$/@>].*$)|(^.*[a-zA-Z0-9-_^/]+#.*$)|(.+\*.*$)/gim, '')
