@@ -7,7 +7,6 @@ import readLine from 'readline';
 import fetch from 'node-fetch';
 import crypto from 'crypto';
 import colorIt from 'color-it';
-import shelljs from 'shelljs';
 import defaultData from './edit_here_to_add_blocklists.json' assert { type: 'json' };
 const { createWriteStream, createReadStream } = fs;
 const DOWNLOAD_FOLDER = './downloaded_files/';
@@ -18,58 +17,52 @@ const SOURCE_FOLDER = './sources/';
 const MAX_ATTEMPTS = 3;
 
 async function downloadFiles() {
-  let urlSources = [];
   console.log('' + colorIt(`Starting downloadFiles function`).indigo());
 
-  for (let x in defaultData.blocklistConfig) {
-    for (let y in defaultData.blocklistConfig[x].url) {
-      urlSources.push(defaultData.blocklistConfig[x].url[y]);
-    }
-  }
+  let urlSources = defaultData.blocklistConfig.flatMap((d) => d.url);
 
   // Get unique urls from the list as urls can be repeated and used in multiple places.
   let uniqueUrlSources = Array.from(new Set(urlSources));
 
-  fs.mkdirSync(DOWNLOAD_FOLDER, { recursive: true });
+  try {
+    await fs.mkdir(DOWNLOAD_FOLDER, { recursive: true });
 
-  console.log('Total number of lists to download and process : ' + uniqueUrlSources.length);
-  console.log(`Attempting to download files, only files failed to download will be logged`);
+    console.log('Total number of lists to download and process : ' + uniqueUrlSources.length);
+    console.log(`Attempting to download files, only files failed to download will be logged`);
 
-  const downloadPromises = uniqueUrlSources.map(async (url) => {
-    let file_name = `i_${crypto.createHash('md5').update(url).digest('hex')}`;
-    let attempts = 0;
-    while (attempts < MAX_ATTEMPTS) {
-      try {
-        const response = await fetch(url, { method: 'GET' });
+    const downloadPromises = uniqueUrlSources.map(async (url) => {
+      let file_name = `i_${crypto.createHash('md5').update(url).digest('hex')}`;
+      let attempts = 0;
+      while (attempts < MAX_ATTEMPTS) {
+        try {
+          const response = await fetch(url, { method: 'GET' });
 
-        if (response.ok) {
-          const writePromise = new Promise((resolve, reject) => {
-            response.body
-              .pipe(
-                createWriteStream(DOWNLOAD_FOLDER + file_name, {
-                  flags: 'w',
-                })
-              )
-              .on('finish', resolve)
-              .on('error', reject);
-          });
-          await writePromise;
-          break;
+          if (response.ok) {
+            await new Promise((resolve, reject) => {
+              response.body
+                .pipe(createWriteStream(path.join(DOWNLOAD_FOLDER, file_name), { flags: 'w' }))
+                .on('finish', resolve)
+                .on('error', reject);
+            });
+            break;
+          }
+        } catch (error) {
+          console.log(`Attempt ${attempts + 1} failed to download ${url}`);
         }
-      } catch (error) {
-        console.log(`Attempt ${attempts + 1} failed to download ${url}`);
+        attempts++;
       }
-      attempts++;
-    }
-    if (attempts === MAX_ATTEMPTS) {
-      console.log('' + colorIt(`Failed to download ${url} after ${MAX_ATTEMPTS} attempts`).redBg());
-    }
-  });
+      if (attempts === MAX_ATTEMPTS) {
+        console.log('' + colorIt(`Failed to download ${url} after ${MAX_ATTEMPTS} attempts`).redBg());
+      }
+    });
 
-  await Promise.all(downloadPromises);
-  console.log(`Downloaded all files`);
-  console.log('' + colorIt(`Finished downloadFiles function`).green());
-  console.log('------------------------------------------------\n');
+    await Promise.all(downloadPromises);
+    console.log(`Downloaded all files`);
+    console.log('' + colorIt(`Finished downloadFiles function`).green());
+    console.log('------------------------------------------------\n');
+  } catch (error) {
+    console.log(error);
+  }
 }
 
 async function processFiles() {
@@ -79,60 +72,53 @@ async function processFiles() {
     console.log('Folder does not exist');
     process.exit(1);
   }
-  // removing this folder if it exists as we always append the data to the file.
+  // remove the folder if it exists as we always append the data to the file.
   if (fs.existsSync(PROCESSING_FOLDER)) {
-    fs.removeSync(PROCESSING_FOLDER);
+    await fs.remove(PROCESSING_FOLDER);
   }
   // create tmp folder for processing files
   !fs.existsSync(PROCESSING_FOLDER) && fs.mkdirSync(PROCESSING_FOLDER);
 
-  // There aren't any subfolders present in this directory.
-  let file_name = fs.readdirSync(DOWNLOAD_FOLDER);
+  let files = await fs.readdir(DOWNLOAD_FOLDER);
 
-  console.log(`Found ${file_name.length} files in directory`);
+  console.log(`Found ${files.length} files in directory`);
 
-  for (let x in file_name) {
-    await processLineByLine(file_name[x]);
+  for (const file of files) {
+    await processLineByLine(file);
   }
   console.log(`Finished processing files`);
   console.log('' + colorIt(`Finished processFiles function`).green());
   console.log('------------------------------------------------\n');
 }
 
-//  https://stackoverflow.com/a/32599033
-async function processLineByLine(fl) {
-  const fileStream = createReadStream(DOWNLOAD_FOLDER + fl);
-  const WS = createWriteStream(PROCESSING_FOLDER + fl, { flags: 'a' });
+async function processLineByLine(file) {
+  const fileStream = createReadStream(path.join(DOWNLOAD_FOLDER, file));
+  const writeStream = createWriteStream(path.join(PROCESSING_FOLDER, file), { flags: 'a' });
 
   const rl = readLine.createInterface({
     input: fileStream,
     crlfDelay: Infinity,
   });
 
-  /* Does the regex work? Yes! 
-  Can it be improved further? Yes, of course!
-  */
   for await (const line of rl) {
-    var str = line;
-    var data = str
+    let data = line
       .replace(/(^[-\._!/:&=?~#].*$)|(^.*[\[\$/@>].*$)|(^.*[a-zA-Z0-9-_^/]+#.*$)|(.+\*.*$)/gim, '')
       .replace(/(#.*$)|(^\*\.)|(([0-9]{1,3}\.){3}[0-9]{1,3})([ \t]+)|((::)([ \t]+))|((::)+[1]([ \t]+))/, '')
       .match(/(^.*xn--.*$)|((([a-zA-Z0-9-_]{1,})\.)+[a-zA-Z]{2,})/);
-
     if (data) {
-      WS.write(data[0] + '\n');
+      writeStream.write(data[0] + '\n');
     }
   }
-  WS.end();
+  writeStream.end();
 }
 
 async function copyFiles() {
   console.log('' + colorIt(`Starting copyFiles function`).indigo());
 
   try {
-    fs.mkdirSync(CF_FOLDER, { recursive: true });
+    await fs.mkdir(CF_FOLDER, { recursive: true });
     console.log('Attempting to copy files to custom_filter folder');
-    fs.copySync(PROCESSING_FOLDER, CF_FOLDER);
+    await fs.copy(PROCESSING_FOLDER, CF_FOLDER);
     console.log('' + colorIt('Copied files successfully to folder!').greenBg());
   } catch (err) {
     console.error('' + colorIt('Unable to copy files to folder!').redBg() + err);
@@ -230,7 +216,7 @@ async function generateConfigs() {
 function countLines(filePath) {
   return new Promise((resolve, reject) => {
     let lineCount = 0;
-    const fileStream = fs.createReadStream(filePath);
+    const fileStream = createReadStream(filePath);
     const rl = readLine.createInterface({
       input: fileStream,
       crlfDelay: Infinity,
@@ -276,42 +262,57 @@ async function checkFiles() {
 async function updateHistory() {
   console.log('' + colorIt(`Starting updateHistory function`).indigo());
 
-  const totalLines = parseInt(
-    shelljs.exec(`wc -l ${CF_FOLDER}/* | grep total | sed 's/total//g'`, { silent: true }).stdout
-  );
-  const dateUTC = shelljs.exec('date -u', { silent: true }).stdout.trim();
-  const string = `Updated at : ${dateUTC} , total domains in repo : ${totalLines}`;
-  shelljs.echo(string).toEnd('./update_history.txt');
+  let totalLines = 0;
+
+  const files = fs.readdirSync(CF_FOLDER);
+  for (let file of files) {
+    const readStream = createReadStream(path.join(CF_FOLDER, file));
+    const rl = readLine.createInterface({
+      input: readStream,
+      crlfDelay: Infinity,
+    });
+
+    for await (const _ of rl) {
+      totalLines++;
+    }
+  }
+
+  const dateUTC = new Date().toUTCString();
+  const string = `Updated at : ${dateUTC} , total domains in repo : ${totalLines}\n`;
+
+  fs.appendFileSync('./update_history.txt', string);
   console.log('' + colorIt(`Finished updateHistory function`).green());
   console.log('------------------------------------------------\n');
 }
+
 async function testValue() {
   console.log('' + colorIt(`Starting testValue function`).indigo());
-
   const dataBL = defaultData.blocklistConfig;
   const dataAdblock = defaultData.adblockConfig;
   const dataAdult = defaultData.adultfilterConfig;
+
+  const values = new Set();
   for (let i = 0; i < dataBL.length; i++) {
     if (dataBL[i].value > dataBL.length) {
       console.log('' + colorIt('found value greater than index size at \n').red());
       console.log(dataBL[i]);
       process.exit(1);
     }
-    for (let j = i + 1; j < dataBL.length; j++) {
-      if (dataBL[i].value == dataBL[j].value) {
-        console.log('' + colorIt('Quitting after finding first instance of repetition at\n').red());
-        console.log(dataBL[i]);
-        console.log(dataBL[j]);
-        process.exit(1);
-      }
+    if (values.has(dataBL[i].value)) {
+      console.log('' + colorIt('Quitting after finding first instance of repetition at\n').red());
+      console.log(dataBL[i]);
+      process.exit(1);
     }
+    values.add(dataBL[i].value);
   }
+
   for (let x in dataAdblock) {
     if (dataAdblock[x] > dataBL.length) {
       console.log('' + colorIt(`Found value greater than blocklist index in adblock config ${dataAdblock[x]}`).red());
       process.exit(1);
     }
   }
+
   for (let x in dataAdult) {
     if (dataAdult[x] > dataBL.length) {
       console.log(
@@ -323,26 +324,28 @@ async function testValue() {
   console.log('' + colorIt(`Finished testValue function`).green());
   console.log('------------------------------------------------\n');
 }
+
 async function testCore() {
   console.log('' + colorIt(`Starting testCore function`).indigo());
 
   const dataBL = defaultData.blocklistConfig;
   const validFilterTypeValues = ['b-wild', 'b-norm', 'white', 'fss'];
 
-  for (let x in dataBL) {
-    if (dataBL[x].url.length != dataBL[x].filterType.length) {
+  dataBL.forEach((blocklist) => {
+    if (blocklist.url.length !== blocklist.filterType.length) {
       console.log('' + colorIt('Mismatch url and filtertype length. Missing parameters at \n').red());
-      console.log(dataBL[x]);
+      console.log(blocklist);
       process.exit(1);
     }
-    for (let y in dataBL[x].filterType) {
-      if (!validFilterTypeValues.includes(dataBL[x].filterType[y])) {
+    blocklist.filterType.forEach((filterType) => {
+      if (!validFilterTypeValues.includes(filterType)) {
         console.log('' + colorIt('Invalid filter type value found at \n').red());
-        console.log(dataBL[x]);
+        console.log(blocklist);
         process.exit(1);
       }
-    }
-  }
+    });
+  });
+
   console.log('' + colorIt(`Finished testCore function`).green());
   console.log('------------------------------------------------\n');
 }
@@ -351,20 +354,22 @@ async function testURLs() {
   console.log('' + colorIt(`Starting url checks`).indigo());
   let failed = 0;
   const dataBL = defaultData.blocklistConfig;
-  for (let x in dataBL) {
-    for (let y in dataBL[x].url) {
+  const testUrls = dataBL.flatMap((blocklist) =>
+    blocklist.url.map(async (url) => {
       try {
-        const res = await fetch(dataBL[x].url[y], { method: 'HEAD' });
+        const res = await fetch(url, { method: 'HEAD' });
         if (res.status !== 200) {
-          console.log('' + colorIt(`Error: ${res.status} for ${dataBL[x].url[y]}`).redBg());
+          console.log('' + colorIt(`Error: ${res.status} for ${url}`).redBg());
           failed += 1;
         }
       } catch (err) {
-        console.log('' + colorIt(`Error: ${err} for ${dataBL[x].url[y]}`).redBg());
+        console.log('' + colorIt(`Error: ${err} for ${url}`).redBg());
         failed += 1;
       }
-    }
-  }
+    })
+  );
+
+  await Promise.all(testUrls);
 
   if (failed > 0) {
     console.log(`${failed} number of urls failed`);
@@ -374,6 +379,7 @@ async function testURLs() {
   }
   console.log('------------------------------------------------\n');
 }
+
 async function main() {
   await downloadFiles();
   await processFiles();
