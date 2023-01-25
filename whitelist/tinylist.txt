@@ -11,3 +11,5 @@ app.engage.jio.com
 dit.whatsapp.net
 supercell.helpshift.com
 static-ite.paytmbank.com
+www.buymeacoffee.com
+buymeacoffee.com

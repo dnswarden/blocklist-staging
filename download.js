@@ -304,7 +304,7 @@ async function testValue() {
     }
     if (values.has(dataBL[i].value)) {
       console.log('' + colorIt('Quitting after finding first instance of repetition at\n').red());
-      console.log(dataBL[i]);
+      console.log(dataBL.filter((el) => (el.value = dataBL[i].value)));
       process.exit(1);
     }
     values.add(dataBL[i].value);
