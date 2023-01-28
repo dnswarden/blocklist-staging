@@ -1162,7 +1162,7 @@
       "category": "Malware",
       "url": ["https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list",
         "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list",
-        "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list],
+        "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list"],
       "filterType": ["b-norm", "b-norm", "b-norm", "b-norm"],
       "source": "",
       "totalDomains": 0,
