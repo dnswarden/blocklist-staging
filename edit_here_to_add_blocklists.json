@@ -1156,6 +1156,17 @@
       "source": "",
       "totalDomains": 0,
       "value": 124
+    },
+    {
+      "name": "Ultimate Hosts Blacklist",
+      "category": "Malware",
+      "url": ["https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list",
+        "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list",
+        "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list],
+      "filterType": ["b-norm", "b-norm", "b-norm", "b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 125
     }
   ],
   "adblockConfig": [1, 4, 7, 71, 90, 92, 97, 98, 99, 100, 103, 104],
