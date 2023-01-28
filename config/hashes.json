@@ -136,5 +136,6 @@
   "i_6dc25cf415b196768d456586d3da17f9": "https://v.firebog.net/hosts/Prigent-Crypto.txt",
   "i_df3761c38d30eb173e5394b6ae4b4825": "https://v.firebog.net/hosts/RPiList-Phishing.txt",
   "i_47ba928c99316c52e408942d9cc91352": "https://v.firebog.net/hosts/RPiList-Malware.txt",
-  "i_a38d0ba03904025af77905f82050395d": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt"
+  "i_a38d0ba03904025af77905f82050395d": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt",
+  "i_1453cdc7e872d3c46d6c929ceda40f79": "https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_nsfwbig.txt"
 }
