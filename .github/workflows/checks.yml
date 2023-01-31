@@ -1,41 +1,41 @@
-name: 'Check blocklist json'
+name: "Check blocklist json"
 
 on:
   push:
     paths:
-      - 'edit_here_to_add_blocklists.json'
+      - "edit_here_to_add_blocklists.json"
 
   pull_request:
     paths:
-      - 'edit_here_to_add_blocklists.json'
+      - "edit_here_to_add_blocklists.json"
   schedule:
-    - cron: '0 6 * * 0'
+    - cron: "0 6 * * 0"
   workflow_dispatch:
 
 jobs:
   Checks:
-    name: 'Blocklist checks'
-    runs-on: 'ubuntu-latest'
+    name: "Blocklist checks"
+    runs-on: "ubuntu-latest"
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3.3.0
       - name: Setup node
         uses: actions/setup-node@v3.6.0
         with:
-          node-version: '19.3.0'
+          node-version: "19.3.0"
 
-      - name: 'Install node dependencies'
+      - name: "Install node dependencies"
         run: |
           npm install
 
-      - name: 'Test Values'
+      - name: "Test Values"
         run: |
           npm run testValues
 
-      - name: 'Test core'
+      - name: "Test core"
         run: |
           npm run testCore
 
-      - name: 'Test urls health'
+      - name: "Test urls health"
         run: |
           npm run testURLs
