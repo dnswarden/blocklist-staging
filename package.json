@@ -10,7 +10,8 @@
     "format": "npx prettier --write .",
     "testValues": "node -e 'import(\"./download.js\").then( fn => fn.testValue() )'",
     "testCore": "node -e 'import(\"./download.js\").then( fn => fn.testCore() )'   ",
-    "testURLs": "node -e 'import(\"./download.js\").then( fn => fn.testURLs() )'"
+    "testURLs": "node -e 'import(\"./download.js\").then( fn => fn.testURLs() )'",
+    "genReg": "node -e 'import(\"./download.js\").then( fn => fn.generateRegexData() )'"
   },
   "repository": {
     "type": "git",

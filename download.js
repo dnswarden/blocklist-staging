@@ -8,6 +8,7 @@ import fetch from "node-fetch";
 import crypto from "crypto";
 import colorIt from "color-it";
 import defaultData from "./edit_here_to_add_blocklists.json" assert { type: "json" };
+import { execSync } from "child_process";
 const { createWriteStream, createReadStream } = fs;
 const DOWNLOAD_FOLDER = "./downloaded_files/";
 const CONFIG_FOLDER = "./config/";
@@ -15,7 +16,10 @@ const CF_FOLDER = "./custom_filters/";
 const PROCESSING_FOLDER = "./processed_files/";
 const SOURCE_FOLDER = "./sources/";
 const MAX_ATTEMPTS = 3;
-const firstReplace = /(^[-\._!/:&=?~#].*$)|(^.*[\[\$/@>].*$)|(^.*[a-zA-Z0-9-_^/]+#.*$)|(.+\*.*$)/;
+/* Does the regex work? Yes! 
+  Can it be improved further? Yes, of course!
+  */
+const firstReplace = /(^[-\._!/&=?~#].*$)|(^.*[\[\$/@>].*$)|(^.*[a-zA-Z0-9-_^/]+#.*$)|(.+\*.*$)/;
 const secondReplace = /(#.*$)|(^\*\.)|(([0-9]{1,3}\.){3}[0-9]{1,3})([ \t]+)|((::)([ \t]+))|((::)+[1]([ \t]+))/;
 const domainMatch = /(^.*xn--.*$)|((([a-zA-Z0-9-_]{1,})\.)+[a-zA-Z]{2,})/;
 
@@ -104,9 +108,6 @@ async function processLineByLine(file) {
     crlfDelay: Infinity,
   });
 
-  /* Does the regex work? Yes! 
-  Can it be improved further? Yes, of course!
-  */
   for await (const line of rl) {
     let data = line.replace(firstReplace, "").replace(secondReplace, "").match(domainMatch);
     if (data) {
@@ -119,14 +120,12 @@ async function processLineByLine(file) {
 async function copyFiles() {
   console.log("" + colorIt(`Starting copyFiles function`).indigo());
 
-  try {
-    await fs.mkdir(CF_FOLDER, { recursive: true });
-    console.log("Attempting to copy files to custom_filter folder");
-    await fs.copy(PROCESSING_FOLDER, CF_FOLDER);
-    console.log("" + colorIt("Copied files successfully to folder!").greenBg());
-  } catch (err) {
-    console.error("" + colorIt("Unable to copy files to folder!").redBg() + err);
+  await fs.mkdir(CF_FOLDER, { recursive: true });
+  const files = fs.readdirSync(PROCESSING_FOLDER);
+  for (const file of files) {
+    execSync(`cat ${path.join(PROCESSING_FOLDER, file)} | sort | uniq > ${path.join(CF_FOLDER, file)}`);
   }
+
   console.log("" + colorIt(`Finished copyFiles function`).green());
   console.log("------------------------------------------------\n");
 }
@@ -382,6 +381,27 @@ async function testURLs() {
   console.log("------------------------------------------------\n");
 }
 
+async function generateRegexData() {
+  if (!fs.existsSync("./test_data/input.txt")) {
+    console.log("Test data file doesn't exist");
+    process.exit(1);
+  }
+  const fileStream = createReadStream("./test_data/input.txt");
+  const writeStream = createWriteStream("./test_data/output.txt", { flags: "w" });
+
+  const rl = readLine.createInterface({
+    input: fileStream,
+    crlfDelay: Infinity,
+  });
+
+  for await (const line of rl) {
+    let data = line.replace(firstReplace, "").replace(secondReplace, "").match(domainMatch);
+    if (data) {
+      writeStream.write(data[0] + "\n");
+    }
+  }
+  writeStream.end();
+}
 async function main() {
   await downloadFiles();
   await processFiles();
@@ -390,4 +410,4 @@ async function main() {
   await checkFiles();
   await updateHistory();
 }
-export { processFiles, downloadFiles, copyFiles, generateConfigs, checkFiles, updateHistory, testValue, testCore, testURLs, main };
+export { processFiles, downloadFiles, copyFiles, generateConfigs, checkFiles, updateHistory, testValue, testCore, testURLs, generateRegexData, main };
