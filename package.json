@@ -10,7 +10,9 @@
     "format": "npx prettier --write .",
     "testValues": "node -e 'import(\"./download.js\").then( fn => fn.testValue() )'",
     "testCore": "node -e 'import(\"./download.js\").then( fn => fn.testCore() )'   ",
-    "testURLs": "node -e 'import(\"./download.js\").then( fn => fn.testURLs() )'"
+    "testURLs": "node -e 'import(\"./download.js\").then( fn => fn.testURLs() )'",
+    "genRegex": "node -e 'import(\"./download.js\").then( fn => fn.generateRegexData() )'",
+    "checkRegex": "node -e 'import(\"./download.js\").then( fn => fn.checkRegex() )'"
   },
   "repository": {
     "type": "git",

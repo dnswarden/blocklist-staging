@@ -236,10 +236,7 @@
   {
     "name": "The Block List Project & HaGeZi (TikTok)",
     "category": "Privacy, Social",
-    "url": [
-      "https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt",
-      "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tiktok.txt"
-    ],
+    "url": ["https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tiktok.txt"],
     "filterType": ["b-norm", "b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id27.md",
     "totalDomains": 3954,
@@ -608,10 +605,7 @@
   {
     "name": "NextDNS & HaGeZi (Huawei)",
     "category": "Wildcard",
-    "url": [
-      "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei",
-      "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.huawei.txt"
-    ],
+    "url": ["https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.huawei.txt"],
     "filterType": ["b-wild", "b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id67.md",
     "totalDomains": 97,
@@ -620,10 +614,7 @@
   {
     "name": "NextDNS & HaGeZi (Windows)",
     "category": "Wildcard",
-    "url": [
-      "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows",
-      "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice.txt"
-    ],
+    "url": ["https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice.txt"],
     "filterType": ["b-wild", "b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id68.md",
     "totalDomains": 108,
@@ -650,9 +641,7 @@
   {
     "name": "Adguard (CNAME-Trackers)",
     "category": "Privacy, Adblock, Adultfilter",
-    "url": [
-      "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt"
-    ],
+    "url": ["https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id71.md",
     "totalDomains": 50414,
@@ -936,9 +925,7 @@
   {
     "name": "bongochong (CombinedPrivacy)",
     "category": "Ads, Privacy",
-    "url": [
-      "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-wildcard-blacklist.txt"
-    ],
+    "url": ["https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-wildcard-blacklist.txt"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id102.md",
     "totalDomains": 115833,
@@ -983,9 +970,7 @@
   {
     "name": "dnswarden (Adult Filter Blacklist Wildcard)",
     "category": "Ads, Privacy, Wildcard, Adultfilter",
-    "url": [
-      "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontentwildcard.txt"
-    ],
+    "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontentwildcard.txt"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id107.md",
     "totalDomains": 2,
@@ -1052,9 +1037,7 @@
   {
     "name": "DandelionSprout (Anti-Malware)",
     "category": "Malware",
-    "url": [
-      "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt"
-    ],
+    "url": ["https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id114.md",
     "totalDomains": 13379,
@@ -1063,9 +1046,7 @@
   {
     "name": "DandelionSprout (Nordic Filter for Tidier Websites)",
     "category": "Ads",
-    "url": [
-      "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt"
-    ],
+    "url": ["https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id115.md",
     "totalDomains": 403,

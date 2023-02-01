@@ -1,0 +1,122 @@
+# Syntax: Domains                                             
+
+0-000.store
+0.code.cotsta.ru
+# Last modified: 2023-01-29T04:05:55.185Z
+# ..............
+1.1.1.1google.com
+1.1.1.1 google.com
+#  \____________________
+
+teams.events.data.microsoft.com
+measure.office.net
+ic3.events.data.microsoft.com
+x.bidswitch.net
+# Update your dnsmasq.conf file and add the following 2 lines:
+#  conf-file=/path/to/domains.txt
+#  addn-hosts=/path/to/hostnames.txt
+###############################[HOSTNAMES]###############################
+*.log16.byteoversea.com
+*.maliva-mcs.byteoversea.com
+*.maliva-mcs-useast2a.byteoversea.com
+||addroplet.com^
+||addtakingcontinuous.com^
+||addthief.com^
+||adenza.dev^
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+# --------------------------------------------
+#
+0fflce.xyz
+0i.pm
+0i.wf #this is a comment
+# [1mobile.com]
+127.0.0.1 api4.1mobile.com
+0.0.0.0 weather-analytics-events.apple.com
+#[iadsdk.apple.com]
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 ca.iadsdk.apple.co
+*.02ip.ru
+*.02m830l.cn
+*.033.com
+*.033dfgh.com
+*.0351dvd.cn
+*.035caop.com
+*.0371app.wang
+# [1rx.io]
+127.0.0.1 sync.1rx.io
+0.0.0.0 0-01x-merchandise.554217.xyz
+0.0.0.0 0-owazo4.net.zooplus.de
+0.0.0.0 0.1music-online.me
+0.0.0.0 0.1video-online.me
+0.0.0.0 0.20www.bcloudhost.com
+:: 0-0-stagemn.net.daraz.com
+:: 0-131.net.daraz.com
+::1 ippppsadsa.adas
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+! humblebundle.com#@#.subscribe-box
+! maxmagazine.nl,mos.ru#@#.subscription-block
+! attentionactivist.com#@#.newsletter-block
+! patch.com#@##email-modal-wrapper
+! example.com
+doctorofcredit.com#@#.wpdiscuz-subscribe-bar
+upim.com#@#[data-target="#newsletter-modal"]
+@@||list-manage.com/subscribe/post-json?
+@@||techopedia.com/support/newsletterpopup.html$~third-party
+@@||tedox.de/*/js/footer.js$script,~third-party
+! fanboy_newsletter_allowlist_general_hide.txt
+store.acousticsounds.com,uof.digital#@##mc_embed_signup_scroll
+dnevnik.bg#@##newsletterBar
+station.com,millenniumpost.in,pastebin.com,premierchristian.news,rti.org.tw,sammobile.com,secondnexus.com,shine.cn,suninternational.com,unifiedlayers.com,wifi.id##.cd-top
+tricri.org##.chevron
+routard.com,thespinoff.co.nz###topscroll
+weather.com##[id^=WxuContentMedia] > [title="Top Deals"]
+timeout.com##div[class^="_donationsContainer_"]
+mydailyfreedom.com,patriotfetch.com##.gpoll_enabled_wrapper
+finance.yahoo.com##.has-beacon-click
+bowhuntingmag.com,firearmsnews.com,flyfisherman.com,gameandfishmag.com,gundogmag.com,gunsandammo.com,handgunsmag.com,in-fisherman.com,northamericanwhitetail.com,outdoorchannelplus.com,petersenshunting.com,shootingtimes.com,wildfowlmag.com##.has-promo
+africanreporter.co.za,albertonrecord.co.za,alexnews.co.za,barbertontimes.co.za,bedfordviewedenvalenews.co.za,benonicitytimes.co.za,bereamail.co.za,boksburgadvertiser.co.za,brakpanherald.co.za,capricornreview.co.za,carletonvilleherald.com,citybuzz.co.za,comarochronicle.co.za,corridorgazette.co.za,estcourtnews.co.za,eyethunews.co.za,fourwaysreview.co.za,germistoncitynews.co.za,hazyviewherald.co.za,heidelbergnigelheraut.co.za,highvelder.co.za,highwaymail.co.za,joburgeastexpress.co.za,kathorusmail.co.za,kemptonexpress.co.za,kormorant.co.za,krugersdorpnews.co.za,ladysmithgazette.co.za,letabaherald.co.za,maritzburgsun.co.za,midrandreporter.co.za,newcastleadvertiser.co.za,northcliffmelvilletimes.co.za,northcoastcourier.co.za,northeasterntribune.co.za,northernnatalcourier.co.za,northglennews.co.za,parysgazette.co.za,phoenixsun.co.za,potchefstroomherald.co.za,publiceyemaritzburg.co.za,randburgsun.co.za,randfonteinherald.co.za,rekordcenturion.co.za,rekordeast.co.za,rekordmoot.co.za,rekordnorth.co.za,reviewonline.co.za,ridgetimes.co.za,risingsunchatsworth.co.za,risingsunlenasia.co.za,risingsunoverport.co.za,roodepoortnorthsider.co.za,roodepoortrecord.co.za,rosebankkillarneygazette.co.za,sandtonchronicle.co.za,sedibengster.com,southcoastherald.co.za,southcoastsun.co.za,southerncourier.co.za,southlandssun.co.za,sowetourban.co.za,springsadvertiser.co.za,standertonadvertiser.co.za,tembisan.co.za,vaalweekblad.com,vryheidherald.co.za,westside-eldos.co.za,witbanknews.co.za,zululandobserver.co.za##.iab-logo
+thenextweb.com##.ica-wrapper
+##.vrt-newsletter
+##.w_newsletter-signup
+##.wash-newsletter
+##.wcb-coupon-box
+##.wcpopupmodal-open
+##.wcpopupmodal-wrapper-open
+##.wdg-newsletter
+##.wdt_newsLetter
+##.widNewsletter
+##.wide-newsletter
+###newsletter-single-step
+###newsletter-slide
+###newsletter-slideout
+###newsletter-slider
+###newsletter-strip
+/streamify-gdpr.
+/super-cookie/*
+/superCookie-
+/SwagCookiePermission/*
+.gdpr.js
+.gdpr.min
+.GdprCookieBanner.
+.javascript.gdpr.
+.notificationCookies.
+.PrivacyDataNotice.
+-christmasification-
+-copy-paste-blocker/
+-job-widget.
+.optmnstr.
+newpage.in
+34.204.214.165
+54.85.113.62 digitalantivirus.org
+ff02::2         ip6-allrouters
+ff02::3         ip6-allhosts
+# END HEADER
+
+# BEGIN BLOCKLIST
+0.0.0.0 -043ns11.net.daraz.com
+0.0.0.0 -16marketing.net.daraz.com
