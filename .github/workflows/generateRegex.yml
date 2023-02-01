@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "download.js"
+      - "test_data/input.txt"
 
   workflow_dispatch:
 
