@@ -20,8 +20,8 @@ const MAX_ATTEMPTS = 3;
   Can it be improved further? Yes, of course!
   */
 const firstReplace = /(^[-\._!/&=?~#].*$)|(^.*[\[\$/@>].*$)|(^.*[a-zA-Z0-9-_^/]+#.*$)|(.+\*.*$)/;
-const secondReplace = /(#.*$)|(^\*\.)|(([0-9]{1,3}\.){3}[0-9]{1,3})([ \t]+)|((::)([ \t]+))|((::)+[1]([ \t]+))/;
-const domainMatch = /(^.*xn--.*$)|((([a-zA-Z0-9-_]{1,})\.)+[a-zA-Z]{2,})/;
+const secondReplace = /(#.*$)|(^\*\.)|((\d{1,3}\.){3}\d{1,3})([ \t]+)|((::)([ \t]+))|((::)+[1]([ \t]+))/;
+const domainMatch = /(^.*xn--.*$)|((([a-zA-Z0-9-_]+)\.)+[a-zA-Z]{2,})/;
 
 async function downloadFiles() {
   console.log("" + colorIt(`Starting downloadFiles function`).indigo());
