@@ -2,3 +2,4 @@ node_modules/
 package-lock.json
 downloaded_files/
 processed_files/
+test_data/test.txt

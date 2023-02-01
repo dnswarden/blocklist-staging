@@ -1,17 +1,14 @@
-name: "Updates"
+name: "Generate regex test data"
 
 on:
   push:
     paths:
-      - "whitelist/**"
+      - "download.js"
 
-  schedule:
-    - cron: "6 6 * * *"
   workflow_dispatch:
 
 jobs:
   Checks:
-    name: "Scheduled updates"
     runs-on: "ubuntu-latest"
     steps:
       - name: Checkout repo
@@ -25,20 +22,13 @@ jobs:
         run: |
           npm install
 
-      - name: "Update lists"
+      - name: "Getting new file"
         run: |
-          npm run build
+          npm run genRegex
 
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           author_name: "DW [github actions bot]"
-          message: "auto-update [skip ci]"
-
-      - name: Repository Dispatch
-        uses: peter-evans/repository-dispatch@v2.1.1
-        with:
-          token: ${{ secrets.PAT }}
-          repository: ${{ secrets.REPO_NAME }}
-          event-type: start-building
+          message: "updated to new regex test file [skip ci]"

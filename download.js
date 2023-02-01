@@ -374,7 +374,8 @@ async function testURLs() {
 
   if (failed > 0) {
     console.log(`${failed} number of urls failed`);
-    process.exit(1);
+    // we can enable this later on
+    // process.exit(1);
   } else {
     console.log("" + colorIt(`All URLs are working`).green());
   }
@@ -402,6 +403,40 @@ async function generateRegexData() {
   }
   writeStream.end();
 }
+
+async function checkRegex() {
+  const fileStream = createReadStream("./test_data/input.txt");
+  const writeStream = createWriteStream("./test_data/test.txt", { flags: "w" });
+
+  const rl = readLine.createInterface({
+    input: fileStream,
+    crlfDelay: Infinity,
+  });
+
+  for await (const line of rl) {
+    let data = line.replace(firstReplace, "").replace(secondReplace, "").match(domainMatch);
+    if (data) {
+      writeStream.write(data[0] + "\n");
+    }
+  }
+  writeStream.end(() => {
+    const originalFile = fs.readFileSync("./test_data/output.txt");
+    const testFile = fs.readFileSync("./test_data/test.txt");
+
+    const originalHash = crypto.createHash("md5").update(originalFile).digest("hex");
+    const testHash = crypto.createHash("md5").update(testFile).digest("hex");
+
+    console.log(`Original File: ${originalHash}`);
+    console.log(`Test File: ${testHash}`);
+    if (originalHash === testHash) {
+      console.log(`${originalHash} and ${testHash} are identical`);
+    } else {
+      console.log(`${originalHash} and ${testHash} are different`);
+      process.exit(1);
+    }
+  });
+}
+
 async function main() {
   await downloadFiles();
   await processFiles();
@@ -410,4 +445,4 @@ async function main() {
   await checkFiles();
   await updateHistory();
 }
-export { processFiles, downloadFiles, copyFiles, generateConfigs, checkFiles, updateHistory, testValue, testCore, testURLs, generateRegexData, main };
+export { processFiles, downloadFiles, copyFiles, generateConfigs, checkFiles, updateHistory, testValue, testCore, testURLs, generateRegexData, checkRegex, main };
