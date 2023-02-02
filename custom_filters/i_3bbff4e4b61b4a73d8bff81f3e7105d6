@@ -12,6 +12,12 @@ grs.dbankcloud.com
 grs.dbankcloud.eu
 grs.hicloud.com
 grs.platform.dbankcloud.ru
+logservice-dra.platform.hicloud.com
+logservice-dre.platform.dbankcloud.cn
+logservice-dre.platform.hicloud.com
+logservice-drru.dt.hicloud.com
+logservice.hicloud.com
+logservice1.hicloud.com
 metrics-dra.dt.dbankcloud.cn
 metrics-dra.dt.hicloud.com
 metrics-drcn.dt.hicloud.com
@@ -29,9 +35,3 @@ metrics4.data.hicloud.com
 metrics5.data.hicloud.com
 metrics5.dt.dbankcloud.ru
 metrics6.dt.hicloud.com
-logservice-dra.platform.hicloud.com
-logservice-dre.platform.dbankcloud.cn
-logservice-dre.platform.hicloud.com
-logservice-drru.dt.hicloud.com
-logservice.hicloud.com
-logservice1.hicloud.com
