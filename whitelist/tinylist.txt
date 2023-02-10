@@ -1,3 +1,7 @@
+stat2.moneycontrol.com
+stat3.moneycontrol.com
+stat1.moneycontrol.com
+jssocdn.indiatimes.com
 stats.espncricinfo.com
 www.gravatar.com
 gravatar.com
