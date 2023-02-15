@@ -3,7 +3,7 @@
     {
       "name": "oisd (big)",
       "category": "Ads, Privacy, Adblock, Adultfilter",
-      "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_full.txt"],
+      "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_big.txt"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
@@ -12,8 +12,8 @@
     {
       "name": "oisd (small)",
       "category": "Ads, Privacy",
-      "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_basic.txt"],
-      "filterType": ["b-norm"],
+      "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_small.txt"],
+      "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
       "value": 2
