@@ -1,7 +1,7 @@
 {
   "blocklistConfig": [
     {
-      "name": "oisd (full)",
+      "name": "oisd (big)",
       "category": "Ads, Privacy, Adblock, Adultfilter",
       "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_full.txt"],
       "filterType": ["b-wild"],
@@ -10,7 +10,7 @@
       "value": 1
     },
     {
-      "name": "oisd (basic)",
+      "name": "oisd (small)",
       "category": "Ads, Privacy",
       "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_basic.txt"],
       "filterType": ["b-norm"],
