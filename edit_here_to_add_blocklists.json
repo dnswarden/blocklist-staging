@@ -1124,15 +1124,6 @@
       "source": "",
       "totalDomains": 0,
       "value": 123
-    },
-    {
-      "name": "oisd (NSFW Big)",
-      "category": "Porn, NSFW ",
-      "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_nsfwbig.txt"],
-      "filterType": ["b-wild"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 124
     }
   ],
   "adblockConfig": [1, 4, 7, 71, 90, 92, 97, 98, 99, 100, 103, 104],
