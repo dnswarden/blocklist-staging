@@ -7,7 +7,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 1
+      "value": 1,
+      "enabled": true
     },
     {
       "name": "oisd (small)",
@@ -16,7 +17,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 2
+      "value": 2,
+      "enabled": true
     },
     {
       "name": "oisd (nsfw)",
@@ -25,7 +27,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 3
+      "value": 3,
+      "enabled": true
     },
     {
       "name": "dnswarden (Whitelist)",
@@ -34,7 +37,8 @@
       "filterType": ["white"],
       "source": "",
       "totalDomains": 0,
-      "value": 4
+      "value": 4,
+      "enabled": true
     },
     {
       "name": "Enforce Safe Search",
@@ -43,7 +47,8 @@
       "filterType": ["fss"],
       "source": "",
       "totalDomains": 0,
-      "value": 5
+      "value": 5,
+      "enabled": true
     },
     {
       "name": "1Hosts (mini)",
@@ -52,7 +57,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 6
+      "value": 6,
+      "enabled": true
     },
     {
       "name": "1Hosts (Lite)",
@@ -61,7 +67,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 7
+      "value": 7,
+      "enabled": true
     },
     {
       "name": "1Hosts (Pro)",
@@ -70,7 +77,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 8
+      "value": 8,
+      "enabled": true
     },
     {
       "name": "1Hosts (Xtra)",
@@ -79,7 +87,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 9
+      "value": 9,
+      "enabled": true
     },
     {
       "name": "1Hosts (kidSaf)",
@@ -88,7 +97,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 10
+      "value": 10,
+      "enabled": true
     },
     {
       "name": "notracking",
@@ -97,7 +107,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 11
+      "value": 11,
+      "enabled": true
     },
     {
       "name": "someonewhocares",
@@ -106,7 +117,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 12
+      "value": 12,
+      "enabled": true
     },
     {
       "name": "disconnect.me (Ads)",
@@ -115,7 +127,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 13
+      "value": 13,
+      "enabled": true
     },
     {
       "name": "disconnect.me (Malvertising)",
@@ -124,7 +137,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 14
+      "value": 14,
+      "enabled": true
     },
     {
       "name": "disconnect.me (Tracking)",
@@ -133,7 +147,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 15
+      "value": 15,
+      "enabled": true
     },
     {
       "name": "The Block List Project (Abuse)",
@@ -142,7 +157,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 16
+      "value": 16,
+      "enabled": true
     },
     {
       "name": "The Block List Project (Ads)",
@@ -151,7 +167,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 17
+      "value": 17,
+      "enabled": true
     },
     {
       "name": "The Block List Project (Crypto)",
@@ -160,7 +177,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 18
+      "value": 18,
+      "enabled": true
     },
     {
       "name": "The Block List Project (Drugs)",
@@ -169,7 +187,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 19
+      "value": 19,
+      "enabled": true
     },
     {
       "name": "The Block List Project (Facebook)",
@@ -178,7 +197,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 20
+      "value": 20,
+      "enabled": true
     },
     {
       "name": "The Block List Project (Fraud)",
@@ -187,7 +207,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 21
+      "value": 21,
+      "enabled": true
     },
     {
       "name": "The Block List Project (Malware)",
@@ -196,7 +217,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 22
+      "value": 22,
+      "enabled": true
     },
     {
       "name": "The Block List Project (Phishing)",
@@ -205,7 +227,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 23
+      "value": 23,
+      "enabled": true
     },
     {
       "name": "The Block List Project (Piracy)",
@@ -214,7 +237,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 24
+      "value": 24,
+      "enabled": true
     },
     {
       "name": "The Block List Project (Porn)",
@@ -223,7 +247,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 25
+      "value": 25,
+      "enabled": true
     },
     {
       "name": "The Block List Project (Scam)",
@@ -232,7 +257,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 26
+      "value": 26,
+      "enabled": true
     },
     {
       "name": "The Block List Project & HaGeZi (TikTok)",
@@ -241,7 +267,8 @@
       "filterType": ["b-norm", "b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 27
+      "value": 27,
+      "enabled": true
     },
     {
       "name": "The Block List Project (Torrent)",
@@ -250,7 +277,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 28
+      "value": 28,
+      "enabled": true
     },
     {
       "name": "The Block List Project (Tracking)",
@@ -259,107 +287,10 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 29
+      "value": 29,
+      "enabled": true
     },
-    {
-      "name": "Energized (Spark)",
-      "category": "Ads, Privacy",
-      "url": ["https://block.energized.pro/spark/formats/domains.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 30
-    },
-    {
-      "name": "Energized (BluGo)",
-      "category": "Ads, Privacy",
-      "url": ["https://block.energized.pro/bluGo/formats/domains.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 31
-    },
-    {
-      "name": "Energized (Blu)",
-      "category": "Ads, Privacy",
-      "url": ["https://block.energized.pro/blu/formats/domains.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 32
-    },
-    {
-      "name": "Energized (Basic)",
-      "category": "Ads, Privacy",
-      "url": ["https://block.energized.pro/basic/formats/domains.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 33
-    },
-    {
-      "name": "Energized (Porn)",
-      "category": "Porn",
-      "url": ["https://block.energized.pro/porn/formats/domains.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 34
-    },
-    {
-      "name": "Energized (Ultimate)",
-      "category": "Ads, Privacy",
-      "url": ["https://block.energized.pro/ultimate/formats/domains.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 35
-    },
-    {
-      "name": "Energized (Unified)",
-      "category": "Ads, Privacy, Porn",
-      "url": ["https://block.energized.pro/unified/formats/domains.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 36
-    },
-    {
-      "name": "Energized (Porn-Lite)",
-      "category": "Porn",
-      "url": ["https://block.energized.pro/extensions/porn-lite/formats/domains.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 37
-    },
-    {
-      "name": "Energized (Social)",
-      "category": "Privacy, Social",
-      "url": ["https://block.energized.pro/extensions/social/formats/domains.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 38
-    },
-    {
-      "name": "Energized (Regional)",
-      "category": "Ads, Privacy",
-      "url": ["https://block.energized.pro/extensions/regional/formats/domains.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 39
-    },
-    {
-      "name": "Energized (Xtreme)",
-      "category": "Privacy",
-      "url": ["https://block.energized.pro/extensions/xtreme/formats/domains.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 40
-    },
+
     {
       "name": "NextDNS (Facebook)",
       "category": "Wildcard, Social",
@@ -367,7 +298,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 41
+      "value": 41,
+      "enabled": true
     },
     {
       "name": "Block Bypass-Methods",
@@ -385,7 +317,8 @@
       "filterType": ["b-wild", "b-wild", "b-wild", "b-wild", "b-wild", "b-wild", "b-wild", "b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 42
+      "value": 42,
+      "enabled": true
     },
     {
       "name": "NextDNS (SafeSearch Not Supported)",
@@ -394,7 +327,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 43
+      "value": 43,
+      "enabled": true
     },
     {
       "name": "NextDNS (DHT-Bootstrap-Nodes)",
@@ -403,7 +337,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 44
+      "value": 44,
+      "enabled": true
     },
     {
       "name": "NextDNS (File-Hosting)",
@@ -412,7 +347,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 45
+      "value": 45,
+      "enabled": true
     },
     {
       "name": "NextDNS (Proxies)",
@@ -421,7 +357,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 46
+      "value": 46,
+      "enabled": true
     },
     {
       "name": "NextDNS (Streaming Audio)",
@@ -430,7 +367,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 47
+      "value": 47,
+      "enabled": true
     },
     {
       "name": "NextDNS (Streaming Video)",
@@ -439,7 +377,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 48
+      "value": 48,
+      "enabled": true
     },
     {
       "name": "NextDNS (Torrent Clients)",
@@ -448,7 +387,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 49
+      "value": 49,
+      "enabled": true
     },
     {
       "name": "NextDNS (Torrent Trackers)",
@@ -457,7 +397,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 50
+      "value": 50,
+      "enabled": true
     },
     {
       "name": "NextDNS (Torrent Websites)",
@@ -466,7 +407,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 51
+      "value": 51,
+      "enabled": true
     },
     {
       "name": "NextDNS (Usenet)",
@@ -475,7 +417,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 52
+      "value": 52,
+      "enabled": true
     },
     {
       "name": "NextDNS (Warez)",
@@ -484,7 +427,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 53
+      "value": 53,
+      "enabled": true
     },
     {
       "name": "NextDNS (Amazon)",
@@ -493,7 +437,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 54
+      "value": 54,
+      "enabled": true
     },
     {
       "name": "NextDNS (Dailymotion)",
@@ -502,7 +447,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 55
+      "value": 55,
+      "enabled": true
     },
     {
       "name": "NextDNS (EBay)",
@@ -511,7 +457,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 56
+      "value": 56,
+      "enabled": true
     },
     {
       "name": "NextDNS (Netflix)",
@@ -520,7 +467,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 57
+      "value": 57,
+      "enabled": true
     },
     {
       "name": "NextDNS (Reddit)",
@@ -529,7 +477,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 58
+      "value": 58,
+      "enabled": true
     },
     {
       "name": "NextDNS (Snapchat)",
@@ -538,7 +487,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 59
+      "value": 59,
+      "enabled": true
     },
     {
       "name": "NextDNS (Spotify)",
@@ -547,7 +497,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 60
+      "value": 60,
+      "enabled": true
     },
     {
       "name": "NextDNS (Steam)",
@@ -556,7 +507,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 61
+      "value": 61,
+      "enabled": true
     },
     {
       "name": "NextDNS (Twitch)",
@@ -565,7 +517,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 62
+      "value": 62,
+      "enabled": true
     },
     {
       "name": "NextDNS (Twitter)",
@@ -574,7 +527,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 63
+      "value": 63,
+      "enabled": true
     },
     {
       "name": "NextDNS (Vimeo)",
@@ -583,7 +537,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 64
+      "value": 64,
+      "enabled": true
     },
     {
       "name": "NextDNS (YouTube)",
@@ -592,7 +547,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 65
+      "value": 65,
+      "enabled": true
     },
     {
       "name": "NextDNS (Affiliate Tracking Domains)",
@@ -601,7 +557,8 @@
       "filterType": ["white"],
       "source": "",
       "totalDomains": 0,
-      "value": 66
+      "value": 66,
+      "enabled": true
     },
     {
       "name": "NextDNS & HaGeZi (Huawei)",
@@ -610,7 +567,8 @@
       "filterType": ["b-wild", "b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 67
+      "value": 67,
+      "enabled": true
     },
     {
       "name": "NextDNS & HaGeZi (Windows)",
@@ -619,7 +577,8 @@
       "filterType": ["b-wild", "b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 68
+      "value": 68,
+      "enabled": true
     },
     {
       "name": "NextDNS (Xiaomi)",
@@ -628,7 +587,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 69
+      "value": 69,
+      "enabled": true
     },
     {
       "name": "Adguard (DNSFilter)",
@@ -637,7 +597,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 70
+      "value": 70,
+      "enabled": true
     },
     {
       "name": "Adguard (CNAME-Trackers)",
@@ -646,7 +607,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 71
+      "value": 71,
+      "enabled": true
     },
     {
       "name": "GoodbyeAds",
@@ -655,7 +617,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 72
+      "value": 72,
+      "enabled": true
     },
     {
       "name": "StevenBlack",
@@ -664,7 +627,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 73
+      "value": 73,
+      "enabled": true
     },
     {
       "name": "VeleSila (yhosts)",
@@ -673,7 +637,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 74
+      "value": 74,
+      "enabled": true
     },
     {
       "name": "tiuxo (Ads)",
@@ -682,7 +647,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 75
+      "value": 75,
+      "enabled": true
     },
     {
       "name": "nickspaargaren (no-google)",
@@ -691,7 +657,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 76
+      "value": 76,
+      "enabled": true
     },
     {
       "name": "yoyo.org (Peter Lowe)",
@@ -700,7 +667,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 77
+      "value": 77,
+      "enabled": true
     },
     {
       "name": "mhxion (Porn Sites)",
@@ -709,7 +677,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 78
+      "value": 78,
+      "enabled": true
     },
     {
       "name": "ut1-blacklists (Social Networks)",
@@ -718,7 +687,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 79
+      "value": 79,
+      "enabled": true
     },
     {
       "name": "Sinfonietta (Porn)",
@@ -727,7 +697,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 80
+      "value": 80,
+      "enabled": true
     },
     {
       "name": "PolishFiltersTeam (KADhosts)",
@@ -736,7 +707,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 81
+      "value": 81,
+      "enabled": true
     },
     {
       "name": "Spam404 (main-blacklist)",
@@ -745,7 +717,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 82
+      "value": 82,
+      "enabled": true
     },
     {
       "name": "notrack-blocklists (Malware)",
@@ -754,7 +727,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 83
+      "value": 83,
+      "enabled": true
     },
     {
       "name": "notrack-blocklists (Blocklist)",
@@ -763,7 +737,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 84
+      "value": 84,
+      "enabled": true
     },
     {
       "name": "mitchellkrogza (Malware)",
@@ -772,7 +747,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 85
+      "value": 85,
+      "enabled": true
     },
     {
       "name": "frogeye.fr (firstparty-trackers)",
@@ -781,7 +757,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 86
+      "value": 86,
+      "enabled": true
     },
     {
       "name": "frogeye.fr (multiparty-trackers)",
@@ -790,7 +767,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 87
+      "value": 87,
+      "enabled": true
     },
     {
       "name": "ut1-blacklists (Malware)",
@@ -799,7 +777,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 88
+      "value": 88,
+      "enabled": true
     },
     {
       "name": "ut1-blacklists (Phishing)",
@@ -808,7 +787,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 89
+      "value": 89,
+      "enabled": true
     },
     {
       "name": "dnswarden (Blacklist)",
@@ -817,7 +797,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 90
+      "value": 90,
+      "enabled": true
     },
     {
       "name": "stamparm (blackbook)",
@@ -826,7 +807,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 91
+      "value": 91,
+      "enabled": true
     },
     {
       "name": "stopforumspam (Toxic Domains)",
@@ -835,7 +817,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 92
+      "value": 92,
+      "enabled": true
     },
     {
       "name": "digitalside.it (Threat-Intel)",
@@ -844,7 +827,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 93
+      "value": 93,
+      "enabled": true
     },
     {
       "name": "AdAway",
@@ -853,7 +837,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 94
+      "value": 94,
+      "enabled": true
     },
     {
       "name": "privacy-protection-tools (anti-AD)",
@@ -862,7 +847,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 95
+      "value": 95,
+      "enabled": true
     },
     {
       "name": "bigdargon (hostsVN)",
@@ -871,7 +857,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 96
+      "value": 96,
+      "enabled": true
     },
     {
       "name": "Phishing.army",
@@ -880,7 +867,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 97
+      "value": 97,
+      "enabled": true
     },
     {
       "name": "zerodot1 (CoinBlocker)",
@@ -894,7 +882,8 @@
       "filterType": ["b-norm", "b-norm", "b-norm", "b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 98
+      "value": 98,
+      "enabled": true
     },
     {
       "name": "Easylist (Fanboy-Annoyance)",
@@ -903,7 +892,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 99
+      "value": 99,
+      "enabled": true
     },
     {
       "name": "developerdan (Ads & Tracking)",
@@ -912,7 +902,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 100
+      "value": 100,
+      "enabled": true
     },
     {
       "name": "developerdan (Tracking Aggressive)",
@@ -921,7 +912,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 101
+      "value": 101,
+      "enabled": true
     },
     {
       "name": "bongochong (CombinedPrivacy)",
@@ -930,7 +922,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 102
+      "value": 102,
+      "enabled": true
     },
     {
       "name": "mitchellkrogza (Badd-Boyz-Hosts)",
@@ -939,7 +932,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 103
+      "value": 103,
+      "enabled": true
     },
     {
       "name": "dnswarden (Blacklist Wildcard)",
@@ -948,7 +942,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 104
+      "value": 104,
+      "enabled": true
     },
     {
       "name": "dnswarden (Blacklist Adult Content)",
@@ -957,7 +952,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 105
+      "value": 105,
+      "enabled": true
     },
     {
       "name": "dnswarden (Whitelist Adult Content)",
@@ -966,7 +962,8 @@
       "filterType": ["white"],
       "source": "",
       "totalDomains": 0,
-      "value": 106
+      "value": 106,
+      "enabled": true
     },
     {
       "name": "dnswarden (Adult Filter Blacklist Wildcard)",
@@ -975,7 +972,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 107
+      "value": 107,
+      "enabled": true
     },
     {
       "name": "HaGeZi (Multi Light)",
@@ -984,7 +982,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 108
+      "value": 108,
+      "enabled": true
     },
     {
       "name": "HaGeZi (Multi Normal)",
@@ -993,7 +992,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 109
+      "value": 109,
+      "enabled": true
     },
     {
       "name": "HaGeZi (Multi Pro)",
@@ -1002,7 +1002,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 110
+      "value": 110,
+      "enabled": true
     },
     {
       "name": "HaGeZi (Multi Pro++)",
@@ -1011,7 +1012,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 111
+      "value": 111,
+      "enabled": true
     },
     {
       "name": "HaGeZi(Threat Intelligence Feeds)",
@@ -1020,7 +1022,8 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 112
+      "value": 112,
+      "enabled": true
     },
     {
       "name": "dnswarden (Tiny whitelist & blacklist)",
@@ -1033,7 +1036,8 @@
       "filterType": ["b-norm", "white", "b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 113
+      "value": 113,
+      "enabled": true
     },
     {
       "name": "DandelionSprout (Anti-Malware)",
@@ -1042,7 +1046,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 114
+      "value": 114,
+      "enabled": true
     },
     {
       "name": "DandelionSprout (Nordic Filter for Tidier Websites)",
@@ -1051,7 +1056,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 115
+      "value": 115,
+      "enabled": true
     },
     {
       "name": "vdbhb59 (Unified Hosts)",
@@ -1060,7 +1066,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 116
+      "value": 116,
+      "enabled": true
     },
     {
       "name": "Phishing.army (Extended)",
@@ -1069,7 +1076,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 117
+      "value": 117,
+      "enabled": true
     },
     {
       "name": "Inversion",
@@ -1078,7 +1086,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 118
+      "value": 118,
+      "enabled": true
     },
     {
       "name": "Prigent (Ads)",
@@ -1087,7 +1096,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 119
+      "value": 119,
+      "enabled": true
     },
     {
       "name": "Prigent (Crypto)",
@@ -1096,7 +1106,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 120
+      "value": 120,
+      "enabled": true
     },
     {
       "name": "RPiList (Phishing)",
@@ -1105,7 +1116,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 121
+      "value": 121,
+      "enabled": true
     },
     {
       "name": "RPiList (Malware)",
@@ -1114,7 +1126,8 @@
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 122
+      "value": 122,
+      "enabled": true
     },
     {
       "name": "HaGeZi (Ultimate)",
@@ -1123,7 +1136,128 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 123
+      "value": 123,
+      "enabled": true
+    },
+    {
+      "name": " ",
+      "category": " ",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 30,
+      "enabled": false
+    },
+    {
+      "name": " ",
+      "category": " ",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 31,
+      "enabled": false
+    },
+    {
+      "name": " ",
+      "category": " ",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 32,
+      "enabled": false
+    },
+    {
+      "name": " ",
+      "category": " ",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 33,
+      "enabled": false
+    },
+    {
+      "name": " ",
+      "category": " ",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 34,
+      "enabled": false
+    },
+    {
+      "name": " ",
+      "category": " ",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 35,
+      "enabled": false
+    },
+    {
+      "name": " ",
+      "category": " ",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 36,
+      "enabled": false
+    },
+    {
+      "name": " ",
+      "category": " ",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 37,
+      "enabled": false
+    },
+    {
+      "name": " ",
+      "category": " ",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 38,
+      "enabled": false
+    },
+    {
+      "name": " ",
+      "category": " ",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 39,
+      "enabled": false
+    },
+    {
+      "name": " ",
+      "category": " ",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 40,
+      "enabled": false
+    },
+    {
+      "name": " ",
+      "category": " ",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"],
+      "filterType": ["b-wild"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 124,
+      "enabled": false
     }
   ],
   "adblockConfig": [1, 4, 7, 71, 90, 92, 97, 98, 99, 100, 103, 104],

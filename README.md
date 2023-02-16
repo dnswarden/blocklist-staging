@@ -46,5 +46,7 @@ where,
               
      - should be a nonrepetitive number 
      - for new entries, always use (length of `blocklistConfig` + 1)
+     
+-   `"enabled:"` Boolean. True, enables the list. False, disables the list which is useful for dead lists/links until we find a replacement.
 
 
