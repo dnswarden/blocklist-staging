@@ -1,19 +1,19 @@
 {
   "blocklistConfig": [
     {
-      "name": "oisd (full)",
+      "name": "oisd (big)",
       "category": "Ads, Privacy, Adblock, Adultfilter",
-      "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_full.txt"],
+      "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_big.txt"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
       "value": 1
     },
     {
-      "name": "oisd (basic)",
+      "name": "oisd (small)",
       "category": "Ads, Privacy",
-      "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_basic.txt"],
-      "filterType": ["b-norm"],
+      "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_small.txt"],
+      "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
       "value": 2
@@ -1124,15 +1124,6 @@
       "source": "",
       "totalDomains": 0,
       "value": 123
-    },
-    {
-      "name": "oisd (NSFW Big)",
-      "category": "Porn, NSFW ",
-      "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_nsfwbig.txt"],
-      "filterType": ["b-wild"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 124
     }
   ],
   "adblockConfig": [1, 4, 7, 71, 90, 92, 97, 98, 99, 100, 103, 104],
