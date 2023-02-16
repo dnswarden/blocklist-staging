@@ -345,6 +345,11 @@ async function testCore() {
         process.exit(1);
       }
     });
+
+    if (typeof blocklist.enabled !== "boolean") {
+      console.log("Found invalid boolean value : ", blocklist);
+      process.exit(1);
+    }
   });
 
   console.log("" + colorIt(`Finished testCore function`).green());
@@ -375,7 +380,7 @@ async function testURLs() {
   if (failed > 0) {
     console.log(`${failed} number of urls failed`);
     // we can enable this later on
-    // process.exit(1);
+    process.exit(1);
   } else {
     console.log("" + colorIt(`All URLs are working`).green());
   }
