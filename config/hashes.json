@@ -29,17 +29,6 @@
   "i_a3db23c401b4484cefe879ef5263369b": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tiktok.txt",
   "i_0d576072c02d6bc362532c4c855ba18d": "https://blocklistproject.github.io/Lists/alt-version/torrent-nl.txt",
   "i_2ffe50aa9a3885b74de06f1fe7981083": "https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt",
-  "i_ce321999b4c3bc3405520a8892fd3282": "https://block.energized.pro/spark/formats/domains.txt",
-  "i_bcd27be7df38d4ff5a446e6200ac224a": "https://block.energized.pro/bluGo/formats/domains.txt",
-  "i_5b1a19e9b48d97c0bc175daf01ae7d17": "https://block.energized.pro/blu/formats/domains.txt",
-  "i_ed643ba79cf9c83df4e40580fb8a831b": "https://block.energized.pro/basic/formats/domains.txt",
-  "i_67ee6978cb062a7a58a9d95a0e100ea6": "https://block.energized.pro/porn/formats/domains.txt",
-  "i_8b2471aaaa2b7da03f50d67fdc69270e": "https://block.energized.pro/ultimate/formats/domains.txt",
-  "i_bafc12014989d04d487d5e941bc4ded1": "https://block.energized.pro/unified/formats/domains.txt",
-  "i_ff9e64d2305b9d3f0d8d40e1d15f4998": "https://block.energized.pro/extensions/porn-lite/formats/domains.txt",
-  "i_3495e3b150a3a7c7f400b670890e4a39": "https://block.energized.pro/extensions/social/formats/domains.txt",
-  "i_add748671e59a22bcc8fb1a372cbb1de": "https://block.energized.pro/extensions/regional/formats/domains.txt",
-  "i_7461e82d58df6d3e945d901c39e48601": "https://block.energized.pro/extensions/xtreme/formats/domains.txt",
   "i_f2e7924ccdb90874b03043cde68e635c": "https://raw.githubusercontent.com/nextdns/services/main/services/facebook",
   "i_b3e133a258e2db3fadbe39f4bc1e6643": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/apple-private-relay",
   "i_9221a050e6ef6ee916cc60e2392b15a7": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/browsers",
@@ -136,5 +125,6 @@
   "i_6dc25cf415b196768d456586d3da17f9": "https://v.firebog.net/hosts/Prigent-Crypto.txt",
   "i_df3761c38d30eb173e5394b6ae4b4825": "https://v.firebog.net/hosts/RPiList-Phishing.txt",
   "i_47ba928c99316c52e408942d9cc91352": "https://v.firebog.net/hosts/RPiList-Malware.txt",
-  "i_a38d0ba03904025af77905f82050395d": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt"
+  "i_a38d0ba03904025af77905f82050395d": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt",
+  "i_cf59b9ba8c8d91a172762fca1a5937d4": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"
 }
