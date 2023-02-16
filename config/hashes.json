@@ -1,6 +1,6 @@
 {
-  "i_753507831eeb1f66ba6d122b0c41801c": "https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_full.txt",
-  "i_f9f5aadea665de363a8e09f8bf0051fe": "https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_basic.txt",
+  "i_067efd751f9d2baf0e82d0dcf8063947": "https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_big.txt",
+  "i_0f0f688248e42fc9926cec2f2762c021": "https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_small.txt",
   "i_373991274e42488f11f81ab0eca97f16": "https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_nsfw.txt",
   "i_48278e7e8a3b05937cccbe013b864e69": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt",
   "i_056939916263ee0b8627ff2cfa73f293": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/forcesafesearch.txt",
@@ -136,6 +136,5 @@
   "i_6dc25cf415b196768d456586d3da17f9": "https://v.firebog.net/hosts/Prigent-Crypto.txt",
   "i_df3761c38d30eb173e5394b6ae4b4825": "https://v.firebog.net/hosts/RPiList-Phishing.txt",
   "i_47ba928c99316c52e408942d9cc91352": "https://v.firebog.net/hosts/RPiList-Malware.txt",
-  "i_a38d0ba03904025af77905f82050395d": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt",
-  "i_1453cdc7e872d3c46d6c929ceda40f79": "https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_nsfwbig.txt"
+  "i_a38d0ba03904025af77905f82050395d": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt"
 }

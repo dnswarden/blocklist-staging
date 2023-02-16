@@ -1460,6 +1460,7 @@ cas.criteo.com
 cas.da1.vip.prod.criteo.com
 cas.eu.criteo.com
 cas.jp2.vip.prod.criteo.com
+cas.nl3.vip.prod.criteo.com
 cas.par.vip.prod.criteo.com
 cas.sg1.vip.prod.criteo.com
 cas.us.criteo.com
@@ -5259,6 +5260,7 @@ gum.am5.vip.prod.criteo.com
 gum.criteo.com
 gum.da1.vip.prod.criteo.com
 gum.jp2.vip.prod.criteo.com
+gum.nl3.vip.prod.criteo.com
 gum.par.vip.prod.criteo.com
 gum.sg1.vip.prod.criteo.com
 gum.va1.vip.prod.criteo.com
@@ -14864,6 +14866,7 @@ static.criteo.com
 static.criteo.net
 static.da1.vip.prod.criteo.net
 static.jp2.vip.prod.criteo.net
+static.nl3.vip.prod.criteo.net
 static.par.vip.prod.criteo.net
 static.sg1.vip.prod.criteo.net
 static.va1.vip.prod.criteo.net
