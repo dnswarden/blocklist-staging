@@ -196,6 +196,76 @@
       "enabled": true
     },
     {
+      "name": "Adguard (DNSFilter)",
+      "category": "Ads, Privacy",
+      "url": ["https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 70,
+      "enabled": true
+    },
+    {
+      "name": "HaGeZi(Threat Intelligence Feeds)",
+      "category": "Malware, Privacy",
+      "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.txt"],
+      "filterType": ["b-wild"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 112,
+      "enabled": true
+    },
+    {
+      "name": "GoodbyeAds",
+      "category": "Ads, Privacy",
+      "url": ["https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 72,
+      "enabled": true
+    },
+    {
+      "name": "StevenBlack",
+      "category": "Ads, Privacy",
+      "url": ["https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 73,
+      "enabled": true
+    },
+    {
+      "name": "yoyo.org (Peter Lowe)",
+      "category": "Ads, Privacy",
+      "url": ["https://pgl.yoyo.org/as/serverlist.php?hostformat=domains&mimetype=plaintext"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 77,
+      "enabled": true
+    },
+    {
+      "name": "frogeye.fr (firstparty-trackers)",
+      "category": "Privacy",
+      "url": ["https://hostfiles.frogeye.fr/firstparty-trackers.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 86,
+      "enabled": true
+    },
+    {
+      "name": "AdAway",
+      "category": "Ads, Privacy",
+      "url": ["https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 94,
+      "enabled": true
+    },
+    {
       "name": "1Hosts (Pro)",
       "category": "Ads, Privacy, Adblock, Adultfilter",
       "url": ["https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.wildcards"],
@@ -203,6 +273,16 @@
       "source": "",
       "totalDomains": 0,
       "value": 8,
+      "enabled": true
+    },
+    {
+      "name": "HaGeZi (Multi Normal)",
+      "category": "Ads, Privacy",
+      "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/multi.txt"],
+      "filterType": ["b-wild"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 109,
       "enabled": true
     },
     {
@@ -246,6 +326,16 @@
       "enabled": true
     },
     {
+      "name": "URL shortener",
+      "category": "Wildcard, Parentalcontrol, Piracy",
+      "url": ["https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener", "https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list"],
+      "filterType": ["b-wild", "b-wild"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 30,
+      "enabled": true
+    },
+    {
       "name": "disconnect.me (Ads)",
       "category": "Ads",
       "url": ["https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt"],
@@ -273,146 +363,6 @@
       "source": "",
       "totalDomains": 0,
       "value": 15,
-      "enabled": true
-    },
-    {
-      "name": "The Block List Project (Abuse)",
-      "category": "Privacy, Malware",
-      "url": ["https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 16,
-      "enabled": true
-    },
-    {
-      "name": "The Block List Project (Ads)",
-      "category": "Ads",
-      "url": ["https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 17,
-      "enabled": true
-    },
-    {
-      "name": "The Block List Project (Crypto)",
-      "category": "Malware",
-      "url": ["https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 18,
-      "enabled": true
-    },
-    {
-      "name": "The Block List Project (Drugs)",
-      "category": "Parentalcontrol",
-      "url": ["https://blocklistproject.github.io/Lists/alt-version/drugs-nl.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 19,
-      "enabled": true
-    },
-    {
-      "name": "The Block List Project (Facebook)",
-      "category": "Privacy, Social",
-      "url": ["https://blocklistproject.github.io/Lists/alt-version/facebook-nl.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 20,
-      "enabled": true
-    },
-    {
-      "name": "The Block List Project (Fraud)",
-      "category": "Parentalcontrol, Malware",
-      "url": ["https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 21,
-      "enabled": true
-    },
-    {
-      "name": "The Block List Project (Malware)",
-      "category": "Malware",
-      "url": ["https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 22,
-      "enabled": true
-    },
-    {
-      "name": "The Block List Project (Phishing)",
-      "category": "Malware",
-      "url": ["https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 23,
-      "enabled": true
-    },
-    {
-      "name": "The Block List Project (Piracy)",
-      "category": "Piracy",
-      "url": ["https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 24,
-      "enabled": true
-    },
-    {
-      "name": "The Block List Project (Porn)",
-      "category": "Porn",
-      "url": ["https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 25,
-      "enabled": true
-    },
-    {
-      "name": "The Block List Project (Scam)",
-      "category": "Parentalcontrol, Malware",
-      "url": ["https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 26,
-      "enabled": true
-    },
-    {
-      "name": "The Block List Project & HaGeZi (TikTok)",
-      "category": "Privacy, Social",
-      "url": ["https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tiktok.txt"],
-      "filterType": ["b-norm", "b-wild"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 27,
-      "enabled": true
-    },
-    {
-      "name": "The Block List Project (Torrent)",
-      "category": "Piracy",
-      "url": ["https://blocklistproject.github.io/Lists/alt-version/torrent-nl.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 28,
-      "enabled": true
-    },
-    {
-      "name": "The Block List Project (Tracking)",
-      "category": "Privacy",
-      "url": ["https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 29,
       "enabled": true
     },
     {
@@ -715,36 +665,6 @@
       "enabled": true
     },
     {
-      "name": "Adguard (DNSFilter)",
-      "category": "Ads, Privacy",
-      "url": ["https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 70,
-      "enabled": true
-    },
-    {
-      "name": "GoodbyeAds",
-      "category": "Ads, Privacy",
-      "url": ["https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 72,
-      "enabled": true
-    },
-    {
-      "name": "StevenBlack",
-      "category": "Ads, Privacy",
-      "url": ["https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 73,
-      "enabled": true
-    },
-    {
       "name": "VeleSila (yhosts)",
       "category": "Ads, Privacy",
       "url": ["https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts"],
@@ -772,16 +692,6 @@
       "source": "",
       "totalDomains": 0,
       "value": 76,
-      "enabled": true
-    },
-    {
-      "name": "yoyo.org (Peter Lowe)",
-      "category": "Ads, Privacy",
-      "url": ["https://pgl.yoyo.org/as/serverlist.php?hostformat=domains&mimetype=plaintext"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 77,
       "enabled": true
     },
     {
@@ -865,16 +775,6 @@
       "enabled": true
     },
     {
-      "name": "frogeye.fr (firstparty-trackers)",
-      "category": "Privacy",
-      "url": ["https://hostfiles.frogeye.fr/firstparty-trackers.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 86,
-      "enabled": true
-    },
-    {
       "name": "frogeye.fr (multiparty-trackers)",
       "category": "Privacy",
       "url": ["https://hostfiles.frogeye.fr/multiparty-trackers.txt"],
@@ -922,16 +822,6 @@
       "source": "",
       "totalDomains": 0,
       "value": 93,
-      "enabled": true
-    },
-    {
-      "name": "AdAway",
-      "category": "Ads, Privacy",
-      "url": ["https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 94,
       "enabled": true
     },
     {
@@ -985,16 +875,6 @@
       "enabled": true
     },
     {
-      "name": "HaGeZi (Multi Normal)",
-      "category": "Ads, Privacy",
-      "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/multi.txt"],
-      "filterType": ["b-wild"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 109,
-      "enabled": true
-    },
-    {
       "name": "HaGeZi (Multi Pro)",
       "category": "Ads, Privacy",
       "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt"],
@@ -1012,16 +892,6 @@
       "source": "",
       "totalDomains": 0,
       "value": 111,
-      "enabled": true
-    },
-    {
-      "name": "HaGeZi(Threat Intelligence Feeds)",
-      "category": "Malware, Privacy",
-      "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.txt"],
-      "filterType": ["b-wild"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 112,
       "enabled": true
     },
     {
@@ -1139,13 +1009,143 @@
       "enabled": true
     },
     {
-      "name": "URL shortener",
-      "category": "Wildcard, Parentalcontrol, Piracy",
-      "url": ["https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener", "https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list"],
-      "filterType": ["b-wild", "b-wild"],
+      "name": "The Block List Project (Abuse)",
+      "category": "Privacy, Malware",
+      "url": ["https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt"],
+      "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
-      "value": 30,
+      "value": 16,
+      "enabled": true
+    },
+    {
+      "name": "The Block List Project (Ads)",
+      "category": "Ads",
+      "url": ["https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 17,
+      "enabled": true
+    },
+    {
+      "name": "The Block List Project (Crypto)",
+      "category": "Malware",
+      "url": ["https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 18,
+      "enabled": true
+    },
+    {
+      "name": "The Block List Project (Drugs)",
+      "category": "Parentalcontrol",
+      "url": ["https://blocklistproject.github.io/Lists/alt-version/drugs-nl.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 19,
+      "enabled": true
+    },
+    {
+      "name": "The Block List Project (Facebook)",
+      "category": "Privacy, Social",
+      "url": ["https://blocklistproject.github.io/Lists/alt-version/facebook-nl.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 20,
+      "enabled": true
+    },
+    {
+      "name": "The Block List Project (Fraud)",
+      "category": "Parentalcontrol, Malware",
+      "url": ["https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 21,
+      "enabled": true
+    },
+    {
+      "name": "The Block List Project (Malware)",
+      "category": "Malware",
+      "url": ["https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 22,
+      "enabled": true
+    },
+    {
+      "name": "The Block List Project (Phishing)",
+      "category": "Malware",
+      "url": ["https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 23,
+      "enabled": true
+    },
+    {
+      "name": "The Block List Project (Piracy)",
+      "category": "Piracy",
+      "url": ["https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 24,
+      "enabled": true
+    },
+    {
+      "name": "The Block List Project (Porn)",
+      "category": "Porn",
+      "url": ["https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 25,
+      "enabled": true
+    },
+    {
+      "name": "The Block List Project (Scam)",
+      "category": "Parentalcontrol, Malware",
+      "url": ["https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 26,
+      "enabled": true
+    },
+    {
+      "name": "The Block List Project & HaGeZi (TikTok)",
+      "category": "Privacy, Social",
+      "url": ["https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tiktok.txt"],
+      "filterType": ["b-norm", "b-wild"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 27,
+      "enabled": true
+    },
+    {
+      "name": "The Block List Project (Torrent)",
+      "category": "Piracy",
+      "url": ["https://blocklistproject.github.io/Lists/alt-version/torrent-nl.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 28,
+      "enabled": true
+    },
+    {
+      "name": "The Block List Project (Tracking)",
+      "category": "Privacy",
+      "url": ["https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 29,
       "enabled": true
     },
     {
