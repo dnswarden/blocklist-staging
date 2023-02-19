@@ -1140,14 +1140,14 @@
       "enabled": true
     },
     {
-      "name": " ",
-      "category": " ",
-      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"],
-      "filterType": ["b-norm"],
+      "name": "URL shortener",
+      "category": "Wildcard, Parentalcontrol, Piracy",
+      "url": ["https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener","https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list"],
+      "filterType": ["b-wild","b-wild"],
       "source": "",
       "totalDomains": 0,
       "value": 30,
-      "enabled": false
+      "enabled": true
     },
     {
       "name": " ",
