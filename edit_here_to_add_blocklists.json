@@ -11,16 +11,6 @@
       "enabled": true
     },
     {
-      "name": "oisd (small)",
-      "category": "Ads, Privacy",
-      "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_small.txt"],
-      "filterType": ["b-wild"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 2,
-      "enabled": true
-    },
-    {
       "name": "oisd (nsfw)",
       "category": "Porn, Adultfilter",
       "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_nsfw.txt"],
@@ -51,16 +41,6 @@
       "enabled": true
     },
     {
-      "name": "1Hosts (mini)",
-      "category": "Ads, Privacy",
-      "url": ["https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.wildcards"],
-      "filterType": ["b-wild"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 6,
-      "enabled": true
-    },
-    {
       "name": "1Hosts (Lite)",
       "category": "Ads, Privacy",
       "url": ["https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards"],
@@ -68,6 +48,151 @@
       "source": "",
       "totalDomains": 0,
       "value": 7,
+      "enabled": true
+    },
+    {
+      "name": "Adguard (CNAME-Trackers)",
+      "category": "Privacy, Adblock, Adultfilter",
+      "url": ["https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 71,
+      "enabled": true
+    },
+    {
+      "name": "dnswarden (Blacklist)",
+      "category": "Ads, Tiny",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommon.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 90,
+      "enabled": true
+    },
+    {
+      "name": "stopforumspam (Toxic Domains)",
+      "category": "Ads, Privacy, Adblock, Adultfilter",
+      "url": ["https://www.stopforumspam.com/downloads/toxic_domains_whole.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 92,
+      "enabled": true
+    },
+    {
+      "name": "Phishing.army",
+      "category": "Privacy, Malware, Adblock, Adultfilter",
+      "url": ["https://phishing.army/download/phishing_army_blocklist.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 97,
+      "enabled": true
+    },
+    {
+      "name": "zerodot1 (CoinBlocker)",
+      "category": "Parentalcontrol, Malware, Adblock, Adultfilter",
+      "url": [
+        "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list.txt",
+        "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser.txt",
+        "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser_AdBlock.txt",
+        "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_optional.txt"
+      ],
+      "filterType": ["b-norm", "b-norm", "b-norm", "b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 98,
+      "enabled": true
+    },
+    {
+      "name": "Easylist (Fanboy-Annoyance)",
+      "category": "Ads, Adblock, Adultfilter",
+      "url": ["https://secure.fanboy.co.nz/fanboy-annoyance.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 99,
+      "enabled": true
+    },
+    {
+      "name": "developerdan (Ads & Tracking)",
+      "category": "Ads, Privacy, Adblock, Adultfilter",
+      "url": ["https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 100,
+      "enabled": true
+    },
+    {
+      "name": "mitchellkrogza (Badd-Boyz-Hosts)",
+      "category": "Ads, Privacy, Adblock, Adultfilter",
+      "url": ["https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 103,
+      "enabled": true
+    },
+    {
+      "name": "dnswarden (Blacklist Wildcard)",
+      "category": "Ads, Privacy, Wildcard, Adblock, Adultfilter",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommonwildcard.txt"],
+      "filterType": ["b-wild"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 104,
+      "enabled": true
+    },
+    {
+      "name": "dnswarden (Blacklist Adult Content)",
+      "category": "Porn, Adultfilter",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontent.txt"],
+      "filterType": ["b-norm"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 105,
+      "enabled": true
+    },
+    {
+      "name": "dnswarden (Whitelist Adult Content)",
+      "category": "Whitelist, Adblock, Adultfilter",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistadultcontent.txt"],
+      "filterType": ["white"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 106,
+      "enabled": true
+    },
+    {
+      "name": "dnswarden (Adult Filter Blacklist Wildcard)",
+      "category": "Ads, Privacy, Wildcard, Adultfilter",
+      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontentwildcard.txt"],
+      "filterType": ["b-wild"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 107,
+      "enabled": true
+    },
+    {
+      "name": "oisd (small)",
+      "category": "Ads, Privacy",
+      "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_small.txt"],
+      "filterType": ["b-wild"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 2,
+      "enabled": true
+    },
+    {
+      "name": "1Hosts (mini)",
+      "category": "Ads, Privacy",
+      "url": ["https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.wildcards"],
+      "filterType": ["b-wild"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 6,
       "enabled": true
     },
     {
@@ -290,7 +415,6 @@
       "value": 29,
       "enabled": true
     },
-
     {
       "name": "NextDNS (Facebook)",
       "category": "Wildcard, Social",
@@ -601,16 +725,6 @@
       "enabled": true
     },
     {
-      "name": "Adguard (CNAME-Trackers)",
-      "category": "Privacy, Adblock, Adultfilter",
-      "url": ["https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 71,
-      "enabled": true
-    },
-    {
       "name": "GoodbyeAds",
       "category": "Ads, Privacy",
       "url": ["https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt"],
@@ -791,16 +905,6 @@
       "enabled": true
     },
     {
-      "name": "dnswarden (Blacklist)",
-      "category": "Ads, Tiny",
-      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommon.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 90,
-      "enabled": true
-    },
-    {
       "name": "stamparm (blackbook)",
       "category": "Malware, Privacy",
       "url": ["https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt"],
@@ -808,16 +912,6 @@
       "source": "",
       "totalDomains": 0,
       "value": 91,
-      "enabled": true
-    },
-    {
-      "name": "stopforumspam (Toxic Domains)",
-      "category": "Ads, Privacy, Adblock, Adultfilter",
-      "url": ["https://www.stopforumspam.com/downloads/toxic_domains_whole.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 92,
       "enabled": true
     },
     {
@@ -861,51 +955,6 @@
       "enabled": true
     },
     {
-      "name": "Phishing.army",
-      "category": "Privacy, Malware, Adblock, Adultfilter",
-      "url": ["https://phishing.army/download/phishing_army_blocklist.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 97,
-      "enabled": true
-    },
-    {
-      "name": "zerodot1 (CoinBlocker)",
-      "category": "Parentalcontrol, Malware, Adblock, Adultfilter",
-      "url": [
-        "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list.txt",
-        "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser.txt",
-        "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser_AdBlock.txt",
-        "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_optional.txt"
-      ],
-      "filterType": ["b-norm", "b-norm", "b-norm", "b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 98,
-      "enabled": true
-    },
-    {
-      "name": "Easylist (Fanboy-Annoyance)",
-      "category": "Ads, Adblock, Adultfilter",
-      "url": ["https://secure.fanboy.co.nz/fanboy-annoyance.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 99,
-      "enabled": true
-    },
-    {
-      "name": "developerdan (Ads & Tracking)",
-      "category": "Ads, Privacy, Adblock, Adultfilter",
-      "url": ["https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 100,
-      "enabled": true
-    },
-    {
       "name": "developerdan (Tracking Aggressive)",
       "category": "Privacy",
       "url": ["https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt"],
@@ -923,56 +972,6 @@
       "source": "",
       "totalDomains": 0,
       "value": 102,
-      "enabled": true
-    },
-    {
-      "name": "mitchellkrogza (Badd-Boyz-Hosts)",
-      "category": "Ads, Privacy, Adblock, Adultfilter",
-      "url": ["https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 103,
-      "enabled": true
-    },
-    {
-      "name": "dnswarden (Blacklist Wildcard)",
-      "category": "Ads, Privacy, Wildcard, Adblock, Adultfilter",
-      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistcommonwildcard.txt"],
-      "filterType": ["b-wild"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 104,
-      "enabled": true
-    },
-    {
-      "name": "dnswarden (Blacklist Adult Content)",
-      "category": "Porn, Adultfilter",
-      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontent.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 105,
-      "enabled": true
-    },
-    {
-      "name": "dnswarden (Whitelist Adult Content)",
-      "category": "Whitelist, Adblock, Adultfilter",
-      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistadultcontent.txt"],
-      "filterType": ["white"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 106,
-      "enabled": true
-    },
-    {
-      "name": "dnswarden (Adult Filter Blacklist Wildcard)",
-      "category": "Ads, Privacy, Wildcard, Adultfilter",
-      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontentwildcard.txt"],
-      "filterType": ["b-wild"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 107,
       "enabled": true
     },
     {
@@ -1142,8 +1141,8 @@
     {
       "name": "URL shortener",
       "category": "Wildcard, Parentalcontrol, Piracy",
-      "url": ["https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener","https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list"],
-      "filterType": ["b-wild","b-wild"],
+      "url": ["https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener", "https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list"],
+      "filterType": ["b-wild", "b-wild"],
       "source": "",
       "totalDomains": 0,
       "value": 30,
