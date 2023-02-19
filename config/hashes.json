@@ -1,7 +1,7 @@
 {
-  "i_067efd751f9d2baf0e82d0dcf8063947": "https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_big.txt",
-  "i_0f0f688248e42fc9926cec2f2762c021": "https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_small.txt",
-  "i_373991274e42488f11f81ab0eca97f16": "https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_nsfw.txt",
+  "i_16f2ebd205ff3cee522a3c7ec6d59026": "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_big.txt",
+  "i_836fb731c8dc156b538e431823078aa8": "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_small.txt",
+  "i_8d0fcd76d26323d442cafed757681821": "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_nsfw.txt",
   "i_48278e7e8a3b05937cccbe013b864e69": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt",
   "i_056939916263ee0b8627ff2cfa73f293": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/forcesafesearch.txt",
   "i_0ca5c4b2dd0ff3ae6a359bd57fda21b5": "https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.wildcards",
