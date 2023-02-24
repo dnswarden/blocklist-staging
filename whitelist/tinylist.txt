@@ -4,6 +4,7 @@ stat3.moneycontrol.com
 stat1.moneycontrol.com
 jssocdn.indiatimes.com
 stats.espncricinfo.com
+collect.media.jio.com
 www.gravatar.com
 gravatar.com
 secure.gravatar.com
