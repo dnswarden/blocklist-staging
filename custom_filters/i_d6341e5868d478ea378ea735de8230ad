@@ -1,7 +1,6 @@
 adhs.events.data.microsoft.com
 apac.events.data.microsoft.com
 apac.events.data.trafficmanager.net
-aria.events.data.trafficmanager.net
 asimov-win.settings.data.microsoft.com.akadns.net
 au-v10c.events.data.microsoft.com
 au.vortex-win.data.microsoft.com
@@ -15,10 +14,8 @@ eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
 emea.events.data.microsoft.com
 emea.events.data.trafficmanager.net
-eu-office.events.data.microsoft.com
 eu-teams.events.data.microsoft.com
 eu-v10c.events.data.microsoft.com
-eu.events.data.trafficmanager.net
 eu.vortex-win.data.microsoft.com
 events-sandbox.data.microsoft.com
 events-sandbox.data.msn.com
@@ -28,7 +25,7 @@ excel-telemetry.officeapps.live.com
 fp.measure.office.com
 functional.events.data.microsoft.com
 geo.vortex.data.microsoft.com.akadns.net
-ic3.events.data.microsoft.com
+global.aria.events.data.trafficmanager.net
 jp-v10c.events.data.microsoft.com
 jp.events.data.trafficmanager.net
 kmwatson.events.data.microsoft.com
@@ -39,7 +36,6 @@ noam.events.data.trafficmanager.net
 nw-umwatson.events.data.microsoft.com
 o365diagtelemetry.trafficmanager.net
 office-c.events.data.microsoft.com
-office-events-data.trafficmanager.net
 office-g.events.data.microsoft.com
 pf.events.data.microsoft.com
 pf.events.data.trafficmanager.net
@@ -57,15 +53,15 @@ server8.pipe.aria.microsoft.com
 tb.events.data.microsoft.com
 tb.events.data.trafficmanager.net
 tb.pipe.aria.microsoft.com
-teams-events-data.trafficmanager.net
-teams.events.data.microsoft.com
 telemetry.microsoft.com
 telemetry.urs.microsoft.com
 uk.events.data.trafficmanager.net
 uk.vortex-win.data.microsoft.com
 umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
+us-mobile.events.data.microsoft.com
 us-v10c.events.data.microsoft.com
+us.aria.events.data.trafficmanager.net
 us.events.data.trafficmanager.net
 us.pipe.aria.microsoft.com
 us.vortex-win.data.microsoft.com
