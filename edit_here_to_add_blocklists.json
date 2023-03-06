@@ -855,13 +855,23 @@
       "enabled": true
     },
     {
-      "name": "bongochong (CombinedPrivacy)",
-      "category": "Ads, Privacy",
+      "name": "bongochong (CPBL Full)",
+      "category": "Ads, Privacy, Malware",
       "url": ["https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-wildcard-blacklist.txt"],
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
       "value": 102,
+      "enabled": true
+    },
+    {
+      "name": "bongochong (CPBL Light)",
+      "category": "Ads, Privacy, Malware",
+      "url": ["https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/mini-cpbl-wildcard-blacklist.txt"],
+      "filterType": ["b-wild"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 31,
       "enabled": true
     },
     {
@@ -1147,16 +1157,6 @@
       "totalDomains": 0,
       "value": 29,
       "enabled": true
-    },
-    {
-      "name": " ",
-      "category": " ",
-      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 31,
-      "enabled": false
     },
     {
       "name": " ",
