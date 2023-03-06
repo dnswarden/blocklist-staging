@@ -871,7 +871,7 @@
       "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
-      "value": 125,
+      "value": 31,
       "enabled": true
     },
     {
@@ -1157,16 +1157,6 @@
       "totalDomains": 0,
       "value": 29,
       "enabled": true
-    },
-    {
-      "name": " ",
-      "category": " ",
-      "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"],
-      "filterType": ["b-norm"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 31,
-      "enabled": false
     },
     {
       "name": " ",
