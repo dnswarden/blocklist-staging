@@ -280,7 +280,7 @@
     "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/multi.txt"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id109.md",
-    "totalDomains": 365183,
+    "totalDomains": 365182,
     "value": 109,
     "enabled": true
   },
@@ -729,7 +729,7 @@
     "url": ["https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id81.md",
-    "totalDomains": 108123,
+    "totalDomains": 108163,
     "value": 81,
     "enabled": true
   },
@@ -839,7 +839,7 @@
     "url": ["https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id96.md",
-    "totalDomains": 17576,
+    "totalDomains": 17573,
     "value": 96,
     "enabled": true
   },
@@ -879,7 +879,7 @@
     "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/light.txt"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id108.md",
-    "totalDomains": 138850,
+    "totalDomains": 139251,
     "value": 108,
     "enabled": true
   },
@@ -889,7 +889,7 @@
     "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id110.md",
-    "totalDomains": 494792,
+    "totalDomains": 494791,
     "value": 110,
     "enabled": true
   },
@@ -899,7 +899,7 @@
     "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.plus.txt"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id111.md",
-    "totalDomains": 516015,
+    "totalDomains": 516009,
     "value": 111,
     "enabled": true
   },
@@ -913,7 +913,7 @@
     ],
     "filterType": ["b-norm", "white", "b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id113.md",
-    "totalDomains": 36,
+    "totalDomains": 37,
     "value": 113,
     "enabled": true
   },
@@ -1013,7 +1013,7 @@
     "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id123.md",
-    "totalDomains": 931795,
+    "totalDomains": 931788,
     "value": 123,
     "enabled": true
   },
