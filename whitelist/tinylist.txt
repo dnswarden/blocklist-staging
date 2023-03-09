@@ -1,4 +1,5 @@
 t.co
+encrypted-tbn1.gstatic.com
 lnkd.in
 stat2.moneycontrol.com
 stat3.moneycontrol.com
