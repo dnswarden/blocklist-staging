@@ -13,7 +13,6 @@
 2.dnscrypt-cert.blahdns.com
 2.dnscrypt-cert.browser.yandex.net
 2.dnscrypt-cert.captnemo.in
-2.dnscrypt-cert.dns.seby.io
 2.dnscrypt-cert.ffmuc.net
 2.dnscrypt-cert.opendns.com
 2.dnscrypt-cert.pumplex.com
@@ -68,8 +67,6 @@ anonymster.com
 antidnsvpn.co.cc
 antispam.vpnvps.com
 antispam.vpsvpn.com
-anycast.censurfridns.dk
-anycast.uncensoreddns.org
 asia.dnscepat.id
 astrill.com
 astrill.org
@@ -125,6 +122,7 @@ cantfindme.org
 caproxies.info
 cedarbranches.com
 celo.net
+censurfridns.dk
 changemyip.com
 checkpoint.com
 chewbacca.meganerd.nl
@@ -220,7 +218,6 @@ dns.keweon.center
 dns.lars-lehmann.net
 dns.mrkaran.dev
 dns.neutopia.org
-dns.nextdns.io
 dns.nixnet.xyz
 dns.opendns.com
 dns.oszx.co
@@ -229,6 +226,7 @@ dns.pub
 dns.pumplex.com
 dns.rubyfish.cn
 dns.sb
+dns.seby.io
 dns.t53.de
 dns.therifleman.name
 dns.twnic.tw
@@ -237,12 +235,10 @@ dns.wugui.zone
 dns0.eu
 dns1.digitale-gesellschaft.ch
 dns1.dnscrypt.ca
-dns1.nextdns.io
 dns1.ryan-palmer.com
 dns2.digitalcourage.de
 dns2.digitale-gesellschaft.ch
 dns2.dnscrypt.ca
-dns2.nextdns.io
 dnscache.e-utp.net
 dnscrypt-cert.oszx.co
 dnsforfamily.com
@@ -665,6 +661,7 @@ new-proxy-sites.blogspot.com
 newipnow.com
 newvpn.cf
 newvpn.ga
+nextdns.io
 nightowlvpn.com
 ninjabrowse.com
 ninjacloak.com
@@ -974,7 +971,6 @@ starssh.com
 stayhidden.net
 stealthvpn.com
 stealthy.co
-steering.nextdns.io
 stop-block.com
 stopcensoring.me
 strongvpn.com
@@ -1117,9 +1113,8 @@ unblockyoutube.video
 unblockyoutubeatschool.com
 unblockyoutubefree.net
 unblockytproxy.com
+uncensoreddns.org
 undofilters.com
-unicast.censurfridns.dk
-unicast.uncensoreddns.org
 unifiedvpn.com
 unknownproxy.com
 unlimitedvpnapp.com
