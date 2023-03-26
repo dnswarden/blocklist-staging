@@ -138,7 +138,6 @@ mcs-i18n.tiktok.com
 mcs-sg.tiktok.com
 mcs-sg.tiktokv.com
 mcs-va-useast2a.tiktokv.com
-mcs-va.tiktokv.com
 mcs.snssdk.com
 mcs.us.tiktok.com
 mcs.us.tiktokv.com
@@ -180,8 +179,6 @@ mssdk-sg.byteoversea.com
 mssdk-sg.tiktok.com
 mssdk-sg.tiktokv.com
 mssdk-va.byteoversea.com
-mssdk-va.tiktok.com
-mssdk-va.tiktokv.com
 mssdk.snssdk.com
 mssdk.us.tiktok.com
 mssdk.us.tiktokv.com
@@ -241,6 +238,7 @@ rtlog22-normal-useast1a.tiktokv.com
 rtlog22-normal-useast2a.tiktokv.com
 rtlog22-normal.tiktokv.com
 sf16-muse-va.ibytedtos.com
+sf16m-geckocdn.tiktokcdn.com
 sgali-mcs.byteoversea.com
 sgee-log.byteoversea.com
 sgee-mcs.byteoversea.com
