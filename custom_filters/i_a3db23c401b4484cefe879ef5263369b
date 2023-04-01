@@ -6,6 +6,7 @@ analytics-attribution-va.tiktok.com
 analytics-attribution.tiktok.com
 analytics-exp-sg.tiktok.com
 analytics-exp.us.tiktok.com
+analytics-i18n.tiktok.com
 analytics-sg.tiktok.com
 analytics-test.tiktok.com
 analytics-useast2a.tiktok.com
@@ -83,8 +84,10 @@ lark-frontier.byteoversea.com
 lf-main-gecko-source.tiktokcdn.com
 lf16-gecko-source.tiktokcdn.com
 lf16-geckocdn-sg.tiktokcdn.com
+lf16-pitayacdn.tiktokcdn.com
 lf19-gecko-source.tiktokcdn.com
 lf19-geckocdn-sg.tiktokcdn.com
+lf19-pitayacdn.tiktokcdn.com
 lf21-gecko-source.tiktokcdn.com
 lf77-gecko-source.tiktokcdn.com
 lf9-geckocdn.tiktokcdn.com
