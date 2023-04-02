@@ -941,7 +941,7 @@
     {
       "name": "vdbhb59 (Unified Hosts)",
       "category": "Ads, Malware",
-      "url": ["https://raw.githubusercontent.com/vdbhb59/hosts/master/hosts"],
+      "url": ["https://hosts.flossboxin.org.in/files/hosts"],
       "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
