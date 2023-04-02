@@ -106,7 +106,7 @@
   "i_074431be8ff16bb2d1d23b7a1b63a663": "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/tiny_wildcard.txt",
   "i_5fc2f55b3bc9e92b526e49ca2201a074": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt",
   "i_9c16e0bc9cae629e5d78039422e02c46": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt",
-  "i_65ce2379731acc3f841826319c71d673": "https://raw.githubusercontent.com/vdbhb59/hosts/master/hosts",
+  "i_a9514fd618fc3796ea00ccca799338c7": "https://hosts.flossboxin.org.in/files/hosts",
   "i_b2a412ed84d2c74beb14096223cf96da": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
   "i_ba439920aa33c8bfaab33a3729b8bc4b": "https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt",
   "i_109b00c19f7b053b56ecede973f8df3a": "https://v.firebog.net/hosts/Prigent-Ads.txt",
