@@ -203,6 +203,7 @@ aaddzz.com
 aag.yahooapis.jp
 aamt.nbcnews.com
 aan.amazon.com
+aanetwork.vn
 aappgaxtvybn.com
 aarth.net
 aas-nv-a.aaxads.com
@@ -1293,6 +1294,8 @@ ads.livetv637.me
 ads.livetv638.me
 ads.livetv639.me
 ads.livetv640.me
+ads.livetv643.me
+ads.livetv644.me
 ads.localytics.com
 ads.lordlucky.com
 ads.mainadv.com
@@ -2431,6 +2434,7 @@ analytics-au.clickdimensions.com
 analytics-ca.clickdimensions.com
 analytics-eu.clickdimensions.com
 analytics-http.mintegral.net
+analytics-prod-gcp.ff.avast.com
 analytics-prod2.glance-internal.inmobi.com
 analytics-production.hapyak.com
 analytics-s4.com
@@ -3969,6 +3973,7 @@ boakauso.com
 board.nend.net
 boards.marketo.com
 boasstylijoked.com
+bob.dmpxs.com
 bodyclick.net
 boffoadsfeeds.com
 bohonef.com
@@ -4446,6 +4451,7 @@ cdn-webview-pge-geocdn-prd.unityads.unity3d.com
 cdn-webview-pge.unityads.unity3d.com
 cdn-xxx.yieldlove.com
 cdn.3lift.com
+cdn.aanetwork.vn
 cdn.acuityplatform.com
 cdn.ad.gt
 cdn.ad.plus
@@ -4537,6 +4543,7 @@ cdn.cityads.com
 cdn.clicktale.net
 cdn.comedia.coccoc.com
 cdn.concert.io
+cdn.confiant-integrations.net
 cdn.connatix.com
 cdn.connectad.io
 cdn.contentabc.com
@@ -4611,6 +4618,7 @@ cdn.js7k.com
 cdn.justpremium.com
 cdn.keywee.co
 cdn.krxd.net
+cdn.liftoff-creatives.io
 cdn.liftoff.io
 cdn.localytics.com
 cdn.logly.co.jp
@@ -5379,6 +5387,7 @@ conductrics.com
 conf.lsosad.com
 conf.xdrig.com
 confiant-integrations.global.ssl.fastly.net
+confiant-integrations.net
 config-junion.jpush.cn
 config-ltvp.inmobi.com
 config.a-mo.net
@@ -6315,6 +6324,7 @@ dmp.urekamedia.com
 dmp.v.fwmrm.net
 dmpapi.bidtellect.com
 dmpsync.3lift.com
+dmpxs.com
 dmtgo.upc.biz
 dmtracker.com
 dmtracking.alibaba.com
@@ -6512,6 +6522,11 @@ dync4.c.appier.net
 dyntrk.com
 dyv1bugovvq1g.cloudfront.net
 dzienkudrow.com
+e-10220.adzerk.net
+e-10457.adzerk.net
+e-10875.adzerk.net
+e-9563.adzerk.net
+e-9660.adzerk.net
 e-bannerx.com
 e-eu-central-1.serverbid.com
 e-eu.tapdb.net
@@ -7098,6 +7113,7 @@ feedads.g.doubleclick.net
 feedbackresearch.com
 feedimages.simpli.fi
 feedjit.com
+feedyourheadmag.com
 fei.pro-market.net
 felix.data.tm-awx.com
 felonlosel.com
@@ -8069,6 +8085,7 @@ hybrid.ai
 hydra.adsfactor.net
 hydra.alibaba.com
 hydramedia.com
+hylicfrothi.uno
 hynteroforion.com
 hyperbanner.net
 hypermusk.com
@@ -8358,6 +8375,7 @@ imgportal.eclick.vn
 imgpromo.easyrencontre.com
 imgproxy.upsight.com
 imgs.jads.co
+imgs2.aanetwork.vn
 imgur.adsbynimbus.com
 imgx.jampp.com
 imhd.io
@@ -9236,6 +9254,7 @@ lifestreet.com
 lifestreetmedia.com
 lift.acquia.com
 liftdna.com
+liftoff-creatives.io
 liftoff.io
 ligatus.com
 ligatus.de
@@ -9328,6 +9347,7 @@ loadus.tm.ssl.exelator.com
 loaglait.com
 local-media.ambient-platform.com
 local-media.m.ambient-platform.com
+local.adsbynimbus.com
 localapi.trazk.com
 localmantra.com
 localmediabuying.com
@@ -11544,7 +11564,6 @@ platform.pubfuture.com
 platform.sharethis.com
 platform.tumblr.com
 platform.yieldlove.com
-plausible.io
 play.adsparc.com
 play.aniview.com
 play.leadzu.com
@@ -11939,6 +11958,7 @@ pu4.biz
 pub-dev.novaonx.com
 pub-sdk-cfg.criteo.com
 pub.a8.net
+pub.aanetwork.vn
 pub.adflex.asia
 pub.adflex.vn
 pub.admanmedia.com
@@ -14309,6 +14329,7 @@ stats.anymad.com
 stats.apester.com
 stats.appsflyer.com
 stats.avaaz.org
+stats.avast.com
 stats.aws.rubiconproject.com
 stats.bannernow.com
 stats.betradar.com
@@ -15429,6 +15450,7 @@ traffic.outbrain.com
 traffic.pubexchange.com
 traffic.shareaholic.com
 traffic.spot.im
+traffic.vietnhan.co
 traffic2.adsconex.com
 trafficadept.com
 trafficads.net
@@ -15944,6 +15966,7 @@ v4.chartboost.com
 v4.moatads.com
 v5.chartboost.com
 v6rxv5coo5.com
+v7event.stats.avast.com
 v978np.tgtest.site
 v9banners-com.cdn.ampproject.org
 v9banners.com
@@ -17710,7 +17733,10 @@ zosteraclumsy.website
 zpbhjatpnaovj.com
 zplayer-trk.zdn.vn
 zplayer.trk.zapps.vn
+zpsocial-f50-org.zadn.vn
+zpsocial-f51-org.zadn.vn
 zpsocial-f52-org.zadn.vn
+zpsocial-f53-org.zadn.vn
 zqtk.net
 zrljkhcwhxhh.com
 zt.1rx.io
