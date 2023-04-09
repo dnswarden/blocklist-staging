@@ -19,9 +19,9 @@ const MAX_ATTEMPTS = 3;
 /* Does the regex work? Yes! 
   Can it be improved further? Yes, of course!
   */
-const firstReplace = /(#.*$)|(^.*xn--.*$)|((([a-zA-Z0-9-_]+)\.)+[a-zA-Z]{2,})/
-const secondReplace = /(^#\S*)|(^[\d.:]+[\s\t]+)|(^::1[\s\t]+)/;
-const domainMatch = /^(([a-z0-9]+(-[a-z0-9]+)*\.)+[a-z]{2,}|xn--[\w-]+)$/;
+const firstReplace = /(^[-._!&=?~#[\]/$@>].*$)|(^[^\s*]+\*.+$)/;
+const secondReplace = /(#.*$)|(^\*\.)|((\d{1,3}\.){3}\d{1,3}\s+)|(::(\d|\s)+)/;
+const domainMatch = /^([\w-]+\.)*[\w-]+\.[a-zA-Z]{2,}$/;
 
 async function downloadFiles() {
   console.log("" + colorIt(`Starting downloadFiles function`).indigo());
