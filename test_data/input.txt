@@ -120,3 +120,18 @@ ff02::3         ip6-allhosts
 # BEGIN BLOCKLIST
 0.0.0.0 -043ns11.net.daraz.com
 0.0.0.0 -16marketing.net.daraz.com
+
+
+0.0.0.0xn--bittex-zhb.com
+0.0.0.0xn--blckchin-5za9o.info
+xn--41a.xn----8sbivjiocsggj.xn--p1ai
+xn--72c6awi9b2bj7ixcg4c.com
+adservice.google.xn--mxtq1m
+adservice.google.xn--ngbrx
+adservice.google.xn--node
+www.xn--80a4b.com
+www.xn--80aeugjdc1b.com
+www.xparadise.ru
+www.yiffy-torrent.org
+xn--80a4b.com
+xn--80aejjrnhcji.4files.net
