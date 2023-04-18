@@ -1,4 +1,5 @@
 t.co
+hc1.checker.in
 encrypted-tbn1.gstatic.com
 lnkd.in
 cdn.ipinfo.io
