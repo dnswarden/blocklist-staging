@@ -1,5 +1,6 @@
 adhs.events.data.microsoft.com
 apac.events.data.microsoft.com
+au-mobile.events.data.microsoft.com
 au-v10c.events.data.microsoft.com
 browser.events.data.microsoft.com
 ceuswatcab01.blob.core.windows.net
@@ -26,6 +27,7 @@ excel-telemetry.officeapps.live.com
 functional.events.data.microsoft.com
 hubblecontent.osi.office.net
 ic3.events.data.microsoft.com
+jp-mobile.events.data.microsoft.com
 jp-v10c.events.data.microsoft.com
 kmwatson.events.data.microsoft.com
 kmwatsonc.events.data.microsoft.com
