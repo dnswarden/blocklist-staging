@@ -4,6 +4,7 @@ ads-sg.tiktok.com
 ads.tiktok.com
 analytics-attribution-va.tiktok.com
 analytics-attribution.tiktok.com
+analytics-exp-i18n.tiktok.com
 analytics-exp-sg.tiktok.com
 analytics-exp.us.tiktok.com
 analytics-i18n.tiktok.com
@@ -166,12 +167,10 @@ log58-normal-c-useast1a.tiktokv.com
 log58-normal-useast1a.tiktokv.com
 log58-normal-useast2a.tiktokv.com
 log61-normal-c-alisg.tiktokv.com
-log61-normal-c-useast1a.tiktokv.com
 log77-normal-c-alisg.tiktokv.com
 log77-normal-c-useast1a.tiktokv.com
 log9-normal-c-useast1a.tiktokv.com
 logbk.tiktokv.com
-loghost.byteoversea.com
 logistics.tiktok.com
 maliva-mcs-useast2a.byteoversea.com
 maliva-mcs.byteoversea.com
@@ -244,6 +243,7 @@ mssdk19-normal-alisg.tiktokv.com
 mssdk19-normal-useast1a.tiktokv.com
 mssdk19-normal-useast2a.tiktokv.com
 mssdk19-normal.tiktokv.com
+mssdk19-platform-useast5.us.tiktokv.com
 mssdk22-normal-alisg.tiktokv.com
 mssdk22-normal-useast1a.tiktokv.com
 mssdk22-normal-useast2a.tiktokv.com
