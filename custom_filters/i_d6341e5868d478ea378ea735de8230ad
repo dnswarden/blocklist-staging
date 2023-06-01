@@ -5,6 +5,7 @@ aria.events.data.trafficmanager.net
 asimov.events.data.trafficmanager.net
 au-v10c.events.data.microsoft.com
 blobcollector.events.data.trafficmanager.net
+cac-visio-telemetry.officeapps.live.com
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
 eaus2watcab01.blob.core.windows.net
@@ -50,7 +51,9 @@ pf.events.data.microsoft.com
 pf.events.data.trafficmanager.net
 powerpoint-telemetry.officeapps.live.com
 ppc-excel-telemetry.officeapps.live.com
+ppc-onenote-telemetry.officeapps.live.com
 ppc-powerpoint-telemetry.officeapps.live.com
+ppc-word-telemetry.officeapps.live.com
 server.events.data.microsoft.com
 server.events.data.trafficmanager.net
 tb.events.data.microsoft.com
@@ -68,6 +71,7 @@ us-v10c.events.data.microsoft.com
 us.events.data.trafficmanager.net
 usc-visio-telemetry.officeapps.live.com
 v10c.events.data.microsoft.com
+visio-telemetry.officeapps.live.com
 watson.events.data.microsoft.com
 watson.microsoft.com
 watson.officeint.microsoft.com
