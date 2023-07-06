@@ -158,7 +158,7 @@ async function generateConfigs() {
         `i_${crypto
           .createHash("md5")
           .update(url + "+" + filterType)
-          .digest("hex")}`
+          .digest("hex")}`,
       );
     }
   }
@@ -170,7 +170,7 @@ async function generateConfigs() {
         `i_${crypto
           .createHash("md5")
           .update(url + "+" + filterType)
-          .digest("hex")}`
+          .digest("hex")}`,
       );
     }
   }
@@ -188,7 +188,7 @@ async function generateConfigs() {
         `i_${crypto
           .createHash("md5")
           .update(url + "+" + filterType)
-          .digest("hex")}`
+          .digest("hex")}`,
       );
       await fs.promises.appendFile(SOURCE_FOLDER + id + ".md", `## ${url}\n`);
       await countLines(CF_FOLDER + flHa)
@@ -372,7 +372,7 @@ async function testURLs() {
         console.log("" + colorIt(`Error: ${err} for ${url}`).redBg());
         failed += 1;
       }
-    })
+    }),
   );
 
   await Promise.all(testUrls);
