@@ -6,7 +6,7 @@ on:
       - "whitelist/**"
 
   schedule:
-    - cron: "6 6 * * *"
+    - cron: "6 6 */8 * *"
   workflow_dispatch:
 
 jobs:
