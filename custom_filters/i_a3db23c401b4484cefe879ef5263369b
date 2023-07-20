@@ -37,6 +37,7 @@ log.us.tiktokv.com
 log15-normal-alisg.tiktokv.com
 log15-normal-useast1a.tiktokv.com
 log15-normal-useast2a.tiktokv.com
+log15-normal.tiktokv.com
 log15.byteoversea.com
 log16-applog-useast5.us.tiktokv.com
 log16-normal-alisg.tiktokv.com
@@ -111,6 +112,7 @@ os-mon.snssdk.com
 pc-mon-va.byteoversea.com
 pc-mon.snssdk.com
 rtc-logger-i18n.tiktokv.com
+rtc-logger-ttp2.us.tiktokv.com
 rtc-logger-va.tiktokv.com
 rtc-logger.us.tiktokv.com
 rtlog-i18n.tiktokv.com
@@ -121,6 +123,7 @@ rtlog-va.tiktokv.com
 rtlog.byteoversea.com
 rtlog.tiktokv.com
 rtlog.us.tiktokv.com
+rtlog15-normal-alisg.tiktokv.com
 rtlog15-normal-useast1a.tiktokv.com
 rtlog15-normal-useast2a.tiktokv.com
 rtlog15-normal.tiktokv.com
@@ -160,6 +163,7 @@ rtlog31-normal.tiktokv.com
 rtlog58-normal-alisg.tiktokv.com
 rtlog58-normal-useast1a.tiktokv.com
 rtlog58-normal-useast2a.tiktokv.com
+rtlog58-normal-ycru.tiktokv.com
 rtlog58-normal.tiktokv.com
 sgee-log.byteoversea.com
 web-mon-useast2a.byteoversea.com
