@@ -11,14 +11,16 @@
 1and1-dns.de
 1clickvpn.net
 1freeproxy.pw
-1proxy.de
 1proxy.us
 1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com
 2.dnscrypt-cert.blahdns.com
 2.dnscrypt-cert.browser.yandex.net
 2.dnscrypt-cert.captnemo.in
+2.dnscrypt-cert.dns.seby.io
 2.dnscrypt-cert.ffmuc.net
 2.dnscrypt-cert.opendns.com
+2.dnscrypt-cert.oszx.co
+2.dnscrypt-cert.quad9.net
 2.dnscrypt-cert.shield-2.dnsbycomodo.com
 233py.com
 24tunnel.com
@@ -30,7 +32,6 @@
 2proxy.de
 2proxy.us
 2ub.top
-33253.com
 37er19htfd.execute-api.us-east-1.amazonaws.com
 3proxy.de
 3x.nz
@@ -63,12 +64,12 @@ acevpn.com
 acrea.cz
 activpn.com
 ad1.heronet.nl
+adblock-dot.dnswarden.com
 adblock.borjalopez.eu
 adblockluna.com
 adfree.usableprivacy.net
 adfreeproxy.com
 adg.jnorton.us
-adguard-dns.com
 adguard-dns.rouga.ch
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
@@ -104,6 +105,7 @@ adguardhome.atakorah.com
 adl.adfilter.net
 adresseip.com
 ads-help-link2.com
+adult-filter-dot.dnswarden.com
 ag.ff0x.ca
 ag.ssrahul96.xyz
 ahadns.net
@@ -116,14 +118,12 @@ allunblocked.com
 amanvpn.com
 americaproxy.info
 anchorfree.net
-anchorfree.us
 androvpn.com
 aniscartujo.com
 anonine.com
 anonproxy.eu
 anonproxy.org
 anonvpn.io
-anonwebproxy.com
 anonymize.com
 anonymizer.com
 anonymizing-proxy.digitalcourage.de
@@ -145,6 +145,8 @@ antidnsvpn.co.cc
 antispam.vpnvps.com
 antispam.vpsvpn.com
 antycenzor.pl
+anycast.censurfridns.dk
+anycast.uncensoreddns.org
 appleproxy.com
 arashi.eu.org
 arcai.com
@@ -171,7 +173,6 @@ b.ns.dnslify.com
 b.safe.ns.dnslify.com
 bananavpn.com
 base99.com
-bcandrade.ml
 bdns.io
 bdns.link
 bdns.nu
@@ -3602,7 +3603,6 @@ boxpn.com
 br.servers.legat.ml
 bravedns.com
 brazilproxy.com
-brazilproxy.info
 britishproxy.com
 broadr.info
 brovpn.io
@@ -3637,7 +3637,6 @@ cars-a.co.za
 cblocker.info
 cedarbranches.com
 celo.net
-censurfridns.dk
 centidoo.com
 changemyip.com
 chaos-system.de
@@ -3677,7 +3676,6 @@ comss.ru
 connectionvpn.com
 contassh.com
 contentabc.com
-controld.com
 coolbits.org
 corecloak.com
 covertproxy.com
@@ -3738,11 +3736,10 @@ diskcrmvpn.co.cc
 districtnewyork.com
 divalane.com
 divaloo.com
-dns-east.tylerwahl.com
 dns-family.adguard.com
 dns-gcp.aaflalo.me
+dns-nosec.quad9.net
 dns-nyc.aaflalo.me
-dns-over-https.com
 dns-secondary.cloudnx.cloud
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
@@ -3755,6 +3752,7 @@ dns.7vpn.com
 dns.886886886.xyz
 dns.aa.net.uk
 dns.aaflalo.me
+dns.adguard-dns.com
 dns.adguard.com
 dns.adrianlam.com
 dns.alekberg.net
@@ -3773,7 +3771,6 @@ dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
 dns.apigw.online
 dns.aquilenet.fr
-dns.arapurayil.com
 dns.artikel10.org
 dns.azsopro.net
 dns.b33.space
@@ -3811,7 +3808,10 @@ dns.decloudus.com
 dns.dgea.fr
 dns.digitale-gesellschaft.ch
 dns.digitalsize.net
+dns.dns-over-https.com
 dns.dnshome.de
+dns.dnsoverhttps.net
+dns.dnswarden.com
 dns.dutchwhite.nl
 dns.dyn1.de
 dns.eddi.net
@@ -3883,6 +3883,7 @@ dns.nas-server.ru
 dns.ndo.dev
 dns.neubsi.at
 dns.neutopia.org
+dns.nextdns.io
 dns.nhtsky.com
 dns.nixnet.xyz
 dns.norvig.dk
@@ -3900,6 +3901,7 @@ dns.porteii.com
 dns.privilab.net
 dns.pub
 dns.pumplex.com
+dns.quad9.net
 dns.rafn.is
 dns.reckoningslug.name
 dns.rin.sh
@@ -3908,7 +3910,6 @@ dns.rotunneling.net
 dns.rubyfish.cn
 dns.sb
 dns.scapetical.com
-dns.seby.io
 dns.sellan.fr
 dns.shecan.ir
 dns.shimul.me
@@ -3954,17 +3955,22 @@ dns1.dnscrypt.ca
 dns1.in-berlin.de
 dns1.ipv6.dnscrypt.ca
 dns1.irumatech.com
+dns1.nextdns.io
 dns1.ryan-palmer.com
+dns10.quad9.net
+dns11.quad9.net
+dns12.quad9.net
+dns13.quad9.net
 dns2.alekberg.net
 dns2.cbio.top
-dns2.digitalcourage.de
 dns2.digitale-gesellschaft.ch
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
+dns2.nextdns.io
 dns4me.net
 dns8.org
+dns9.quad9.net
 dnscache.e-utp.net
-dnscrypt-cert.oszx.co
 dnsenc.com
 dnses.alekberg.net
 dnsforfamily.com
@@ -3973,17 +3979,13 @@ dnslow.me
 dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
-dnsoverhttps.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
-dnsproxy.ff.avast.com
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnstls.mobik.com
-dnsvps.familiamv.ml
-dnswarden.com
 do.dnscrypt.uk
 do.shimul.me
 dog.dns.qwer.pw
@@ -3992,8 +3994,6 @@ doh-02.spectrum.com
 doh-2.seby.io
 doh-ch.blahdns.com
 doh-de.blahdns.com
-doh-discovery.xfinity.com
-doh-fi.bahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh-primary-pool.detoxifypornblocker.com
@@ -4004,6 +4004,7 @@ doh.42l.fr
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.asecdns.com
+doh.asia.dnswarden.com
 doh.beauty
 doh.blahdns.com
 doh.blockerdns.com
@@ -4024,10 +4025,12 @@ doh.dns.apple.com.v.aaplimg.com
 doh.dns4all.eu
 doh.dnscrypt.uk
 doh.dnslify.com
+doh.dnswarden.com
 doh.dscloud.me
 doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
+doh.eu.dnswarden.com
 doh.ffmuc.net
 doh.funil.de
 doh.funtopia.tv
@@ -4071,6 +4074,7 @@ doh.this.web.id
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
+doh.us.dnswarden.com
 doh.velyn.my.id
 doh.westeu.pi-dns.com
 doh.westus.pi-dns.com
@@ -4140,6 +4144,7 @@ easy-vpn.comodo.com
 easyhandshake.com
 ebumna.net
 ec2-34-194-122-51.compute-1.amazonaws.com
+ecs-doh.dnswarden.com
 ecxs.asia
 edgy-dns.com
 elshad-adgh-dns.ru
@@ -4164,6 +4169,7 @@ f4fp.com
 faceless.me
 fakeip.org
 family.5ososea.com
+family.adguard-dns.com
 familyshield.opendns.com
 fast-proxy.com.de
 fastest-proxy.com.de
@@ -4213,6 +4219,7 @@ fortiwebcloud.net
 fpn.firefox.com
 fproxy.net
 fr-dns1.bancuh.com
+fr1.dnswarden.com
 fra1.eyecay.xyz
 frandcomfort.us
 free-proxy-list.net
@@ -4231,6 +4238,7 @@ freecanadavpn.com
 freecavpn.com
 freecloudvpn.com
 freedevpn.com
+freedns.controld.com
 freedom.cx
 freedom.mydns.network
 freedomproxy.com
@@ -4480,6 +4488,7 @@ jetssh.com
 jfalling.com
 jit.ddns.net
 jp-dns1.bancuh.com
+jp.68360612.xyz
 jp.gridns.xyz
 jp.tiar.app
 jp.tiarap.org
@@ -4617,7 +4626,6 @@ new-proxy.com.de
 newads-cdn.com
 newipnow.com
 newvpn.cf
-nextdns.io
 ngrok.io
 nightowlvpn.com
 ninjabrowse.com
@@ -4948,7 +4956,6 @@ pushokey.com
 pushvpn.com
 pxaa.com
 qlf-doh.inria.fr
-quad9.net
 query.hdns.io
 quickprox.com
 quickproxies.com
@@ -5033,7 +5040,6 @@ secure-dns.dns-ga.de
 secure-vpn.info
 secure.avastdns.com
 secure.onedns.cc
-securedns.eu
 securedns.vendorvista.xyz
 securehole.com
 securenet.mhsystems.net
@@ -5050,6 +5056,7 @@ sg-dns1.bancuh.com
 sg.adhole.org
 sg.gridns.xyz
 sg.teradns.org
+sg1.dnswarden.com
 sg2.ooroot.com
 shadowsocks.org
 shadowsurf.com
@@ -5122,6 +5129,7 @@ staticnetcontent.com
 stayhidden.net
 stealthvpn.com
 stealthy.co
+steering.nextdns.io
 stop-block.com
 stopcensoring.me
 strongvpn.com
@@ -5169,7 +5177,6 @@ surfsneaker.com
 surfsuark.com
 surfvpn.co.cc
 surfwithease.com
-surt.ml
 surtshark.com
 swapip.com
 swissvpn.net
@@ -5337,8 +5344,11 @@ unblockyoutube.video
 unblockyoutubeatschool.com
 unblockyoutubefree.net
 unblockytproxy.com
-uncensoreddns.org
+uncensored-dot.dnswarden.com
 undofilters.com
+unfiltered.adguard-dns.com
+unicast.censurfridns.dk
+unicast.uncensoreddns.org
 unifiedvpn.com
 unknownproxy.com
 unlimitedvpnapp.com
