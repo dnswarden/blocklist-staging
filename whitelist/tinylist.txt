@@ -1,3 +1,4 @@
+api.tiles.mapbox.com
 t.co
 coinmarketcap.com
 www.coinmarketcap.com
