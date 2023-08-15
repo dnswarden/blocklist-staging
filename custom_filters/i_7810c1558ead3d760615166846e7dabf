@@ -2490,12 +2490,14 @@ dbhmp.demdex.net
 dbmyvl.apartmentfinder.com
 dbpbyh.americanas.com.br
 dbs.demdex.net
+dc-ppe.trafficmanager.net
 dc.applicationinsights.azure.com
 dc.applicationinsights.microsoft.com
 dc.audi.com
 dc.c4.b2.a2.top.mail.ru
 dc.cc.b1.a2.top.mail.ru
 dc.services.visualstudio.com
+dc.trafficmanager.net
 dccfog.petco.com
 dcs.audi.com
 dcs.plussizetech.com
@@ -4159,7 +4161,9 @@ global-cdn.net
 global.apexanalytix.com
 global.cognizant.com
 global.in.ai.aimon.monitor.azure.com
+global.in.ai.aimon.privatelink.monitor.azure.com
 global.in.ai.monitor.azure.com
+global.in.ai.privatelink.monitor.azure.com
 global.ymtrack.com
 globalcommunications.sc.com
 globalcustomcommerceinc.demdex.net
