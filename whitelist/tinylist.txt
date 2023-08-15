@@ -12,6 +12,7 @@ stat2.moneycontrol.com
 stat3.moneycontrol.com
 stat1.moneycontrol.com
 jssocdn.indiatimes.com
+webresource.english.c-ctrip.com
 stats.espncricinfo.com
 collect.media.jio.com
 www.gravatar.com
