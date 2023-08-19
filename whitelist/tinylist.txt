@@ -5,6 +5,8 @@ www.coinmarketcap.com
 hc1.checker.in
 encrypted-tbn1.gstatic.com
 lnkd.in
+jsak.mmtcdn.com
+imgak.mmtcdn.com
 skyscanner.pxf.io
 internal-api.snapkit.com
 cdn.ipinfo.io
