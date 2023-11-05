@@ -54,6 +54,7 @@ alt6-mtalk.google.com
 alt7-mtalk.google.com
 alt8-mtalk.google.com
 mtalk4.google.com
+clicks.monzo.com
 static.opensubtitles.org
 epl-paypal-communication.com
 epl.paypal-communication.com
