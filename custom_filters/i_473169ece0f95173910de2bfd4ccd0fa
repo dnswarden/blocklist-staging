@@ -5,8 +5,6 @@ adx-dre.op.dbankcloud.com
 adx-dre.op.dbankcloud.com.edgekey.net
 adx-dre.op.hicloud.com
 adx-drru.op.dbankcloud.com
-atlas-emui-drcn.hicloud.com
-configserver-dra.platform.hicloud.com
 data.hicloud.com
 datacollector-dra.dt.dbankcloud.cn
 datacollector-dra.dt.hicloud.com
@@ -25,15 +23,12 @@ events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn
 events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
 events-dre.op.dbankcloud.com
 events-dre.op.hicloud.com
-feedback-dre.platform.hicloud.com
-geo.hicloud.com
 grs.dbankcloud.asia
 grs.dbankcloud.cn
 grs.dbankcloud.com
 grs.dbankcloud.eu
 grs.hicloud.com
 grs.platform.dbankcloud.ru
-healthdata.hicloud.com
 hisearch-dra.dt.dbankcloud.com
 logbak.hicloud.com
 logservice-dra.platform.hicloud.com
@@ -55,8 +50,4 @@ metrics1.data.dbankcloud.cn
 metrics5.dt.dbankcloud.ru
 metrics6.dt.hicloud.com
 openlocation-drcn.platform.dbankcloud.com
-opsdata.hicloud.com
-osscach2023.hicloud.tw
-sdkserver-dra.op.hicloud.com
-servicesupport.hicloud.com
 ubacollect-drcn.cloud.dbankcloud.cn
