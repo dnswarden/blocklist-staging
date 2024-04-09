@@ -1,4 +1,5 @@
 activity.windows.com
+api.edgeoffer.microsoft.com
 auc-visio-telemetry.officeapps.live.com
 brc-visio-telemetry.officeapps.live.com
 cac-visio-telemetry.officeapps.live.com
@@ -26,6 +27,7 @@ excel-telemetry.officeapps.live.com
 ffc-word-telemetry.officeapps.live.com
 frc-visio-telemetry.officeapps.live.com
 hubblecontent.osi.office.net
+in.appcenter.ms
 inc-visio-telemetry.officeapps.live.com
 legacywatson.trafficmanager.net
 measure.office.com
@@ -35,6 +37,7 @@ nexusrules.live.com
 nexusrules.officeapps.live.com
 noc-visio-telemetry.officeapps.live.com
 o365diagtelemetry.trafficmanager.net
+oca.microsoft.com
 office-events-data.trafficmanager.net
 pgteu1-excel-telemetry-vip.officeapps.live.com
 pgteu1-powerpoint-telemetry-vip.officeapps.live.com
@@ -76,6 +79,7 @@ sgtus1-excel-telemetry-vip.officeapps.live.com
 sgtus1-powerpoint-telemetry-vip.officeapps.live.com
 sgtus1-word-telemetry-vip.officeapps.live.com
 teams-events-data.trafficmanager.net
+telecommandsvc.microsoft.com
 telemetry.microsoft.com
 telemetry.urs.microsoft.com
 tgtus1-excel-telemetry-vip.officeapps.live.com
