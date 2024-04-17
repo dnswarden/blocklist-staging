@@ -414,6 +414,7 @@ ads.par.vip.prod.criteo.com
 ads.sg1.vip.prod.criteo.com
 ads.spacenine.biz
 ads.us.criteo.com
+ads.us5.vip.prod.criteo.com
 ads.va1.vip.prod.criteo.com
 adt.com.102.112.2o7.net
 adtd.douglas.de
@@ -720,6 +721,7 @@ b.publicmobile.ca
 b.sg1.vip.prod.criteo.com
 b.snow.com
 b.telus.com
+b.us5.vip.prod.criteo.com
 b.va1.vip.prod.criteo.com
 b2b.angieslist.com
 b2b.automotive-mediaventions.nl
@@ -797,6 +799,7 @@ bidder.jp2.vip.prod.criteo.com
 bidder.nl3.vip.prod.criteo.com
 bidder.par.vip.prod.criteo.com
 bidder.sg1.vip.prod.criteo.com
+bidder.us5.vip.prod.criteo.com
 bidder.va1.vip.prod.criteo.com
 big.srax.com
 bigfishgamesinc.tt.omtrdc.net
@@ -937,6 +940,7 @@ cas.nl3.vip.prod.criteo.com
 cas.par.vip.prod.criteo.com
 cas.sg1.vip.prod.criteo.com
 cas.us.criteo.com
+cas.us5.vip.prod.criteo.com
 cas.va1.vip.prod.criteo.com
 casaneo.postaffiliatepro.com
 caseking01.wt-eu02.net
@@ -953,6 +957,7 @@ cat.nl.eu.criteo.com
 cat.nl3.vip.prod.criteo.com
 cat.par.vip.prod.criteo.com
 cat.sg1.vip.prod.criteo.com
+cat.us5.vip.prod.criteo.com
 cat.va.us.criteo.com
 cat.va1.vip.prod.criteo.com
 cati.mcad.com
@@ -971,6 +976,7 @@ cbsd.eu.criteo.com
 cbsd.fr3.vip.prod.criteo.com
 cbsd.nl3.vip.prod.criteo.com
 cbsd.par.vip.prod.criteo.com
+cbsd.us5.vip.prod.criteo.com
 cbsd.va1.vip.prod.criteo.com
 cbsdigitalmedia.hb.omtrdc.net
 cbsinteractive.hb.omtrdc.net
@@ -1722,6 +1728,7 @@ dynamic.jp2.vip.prod.criteo.com
 dynamic.nl3.vip.prod.criteo.com
 dynamic.par.vip.prod.criteo.com
 dynamic.sg1.vip.prod.criteo.com
+dynamic.us5.vip.prod.criteo.com
 dynamic.va1.vip.prod.criteo.com
 e.crf.org
 e.degdigital.com
@@ -2382,6 +2389,7 @@ extranets.jp2.vip.prod.criteo.com
 extranets.nl3.vip.prod.criteo.com
 extranets.par.vip.prod.criteo.com
 extranets.sg1.vip.prod.criteo.com
+extranets.us5.vip.prod.criteo.com
 extranets.va1.vip.prod.criteo.com
 eyefinity.actonsoftware.com
 f1.mailperf.com
@@ -2707,6 +2715,7 @@ gbc0.jp2.as.criteo.com
 gbc0.nl.eu.criteo.com
 gbc0.nl3.eu.criteo.com
 gbc0.sg1.as.criteo.com
+gbc0.us5.us.criteo.com
 gbc0.va.us.criteo.com
 gbc1.da.us.criteo.com
 gbc1.fr.eu.criteo.com
@@ -2715,6 +2724,7 @@ gbc1.jp2.as.criteo.com
 gbc1.nl.eu.criteo.com
 gbc1.nl3.eu.criteo.com
 gbc1.sg1.as.criteo.com
+gbc1.us5.us.criteo.com
 gbc1.va.us.criteo.com
 gbc2.da.us.criteo.com
 gbc2.fr.eu.criteo.com
@@ -2739,6 +2749,7 @@ gbc4.jp2.as.criteo.com
 gbc4.nl.eu.criteo.com
 gbc4.nl3.eu.criteo.com
 gbc4.sg1.as.criteo.com
+gbc4.us5.us.criteo.com
 gbc4.va.us.criteo.com
 gbc5.da.us.criteo.com
 gbc5.fr.eu.criteo.com
@@ -2747,6 +2758,7 @@ gbc5.jp2.as.criteo.com
 gbc5.nl.eu.criteo.com
 gbc5.nl3.eu.criteo.com
 gbc5.sg1.as.criteo.com
+gbc5.us5.us.criteo.com
 gbc5.va.us.criteo.com
 gbc6.da.us.criteo.com
 gbc6.fr.eu.criteo.com
@@ -2755,6 +2767,7 @@ gbc6.jp2.as.criteo.com
 gbc6.nl.eu.criteo.com
 gbc6.nl3.eu.criteo.com
 gbc6.sg1.as.criteo.com
+gbc6.us5.us.criteo.com
 gbc6.va.us.criteo.com
 gbc7.da.us.criteo.com
 gbc7.fr.eu.criteo.com
@@ -2763,6 +2776,7 @@ gbc7.jp2.as.criteo.com
 gbc7.nl.eu.criteo.com
 gbc7.nl3.eu.criteo.com
 gbc7.sg1.as.criteo.com
+gbc7.us5.us.criteo.com
 gbc7.va.us.criteo.com
 gbc8.da.us.criteo.com
 gbc8.fr.eu.criteo.com
@@ -3963,6 +3977,7 @@ gum.jp2.vip.prod.criteo.com
 gum.nl3.vip.prod.criteo.com
 gum.par.vip.prod.criteo.com
 gum.sg1.vip.prod.criteo.com
+gum.us5.vip.prod.criteo.com
 gum.va1.vip.prod.criteo.com
 gundersenhealth.hrm.healthgrades.com
 guq9.vente-unique.it
@@ -7192,6 +7207,7 @@ mug.jp2.vip.prod.criteo.com
 mug.nl3.vip.prod.criteo.com
 mug.par.vip.prod.criteo.com
 mug.sg1.vip.prod.criteo.com
+mug.us5.vip.prod.criteo.com
 mug.va1.vip.prod.criteo.com
 mutualofomahaemail.com
 mva1.maeva.com
@@ -13500,6 +13516,7 @@ static.jp2.vip.prod.criteo.net
 static.nl3.vip.prod.criteo.net
 static.par.vip.prod.criteo.net
 static.sg1.vip.prod.criteo.net
+static.us5.vip.prod.criteo.net
 static.va1.vip.prod.criteo.net
 stats.radio-canada.ca
 stefanpiaskowski01.webtrekk.net
@@ -13837,6 +13854,7 @@ widget.nl3.vip.prod.criteo.com
 widget.par.vip.prod.criteo.com
 widget.sg1.vip.prod.criteo.com
 widget.us.criteo.com
+widget.us5.vip.prod.criteo.com
 widget.va1.vip.prod.criteo.com
 wirtschaftskammer01.webtrekk.net
 wjji.villagroupresorts.com
