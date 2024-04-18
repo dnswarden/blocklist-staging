@@ -111,10 +111,10 @@
       "enabled": true
     },
     {
-      "name": "Annoyances (Fanboy & QuidsUp)",
+      "name": "Annoyances (Fanboy )",
       "category": "Ads, Adblock, Adultfilter",
-      "url": ["https://secure.fanboy.co.nz/fanboy-annoyance.txt", "https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list"],
-      "filterType": ["b-norm", "b-wild"],
+      "url": ["https://secure.fanboy.co.nz/fanboy-annoyance.txt"],
+      "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
       "value": 99,
@@ -180,6 +180,16 @@
       "value": 107,
       "enabled": true
     },
+    {
+      "name": "1Hosts (Pro)",
+      "category": "Ads, Privacy, Adblock, Adultfilter",
+      "url": ["https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.wildcards"],
+      "filterType": ["b-wild"],
+      "source": "",
+      "totalDomains": 0,
+      "value": 8,
+      "enabled": true
+    },    
     {
       "name": "oisd (small)",
       "category": "Ads, Privacy",
@@ -271,16 +281,6 @@
       "enabled": true
     },
     {
-      "name": "1Hosts (Pro)",
-      "category": "Ads, Privacy, Adblock, Adultfilter",
-      "url": ["https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.wildcards"],
-      "filterType": ["b-wild"],
-      "source": "",
-      "totalDomains": 0,
-      "value": 8,
-      "enabled": true
-    },
-    {
       "name": "HaGeZi (Multi Normal)",
       "category": "Ads, Privacy",
       "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/multi.txt"],
@@ -311,10 +311,10 @@
       "enabled": true
     },
     {
-      "name": "notracking",
+      "name": "Scam-Blocklist (Jarelllama)",
       "category": "Ads, Privacy",
-      "url": ["https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt"],
-      "filterType": ["b-norm"],
+      "url": ["https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt"],
+      "filterType": ["b-wild"],
       "source": "",
       "totalDomains": 0,
       "value": 11,
