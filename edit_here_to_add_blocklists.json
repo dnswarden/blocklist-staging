@@ -111,10 +111,10 @@
       "enabled": true
     },
     {
-      "name": "Annoyances (Fanboy & QuidsUp)",
+      "name": "Annoyances (Fanboy )",
       "category": "Ads, Adblock, Adultfilter",
-      "url": ["https://secure.fanboy.co.nz/fanboy-annoyance.txt", "https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list"],
-      "filterType": ["b-norm", "b-wild"],
+      "url": ["https://secure.fanboy.co.nz/fanboy-annoyance.txt"],
+      "filterType": ["b-norm"],
       "source": "",
       "totalDomains": 0,
       "value": 99,
