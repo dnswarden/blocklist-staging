@@ -312,7 +312,7 @@
     },
     {
       "name": "Scam-Blocklist (Jarelllama)",
-      "category": "Ads, Privacy",
+      "category": "Phishing, Scam",
       "url": ["https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt"],
       "filterType": ["b-wild"],
       "source": "",
