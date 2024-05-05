@@ -1,6 +1,7 @@
 activity.windows.com
 api.edgeoffer.microsoft.com
 auc-visio-telemetry.officeapps.live.com
+azurewatson.microsoft.com
 brc-visio-telemetry.officeapps.live.com
 cac-visio-telemetry.officeapps.live.com
 ceuswatcab01.blob.core.windows.net
@@ -24,6 +25,7 @@ events.data.msn.cn
 events.data.msn.com
 events.data.trafficmanager.net
 excel-telemetry.officeapps.live.com
+ffc-excel-telemetry.officeapps.live.com
 ffc-word-telemetry.officeapps.live.com
 frc-visio-telemetry.officeapps.live.com
 hubblecontent.osi.office.net
