@@ -6,6 +6,8 @@ brc-visio-telemetry.officeapps.live.com
 cac-visio-telemetry.officeapps.live.com
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
+collector.azure.eaglex.ic.gov
+collector.azure.microsoft.scloud
 dec-visio-telemetry.officeapps.live.com
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
@@ -28,10 +30,15 @@ excel-telemetry.officeapps.live.com
 ffc-excel-telemetry.officeapps.live.com
 ffc-word-telemetry.officeapps.live.com
 frc-visio-telemetry.officeapps.live.com
+gateway.bingviz.microsoftapp.net
 hubblecontent.osi.office.net
 in.appcenter.ms
 inc-visio-telemetry.officeapps.live.com
+js.monitor.azure.com
 legacywatson.trafficmanager.net
+location-microsoft-com.b-0005.b-msedge.net
+location.live.net
+location.microsoft.com
 measure.office.com
 measure.office.net
 nexus.officeapps.live.com
