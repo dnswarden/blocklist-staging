@@ -37,6 +37,8 @@ find-ip-address.org
 client.cdn77.com
 www.cdn77.com
 cdn77.com
+www.excelcare.in
+excelcare.in
 content.incapsula.com
 lp.incapsula.com
 my.incapsula.com
