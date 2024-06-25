@@ -1,5 +1,7 @@
 activity.windows.com
 api.edgeoffer.microsoft.com
+applicationinsights.azure.com
+applicationinsights.microsoft.com
 auc-visio-telemetry.officeapps.live.com
 azurewatson.microsoft.com
 brc-visio-telemetry.officeapps.live.com
@@ -9,6 +11,7 @@ ceuswatcab02.blob.core.windows.net
 collector.azure.cn
 collector.azure.eaglex.ic.gov
 collector.azure.microsoft.scloud
+dc.services.visualstudio.com
 dec-visio-telemetry.officeapps.live.com
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
