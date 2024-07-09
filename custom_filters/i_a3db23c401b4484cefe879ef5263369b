@@ -24,8 +24,6 @@ business-api.tiktok.com
 eurekaanalytics-attribution.012gh.developer-sg.tiktok.com
 extlog.snssdk.com
 frontier.byteoversea.com
-gecko-hl.snssdk.com
-gecko-lq.snssdk.com
 gplog-sg.byteoversea.com
 gplog-va-useast2a.byteoversea.com
 gplog-va.byteoversea.com
@@ -212,7 +210,6 @@ tbm.snssdk.com
 temai.snssdk.com
 tobapplog.snssdk.com
 toblog.snssdk.com
-toutiao-frontier.snssdk.com
 tsearch.snssdk.com
 ug-sg.byteoversea.com
 ug.snssdk.com
