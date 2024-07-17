@@ -20,6 +20,7 @@ adsdkprprod.ec.azureedge.net
 adsdktelemetry-prod.servicebus.windows.net
 adserver.bing.com
 adsinapps.microsoft.com
+adsstatic-int.microsoft.com
 adsstatic.microsoft.com
 adstore.response.eastus.trafficmanager.net
 adsyndication.msn.com
@@ -64,6 +65,8 @@ bingads.trafficmanager.net
 bingadseditor.microsoft.com
 bingadsresources.trafficmanager.net
 brc-visio-telemetry.officeapps.live.com
+btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
+btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 c.ar.msn.com
 c.at.msn.com
 c.be.msn.com
@@ -312,6 +315,7 @@ udc.msn.com
 uhf.microsoft.com
 ukc-onenote-telemetry.officeapps.live.com
 ukc-visio-telemetry.officeapps.live.com
+us-mesh-events-data-leafs.trafficmanager.net
 usc-onenote-telemetry.officeapps.live.com
 usc-visio-telemetry.officeapps.live.com
 utm.sankei.jp.msn.com
