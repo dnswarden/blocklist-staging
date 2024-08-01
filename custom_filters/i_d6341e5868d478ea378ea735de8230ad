@@ -19,7 +19,6 @@ adsdkprprod.azureedge.net
 adsdkprprod.ec.azureedge.net
 adsdktelemetry-prod.servicebus.windows.net
 adserver.bing.com
-adsinapps.microsoft.com
 adsstatic-int.microsoft.com
 adsstatic.microsoft.com
 adstore.response.eastus.trafficmanager.net
@@ -191,6 +190,7 @@ ir-tracking.trafficmanager.net
 irreverselookuptm.trafficmanager.net
 ism-telemetry.trafficmanager.net
 jetanalytics.servicebus.windows.net
+jpc-visio-telemetry.officeapps.live.com
 js.monitor.azure.com
 js.monitor.azure.com.com
 legacywatson.trafficmanager.net
@@ -246,7 +246,6 @@ pgtus6-excel-telemetry-vip.officeapps.live.com
 pgtus6-powerpoint-telemetry-vip.officeapps.live.com
 pgtus6-word-telemetry-vip.officeapps.live.com
 pipe.aria.microsoft.com
-pixel-sync.trafficmanager.net
 popup.msn.com
 powerpoint-telemetry.officeapps.live.com
 powerpoint-telemetry.wac.trafficmanager.net
