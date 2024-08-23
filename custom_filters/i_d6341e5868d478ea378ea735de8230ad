@@ -108,6 +108,7 @@ cache.datamart.windows.com
 cas-telemetry.trafficmanager.net
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
+chem4wordtelemetry.servicebus.windows.net
 citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticseh.servicebus.windows.net
 citrixanalyticseh2-alias.servicebus.windows.net
@@ -245,6 +246,7 @@ pgtus6-excel-telemetry-vip.officeapps.live.com
 pgtus6-powerpoint-telemetry-vip.officeapps.live.com
 pgtus6-word-telemetry-vip.officeapps.live.com
 pipe.aria.microsoft.com
+pixel-sync.trafficmanager.net
 popup.msn.com
 powerpoint-telemetry.officeapps.live.com
 powerpoint-telemetry.wac.trafficmanager.net
