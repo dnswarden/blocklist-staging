@@ -13,6 +13,7 @@ adx-dre.op.dbankcloud.com
 adx-dre.op.dbankcloud.com.edgekey.net
 adx-dre.op.hicloud.com
 adx-drru.op.dbankcloud.com
+browsercfg-drcn.cloud.dbankcloud.cn
 data.hicloud.com
 datacollector-dra.dt.dbankcloud.cn
 datacollector-dra.dt.hicloud.com
@@ -36,6 +37,8 @@ events-dra-op-hicloud-com-dra.appacc-region.dbankedge.cn
 events-dra-op-hicloud-com-dra.appacc.dbankedge.cn
 events-dra-op-hicloud-com-dra.edge.dbankedge.cn
 events-dra.op.hicloud.com
+events-drcn.op.dbankcloud.cn
+events-drcn.op.dbankcloud.com
 events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn
 events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn
 events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
@@ -84,5 +87,6 @@ metrics1-drcn.dt.dbankcloud.cn
 metrics1.data.dbankcloud.cn
 metrics5.dt.dbankcloud.ru
 metrics6.dt.hicloud.com
+openlocation-drcn-platform-dbankcloud-com-drcn.appacc.dbankedge.cn
 openlocation-drcn.platform.dbankcloud.com
 ubacollect-drcn.cloud.dbankcloud.cn
