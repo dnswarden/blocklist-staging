@@ -26,9 +26,6 @@ adsyndication.msn.com
 advertising.jp.msn.com
 advertising.microsoft.com
 agps-location-livenet.trafficmanager.net
-ams-euno-1-bus-analytics-1-1.servicebus.windows.net
-ams-usea-1-bus-analytics-1-1.servicebus.windows.net
-ams-usso-1-bus-analytics-1-1.servicebus.windows.net
 analytics-dev-lleap-events.servicebus.windows.net
 analytics-dev-simpad-events.servicebus.windows.net
 analytics-listener.trafficmanager.net
@@ -215,7 +212,12 @@ oca.microsoft.com
 office-events-data.trafficmanager.net
 oms-analytics.trafficmanager.net
 outlookads.live.com
+pgtbr1-excel-telemetry-vip.officeapps.live.com
 pgtbr1-powerpoint-telemetry-vip.officeapps.live.com
+pgtbr1-word-telemetry-vip.officeapps.live.com
+pgtca1-excel-telemetry-vip.officeapps.live.com
+pgtca1-powerpoint-telemetry-vip.officeapps.live.com
+pgtca1-word-telemetry-vip.officeapps.live.com
 pgteu1-excel-telemetry-vip.officeapps.live.com
 pgteu1-powerpoint-telemetry-vip.officeapps.live.com
 pgteu1-word-telemetry-vip.officeapps.live.com
@@ -227,7 +229,9 @@ pgteu3-powerpoint-telemetry-vip.officeapps.live.com
 pgteu3-word-telemetry-vip.officeapps.live.com
 pgteu4-excel-telemetry-vip.officeapps.live.com
 pgteu4-powerpoint-telemetry-vip.officeapps.live.com
+pgtmx1-excel-telemetry-vip.officeapps.live.com
 pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
+pgtmx1-word-telemetry-vip.officeapps.live.com
 pgtus1-excel-telemetry-vip.officeapps.live.com
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -286,7 +290,6 @@ sgtus1-powerpoint-telemetry-vip.officeapps.live.com
 sgtus1-word-telemetry-vip.officeapps.live.com
 spynet2.microsoft.com
 spynetalt.microsoft.com
-sre-metrics-thanos-prod.trafficmanager.net
 srtb.msn.com
 ss-telemetry.servicebus.windows.net
 ssp-prod-eastus-nonmutt.trafficmanager.net

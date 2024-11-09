@@ -222,6 +222,7 @@ alidns2.cb1999.top
 aliveproxies.com
 alleesph.online
 allunblocked.com
+alphabrowser.xyz
 aluu.xyz
 alwaysvpn.com
 amandahugnkiss.org
@@ -272,6 +273,11 @@ anycast.censurfridns.dk
 anyip.io
 api.bytelixir.com
 api.cloudflareclient.com
+apple-relay.akamaized.net
+apple-relay.apple.com
+apple-relay.cloudfare.com
+apple-relay.cloudflare.com
+apple-relay.fastly-edge.com
 appleproxy.com
 appshost.us
 aqua.is.my.waifu.cz
@@ -297,7 +303,6 @@ atomicstudios.info
 atris.cyou
 au-syd-w-f-1.nashkan.net
 au.rslvr.eu
-ausyd2.mask-t.apple-dns.net
 auto-aufladen.de
 avira-vpn.com
 avira-vpn.net
@@ -347,7 +352,6 @@ bettervpn.com
 bg.rslvr.eu
 bgvpn.com
 bi-tree.ru
-bigora2.vuhai.de
 biip.info
 binhexsolutions.co.uk
 bitping.com
@@ -495,7 +499,6 @@ crazysurfer.info
 createssh.com
 createssh.net
 criarssh.com
-crownproxy.com
 croxy.network
 croxy.org
 croxy.red
@@ -504,7 +507,6 @@ croxyproxy.com
 croxyproxy.com.in
 croxyproxy.net
 croxyproxy.rocks
-croxyproxy.us
 crushus.com
 crusty.motorcycles
 crypticvpn.com
@@ -585,8 +587,6 @@ de-fra-w-p-1.nashkan.net
 de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
 de.teradns.org
-deber3.mask-t.apple-dns.net
-dedus1.mask-t.apple-dns.net
 deep-henchman-excuse.cfd
 deepwebvpn.net
 defencevpn.com
@@ -668,6 +668,7 @@ dns.arkbotech.com
 dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
+dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -822,7 +823,6 @@ dns.hoody.com
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
-dns.huas.me
 dns.hugo0.moe
 dns.hujiayucc.cn
 dns.huseynov.work
@@ -994,7 +994,6 @@ dns.rin.sh
 dns.roedel.cloud
 dns.ronc.ru
 dns.rotunneling.net
-dns.rslvr.eu
 dns.rubyfish.cn
 dns.sarak.as
 dns.sarakas.net
@@ -1460,6 +1459,7 @@ fra-dns.bitdefender.net
 fra01.dnscry.pt
 fra1.eyecay.xyz
 frandcomfort.us
+free-kree-k.xyz
 free-proxy-list.net
 free-proxy.com
 free-proxy.com.de
@@ -1540,7 +1540,6 @@ gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
-gbslo5.mask-t.apple-dns.net
 gclouddns.com
 gecko.fun
 geckovpn.xyz
@@ -1608,7 +1607,6 @@ gracarno.com
 graef.in
 granules.us
 gratisproxy.nl
-gratisvpn.com
 gravity.sciencevictory.org
 greatestfreeproxy.com
 green2.jnraptor.net
@@ -1629,7 +1627,6 @@ gztech.me
 h-vpn.org
 h.gjrick.tw
 h0w.cc
-ha.o51r15.com
 han01.dnscry.pt
 hanniel.tech
 happy-vpn.com
@@ -1680,7 +1677,6 @@ hidethisip.net
 hidevpn.info
 hideway.eu
 hideweb.org
-hidexy.com
 hidingit.com
 hidingyour.info
 hiload.in
@@ -1693,7 +1689,6 @@ hk2.ooroot.com
 hkg01.dnscry.pt
 hkg02.dnscry.pt
 hkname.freecdn.one
-hktko1.mask-t.apple-dns.net
 hmavpn.com
 hola-vpn.com
 hola.org
@@ -1720,7 +1715,6 @@ hotac.ir
 hotbot.com
 hotbotvpn.com
 hotfreevpn.com
-hothide.com
 hotspotshield.com
 hotspotvpn.com
 howdy.id
@@ -1749,7 +1743,6 @@ idcloak.com
 idealvpn.com
 idolproxy.com
 idvanish.com
-iedub2.mask-t.apple-dns.net
 ifyoublockthisurgay-ggnewo.vercel.app
 ihctw.synology.me
 iij.jp
@@ -1825,14 +1818,12 @@ jkt01.dnscry.pt
 jnb01.dnscry.pt
 jp-dns1.bancuh.com
 jp-tyo-w-p-1.nashkan.net
-jp.68360612.xyz
 jp.rslvr.eu
 jp.tiar.app
 jp.tiarap.org
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jptyo12.mask-t.apple-dns.net
 jsmapper.com
 judua3rtinpst0s.xyz
 juproxy.com
@@ -1979,6 +1970,9 @@ mitmproxy.org
 mnrv.trade
 mobilejump.mobi
 mobilevpn.net
+mochiss.xyz
+mochiss2.xyz
+mochiss3.xyz
 mockblock.com
 monoprivacy.io
 monthlyssh.net
@@ -2073,7 +2067,6 @@ nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
 nl.dns.privex.io
 nl.rslvr.eu
-nlhfd1.mask-t.apple-dns.net
 nntime.com
 noads.imbuffering.com
 nocensor.work
@@ -2260,6 +2253,7 @@ pihole3.hoerli.net
 pihole4.hoerli.net
 pingproxy.com
 piraproxy.org
+pirataproxy.com
 piratebayproxy.co
 pixelprivacy.com
 pixolium.com
@@ -2270,7 +2264,6 @@ placenetworks.com
 plainproxies.com
 play5r.com
 playproxy.com
-please.dontsteal.my.id
 pluton.plan9-dns.com
 pm1239-bd.xyz
 pm7051-br.xyz
@@ -2314,7 +2307,6 @@ privatewifi.com
 privatnas.servebeer.com
 privoxy.org
 pro.shecan.ir
-prointern.info
 project-evoex.de
 prontoproxy.info
 propage.info
@@ -2397,6 +2389,7 @@ proxy.vpner.com
 proxy.wynd.network
 proxy.yt
 proxy2014.net
+proxy2link.com
 proxy2you.com
 proxy4down.com
 proxy4free.me
@@ -2568,6 +2561,7 @@ roodel.com
 roogen.com
 roonyx.com
 roundrockisd.online
+roxy2link.com
 rpz-public-resolver1.rrdns.pch.net
 rsocks.net
 rumpelsepp.org
@@ -2634,7 +2628,6 @@ seeproxy.me
 selfadserver.com
 serverhoya.com
 serverssh.net
-sesto4.mask-t.apple-dns.net
 setupvpn.com
 sf-helper.com
 sg-dns1.bancuh.com
@@ -2645,7 +2638,6 @@ sg.teradns.org
 sg1.dnswarden.com
 sg2.ooroot.com
 sgn01.dnscry.pt
-sgsin8.mask-t.apple-dns.net
 shadeyouvpn.com
 shadowsocks.org
 shadowsurf.com
@@ -2947,7 +2939,6 @@ tpa01.dnscry.pt
 tpe01.dnscry.pt
 tradeadspace.info
 traffmonetizer.com
-travelvpn.info
 travelvpn.net
 trf01.dnscry.pt
 trialproxy.com
@@ -2976,7 +2967,6 @@ tuvpn.com
 tuxlervpn.com
 tvone.info
 tw2.ooroot.com
-twntc1.mask-t.apple-dns.net
 twoproxy.net
 tx.teradns.org
 tyo01.dnscry.pt
@@ -3016,7 +3006,6 @@ unblock-proxy.com
 unblock-proxy.com.de
 unblock-sites.com
 unblock-us.com
-unblock-video.com
 unblock-websites.com
 unblock.it
 unblock.pink
@@ -3202,19 +3191,11 @@ us1.dns.lavate.ch
 usa-proxy.org
 usafastproxy.info
 usaip.eu
-usatl5.mask-t.apple-dns.net
 usawebproxy.com
 usawebproxy.net
-usbos2.mask-t.apple-dns.net
-uschi7.mask-t.apple-dns.net
-usdal2.mask-t.apple-dns.net
-usden6.mask-t.apple-dns.net
 userload.co
 userproxy.com
 uskt.info
-uslax2.mask-t.apple-dns.net
-usmia1.mask-t.apple-dns.net
-usuyk1.mask-t.apple-dns.net
 usvpn.cf
 uswebproxy.com
 uswebproxy.net
@@ -3234,7 +3215,6 @@ viatun.com
 videocollage.us
 videoproxy.site
 videounblock.com
-videounblocked.com
 videounblocker.net
 vidproxy.com
 vie01.dnscry.pt
@@ -3417,6 +3397,7 @@ websiteproxy.net
 websurf.in
 websurfproxy.me
 websynchrony.com
+webtester.cc
 webtunnel.org
 webxify.com
 webypass.info
