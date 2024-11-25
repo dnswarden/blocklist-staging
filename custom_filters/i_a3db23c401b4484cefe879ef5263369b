@@ -1,7 +1,9 @@
 abtest-ch.snssdk.com
 ads-api.tiktok.com
 ads-frontier.tiktok.com
+ads-ie.tiktokw.eu
 ads-sg.tiktok.com
+ads-ttp2.tiktokw.eu
 ads.tiktok.com
 ads.us.tiktok.com
 analytics-attribution-va.tiktok.com
@@ -11,8 +13,10 @@ analytics-exp-i18n.tiktok.com
 analytics-exp-sg.tiktok.com
 analytics-exp.us.tiktok.com
 analytics-i18n.tiktok.com
+analytics-ie.tiktokw.eu
 analytics-sg.tiktok.com
 analytics-test.tiktok.com
+analytics-ttp2.tiktokw.eu
 analytics-ttp2.us.tiktok.com
 analytics-useast2a.tiktok.com
 analytics-v6.tiktok.com
@@ -33,6 +37,7 @@ gpm-mon-va-useast1a.byteoversea.com
 gpm-mon-va-useast2a.byteoversea.com
 gpm-mon-va.byteoversea.com
 haohuo.snssdk.com
+lemon8-api.tiktokv.com
 location-i18n.tiktokv.com
 location-sg.tiktokv.com
 location-ttp2.us.tiktokv.com
@@ -109,6 +114,8 @@ logtrace.snssdk.com
 maliva-mcs-useast2a.byteoversea.com
 maliva-mcs.byteoversea.com
 mcs-i18n.tiktok.com
+mcs-ie.tiktokw.eu
+mcs-ie2.tiktokw.eu
 mcs-sg.tiktok.com
 mcs-ttp2.us.tiktok.com
 mcs-va-useast2a.tiktokv.com
