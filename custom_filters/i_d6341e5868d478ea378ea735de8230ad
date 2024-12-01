@@ -104,6 +104,7 @@ cache.datamart.windows.com
 cas-telemetry.trafficmanager.net
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
+chc-visio-telemetry.officeapps.live.com
 chem4wordtelemetry.servicebus.windows.net
 citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticseh.servicebus.windows.net
@@ -336,6 +337,7 @@ wayfinderanalytics.servicebus.windows.net
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 win-global-asimov-leafs-events-data.trafficmanager.net
+win10-trt.msedge.net
 word-telemetry.officeapps.live.com
 word-telemetry.wac.trafficmanager.net
 zmetrics.msn.com

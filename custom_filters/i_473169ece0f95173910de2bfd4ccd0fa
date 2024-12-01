@@ -70,6 +70,7 @@ logservice-dre.platform.dbankcloud.cn
 logservice-dre.platform.hicloud.com
 logservice-drru.dt.hicloud.com
 logservice.hicloud.com
+logservice1.dbankcloud.com
 logservice1.hicloud.com
 logtransform.hicloud.com
 metrics-dra.dt.dbankcloud.cn
@@ -90,3 +91,4 @@ metrics6.dt.hicloud.com
 openlocation-drcn-platform-dbankcloud-com-drcn.appacc.dbankedge.cn
 openlocation-drcn.platform.dbankcloud.com
 ubacollect-drcn.cloud.dbankcloud.cn
+ubacollect-drcn.cloud.dbankcloud.co
