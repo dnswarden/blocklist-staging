@@ -2,7 +2,6 @@ a4.bing.com
 activity.windows.com
 ad.msn.com
 adevents.msn.com
-ads-int.microsoft.com
 ads.bing.com
 ads.eu.msn.com
 ads.jp.msn.com
@@ -10,17 +9,13 @@ ads.microsoft.com
 ads.msn.com
 ads1.msn.com
 ads2.msn.com
-adsdisplay.glbdns2.microsoft.com
 adsdk.microsoft.com
 adsdk.trafficmanager.net
 adsdkprod.afd.azureedge.net
 adsdkprod.azureedge.net
 adsdkprprod.azureedge.net
 adsdkprprod.ec.azureedge.net
-adsdktelemetry-prod.servicebus.windows.net
 adserver.bing.com
-adsstatic-int.microsoft.com
-adsstatic.microsoft.com
 adstore.response.eastus.trafficmanager.net
 adsyndication.msn.com
 advertising.jp.msn.com
@@ -35,7 +30,6 @@ analytics.msnbc.msn.com
 analytics.pstnhub.microsoft.com
 analytics.trafficmanager.net
 analyticsehnwe.servicebus.windows.net
-analyticsiot-prod-simpad-ehn.servicebus.windows.net
 analyticspixel.microsoft.com
 api.edgeoffer.microsoft.com
 applicationinsights.azure.com
@@ -43,10 +37,7 @@ applicationinsights.microsoft.com
 arc.msn.com
 atm-settingsfe-prod-geo2.trafficmanager.net
 auc-visio-telemetry.officeapps.live.com
-azsc-bingads-centralus.centralus.cloudapp.azure.com
 azsc-bingads-westus.westus.cloudapp.azure.com
-azsc-edge-bingads-southeastasia.southeastasia.cloudapp.azure.com
-azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 azurewatson.microsoft.com
 azurewatsontest.microsoft.com
 bat.bing.com
@@ -54,11 +45,8 @@ beacons.trafficmanager.net
 beacons.xboxlive.com
 bf-analytics-tracker-tm.trafficmanager.net
 bf-tracker-release-tm.trafficmanager.net
-bingads.glbdns2.microsoft.com
 bingads.microsoft.com
 bingads.trafficmanager.net
-bingadseditor.microsoft.com
-bingadsresources.trafficmanager.net
 brc-visio-telemetry.officeapps.live.com
 btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
@@ -105,8 +93,6 @@ cache.datamart.windows.com
 cas-telemetry.trafficmanager.net
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
-chc-visio-telemetry.officeapps.live.com
-chem4wordtelemetry.servicebus.windows.net
 citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticseh.servicebus.windows.net
 citrixanalyticseh2-alias.servicebus.windows.net
@@ -120,7 +106,6 @@ citrixtelemetryeh.servicebus.windows.net
 citrixtelemetryeheu-alias.servicebus.windows.net
 citrixtelemetryeheu.servicebus.windows.net
 clarity.microsoft.com
-collection-location-livenet.trafficmanager.net
 collector-main.trafficmanager.net
 collector.azure.cn
 collector.azure.eaglex.ic.gov
@@ -171,6 +156,7 @@ h.msn.com
 h1.msn.com
 h2.msn.com
 h6.msn.com
+help.ads-int.microsoft.com
 hk-tracker.trafficmanager.net
 hme-live-loganalytics-namespace.servicebus.windows.net
 hubblecontent.osi.office.net
@@ -187,12 +173,9 @@ inference-location-livenet.trafficmanager.net
 ir-tracking.trafficmanager.net
 irreverselookuptm.trafficmanager.net
 ism-telemetry.trafficmanager.net
-jetanalytics.servicebus.windows.net
-jpc-visio-telemetry.officeapps.live.com
 js.monitor.azure.com
 js.monitor.azure.com.com
 legacywatson.trafficmanager.net
-live.applicationinsights.azure.cn
 location-microsoft-com.b-0005.b-msedge.net
 location.live.net
 location.microsoft.com
@@ -329,7 +312,6 @@ tracker.flightview.com.trafficmanager.net
 udc.msn.com
 ukc-onenote-telemetry.officeapps.live.com
 ukc-visio-telemetry.officeapps.live.com
-us-mesh-events-data-leafs.trafficmanager.net
 usc-onenote-telemetry.officeapps.live.com
 usc-visio-telemetry.officeapps.live.com
 utm.sankei.jp.msn.com
