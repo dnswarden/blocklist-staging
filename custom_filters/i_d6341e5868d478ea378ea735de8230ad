@@ -1,4 +1,6 @@
 a4.bing.com
+ac2.msn.com
+ac3.msn.com
 activity.windows.com
 ad.msn.com
 adevents.msn.com
@@ -11,9 +13,10 @@ ads1.msn.com
 ads2.msn.com
 adsdk.microsoft.com
 adsdk.trafficmanager.net
+adsdkpreprod.afd.azureedge.net
+adsdkpreprod.azureedge.net
 adsdkprod.afd.azureedge.net
 adsdkprod.azureedge.net
-adsdkprprod.azureedge.net
 adserver.bing.com
 adstore.response.eastus.trafficmanager.net
 adstore.response.gcp.eastus.trafficmanager.net
@@ -35,11 +38,15 @@ analyticspixel.microsoft.com
 api.edgeoffer.microsoft.com
 applicationinsights.azure.com
 applicationinsights.microsoft.com
+arc-emea.msn.com
 arc.msn.com
+arc1.msn.com
+arc2.msn.com
+arc3.msn.com
+arc9.msn.com
 atm-settingsfe-prod-geo2.trafficmanager.net
 auc-visio-telemetry.officeapps.live.com
 azsc-bingads-westus.westus.cloudapp.azure.com
-azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 azurewatson.microsoft.com
 azurewatsontest.microsoft.com
 bat.bing.com
@@ -107,6 +114,7 @@ citrixtelemetryeh-alias.servicebus.windows.net
 citrixtelemetryeh.servicebus.windows.net
 citrixtelemetryeheu-alias.servicebus.windows.net
 citrixtelemetryeheu.servicebus.windows.net
+cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 clarity.microsoft.com
 collector-main.trafficmanager.net
 collector.azure.cn
@@ -118,6 +126,7 @@ dc.applicationinsights.azure.cn
 dc.applicationinsights.azure.us
 dc.services.visualstudio.com
 dec-visio-telemetry.officeapps.live.com
+diagnostics.office.com
 dsp-ad-cache-tm.trafficmanager.net
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
@@ -172,6 +181,7 @@ inference-app-gateway.eastus2.cloudapp.azure.com
 inference-app-gateway.koreacentral.cloudapp.azure.com
 inference-app-gateway.northeurope.cloudapp.azure.com
 inference-location-livenet.trafficmanager.net
+insights.cloud.microsoft
 ir-tracking.trafficmanager.net
 irreverselookuptm.trafficmanager.net
 ism-telemetry.trafficmanager.net
@@ -227,7 +237,6 @@ pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
 pgtmx1-word-telemetry-vip.officeapps.live.com
 pgtsg1-excel-telemetry-vip.officeapps.live.com
 pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
-pgtsg1-word-telemetry-vip.officeapps.live.com
 pgtus1-excel-telemetry-vip.officeapps.live.com
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -306,6 +315,7 @@ telemetry-lcp.trafficmanager.net
 telemetry.eastus.trafficmanager.net
 telemetry.microsoft.com
 telemetry.urs.microsoft.com
+telemetry.visualstudio.microsoft.com
 telemetrycollector.microsoft.com
 tenmax-ads.trafficmanager.net
 tgtus1-excel-telemetry-vip.officeapps.live.com
