@@ -13,11 +13,11 @@ ads1.msn.com
 ads2.msn.com
 adsdk.microsoft.com
 adsdk.trafficmanager.net
-adsdkpreprod.afd.azureedge.net
 adsdkpreprod.azureedge.net
 adsdkprod.afd.azureedge.net
 adsdkprod.azureedge.net
 adserver.bing.com
+adsstatic.microsoft.com
 adstore.response.eastus.trafficmanager.net
 adstore.response.gcp.eastus.trafficmanager.net
 adsyndication.msn.com
@@ -99,7 +99,6 @@ c.za.msn.com
 c1.microsoft.com
 cac-visio-telemetry.officeapps.live.com
 cache.datamart.windows.com
-cas-telemetry.trafficmanager.net
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
 citrixanalyticseh-alias.servicebus.windows.net
