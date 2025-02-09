@@ -13,11 +13,11 @@ ads1.msn.com
 ads2.msn.com
 adsdk.microsoft.com
 adsdk.trafficmanager.net
+adsdkpreprod.afd.azureedge.net
 adsdkpreprod.azureedge.net
 adsdkprod.afd.azureedge.net
 adsdkprod.azureedge.net
 adserver.bing.com
-adsstatic.microsoft.com
 adstore.response.eastus.trafficmanager.net
 adstore.response.gcp.eastus.trafficmanager.net
 adsyndication.msn.com
@@ -197,6 +197,7 @@ location-microsoft-com.b-0005.b-msedge.net
 location.live.net
 location.microsoft.com
 measure.office.com
+measure.office.com.akamaized.net
 measure.office.net
 measure.office.net.edgesuite.net
 metric.appex-rf.msn.com

@@ -10,7 +10,7 @@ ad.tiktokv.us
 ads-api.tiktok.com
 ads-frontier.tiktok.com
 ads-ie.tiktokw.eu
-ads-service.tiktok.com
+ads-imapi.tiktok.com
 ads-sg.tiktok.com
 ads-ttp2.tiktokw.eu
 ads-ttp2.us.tiktok.com
@@ -135,12 +135,15 @@ maliva-mcs.byteoversea.com
 mcs-i18n.tiktok.com
 mcs-ie.tiktokw.eu
 mcs-ie2.tiktokw.eu
+mcs-tiktok.byteoversea.net
 mcs-ttp2.tiktokv.us
 mcs-ttp2.us.tiktok.com
 mcs-va-useast2a.tiktokv.com
 mcs-va.tiktok.com
 mcs-va.tiktokv.com
 mcs.snssdk.com
+mcs.tiktokv.us
+mcs.tiktokw.us
 mcs.us.tiktok.com
 mcs.us.tiktokv.com
 mercury-sdk.snssdk.com
@@ -157,6 +160,7 @@ mon-va.tiktokv.com
 mon.byteoversea.com
 mon.snssdk.com
 mon.tiktokv.com
+mon.tiktokv.eu
 mon.us.tiktokv.com
 monbk.tiktokv.com
 mssdk-bu.snssdk.com
@@ -174,6 +178,8 @@ mssdk-va-useast2a.byteoversea.com
 mssdk-va-useast2a.tiktokv.com
 mssdk-va.byteoversea.com
 mssdk.snssdk.com
+mssdk.tiktokw.eu
+mssdk.tiktokw.us
 mssdk.us.tiktok.com
 mssdk.us.tiktokv.com
 open.snssdk.com
@@ -205,11 +211,9 @@ rtlog16-applog-useast1a.tiktokv.com
 rtlog16-applog-useast2a.tiktokv.com
 rtlog16-applog-useast5.us.tiktokv.com
 rtlog16-normal-alisg.tiktokv.com
-rtlog16-normal-alisg.tiktokv.com.bytewlb.akadns.net
 rtlog16-normal-ind.tiktokv.com
 rtlog16-normal-no1a.tiktokv.eu
 rtlog16-normal-useast1a.tiktokv.com
-rtlog16-normal-useast1a.tiktokv.com.bytewlb.akadns.net
 rtlog16-normal-useast2a.tiktokv.com
 rtlog16-normal-useast5.tiktokv.us
 rtlog16-normal-useast8.tiktokv.us
@@ -245,6 +249,7 @@ rtlog58-normal-useast2a.tiktokv.com
 rtlog58-normal-ycru.tiktokv.com
 rtlog58-normal.tiktokv.com
 sdfp.snssdk.com
+sf16-telemetry-proxy-oci.tiktokcdn-us.com
 sgali-mcs.byteoversea.com
 sgaws-mcs.byteoversea.com
 sgee-log.byteoversea.com
