@@ -13,8 +13,6 @@ ads1.msn.com
 ads2.msn.com
 adsdk.microsoft.com
 adsdk.trafficmanager.net
-adsdkpreprod.afd.azureedge.net
-adsdkpreprod.azureedge.net
 adsdkprod.afd.azureedge.net
 adsdkprod.azureedge.net
 adserver.bing.com
@@ -59,10 +57,12 @@ bingads.trafficmanager.net
 brc-visio-telemetry.officeapps.live.com
 btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
+c-bingapis-com.dual-a-0034.a-msedge.net
 c.ar.msn.com
 c.at.msn.com
 c.be.msn.com
 c.bing.com
+c.bingapis.com
 c.br.msn.com
 c.ca.msn.com
 c.cl.msn.com
@@ -184,7 +184,6 @@ insights.cloud.microsoft
 ir-tracking.trafficmanager.net
 irreverselookuptm.trafficmanager.net
 ism-telemetry.trafficmanager.net
-jpc-visio-telemetry.officeapps.live.com
 js.cdn.applicationinsights.io
 js.monitor.azure.com
 js0.cdn.applicationinsights.io
