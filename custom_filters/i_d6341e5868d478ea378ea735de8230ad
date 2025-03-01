@@ -13,6 +13,8 @@ ads1.msn.com
 ads2.msn.com
 adsdk.microsoft.com
 adsdk.trafficmanager.net
+adsdkpreprod.afd.azureedge.net
+adsdkpreprod.azureedge.net
 adsdkprod.afd.azureedge.net
 adsdkprod.azureedge.net
 adserver.bing.com
@@ -169,7 +171,6 @@ h2.msn.com
 h6.msn.com
 hk-tracker.trafficmanager.net
 hme-live-loganalytics-namespace.servicebus.windows.net
-hubblecontent.osi.office.net
 i1.services.social.microsoft.com
 ieonline.microsoft.com
 in.appcenter.ms
