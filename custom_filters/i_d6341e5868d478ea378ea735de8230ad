@@ -18,7 +18,6 @@ adsdkpreprod.azureedge.net
 adsdkprod.afd.azureedge.net
 adsdkprod.azureedge.net
 adserver.bing.com
-adstore.response.eastus.trafficmanager.net
 adstore.response.gcp.eastus.trafficmanager.net
 adsyndication.msn.com
 advertising.jp.msn.com
@@ -219,6 +218,7 @@ outlookads.live.com
 pgtbr1-excel-telemetry-vip.officeapps.live.com
 pgtbr1-powerpoint-telemetry-vip.officeapps.live.com
 pgtbr1-word-telemetry-vip.officeapps.live.com
+pgtbr2-excel-telemetry-vip.officeapps.live.com
 pgtca1-excel-telemetry-vip.officeapps.live.com
 pgtca1-powerpoint-telemetry-vip.officeapps.live.com
 pgtca1-word-telemetry-vip.officeapps.live.com
