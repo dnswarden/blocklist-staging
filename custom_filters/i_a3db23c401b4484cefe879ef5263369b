@@ -10,6 +10,7 @@ ad.tiktokv.us
 ads-api.tiktok.com
 ads-frontier.tiktok.com
 ads-ie.tiktokw.eu
+ads-service.tiktok.com
 ads-sg.tiktok.com
 ads-ttp2.tiktokw.eu
 ads-ttp2.us.tiktok.com
@@ -24,7 +25,6 @@ analytics-exp-sg.tiktok.com
 analytics-exp.us.tiktok.com
 analytics-i18n.tiktok.com
 analytics-ie.tiktokw.eu
-analytics-ipv6.tiktokw.us
 analytics-sg.tiktok.com
 analytics-test.tiktok.com
 analytics-ttp2.tiktokw.eu
@@ -47,6 +47,7 @@ gpm-mon-va-useast1a.byteoversea.com
 gpm-mon-va-useast2a.byteoversea.com
 gpm-mon-va.byteoversea.com
 haohuo.snssdk.com
+live-video-log16-normal-alisg.tiktokv.com
 location-i18n.tiktokv.com
 location-sg.tiktokv.com
 location-ttp2.us.tiktokv.com
@@ -150,7 +151,6 @@ mon-hl.snssdk.com
 mon-i18n.tiktokv.com
 mon-phx.tiktokv.com
 mon-ru.tiktokv.com
-mon-sg.byteoversea.com
 mon-sg.tiktokv.com
 mon-useast2a.tiktokv.com
 mon-va-useast2a.byteoversea.com

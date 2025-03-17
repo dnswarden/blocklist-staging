@@ -4,6 +4,7 @@ ac3.msn.com
 activity.windows.com
 ad.msn.com
 adevents.msn.com
+ads-msn-com-profile.trafficmanager.net
 ads.bing.com
 ads.eu.msn.com
 ads.jp.msn.com
@@ -45,7 +46,9 @@ arc3.msn.com
 arc9.msn.com
 atm-settingsfe-prod-geo2.trafficmanager.net
 auc-visio-telemetry.officeapps.live.com
+az667904.vo.msecnd.net
 azsc-bingads-westus.westus.cloudapp.azure.com
+azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 azurewatson.microsoft.com
 azurewatsontest.microsoft.com
 bat.bing.com
@@ -340,6 +343,7 @@ vortex-win-sandbox.data.microsoft.com
 vortex-win.data.microsoft.com
 vortex.data.microsoft.com
 vortex.data.trafficmanager.net
+vstelemetry.trafficmanager.net
 watson.live.com
 watson.microsoft.com
 watson.officeint.microsoft.com
