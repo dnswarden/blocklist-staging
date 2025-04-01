@@ -179,7 +179,6 @@ in.appcenter.ms
 in.applicationinsights.azure.cn
 in.applicationinsights.azure.us
 inc-visio-telemetry.officeapps.live.com
-inference-app-gateway.eastus2.cloudapp.azure.com
 inference-app-gateway.koreacentral.cloudapp.azure.com
 inference-app-gateway.northeurope.cloudapp.azure.com
 inference-location-livenet.trafficmanager.net
@@ -187,7 +186,6 @@ insights.cloud.microsoft
 ir-tracking.trafficmanager.net
 irreverselookuptm.trafficmanager.net
 ism-telemetry.trafficmanager.net
-jpc-visio-telemetry.officeapps.live.com
 js.cdn.applicationinsights.io
 js.monitor.azure.com
 js0.cdn.applicationinsights.io
@@ -208,6 +206,8 @@ metric.appex-rf.msn.com
 mobileads.msn.com
 mobileleads.msn.com
 msads.net
+msadsscale.azureedge.net
+msadsscale.microsoft.com
 nexus.officeapps.live.com
 nexusrules.live.com
 nexusrules.officeapps.live.com
