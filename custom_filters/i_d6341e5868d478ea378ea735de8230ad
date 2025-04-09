@@ -58,6 +58,7 @@ bf-analytics-tracker-tm.trafficmanager.net
 bf-tracker-release-tm.trafficmanager.net
 bingads.microsoft.com
 bingads.trafficmanager.net
+bingadsedgeextension-prod.trafficmanager.net
 brc-visio-telemetry.officeapps.live.com
 btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
@@ -105,6 +106,7 @@ cac-visio-telemetry.officeapps.live.com
 cache.datamart.windows.com
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
+chc-visio-telemetry.officeapps.live.com
 citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticseh.servicebus.windows.net
 citrixanalyticseh2-alias.servicebus.windows.net
@@ -179,6 +181,7 @@ in.appcenter.ms
 in.applicationinsights.azure.cn
 in.applicationinsights.azure.us
 inc-visio-telemetry.officeapps.live.com
+inference-app-gateway.eastus2.cloudapp.azure.com
 inference-app-gateway.koreacentral.cloudapp.azure.com
 inference-app-gateway.northeurope.cloudapp.azure.com
 inference-location-livenet.trafficmanager.net
