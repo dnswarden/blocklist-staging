@@ -33,7 +33,6 @@ analytics.msnbc.msn.com
 analytics.pstnhub.microsoft.com
 analytics.trafficmanager.net
 analyticsehnwe.servicebus.windows.net
-analyticsiot-prod-simpad-ehn.servicebus.windows.net
 analyticspixel.microsoft.com
 api.edgeoffer.microsoft.com
 applicationinsights.azure.com
@@ -108,7 +107,6 @@ ceuswatcab02.blob.core.windows.net
 citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticseh.servicebus.windows.net
 citrixanalyticseh2-alias.servicebus.windows.net
-citrixanalyticseh2.servicebus.windows.net
 citrixanalyticsehaps-alias.servicebus.windows.net
 citrixanalyticsehaps.servicebus.windows.net
 citrixanalyticseheu-alias.servicebus.windows.net
