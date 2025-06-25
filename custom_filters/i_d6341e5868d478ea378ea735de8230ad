@@ -149,6 +149,7 @@ dc.applicationinsights.azure.cn
 dc.applicationinsights.azure.us
 dc.services.visualstudio.com
 dec-visio-telemetry.officeapps.live.com
+diagnostics-eudb.office.com
 diagnostics.office.com
 dmc.ads-int.microsoft.com
 dsp-ad-cache-tm.trafficmanager.net

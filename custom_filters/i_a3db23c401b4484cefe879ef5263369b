@@ -129,6 +129,7 @@ log19-applog-useast1a.tiktokv.com
 log19-applog-useast2a.tiktokv.com
 log19-applog-useast5.us.tiktokv.com
 log19-normal-alisg.tiktokv.com
+log19-normal-no1a.tiktokv.eu
 log19-normal-useast1a.tiktokv.com
 log19-normal-useast2a.tiktokv.com
 log19-normal.tiktokv.com
@@ -213,6 +214,9 @@ mssdk.us.tiktokv.com
 open.snssdk.com
 os-mon.snssdk.com
 p16-ad.byteoversea.com
+p16-tiktok-ads-sg.tiktokcdn.com
+p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
+p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
 pangolin.snssdk.com
 pc-mon-va.byteoversea.com
 pc-mon.snssdk.com
