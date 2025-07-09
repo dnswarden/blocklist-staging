@@ -33,7 +33,6 @@ advertising.microsoft.com
 agps-location-livenet.trafficmanager.net
 analytics-dev-lleap-events.servicebus.windows.net
 analytics-dev-simpad-events.servicebus.windows.net
-analytics-listener.trafficmanager.net
 analytics.live.com
 analytics.msn.com
 analytics.msnbc.msn.com
@@ -407,4 +406,5 @@ win-global-asimov-leafs-events-data.trafficmanager.net
 win10-trt.msedge.net
 word-telemetry.officeapps.live.com
 word-telemetry.wac.trafficmanager.net
+wttwebsiteprodapi-liveevents.trafficmanager.net
 zmetrics.msn.com
