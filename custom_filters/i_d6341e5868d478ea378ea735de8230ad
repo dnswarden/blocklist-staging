@@ -33,6 +33,7 @@ advertising.microsoft.com
 agps-location-livenet.trafficmanager.net
 analytics-dev-lleap-events.servicebus.windows.net
 analytics-dev-simpad-events.servicebus.windows.net
+analytics-listener.trafficmanager.net
 analytics.live.com
 analytics.msn.com
 analytics.msnbc.msn.com
