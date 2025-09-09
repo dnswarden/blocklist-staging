@@ -91,6 +91,9 @@ logservice.vmall.com
 logservice1.dbankcloud.com
 logservice1.hicloud.com
 metrics-dra.dt.dbankcloud.cn
+metrics-dra.dt.dbankcloud.com
+metrics-drcn.dt.dbankcloud.cn
+metrics-drcn.dt.dbankcloud.com
 metrics-dre.data.dbankcloud.cn
 metrics-dre.dt.dbankcloud.cn
 metrics.dt.dbankcloud.cn
