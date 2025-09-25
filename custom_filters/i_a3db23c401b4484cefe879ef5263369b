@@ -30,6 +30,7 @@ ads-frontier.tiktok.com
 ads-ie.tiktokw.eu
 ads-imapi.tiktok.com
 ads-measurement.tiktok.com
+ads-ru.tiktok.com
 ads-service.tiktok.com
 ads-sg.tiktok.com
 ads-ttp2.tiktokw.eu
@@ -45,11 +46,13 @@ ads.us.tiktok.com
 analytics-attribution-va.tiktok.com
 analytics-attribution.tiktok.com
 analytics-exp-i18n.tiktok.com
+analytics-exp-ru.tiktok.com
 analytics-exp-sg.tiktok.com
 analytics-exp.us.tiktok.com
 analytics-i18n.tiktok.com
 analytics-ie.tiktokw.eu
 analytics-ipv6.tiktokw.us
+analytics-ru.tiktok.com
 analytics-sg.tiktok.com
 analytics-test.tiktok.com
 analytics-ttp2.tiktokw.eu
@@ -59,7 +62,9 @@ analytics-v6.tiktok.com
 analytics.snssdk.com
 analytics.tiktok.com
 analytics.us.tiktok.com
+analytics16-normal-alisg.tiktok.com
 analytics16-normal-useastred.tiktokw.eu
+analytics16-normal.tiktok.com
 applog.snssdk.com
 bds.snssdk.com
 business-api.tiktok.com
