@@ -126,6 +126,7 @@ cac-visio-telemetry.officeapps.live.com
 cache.datamart.windows.com
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
+ch-asimov-leafs-events-data.trafficmanager.net
 chc-visio-telemetry.officeapps.live.com
 chem4wordtelemetry.servicebus.windows.net
 citrixanalyticseh-alias.servicebus.windows.net
@@ -321,6 +322,7 @@ ppc-word-telemetry.officeapps.live.com
 ppc-word-telemetry.wac.trafficmanager.net
 ppm-licensingtelemetry.servicebus.windows.net
 preview.msn.com
+primeevents.trafficmanager.net
 prod-eh-v1-analytics.servicebus.windows.net
 prod-eventhub-analytics.servicebus.windows.net
 production-jobactivity-analytics.servicebus.windows.net
