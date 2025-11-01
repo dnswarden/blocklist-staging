@@ -105,6 +105,7 @@ cac-visio-telemetry.officeapps.live.com
 cache.datamart.windows.com
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
+ch-asimov-leafs-events-data.trafficmanager.net
 citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticseh.servicebus.windows.net
 citrixanalyticseh2-alias.servicebus.windows.net
@@ -171,6 +172,7 @@ h.msn.com
 h4g3z1-native.winoffice.web.app
 h6.msn.com
 hk-tracker.trafficmanager.net
+hme-live-loganalytics-namespace.servicebus.windows.net
 i1.services.social.microsoft.com
 ieonline.microsoft.com
 in.appcenter.ms
@@ -197,6 +199,7 @@ js2.tst.applicationinsights.io
 k-ring-fallback.msedge.net
 k-ring.msedge.net
 legacywatson.trafficmanager.net
+live.applicationinsights.azure.cn
 ln-ring-fallback.msedge.net
 ln-ring.msedge.net
 location-microsoft-com.b-0005.b-msedge.net
