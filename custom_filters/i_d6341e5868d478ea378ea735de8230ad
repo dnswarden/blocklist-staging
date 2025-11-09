@@ -53,7 +53,6 @@ b-ring.msedge.net
 bat.bing.com
 beacons.trafficmanager.net
 beacons.xboxlive.com
-bf-analytics-tracker-tm.trafficmanager.net
 bingads.microsoft.com
 bingads.trafficmanager.net
 brc-visio-telemetry.officeapps.live.com
@@ -366,6 +365,7 @@ watson.live.com
 watson.microsoft.com
 watson.officeint.microsoft.com
 wayfinderanalytics.servicebus.windows.net
+westus-0.in.applicationinsights.azure.com.drandts.co.uk
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 win-global-asimov-leafs-events-data.trafficmanager.net
