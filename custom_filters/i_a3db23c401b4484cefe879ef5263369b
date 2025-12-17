@@ -41,6 +41,9 @@ analytics.snssdk.com
 analytics.tiktok.com
 analytics.us.tiktok.com
 analytics16-normal-alisg.tiktok.com
+analytics16-normal-no1a.tiktokw.eu
+analytics16-normal-useast5.tiktokw.us
+analytics16-normal-useast8.tiktokw.us
 analytics16-normal-useastred.tiktokw.eu
 analytics16-normal.tiktok.com
 applog.snssdk.com
@@ -359,6 +362,7 @@ xlog.snssdk.com
 xlog.tiktokv.com
 xlog16-normal-c-useast1a.tiktokv.com
 xlog16-normal-c-useast2a.tiktokv.com
+xlog16-normal-no1a.tiktokv.eu
 xlog16-normal-useast8.us.tiktokv.com
 xlog16-platform-useast5.us.tiktokv.com
 xlog16-platform-ycru.tiktokv.com
