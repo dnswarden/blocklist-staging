@@ -12,8 +12,6 @@ ads.eu.msn.com
 ads.jp.msn.com
 ads.microsoft.com
 ads.msn.com
-ads1.msn.com
-ads2.msn.com
 adsdk.microsoft.com
 adsdk.trafficmanager.net
 adsdkpreprod.afd.azureedge.net
@@ -30,7 +28,6 @@ analytics-dev-lleap-events.servicebus.windows.net
 analytics-dev-simpad-events.servicebus.windows.net
 analytics-listener.trafficmanager.net
 analytics.live.com
-analytics.msn.com
 analytics.msnbc.msn.com
 analytics.trafficmanager.net
 analyticsehnwe.servicebus.windows.net
@@ -52,6 +49,7 @@ azurewatsontest.microsoft.com
 b-ring-fallback.msedge.net
 b-ring.msedge.net
 bat.bing.com
+bat.r.msn.com
 beacons.trafficmanager.net
 beacons.xboxlive.com
 bingads.microsoft.com
@@ -287,11 +285,11 @@ ppc-powerpoint-telemetry.wac.trafficmanager.net
 ppc-word-telemetry.officeapps.live.com
 ppc-word-telemetry.wac.trafficmanager.net
 ppm-licensingtelemetry.servicebus.windows.net
+prd-qlik-telemetry.servicebus.windows.net
 preview.msn.com
 prod-eh-v1-analytics.servicebus.windows.net
 prod-eventhub-analytics.servicebus.windows.net
 production-jobactivity-analytics.servicebus.windows.net
-r.msn.com
 rad.live.com
 rad.microsoft.com
 rads.msn.com
