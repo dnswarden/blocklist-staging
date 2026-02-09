@@ -27,6 +27,7 @@ analytics-attribution.tiktok.com
 analytics-exp-i18n.tiktok.com
 analytics-exp-ru.tiktok.com
 analytics-exp-sg.tiktok.com
+analytics-exp-ttp2.tiktokw.eu
 analytics-exp.us.tiktok.com
 analytics-i18n.tiktok.com
 analytics-ie.tiktokw.eu
@@ -301,6 +302,7 @@ sgali-mcs.byteoversea.com
 sgaws-mcs.byteoversea.com
 sgee-log.byteoversea.com
 sgee-mcs.byteoversea.com
+stream.snssdk.com
 tbm.snssdk.com
 temai.snssdk.com
 tnc-boot.capcutapi.com
@@ -354,6 +356,7 @@ vaali-mcs-useast1a.byteoversea.com
 vaali-mcs-useast2a.byteoversea.com
 vaali-mcs.byteoversea.com
 vas-hl-x.snssdk.com
+vcl-brain.snssdk.com
 web-mon-useast2a.byteoversea.com
 xlog-o.byteoversea.com
 xlog-ru.tiktokv.com
