@@ -136,7 +136,7 @@ dsp-ad-cache-tm.trafficmanager.net
 dual-s-ring.msedge.net
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
-ecs.nel.measure.office.net.cn.intinfra.com
+ecs.nel.measure.office.net.cz.intinfra.com
 euc-excel-telemetry.officeapps.live.com
 euc-excel-telemetry.wac.trafficmanager.net
 euc-onenote-telemetry.officeapps.live.com
@@ -159,7 +159,8 @@ events.data.trafficmanager.net
 eventservice.trafficmanager.net
 excel-telemetry.officeapps.live.com
 excel-telemetry.wac.trafficmanager.net
-exo.nel.measure.office.net.cn.intinfra.com
+exo.nel.measure.office.net.cz.intinfra.com
+exo.nel.measure.office.net.in.intinfra.com
 exo.nel.measure.office.net.sw.buhl-data.com
 ffc-excel-telemetry.officeapps.live.com
 ffc-word-telemetry.officeapps.live.com
@@ -177,7 +178,7 @@ h6.msn.com
 hk-tracker.trafficmanager.net
 hme-live-loganalytics-namespace.servicebus.windows.net
 i1.services.social.microsoft.com
-identity.nel.measure.office.net.cn.intinfra.com
+identity.nel.measure.office.net.cz.intinfra.com
 ieonline.microsoft.com
 in.appcenter.ms
 in.applicationinsights.azure.cn
@@ -209,10 +210,11 @@ ln-ring.msedge.net
 location-microsoft-com.b-0005.b-msedge.net
 location.live.net
 location.microsoft.com
-m365cdn.nel.measure.office.net.cn.intinfra.com
+m365cdn.nel.measure.office.net.cz.intinfra.com
 measure.office.com
 measure.office.com.akamaized.net
 measure.office.net
+measure.office.net.cn.intinfra.com
 measure.office.net.edgesuite.net
 metric.appex-rf.msn.com
 mobileads.msn.com
@@ -229,7 +231,7 @@ o.xbox.com
 o365diagtelemetry.trafficmanager.net
 oca.microsoft.com
 office-events-data.trafficmanager.net
-officehub.nel.measure.office.net.cn.intinfra.com
+officehub.nel.measure.office.net.cz.intinfra.com
 oms-analytics.trafficmanager.net
 outlookads.live.com
 pgtbr1-excel-telemetry-vip.officeapps.live.com
@@ -317,7 +319,7 @@ self-events-data.trafficmanager.net
 sgtus1-excel-telemetry-vip.officeapps.live.com
 sgtus1-powerpoint-telemetry-vip.officeapps.live.com
 sgtus1-word-telemetry-vip.officeapps.live.com
-spo.nel.measure.office.net.cn.intinfra.com
+spo.nel.measure.office.net.cz.intinfra.com
 spynet2.microsoft.com
 spynetalt.microsoft.com
 srtb.msn.com
@@ -340,7 +342,7 @@ t-ring.msedge.net
 t-s1-ring.msedge.net
 tar.microsoft.com
 teams-events-data.trafficmanager.net
-teams.nel.measure.office.net.cn.intinfra.com
+teams.nel.measure.office.net.cz.intinfra.com
 teams.nel.measure.office.net.sw.buhl-data.com
 telecommandsvc.microsoft.com
 telem-edge.smartscreen.microsoft.com
@@ -378,13 +380,11 @@ watson.live.com
 watson.microsoft.com
 watson.officeint.microsoft.com
 wayfinderanalytics.servicebus.windows.net
-westus-0.in.applicationinsights.azure.com.drandts.co.uk
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 win-global-asimov-leafs-events-data.trafficmanager.net
 win10-trt.msedge.net
 word-telemetry.officeapps.live.com
 word-telemetry.wac.trafficmanager.net
-wordonline.nel.measure.office.net.cn.intinfra.com
 wttwebsiteprodapi-liveevents.trafficmanager.net
 zmetrics.msn.com

@@ -187,6 +187,7 @@ mon-hl.snssdk.com
 mon-i18n.tiktokv.com
 mon-phx.tiktokv.com
 mon-ru.tiktokv.com
+mon-ru.tiktokv.com.blinkt.de
 mon-sg.capcutapi.com
 mon-sg.tiktokv.com
 mon-useast2a.tiktokv.com
@@ -222,7 +223,9 @@ mssdk.us.tiktok.com
 mssdk.us.tiktokv.com
 open.snssdk.com
 os-mon.snssdk.com
+p16-ad-site-sign-sg.tiktokcdn.com
 p16-ad.byteoversea.com
+p19-ad-site-sign-sg.tiktokcdn.com
 pangolin.snssdk.com
 pc-mon-boot.capcutapi.com
 pc-mon-normal-sg.capcutapi.com
@@ -319,6 +322,7 @@ tnc100-alisg.tiktokv.com
 tnc100-my.tiktokv.com
 tnc100-useast1a.tiktokv.com
 tnc100-useast2a.tiktokv.com
+tnc16-alisg.byteoversea.com
 tnc16-normal-ie.tiktokv.eu
 tnc16-normal-no1a.tiktokv.eu
 tnc16-normal-us-ttp.capcutapi.us
@@ -333,6 +337,7 @@ tnc16-platform-my.tiktokv.com
 tnc16-platform-useast1a.tiktokv.com
 tnc16-platform-useast2a.tiktokv.com
 tnc16-platform-useast5.us.tiktokv.com
+tnc16-useast1a.byteoversea.com
 tnc19-normal-ie.tiktokv.eu
 tnc19-normal-no1a.tiktokv.eu
 tnc19-normal-useast5.tiktokv.us
