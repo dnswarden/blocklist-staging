@@ -163,6 +163,7 @@ maliva-mcs.byteoversea.com
 mcs-i18n.tiktok.com
 mcs-ie.tiktokw.eu
 mcs-ie2.tiktokw.eu
+mcs-ie2.tiktokw.eu.dvaitas.lt
 mcs-normal-sg.capcutapi.com
 mcs-tiktok.byteoversea.net
 mcs-ttp2.tiktokv.us
@@ -185,9 +186,9 @@ mon-boot.tiktokv.com.edgekey.net
 mon-csj-maliva-ios.byteoversea.com
 mon-hl.snssdk.com
 mon-i18n.tiktokv.com
+mon-i18n.tiktokv.com.dvaitas.lt
 mon-phx.tiktokv.com
 mon-ru.tiktokv.com
-mon-ru.tiktokv.com.blinkt.de
 mon-sg.capcutapi.com
 mon-sg.tiktokv.com
 mon-useast2a.tiktokv.com
@@ -223,9 +224,7 @@ mssdk.us.tiktok.com
 mssdk.us.tiktokv.com
 open.snssdk.com
 os-mon.snssdk.com
-p16-ad-site-sign-sg.tiktokcdn.com
 p16-ad.byteoversea.com
-p19-ad-site-sign-sg.tiktokcdn.com
 pangolin.snssdk.com
 pc-mon-boot.capcutapi.com
 pc-mon-normal-sg.capcutapi.com
