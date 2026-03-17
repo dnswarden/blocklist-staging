@@ -159,7 +159,6 @@ eventservice.trafficmanager.net
 excel-telemetry.officeapps.live.com
 excel-telemetry.wac.trafficmanager.net
 exo.nel.measure.office.net.sw.buhl-data.com
-exo.nel.measure.office.net.us.intinfra.com
 ffc-excel-telemetry.officeapps.live.com
 ffc-word-telemetry.officeapps.live.com
 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
@@ -214,6 +213,7 @@ measure.office.net.cn.intinfra.com
 measure.office.net.cz.intinfra.com
 measure.office.net.edgesuite.net
 measure.office.net.in.intinfra.com
+measure.office.net.us.intinfra.com
 metric.appex-rf.msn.com
 mobileads.msn.com
 mobileleads.msn.com
@@ -298,7 +298,6 @@ prod-eh-v1-analytics.servicebus.windows.net
 prod-eventhub-analytics.servicebus.windows.net
 production-jobactivity-analytics.servicebus.windows.net
 rad.live.com
-rad.microsoft.com
 rads.msn.com
 raka.bing.com
 rawtelemetry-east.servicebus.windows.net
@@ -311,7 +310,6 @@ s-ring-fallback.msedge.net
 s-ring.msedge.net
 sa.windows.com
 sam.msn.com
-sconsentit9.trafficmanager.net
 self-events-data.trafficmanager.net
 sgtus1-excel-telemetry-vip.officeapps.live.com
 sgtus1-powerpoint-telemetry-vip.officeapps.live.com

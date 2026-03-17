@@ -107,6 +107,7 @@
 514007132.collect.igodigital.com
 514012690.collect.igodigital.com
 520click.com
+540creative.net
 5advertise.com
 5cc9c408-c3fa-41dd-88bb-c303115bb2db.snippet.antillephone.com
 5ivy3ikkt.com
@@ -121,6 +122,7 @@
 68s8.com
 6sc.co
 6v41p4bsq.com
+734map.net
 77980.bodis.com
 79423.analytics.edgekey.net
 79xmz3lmss.com
@@ -337,6 +339,7 @@ achcdn.com
 acidpigs.com
 acint.net
 ackcdn.net
+acobt.tech
 acp-demo.adblade.com
 acp-sh.adblade.com
 acquiredeceasedundress.com
@@ -386,6 +389,13 @@ ad-display.wikawika.xyz
 ad-emea.doubleclick.net
 ad-exchange.toast.com
 ad-g.doubleclick.net
+ad-host-backup-america.oss-us-west-1.aliyuncs.com
+ad-host-backup-america.s3.us-west-1.amazonaws.com
+ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
+ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com
+ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
+ad-host-backup-europe.s3.eu-central-1.amazonaws.com
+ad-ipd.sxp.smartclip.net
 ad-log-upload-os.hoyoverse.com
 ad-log.dable.io
 ad-m.asia
@@ -540,8 +550,10 @@ ad.setn.com
 ad.sg.doubleclick.net
 ad.simgames.net
 ad.site-landing.com
+ad.smartclip.net
 ad.style
 ad.sunflower.vn
+ad.sxp.smartclip.net
 ad.tiktokv.us
 ad.trafficgate.net
 ad.turn.com
@@ -1105,6 +1117,7 @@ ads.appnext.com
 ads.appota.com
 ads.appsgeyser.com
 ads.aralego.com
+ads.as.criteo.com
 ads.as4x.tmcs.net
 ads.as4x.tmcs.ticketmaster.com
 ads.asiafriendfinder.com
@@ -1517,6 +1530,7 @@ ads.youtube.com
 ads.zalo.me
 ads.zaloapp.com
 ads.zascdn.me
+ads.zorvec.top
 ads.zunia.vn
 ads04.tapsense.com
 ads1-adnow.com
@@ -1840,6 +1854,8 @@ adunit.datawrkz.com
 adunits.datawrkz.com
 adunity.com
 adup-tech.com
+adups.cn
+adups.com
 adux.com
 adv-adserver.com
 adv-sv-show.focus.cn
@@ -1961,6 +1977,11 @@ adx-asia.aarki.net
 adx-exchange.toast.com
 adx-f.ads.heytapmobi.com
 adx-f.ads.heytapmobile.com
+adx-fk-req.mosspf.cn
+adx-fk-req.mosspf.net
+adx-fk-req.mossru.com
+adx-fk-req.mossturbo.com
+adx-fk.mosspf.net
 adx-id.ads.heytapmobi.com
 adx-id.ads.heytapmobile.com
 adx-id.ads.oppomobile.com
@@ -1976,18 +1997,33 @@ adx-os.anythinktech.com
 adx-os.bridgeoos.com
 adx-os.toponadss.com
 adx-ph.ads.heytapmobile.com
+adx-rf-request.mosspf.net
+adx-rf-request.mossru.com
+adx-rf-request.mossturbo.com
+adx-rf.mosspf.net
 adx-sg-req.bridgeoos.com
+adx-sg-req.mossfast.com
+adx-sg-req.mosspf.cn
+adx-sg-req.mosspf.com
+adx-sg-req.mossturbo.com
 adx-sg-req.toponadss.com
 adx-sg.ads.heytapmobi.com
 adx-sg.ads.heytapmobile.com
 adx-sg.anythinktech.com
 adx-sg.bridgeoos.com
 adx-sg.toponadss.com
+adx-strategy-api.hookspf.com
 adx-tc.adform.net
 adx-th.ads.heytapmobile.com
 adx-tk.mtgglobals.com
 adx-tw.ads.heytapmobile.com
+adx-vg-req.mosspf.cn
+adx-vg-req.mosspf.com
+adx-vg-req.mosspf.net
+adx-vg-req.mossru.com
+adx-vg-req.mossturbo.com
 adx-vg-req.toponadss.com
+adx-vg.mosspf.net
 adx-vg.toponadss.com
 adx-vn.ads.heytapmobile.com
 adx.aarki.net
@@ -2009,6 +2045,12 @@ adx.hoanggia.net.vn
 adx.lsosad.com
 adx.mediago.io
 adx.mediaz.asia
+adx.mossfast.com
+adx.mosspf.cn
+adx.mosspf.com
+adx.mosspf.net
+adx.mossru.com
+adx.mossturbo.com
 adx.opera.com
 adx.otm-r.com
 adx.proadscdn.com
@@ -2688,6 +2730,7 @@ ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
 ap-southeast.load.exelator.com
 ap.adadvisor.net
 ap.adflex.vn
+ap.adups.com
 ap.brand-display.com
 ap.cpatrk.net
 ap.lijit.com
@@ -2741,6 +2784,7 @@ api-log-analytics.cloud.toast.com
 api-logdev.sohatv.vn
 api-public.addthis.com
 api-rewarded-video.fyber.com
+api-sec.mossturbo.com
 api-secure.mixpanel.com
 api-staging.company-target.com
 api-staging.stack-sonar.com
@@ -2878,6 +2922,7 @@ api.localytics.com
 api.logrocket.com
 api.luckyorange.com
 api.market.pubnative.net
+api.maxesads.com
 api.mbrx.app
 api.mediaforge.com
 api.mediarithmics.com
@@ -2890,6 +2935,12 @@ api.mobula.sd.duapps.com
 api.mobula.sdk.duapps.com
 api.monedata.io
 api.moneyoyo.org
+api.mossfast.com
+api.mosspf.cn
+api.mosspf.com
+api.mosspf.net
+api.mossru.com
+api.mossturbo.com
 api.myadsget.com
 api.nas.nct.vn
 api.newsmaxfeednetwork.com
@@ -2897,6 +2948,7 @@ api.nextgen.guardianapps.co.uk
 api.omappapi.com
 api.omnitagjs.com
 api.onaudience.com
+api.onegg.site
 api.opmnstr.com
 api.optad360.com
 api.optmnstr.com
@@ -2987,6 +3039,8 @@ api.wootric.com
 api.xtremepush.com
 api.yieldlab.net
 api.yieldlove-ad-serving.net
+api.youngle.site
+api.youngle.tech
 api.zcoup.com
 api1.indexexchange.com
 api16-access-gcp.pangle-b.io
@@ -2999,6 +3053,7 @@ api16-access-ttp.tiktokpangle-b.us
 api16-access-ttp.tiktokpangle.us
 api16-access-va.pangle.io
 api16-access-wf-sg.pangle.io
+api16-dual-event-sg2.pangle.io
 api16-endcard-pack-sg.pangle.io
 api16-log-gcp.pangle.io
 api16-log-sg.pangle-b.io
@@ -3111,6 +3166,7 @@ app3.salesmanago.pl
 appadhoc.com
 appads.in
 appapi.adsafeprotected.com
+appassets.smartclip.net
 appbaqend.com
 appboy-images.com
 appboy.com
@@ -3829,6 +3885,7 @@ bid.openx.net
 bid.pubmatic.com
 bid.rklmstr.com
 bid.ssp.bance.jp
+bid.sxp.smartclip.net
 bid.truepush.com
 bid.underdog.media
 bidadx.com
@@ -4251,6 +4308,7 @@ cache.celtra.com
 cache.send.microad.jp
 cache.send.microadinc.com
 cache.specificmedia.com
+cache.sxp.smartclip.net
 cachegorilla.xml.ak-is2.net
 caclick.baidu.com
 cactusheadroomscaling.com
@@ -4584,6 +4642,7 @@ cdn.gmossp-sp.jp
 cdn.gumgum.com
 cdn.hadron.ad.gt
 cdn.hadronid.net
+cdn.hbbtv.smartclip.net
 cdn.hbplatform.com
 cdn.heapanalytics.com
 cdn.histats.com
@@ -4719,6 +4778,8 @@ cdn.simpleanalytics.io
 cdn.simpli.fi
 cdn.siteswithcontent.com
 cdn.skcrtxr.com
+cdn.smartclip-services.com
+cdn.smartclip.net
 cdn.smartnews-ads.com
 cdn.snigelweb.com
 cdn.somplo.com
@@ -4906,6 +4967,7 @@ cf.iadsdk.apple.com
 cf.im-apps.net
 cfa.2mdnsys.com
 cfg.flurry.com
+cfg.sonicsads.com
 cfjump.com
 cft.doublemax.net
 cgicounter.puretec.de
@@ -5019,6 +5081,7 @@ clc.stackoverflow.com
 clck.adskeeper.com
 clck.yandex.com
 clckysudks.com
+clean.adups.com
 clean.gg
 clearadnetwork.com
 clenchedyouthmatching.com
@@ -5139,6 +5202,7 @@ clickz.com
 clicmanager.fr
 client-analytics.braintreegateway.com
 client-events.inner-active.mobi
+client-side-metrics.as.criteo.net
 client-uat.addthiscdn.com
 client.addthiscdn.com
 client.aps.amazon-adsystem.com
@@ -5252,6 +5316,7 @@ cms.tanx.com
 cmsanalytics.admicro.vn
 cn.adxxx.com
 cn846.com
+cname-cdn.youngle.tech
 cnative.propellerclick.com
 cnn.bounceexchange.com
 cnnx.io
@@ -5715,6 +5780,7 @@ csyn.cxense.com
 csync.loopme.me
 csync.smartadserver.com
 csync.smilewanted.com
+csyxnkhvueuh.com
 ct.pinterest.com
 ct.popcash.net
 ct1.addthis.com
@@ -5901,7 +5967,14 @@ d9.flashtalking.com
 da-cdn.amazon-adsystem.com
 da.anythinktech.com
 da.bridgeoos.com
+da.hookspf.com
 da.inmobi.com
+da.mossfast.com
+da.mosspf.cn
+da.mosspf.com
+da.mosspf.net
+da.mossru.com
+da.mossturbo.com
 da.toponadss.com
 daa.pbbl.co
 dable.io
@@ -6018,6 +6091,7 @@ dcinfos-cache.abtasty.com
 dclk-match.dotomi.com
 dco-msg.mathtag.com
 dco-pix.mathtag.com
+dco.smartclip.net
 dd.scanscout.com
 dd.toponad.com
 dd1xbevqx.com
@@ -6139,6 +6213,8 @@ deostr.com
 deployads.com
 depreciatorybollocksupkitchen.com
 deqik.com
+des.smartclip.net
+des.sxp.smartclip.net
 design-prototypes.gumgum.com
 desirelibel.com
 dest.modestsunf.com
@@ -6199,6 +6275,7 @@ device-metrics-us.amazon.com
 devjira-ext.conversantmedia.com
 devlog-upload-os.hoyoverse.com
 devoteegibberishsinister.com
+devpeakomegainnovations.com
 dezf3o8j9jdt6.cloudfront.net
 df.tanx.com
 dfbanners.com
@@ -6326,6 +6403,8 @@ dmp.v.fwmrm.net
 dmpapi.bidtellect.com
 dmpsync.3lift.com
 dmpxs.com
+dmrtb.com
+dmsdk-api.dmrtb.com
 dmtgo.upc.biz
 dmtracker.com
 dmtracking.alibaba.com
@@ -6354,6 +6433,7 @@ donaldsvogel.com
 donaldvogel.com
 donate-api.recorder.duapps.com
 donate.recorder.duapps.com
+done.acobt.tech
 donglogs.com
 dooloust.net
 doorplayful.com
@@ -6728,6 +6808,7 @@ eoapxl4.eoapxl.com
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
+ephesiansavvyinto.com
 epiccash.com
 epidermispushupvariable.com
 eplus.innity.net
@@ -6744,9 +6825,11 @@ erne.co
 ero-advertising.com
 erp.novaon.asia
 erp2.novaon.asia
+erpqkcfvsjjyap.com
 err.pubexchange.com
 errlog.umeng.com
 error-tracking.reddit.com
+errors.hbbtv.smartclip.net
 ertb.hprofits.com
 es-log.vietnamplus.vn
 es.adxxx.com
@@ -6787,6 +6870,7 @@ eu-adsrv-cached.rtbsuperhub.com
 eu-adsrv.rtbsuperhub.com
 eu-am5-endpoint.rtbsuperhub.com
 eu-cdn.ad1x.com
+eu-cdn.youngle.tech
 eu-central-1b.connectad.io
 eu-dmpsync.3lift.com
 eu-eb2.3lift.com
@@ -7182,6 +7266,15 @@ forshrd.com
 forspearowor.com
 forter.com
 fortvision.com
+fota4.adups.cn
+fota5.adups.cn
+fota5.adups.com
+fota5p.adups.cn
+fota5p.adups.com
+fota5s.adups.cn
+fota5s.adups.com
+fota5t.adups.com
+fotareliance.adups.com
 fouanalytics.com
 foundinggulfsaturate.com
 fourier.alibaba.com
@@ -7344,6 +7437,8 @@ gcm.ctnsnet.com
 gd-api.ad.jiguang.cn
 gd-stats.jpush.cn
 gd.orlcloop.com
+gdl.maxesads.com
+gdl.youngle.tech
 gdn.socdm.com
 gdpr-qa.adbrix.io
 gdpr.adbrix.io
@@ -7787,6 +7882,7 @@ hb.vntsm.io
 hb.yahoo.net
 hb.yellowblue.io
 hbbtv.skyadsmart.com
+hbbtv.smartclip.net
 hbevents.1rx.io
 hbint.emxdgt.com
 hbmp.mediafuse.com
@@ -7882,6 +7978,7 @@ hitslink.com
 hittail.com
 hitwebcounter.com
 hixwwert.in
+hk-cdn.youngle.tech
 hk-match.taboola.com
 hk-pvmax.tenmax.io
 hk-sync.taboola.com
@@ -7906,6 +8003,9 @@ homepageking.de
 homespotaudience.com
 homevideo.b2c.com
 hook.oncustomer.asia
+hookspf.com
+hoover.sxp.smartclip.net
+hoovermedia.sxp.smartclip.net
 host.yadro.ru
 host1.yadro.ru
 hostedads.realitykings.com
@@ -7973,6 +8073,7 @@ hwdata2.aniview.com
 hwoqshyx.com
 hwpnocpctu.com
 hwstats.unity3d.com
+hwuhkabi.in
 hxgqqxopf.com
 hybird.rayjump.com
 hybrid.ai
@@ -8169,6 +8270,7 @@ image6.pubmatic.com
 image7.pubmatic.com
 image8.pubmatic.com
 imagecash.net
+imageproxy.as.criteo.net
 images-dl.taboola.com
 images-ppe.adsyndication.msn.com
 images.3lift.com
@@ -8537,6 +8639,7 @@ iosads4-6.adcolony.com
 iosads4-7.adcolony.com
 iosalpha.onfluencer.net
 ioslog.ssl2.duapps.com
+iotapi.adups.com
 iovation.com
 ip-info.ff.avast.com
 ip.mondiad.net
@@ -9694,6 +9797,7 @@ mavq.net
 mawlaybob.com
 mawptuaz.com
 max.i12.de
+maxesads.com
 maxgid.com
 maxonclick.com
 maxvaluead.com
@@ -10127,6 +10231,14 @@ moolahmedia.com
 moomenog.com
 moonoafy.net
 moradu.com
+mores.mosspf.net
+mores.mossturbo.com
+mossfast.com
+mosspf.cn
+mosspf.com
+mosspf.net
+mossru.com
+mossturbo.com
 motricity.com
 motrixi.com
 motu-hk.ssl2.duapps.com
@@ -10205,6 +10317,7 @@ mugs.marketo.com
 multi1-wdc.youbora.com
 multi2-wdc.youbora.com
 multilinkhost.com
+mumazfqir.in
 munchkin.marketo.net
 murkymouse.online
 mushroomreclaimschnapps.com
@@ -10263,6 +10376,7 @@ mystat.pl
 mytdsnet.com
 mythings.com
 mytop-in.net
+mzyvyjsq.com
 n.ads1-adnow.com
 n.ads2-adnow.com
 n.ads3-adnow.com
@@ -10276,6 +10390,7 @@ n.popclck.org
 n4052ad.doubleclick.net
 n4403ad.doubleclick.net
 n69.com
+na-cdn.youngle.tech
 na-dmpsync.3lift.com
 na-eb2.3lift.com
 na-ice.360yield.com
@@ -10482,6 +10597,7 @@ nppmwatch.com
 nps.juicer.cc
 npttech.com
 npv.indexexchange.com
+npv.sonicsads.com
 nr-data.net
 nr-events.taboola.com
 nr.taboola.com
@@ -10630,6 +10746,7 @@ og.alcmpn.com
 ogads-pa.clients6.google.com
 ogads-pa.googleapis.com
 oghqvffmnt.com
+ogpriuleifns.com
 ogs.ants.vn
 ohchat.net
 ohtctjiuow.com
@@ -10670,6 +10787,7 @@ onclicksuper.com
 oncustomer.asia
 one.adop.cc
 oneegrou.net
+onegg.site
 oneid.mmstat.com
 onelink.appsflyer.com
 onemboaran.com
@@ -10800,6 +10918,7 @@ origincdn.cpmstar.com
 origunix.com
 oriori.com
 orlotalers.com
+orqmimfug.in
 ortb.yieldlab.net
 ortshk.tapas.net
 orylhull.com
@@ -10991,6 +11110,7 @@ palaceunlituntouched.com
 palaroleg.guru
 paleleaf.com
 pallet.fm
+panclndhgcpktf.com
 panel.ioam.de
 panel.sociaplus.com
 pangle-b.io
@@ -11900,6 +12020,7 @@ push.tenmax.io
 push.yoads.net
 push2.yoads.net
 push4site.com
+push5.adups.com
 pushad.adsparc.com
 pushads.popcash.net
 pushadvert.bid
@@ -12315,6 +12436,7 @@ remox.com
 renderstreamshuttleanalytics.net
 renzo-aws.logrocket.io
 renzo-azure.logrocket.io
+rep.maxesads.com
 repeatsweater.com
 reporo.net
 report-1.appmetrica.webvisor.com
@@ -12471,6 +12593,7 @@ rjw4obbw.com
 rkdms.com
 rkgwzfwjgk.com
 rklmstr.com
+rl.harshlyistles.com
 rlcdn.com
 rle.ru
 rlog.9gag.com
@@ -12959,6 +13082,8 @@ scashwl.com
 scatteredheat.com
 scdn.cxense.com
 scdn.eclick.vn
+scheduler.atv.smartclip.net
+scheduler.hbbtv.smartclip.net
 schemas.adflex.vn
 schemas.ants.vn
 scientiamobile.com
@@ -13017,6 +13142,7 @@ sdk-events.inner-active.mobi
 sdk-ios.ad.smaato.net
 sdk-monitoring.ogury.co
 sdk-orion.appboy.com
+sdk-oversea.dmrtb.com
 sdk-services.appsflyer.com
 sdk.51.la
 sdk.a-mo.net
@@ -13277,6 +13403,7 @@ sf16-telemetry-proxy-oci.tiktokcdn-us.com
 sfiannzilgi.com
 sftp.criteo.com
 sfw.adsafeprotected.com
+sg-cdn.youngle.tech
 sg-config.sensic.net
 sg-gmtdmp.gd2.mookie1.com
 sg-match.taboola.com
@@ -13453,6 +13580,8 @@ smart2cnjuh34jb.com
 smart4ads.com
 smartadserver.com
 smartclick.net
+smartclip-services.com
+smartclip.com
 smartclip.net
 smartlink.adpia.vn
 smartlook.com
@@ -13546,6 +13675,7 @@ soggy-surround.com
 soidc.com
 solarcyclonesky.com
 solutions.marketo.com
+solutions2000.com
 soma-ap-southeast-1.ad.smaato.net
 soma-ap-southeast-1.smaato.net
 soma-apac.smaato.net
@@ -13565,6 +13695,7 @@ somplo.com
 son-in-lawmorbid.com
 sonar.adswizz.com
 songdew.pushengage.com
+sonicsads.com
 sonobi.com
 soperson.com
 sophi.io
@@ -13698,6 +13829,7 @@ ss.sitescout.com
 ss.yomedia.vn
 ss15.litvp.com
 ss29.litvp.com
+ssapi.mosspf.cn
 ssbsync-global.smartadserver.com
 ssbsync.smartadserver.com
 ssc-cms.33across.com
@@ -13720,6 +13852,7 @@ sslstatic.yomedia.vn
 sslwidget.criteo.com
 ssm.codes
 sso.leanplum.com
+ssp-api.dmrtb.com
 ssp-cw.lkqd.net
 ssp-prod-old-telemerty-eastus-appgwv2.inmobi.com
 ssp-prod-telemerty-eastus-appgwv2.inmobi.com
@@ -14133,6 +14266,7 @@ stats.fidelity-media.com
 stats.fifthstarlabs.io
 stats.g.doubleclick.net
 stats.hara.vn
+stats.hbbtv.smartclip.net
 stats.hc.score.dmp.zalo.me
 stats.hprofits.com
 stats.hstatic.net
@@ -14160,7 +14294,9 @@ stats.searchftps.net
 stats.self.com
 stats.shopify.com
 stats.showcasethat.com
+stats.smartclip.net
 stats.stg.zaloapp.com
+stats.sxp.smartclip.net
 stats.symptoma.com
 stats.townnews.com
 stats.truepush.com
@@ -14380,6 +14516,7 @@ sworkitads.herokuapp.com
 swpsvc.com
 swrve.com
 swuojrovqf.com
+sxp.smartclip.net
 sylxisys.com
 sympathydistinguish.com
 synacor-match.dotomi.com
@@ -14432,6 +14569,7 @@ sync.showheroes.com
 sync.smartadserver.com
 sync.smrtb.com
 sync.srv.stackadapt.com
+sync.sxp.smartclip.net
 sync.sync.viewdeos.com
 sync.taboola.com
 sync.teads.tv
@@ -14469,6 +14607,7 @@ system.adtarget.me
 system.indexexchange.com
 systemleadb.com
 systracking.admicro.vn
+sz.pyrulaupstage.qpon
 t-ads.adap.tv
 t.9gag.com
 t.adcell.com
@@ -14686,6 +14825,8 @@ tawdryson.com
 taxel.jp
 tb.baimgfroggd.site
 tblog-8sodn459.kgslb.com
+tc.mnbvcxzq.com
+tc.vbnmhjlp.com
 tcads.net
 tcheck.outbrainimg.com
 tcimp.zog.link
@@ -14734,6 +14875,7 @@ telemetry.tradingview.com
 teliad.de
 temelio.com
 tempest.services.disqus.com
+templatein13.net
 tendertest.com
 tenmax-static.cacafly.net
 tenmax.io
@@ -14824,11 +14966,30 @@ tjk-njk.com
 tjme.io
 tk-sg.anythinktech.com
 tk-sg.bridgeoos.com
+tk-sg.mossfast.com
+tk-sg.mosspf.cn
+tk-sg.mosspf.com
+tk-sg.mosspf.net
+tk-sg.mossturbo.com
 tk-sg.toponadss.com
 tk.anythinktech.com
 tk.bridgeoos.com
+tk.hookspf.com
+tk.mossfast.com
+tk.mosspf.cn
+tk.mosspf.com
+tk.mosspf.net
+tk.mossru.com
+tk.mossturbo.com
 tk.toponadss.com
 tk6if76q.ab1n.net
+tkda.hookspf.com
+tkda.mossfast.com
+tkda.mosspf.com
+tkda.mosspf.net
+tkda.mossru.com
+tkda.mossturbo.com
+tkexutqf.in
 tknet.rayjump.com
 tkovpn.marketo.com
 tkpopup.asia
@@ -14919,6 +15080,7 @@ topsite.lv
 topsites.com.br
 topstats.com
 toptrendyinc.com
+toqdizbfp.com
 torrentz.adclixx.net
 torrentz.adnetasia.com
 torrentz.adtrackers.net
@@ -14949,6 +15111,7 @@ tptracker.showheroes.com
 tr-asia.adsmoloco.com
 tr-eu.adsmoloco.com
 tr-us.adsmoloco.com
+tr.acobt.tech
 tr.ad-stir.com
 tr.adsmoloco.com
 tr.adxxx.com
@@ -15002,6 +15165,7 @@ track.appsflyer.com
 track.atdnetwork.com
 track.attributionapp.com
 track.blueserving.com
+track.bluexad.ai
 track.brealtime.com
 track.buybestday.com
 track.cbdatatracker.com
@@ -16324,6 +16488,7 @@ wlvast.aniview.com.edgekey.net
 wmcdpt.com
 wmedia.adk2x.com
 wmirk.ru
+wmllfxjjnjq.com
 wms-eu.amazon-adsystem.com
 wms-fe.amazon-adsystem.com
 wms-in.amazon-adsystem.com
@@ -16423,6 +16588,7 @@ www.5advertise.com
 www.a-ads.com
 www.a8.net
 www.accesstrade.net
+www.acobt.tech
 www.acuityplatform.com
 www.ad-brix.com
 www.ad-score.com
@@ -16512,6 +16678,7 @@ www.adthrive.com
 www.adtilt.com
 www.adtima.vn
 www.adup-tech.com
+www.adups.cn
 www.advangelists.com
 www.advertica.ae
 www.advertising.com
@@ -16657,6 +16824,7 @@ www.dfnb-ads.com
 www.displayvertising.com
 www.districtm.ca
 www.djaxadserver.com
+www.dmrtb.com
 www.dnps.com
 www.donglogs.com
 www.doubleclick.net
@@ -16828,6 +16996,7 @@ www.modoro360.com
 www.moneymakercdn.com
 www.montacarichi.it
 www.mopub.com
+www.mosspf.cn
 www.mouseflow.com
 www.mousestats.com
 www.movad.net
@@ -16955,6 +17124,9 @@ www.slimads.vn
 www.smaato.com
 www.smac-ad.com
 www.smartadserver.com
+www.smartclip-services.com
+www.smartclip.com
+www.smartclip.net
 www.smartlook.com
 www.smrtb.com
 www.snigelweb.com
@@ -17063,6 +17235,7 @@ www.yomeno.xyz
 www.youbora.com
 www.youmi.net
 www.younetmedia.com
+www.youngle.tech
 www.your-notice.com
 www.zarpop.com
 www.zenadservices.net
@@ -17280,6 +17453,7 @@ youbora.com
 youborafds01.com
 youmi.net
 younetmedia.com
+youngle.tech
 your-notice.com
 youradexchange.com
 yourwebbars.com
