@@ -174,6 +174,7 @@ h4g3z1-native.winoffice.web.app
 h6.msn.com
 hk-tracker.trafficmanager.net
 hme-live-loganalytics-namespace.servicebus.windows.net
+hme-uat-loganalytics-namespace.servicebus.windows.net
 i1.services.social.microsoft.com
 ieonline.microsoft.com
 in.appcenter.ms
@@ -332,6 +333,7 @@ t-ring-fallbacks2.msedge.net
 t-ring-fdv2.msedge.net
 t-ring-s.msedge.net
 t-ring-s2.msedge.net
+t-ring-trafficshield.msedge.net
 t-ring.msedge.net
 t-s1-ring.msedge.net
 tar.microsoft.com

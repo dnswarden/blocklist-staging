@@ -5,7 +5,7 @@
     "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_big.txt"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id1.md",
-    "totalDomains": 330046,
+    "totalDomains": 378898,
     "value": 1,
     "enabled": true
   },
@@ -15,7 +15,7 @@
     "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_nsfw.txt"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id3.md",
-    "totalDomains": 458879,
+    "totalDomains": 349120,
     "value": 3,
     "enabled": true
   },
@@ -45,7 +45,7 @@
     "url": ["https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id7.md",
-    "totalDomains": 89985,
+    "totalDomains": 91920,
     "value": 7,
     "enabled": true
   },
@@ -80,7 +80,7 @@
     "url": ["https://www.stopforumspam.com/downloads/toxic_domains_whole.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id92.md",
-    "totalDomains": 70832,
+    "totalDomains": 71002,
     "value": 92,
     "enabled": true
   },
@@ -90,7 +90,7 @@
     "url": ["https://phishing.army/download/phishing_army_blocklist.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id97.md",
-    "totalDomains": 153674,
+    "totalDomains": 155211,
     "value": 97,
     "enabled": true
   },
@@ -115,7 +115,7 @@
     "url": ["https://secure.fanboy.co.nz/fanboy-annoyance.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id99.md",
-    "totalDomains": 227,
+    "totalDomains": 226,
     "value": 99,
     "enabled": true
   },
@@ -195,7 +195,7 @@
     "url": ["https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_small.txt"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id2.md",
-    "totalDomains": 50468,
+    "totalDomains": 51351,
     "value": 2,
     "enabled": true
   },
@@ -215,7 +215,7 @@
     "url": ["https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id70.md",
-    "totalDomains": 161386,
+    "totalDomains": 160682,
     "value": 70,
     "enabled": true
   },
@@ -225,7 +225,7 @@
     "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.txt"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id112.md",
-    "totalDomains": 708422,
+    "totalDomains": 722577,
     "value": 112,
     "enabled": true
   },
@@ -245,7 +245,7 @@
     "url": ["https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id73.md",
-    "totalDomains": 80838,
+    "totalDomains": 85771,
     "value": 73,
     "enabled": true
   },
@@ -255,7 +255,7 @@
     "url": ["https://pgl.yoyo.org/as/serverlist.php?hostformat=domains&mimetype=plaintext"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id77.md",
-    "totalDomains": 3515,
+    "totalDomains": 3516,
     "value": 77,
     "enabled": true
   },
@@ -265,7 +265,7 @@
     "url": ["https://hostfiles.frogeye.fr/firstparty-trackers.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id86.md",
-    "totalDomains": 20278,
+    "totalDomains": 31472,
     "value": 86,
     "enabled": true
   },
@@ -285,7 +285,7 @@
     "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/multi.txt"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id109.md",
-    "totalDomains": 146983,
+    "totalDomains": 144180,
     "value": 109,
     "enabled": true
   },
@@ -295,7 +295,7 @@
     "url": ["https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.wildcards"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id9.md",
-    "totalDomains": 747402,
+    "totalDomains": 778153,
     "value": 9,
     "enabled": true
   },
@@ -325,7 +325,7 @@
     "url": ["https://someonewhocares.org/hosts/zero/hosts"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id12.md",
-    "totalDomains": 12385,
+    "totalDomains": 12448,
     "value": 12,
     "enabled": true
   },
@@ -335,7 +335,7 @@
     "url": ["https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener", "https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list"],
     "filterType": ["b-wild", "b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id30.md",
-    "totalDomains": 7235,
+    "totalDomains": 7241,
     "value": 30,
     "enabled": true
   },
@@ -394,7 +394,7 @@
     ],
     "filterType": ["b-wild", "b-wild", "b-wild", "b-wild", "b-wild", "b-wild", "b-wild", "b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id42.md",
-    "totalDomains": 17504,
+    "totalDomains": 17387,
     "value": 42,
     "enabled": true
   },
@@ -654,7 +654,7 @@
     "url": ["https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice.txt"],
     "filterType": ["b-wild", "b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id68.md",
-    "totalDomains": 406,
+    "totalDomains": 408,
     "value": 68,
     "enabled": true
   },
@@ -694,7 +694,7 @@
     "url": ["https://raw.githubusercontent.com/nickspaargaren/no-google/master/wildcards-domains"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id76.md",
-    "totalDomains": 1070,
+    "totalDomains": 1071,
     "value": 76,
     "enabled": true
   },
@@ -724,7 +724,7 @@
     "url": ["https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id80.md",
-    "totalDomains": 60946,
+    "totalDomains": 61115,
     "value": 80,
     "enabled": true
   },
@@ -734,7 +734,7 @@
     "url": ["https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id81.md",
-    "totalDomains": 52474,
+    "totalDomains": 58252,
     "value": 81,
     "enabled": true
   },
@@ -784,7 +784,7 @@
     "url": ["https://hostfiles.frogeye.fr/multiparty-trackers.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id87.md",
-    "totalDomains": 32285,
+    "totalDomains": 43592,
     "value": 87,
     "enabled": true
   },
@@ -794,7 +794,7 @@
     "url": ["https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/malware/domains"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id88.md",
-    "totalDomains": 254149,
+    "totalDomains": 256884,
     "value": 88,
     "enabled": true
   },
@@ -804,7 +804,7 @@
     "url": ["https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/phishing/domains"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id89.md",
-    "totalDomains": 253528,
+    "totalDomains": 257195,
     "value": 89,
     "enabled": true
   },
@@ -834,7 +834,7 @@
     "url": ["https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id95.md",
-    "totalDomains": 114353,
+    "totalDomains": 113632,
     "value": 95,
     "enabled": true
   },
@@ -884,7 +884,7 @@
     "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/light.txt"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id108.md",
-    "totalDomains": 69846,
+    "totalDomains": 66623,
     "value": 108,
     "enabled": true
   },
@@ -894,7 +894,7 @@
     "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id110.md",
-    "totalDomains": 188971,
+    "totalDomains": 187812,
     "value": 110,
     "enabled": true
   },
@@ -904,7 +904,7 @@
     "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.plus.txt"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id111.md",
-    "totalDomains": 234265,
+    "totalDomains": 237430,
     "value": 111,
     "enabled": true
   },
@@ -928,7 +928,7 @@
     "url": ["https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id114.md",
-    "totalDomains": 11569,
+    "totalDomains": 11588,
     "value": 114,
     "enabled": true
   },
@@ -948,7 +948,7 @@
     "url": ["https://hosts.flossboxin.org.in/files/hosts"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id116.md",
-    "totalDomains": 504246,
+    "totalDomains": 519250,
     "value": 116,
     "enabled": true
   },
@@ -958,7 +958,7 @@
     "url": ["https://phishing.army/download/phishing_army_blocklist_extended.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id117.md",
-    "totalDomains": 154811,
+    "totalDomains": 156350,
     "value": 117,
     "enabled": true
   },
@@ -968,7 +968,7 @@
     "url": ["https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id118.md",
-    "totalDomains": 804103,
+    "totalDomains": 811409,
     "value": 118,
     "enabled": true
   },
@@ -998,7 +998,7 @@
     "url": ["https://v.firebog.net/hosts/RPiList-Phishing.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id121.md",
-    "totalDomains": 155630,
+    "totalDomains": 157799,
     "value": 121,
     "enabled": true
   },
@@ -1008,7 +1008,7 @@
     "url": ["https://v.firebog.net/hosts/RPiList-Malware.txt"],
     "filterType": ["b-norm"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id122.md",
-    "totalDomains": 477891,
+    "totalDomains": 501549,
     "value": 122,
     "enabled": true
   },
@@ -1018,7 +1018,7 @@
     "url": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt"],
     "filterType": ["b-wild"],
     "source": "https://github.com/dnswarden/blocklist-staging/blob/main/sources/id123.md",
-    "totalDomains": 277681,
+    "totalDomains": 280581,
     "value": 123,
     "enabled": true
   },
