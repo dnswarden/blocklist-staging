@@ -1690,6 +1690,7 @@ adservice.google.com.tr
 adservice.google.com.vn
 adservice.google.de
 adservices.brandcdn.com
+adserving.optoutadvertising.com
 adserving.unibet.com
 adservme.com
 adservrs.com
@@ -4109,6 +4110,7 @@ browsecoherentunrefined.com
 browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
 browser-intake-ap1-datadoghq.com
+browser-intake-ap2-datadoghq.com
 browser-intake-datadoghq.com
 browser-intake-datadoghq.eu
 browser-intake-ddog-gov.com
@@ -4716,6 +4718,7 @@ cdn.onesignal.com
 cdn.onscroll.com
 cdn.onthe.io
 cdn.optad360.net
+cdn.optoutadvertising.com
 cdn.otm-r.com
 cdn.otnolatrnup.com
 cdn.p-n.io
@@ -5773,6 +5776,8 @@ csdsp.admanmedia.com
 cslogger.aaxads.com
 csm.cxpublic.com
 csmads.gameclick.vn
+csp-report.browser-intake-datadoghq.com
+csp-report.browser-intake-datadoghq.eu
 csp-reporting.cloudflare.com
 csp.secureserver.net
 cst.cstwpush.com
@@ -6383,6 +6388,7 @@ dm.aralego.com
 dm.djaxadserver.com
 dm.gg
 dm.toutiao.com
+dmads.dailymotion.com
 dmc1acwvwny3.cloudfront.net
 dmg.digitaltarget.ru
 dmp-log.yomedia.vn
@@ -9489,6 +9495,7 @@ logger.adthor.com
 logger.adthrive.com
 logger.applovefrom.com
 logger.cloudmobi.net
+logger.eji6.cc
 logger.keywee.co
 logger.snackly.co
 logger.unsplash.com
@@ -9513,6 +9520,7 @@ logs.ads.vungle.com
 logs.amap.com
 logs.bilsyndication.com
 logs.browser-intake-datadoghq.com
+logs.browser-intake-datadoghq.eu
 logs.convertexperiments.com
 logs.datadoghq.com
 logs.datadoghq.eu
@@ -10890,6 +10898,7 @@ optmd.com
 optmnstr.com
 optmstr.com
 optnmstr.com
+optoutadvertising.com
 optvx.com
 opus-dev.analytics.yahoo.com
 opus.analytics.yahoo.com
@@ -11871,6 +11880,7 @@ proximic.com
 proxy-skadnetwork.apple.com
 proxy.alphonso.tv
 proxy.batmobi.net
+proxy.optoutadvertising.com
 prp.adtima.vn
 prstats.postrelease.com
 prt.stsdk.vivoglobal.com
@@ -12806,6 +12816,8 @@ rum-http-intake.logs.datadoghq.com
 rum-http-intake.logs.datadoghq.eu
 rum-static.pingdom.net
 rum.browser-intake-datadoghq.com
+rum.browser-intake-datadoghq.eu
+rum.browser-intake-ddog-gov.com
 rum.condenastdigital.com
 rum.logsss.com
 rum.uptime.com
@@ -13387,6 +13399,8 @@ servsave.com
 servt.modoro360.com
 servx.playstream.media
 session-replay.browser-intake-datadoghq.com
+session-replay.browser-intake-datadoghq.eu
+session-replay.browser-intake-ddog-gov.com
 sessionm.com
 sessions.bugsnag.com
 seth.avazutracking.net
@@ -13650,6 +13664,7 @@ snnd.co
 snoobi.com
 snoopytool.outbrain.com
 snowdayonline.xyz
+snowflake.qq.com
 snowforce.sharethrough.com
 snowplow-pixel.tradingview.com
 snuff-brownsprintcountry.com
@@ -14345,6 +14360,7 @@ steepto.com
 steerensout.net
 steeringsunshine.com
 stelinnhy.in
+ster.optoutadvertising.com
 stereotypedsugar.com
 steve.districtm.ca
 stg-ads.servebom.com
@@ -16778,6 +16794,8 @@ www.brand.ad
 www.breaktime.com.tw
 www.brealtime.com
 www.bridgeoos.com
+www.browser-intake-datadoghq.eu
+www.browser-intake-ddog-gov.com
 www.bttrack.com
 www.buysellads.com
 www.cacafly.net
@@ -17036,6 +17054,7 @@ www.openx.com
 www.opmnstr.com
 www.optad360.com
 www.optmnstr.com
+www.optoutadvertising.com
 www.oriori.com
 www.otm-r.com
 www.outbrain.com
