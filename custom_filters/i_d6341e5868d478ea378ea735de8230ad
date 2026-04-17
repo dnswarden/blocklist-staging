@@ -12,6 +12,7 @@ ads.eu.msn.com
 ads.jp.msn.com
 ads.microsoft.com
 ads.msn.com
+ads1.msn.com
 adsdk.microsoft.com
 adsdk.trafficmanager.net
 adsdkpreprod.afd.azureedge.net
@@ -384,9 +385,4 @@ win10-trt.msedge.net
 word-telemetry.officeapps.live.com
 word-telemetry.wac.trafficmanager.net
 wttwebsiteprodapi-liveevents.trafficmanager.net
-www.a.ads1.msn.com
-www.a.ads2.msn.com
-www.ads1.msn.com
-www.adsinapps.microsoft.com
-www.b.ads1.msn.com
 zmetrics.msn.com
