@@ -111,6 +111,7 @@ citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticseh.servicebus.windows.net
 citrixanalyticseh2-alias.servicebus.windows.net
 citrixanalyticseh2.servicebus.windows.net
+citrixanalyticseh3-alias.servicebus.windows.net
 citrixanalyticsehaps-alias.servicebus.windows.net
 citrixanalyticsehaps.servicebus.windows.net
 citrixanalyticseheu-alias.servicebus.windows.net
@@ -160,7 +161,6 @@ events.data.trafficmanager.net
 eventservice.trafficmanager.net
 excel-telemetry.officeapps.live.com
 excel-telemetry.wac.trafficmanager.net
-exo.nel.measure.office.net.sw.buhl-data.com
 ffc-excel-telemetry.officeapps.live.com
 ffc-word-telemetry.officeapps.live.com
 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
@@ -212,11 +212,7 @@ location.microsoft.com
 measure.office.com
 measure.office.com.akamaized.net
 measure.office.net
-measure.office.net.cn.intinfra.com
-measure.office.net.cz.intinfra.com
 measure.office.net.edgesuite.net
-measure.office.net.in.intinfra.com
-measure.office.net.us.intinfra.com
 metric.appex-rf.msn.com
 mobileads.msn.com
 mobileleads.msn.com
@@ -341,7 +337,6 @@ t-ring.msedge.net
 t-s1-ring.msedge.net
 tar.microsoft.com
 teams-events-data.trafficmanager.net
-teams.nel.measure.office.net.sw.buhl-data.com
 telecommandsvc.microsoft.com
 telem-edge.smartscreen.microsoft.com
 telemetry-lcp.trafficmanager.net
