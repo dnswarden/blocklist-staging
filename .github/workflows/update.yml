@@ -37,7 +37,7 @@ jobs:
           message: "auto-update [skip ci]"
 
       - name: Repository Dispatch
-        uses: peter-evans/repository-dispatch@v3.0.0
+        uses: peter-evans/repository-dispatch@v4.0.1
         with:
           token: ${{ secrets.PAT }}
           repository: ${{ secrets.REPO_NAME }}
