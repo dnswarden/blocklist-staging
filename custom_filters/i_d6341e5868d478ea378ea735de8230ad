@@ -139,6 +139,7 @@ dsp-ad-cache-tm.trafficmanager.net
 dual-s-ring.msedge.net
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
+ehtelemetrystaging-alias.servicebus.windows.net
 euc-excel-telemetry.officeapps.live.com
 euc-excel-telemetry.wac.trafficmanager.net
 euc-onenote-telemetry.officeapps.live.com
@@ -343,6 +344,7 @@ telemetry-lcp.trafficmanager.net
 telemetry.eastus.trafficmanager.net
 telemetry.microsoft.com
 telemetry.microsoft.us
+telemetry.officeapps.live.com
 telemetry.urs.microsoft.com
 telemetry.visualstudio.microsoft.com
 telemetrycollector.microsoft.com
