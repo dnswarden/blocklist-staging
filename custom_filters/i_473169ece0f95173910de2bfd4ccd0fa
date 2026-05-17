@@ -3,6 +3,7 @@
 0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
 ads-drcn.platform.hihonorcloud.com
 ads-drru.cloud.huawei.ru
+ads-drru.platform.hihonorcloud.com
 ads.cloud.huawei.com
 adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn
 adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
@@ -123,5 +124,7 @@ nsp-logservice-weardevice-p51-drcn.obs.cn-north-2.myhuaweicloud.com
 openlocation-drcn-platform-dbankcloud-com-drcn.appacc.dbankedge.cn
 openlocation-drcn.platform.dbankcloud.com
 rnd-cbgpas01.huawei.com
+tracking-data-drru.platform.hihonorcloud.com
+tracking-data.platform.hihonorcloud.com
 uba.huaweicloud.com
 ubacollect-drcn.cloud.dbankcloud.cn
