@@ -1,12 +1,10 @@
 a-ring-fallback.msedge.net
-a-ring-ipv6only.msedge.net
 a-ring.msedge.net
 a4.bing.com
 ac2.msn.com
 activity.windows.com
 ad.msn.com
 adevents.msn.com
-ads-msn-com-profile.trafficmanager.net
 ads.bing.com
 ads.eu.msn.com
 ads.jp.msn.com
@@ -23,7 +21,6 @@ adserver.bing.com
 adstore.response.gcp.eastus.trafficmanager.net
 advertising.jp.msn.com
 advertising.microsoft.com
-aec-visio-telemetry.officeapps.live.com
 agps-location-livenet.trafficmanager.net
 analytics-dev-lleap-events.servicebus.windows.net
 analytics-dev-simpad-events.servicebus.windows.net
@@ -32,7 +29,6 @@ analytics.live.com
 analytics.msnbc.msn.com
 analytics.trafficmanager.net
 analyticsehnwe.servicebus.windows.net
-analyticsiot-prod-simpad-ehn.servicebus.windows.net
 analyticspixel.microsoft.com
 api.applicationinsights.azure.cn
 api.edgeoffer.microsoft.com
@@ -56,10 +52,7 @@ bat.r.msn.com
 beacons.trafficmanager.net
 beacons.xboxlive.com
 bingads.microsoft.com
-bingads.trafficmanager.net
 brc-visio-telemetry.officeapps.live.com
-btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
-btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 c-bingapis-com.dual-a-0034.a-msedge.net
 c-ring-fallback.msedge.net
 c-ring.msedge.net
@@ -106,11 +99,9 @@ cac-visio-telemetry.officeapps.live.com
 cache.datamart.windows.com
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
-ch-asimov-leafs-events-data.trafficmanager.net
 citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticseh.servicebus.windows.net
 citrixanalyticseh2-alias.servicebus.windows.net
-citrixanalyticseh2.servicebus.windows.net
 citrixanalyticseh3-alias.servicebus.windows.net
 citrixanalyticsehaps-alias.servicebus.windows.net
 citrixanalyticsehaps.servicebus.windows.net
@@ -153,7 +144,6 @@ eurppc-excel-telemetry.officeapps.live.com
 eurppc-powerpoint-telemetry.officeapps.live.com
 eurppc-word-telemetry.officeapps.live.com
 events-sandbox.data.microsoft.com
-events-sandbox.data.msn.cn
 events-sandbox.data.msn.com
 events.data.microsoft.com
 events.data.msn.cn
@@ -178,7 +168,6 @@ h2.msn.com
 h4g3z1-native.winoffice.web.app
 h6.msn.com
 hk-tracker.trafficmanager.net
-hme-live-loganalytics-namespace.servicebus.windows.net
 hme-uat-loganalytics-namespace.servicebus.windows.net
 i1.services.social.microsoft.com
 ieonline.microsoft.com
@@ -206,7 +195,7 @@ js2.tst.applicationinsights.io
 k-ring-fallback.msedge.net
 k-ring.msedge.net
 legacywatson.trafficmanager.net
-live.applicationinsights.azure.cn
+licensingtelemetry-prod.servicebus.windows.net
 ln-ring-fallback.msedge.net
 ln-ring.msedge.net
 location-microsoft-com.b-0005.b-msedge.net
@@ -294,7 +283,6 @@ ppc-powerpoint-telemetry.wac.trafficmanager.net
 ppc-word-telemetry.officeapps.live.com
 ppc-word-telemetry.wac.trafficmanager.net
 ppm-licensingtelemetry.servicebus.windows.net
-prd-qlik-telemetry.servicebus.windows.net
 preview.msn.com
 prod-eh-v1-analytics.servicebus.windows.net
 prod-eventhub-analytics.servicebus.windows.net
@@ -383,5 +371,4 @@ win-global-asimov-leafs-events-data.trafficmanager.net
 win10-trt.msedge.net
 word-telemetry.officeapps.live.com
 word-telemetry.wac.trafficmanager.net
-wttwebsiteprodapi-liveevents.trafficmanager.net
 zmetrics.msn.com
