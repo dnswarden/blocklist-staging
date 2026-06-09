@@ -43,6 +43,8 @@ arc5.msn.com
 arc9.msn.com
 auc-visio-telemetry.officeapps.live.com
 az667904.vo.msecnd.net
+azure.bcp.bingads.trafficmanager.net
+azure.tip.bingads.trafficmanager.net
 azurewatson.microsoft.com
 azurewatsontest.microsoft.com
 b-ring-fallback.msedge.net
@@ -52,7 +54,6 @@ bat.r.msn.com
 beacons.trafficmanager.net
 beacons.xboxlive.com
 bingads.microsoft.com
-bingads.trafficmanager.net
 brc-visio-telemetry.officeapps.live.com
 c-bingapis-com.dual-a-0034.a-msedge.net
 c-ring-fallback.msedge.net
@@ -105,6 +106,7 @@ citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticseh.servicebus.windows.net
 citrixanalyticseh2-alias.servicebus.windows.net
 citrixanalyticseh3-alias.servicebus.windows.net
+citrixanalyticseh3.servicebus.windows.net
 citrixanalyticsehaps-alias.servicebus.windows.net
 citrixanalyticsehaps.servicebus.windows.net
 citrixanalyticseheu-alias.servicebus.windows.net
@@ -292,6 +294,7 @@ ppm-licensingtelemetry.servicebus.windows.net
 preview.msn.com
 prod-eh-v1-analytics.servicebus.windows.net
 prod-eventhub-analytics.servicebus.windows.net
+prod.editor.ads.trafficmanager.net
 production-jobactivity-analytics.servicebus.windows.net
 rad.live.com
 rad.microsoft.com
@@ -360,6 +363,7 @@ udc.msn.com
 ukc-onenote-telemetry.officeapps.live.com
 ukc-visio-telemetry.officeapps.live.com
 upload.fp.measure.office.com.corp.mmco.int.cardano.com
+us-mesh-events-data-leafs.trafficmanager.net
 usc-onenote-telemetry.officeapps.live.com
 usc-visio-telemetry.officeapps.live.com
 utm.sankei.jp.msn.com
@@ -374,6 +378,7 @@ watson.live.com
 watson.microsoft.com
 watson.officeint.microsoft.com
 wayfinderanalytics.servicebus.windows.net
+we-events-prod-1.trafficmanager.net
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 win-global-asimov-leafs-events-data.trafficmanager.net
