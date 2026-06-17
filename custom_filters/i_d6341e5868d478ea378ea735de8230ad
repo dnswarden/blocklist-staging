@@ -5,6 +5,7 @@ ac2.msn.com
 activity.windows.com
 ad.msn.com
 adevents.msn.com
+ads-msn-com-profile.trafficmanager.net
 ads.bing.com
 ads.eu.msn.com
 ads.jp.msn.com
@@ -43,8 +44,6 @@ arc5.msn.com
 arc9.msn.com
 auc-visio-telemetry.officeapps.live.com
 az667904.vo.msecnd.net
-azure.bcp.bingads.trafficmanager.net
-azure.tip.bingads.trafficmanager.net
 azurewatson.microsoft.com
 azurewatsontest.microsoft.com
 b-ring-fallback.msedge.net
@@ -54,6 +53,7 @@ bat.r.msn.com
 beacons.trafficmanager.net
 beacons.xboxlive.com
 bingads.microsoft.com
+bingads.trafficmanager.net
 brc-visio-telemetry.officeapps.live.com
 c-bingapis-com.dual-a-0034.a-msedge.net
 c-ring-fallback.msedge.net
@@ -117,11 +117,11 @@ citrixtelemetryeheu-alias.servicebus.windows.net
 citrixtelemetryeheu.servicebus.windows.net
 cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 clarity.microsoft.com
+collection-location-livenet.trafficmanager.net
 collector-main.trafficmanager.net
 collector.azure.cn
 collector.azure.eaglex.ic.gov
 collector.azure.microsoft.cloud
-collector.azure.microsoft.scloud
 commerce.bing.com
 confiant.msn.com
 dc.applicationinsights.azure.cn
@@ -144,6 +144,7 @@ euc-visio-telemetry.officeapps.live.com
 euc-word-telemetry.officeapps.live.com
 euc-word-telemetry.wac.trafficmanager.net
 eurffc-word-telemetry.officeapps.live.com
+eurffc-word-telemetry.wac.trafficmanager.net
 eurppc-excel-telemetry.officeapps.live.com
 eurppc-powerpoint-telemetry.officeapps.live.com
 eurppc-word-telemetry.officeapps.live.com
@@ -160,6 +161,7 @@ exo.nel.measure.office.net.cardano.com
 ffc-excel-telemetry.officeapps.live.com
 ffc-word-telemetry.officeapps.live.com
 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
+fgteu1-word-telemetry-vip.officeapps.live.com
 flex.msn.com
 fp.msedge.net
 frc-visio-telemetry.officeapps.live.com
@@ -362,7 +364,6 @@ tracker.flightview.com.trafficmanager.net
 udc.msn.com
 ukc-onenote-telemetry.officeapps.live.com
 ukc-visio-telemetry.officeapps.live.com
-upload.fp.measure.office.com.corp.mmco.int.cardano.com
 us-mesh-events-data-leafs.trafficmanager.net
 usc-onenote-telemetry.officeapps.live.com
 usc-visio-telemetry.officeapps.live.com
@@ -378,7 +379,6 @@ watson.live.com
 watson.microsoft.com
 watson.officeint.microsoft.com
 wayfinderanalytics.servicebus.windows.net
-we-events-prod-1.trafficmanager.net
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 win-global-asimov-leafs-events-data.trafficmanager.net
